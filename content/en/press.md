@@ -50,6 +50,13 @@ url = "https://www.deutsche-glasfaser.de/blog/plan4better-erreichbarkeit-macht-m
 date = "15. November 2021"
 
 [[blocks.news]]
+heading = "Start-up Plan4Better entwickelt Stadtplanungstool für Rad- und Gehwege"
+thumbnail = "/images/presse/freiraum_screenshot.webp"
+source = "Freiraum Gestalter"
+url = "https://www.freiraumgestalter.net/Start-up-Plan4Better-entwickelt-Stadtplanungstool-fuer-Rad-und-Gehwege,QUlEPTcwMDY0NTkmTUlEPTE2MzYyNw.html"
+date = "10. November 2021"
+
+[[blocks.news]]
 heading = "Shorter distances for a 15-minute city"
 thumbnail = "/images/presse/tum.webp"
 source = "Technical University of Munich"
