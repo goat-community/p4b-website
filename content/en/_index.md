@@ -6,11 +6,11 @@ header:
   video_bg: "/images/index/video.png"
   video: "/video/technical-demo.mp4"
 plan_section:
-  title: "Mit uns können Sie planen."
-  description: "Durch die Fusion von Stadt- und Verkehrsplanung ermöglichen wir die Entwicklung lebenswerter Räume und nachhaltiger Mobilität."
+  title: "You can plan with us."
+  description: "By merging urban and traffic planning, we enable the development of livable spaces and sustainable mobility."
   button:
     url: "#"
-    label: "Lösungen entdecken"
+    label: "Discover Solutions"
   img: "/images/index/mockup_bridge.png"
 brand_slider:
   slider_img:
@@ -21,96 +21,96 @@ brand_slider:
   - img: "/images/index/mobilitatsreferat.png"
   - img: "/images/index/werk1.png"
 planing_section:
-  title: "Die Stadt von morgen schon heute planen."
+  title: "Planning the city of tomorrow today."
   planing_items:
   - icon: "/images/index/icon1.png"
-    title: "Faktenbasierte Erreichbarkeitsanalyse"
-    decription: "Mithilfe von zahlreichen Erreichbarkeitsindikatoren, wie Isochronen und Heatmaps, können Sie mit GOAT, nutzerfreundlich und schnell, den Ist-Zustand analysieren und anhand von Szenarien passende Maßnahmen entwickeln."
+    title: "Fact-based accessibility analysis"
+    text: "With the help of numerous accessibility indicators, such as isochrones and heat maps, you can use GOAT to quickly and user-friendly analyze the current status and develop suitable measures based on scenarios."
   - icon: "/images/index/icon2.png"
-    title: "Untersuchung infrastruktureller Veränderungen"
-    description: "GOAT ermöglicht Ihnen eine Vielzahl an Modellierungen von neuen Wegeverbindungen, Points-of-Interests oder Gebäuden vorzunehmen. Somit können Sie die besten Standort für neue Infrastruktur ermitteln."
+    title: "Investigation of infrastructural changes"
+    text: "GOAT allows you to model a variety of new path connections, points of interest or buildings. This allows you to determine the best location for new infrastructure."
   - icon: "/images/index/icon3.png"
-    title: "Aufbereitung komplexer Daten"
-    decription: "In GOAT lassen sich vielfältige räumliche Daten, wie Gebäude, Bevölkerungsdichten, Flächennutzung und Wegenetze visualisieren. Außerdem können Umwelt- und Emissionsdaten eingeblendet werden."
+    title: "Processing of complex data"
+    text: "In GOAT, a wide range of spatial data such as buildings, population densities, land use and road networks can be visualized. In addition, environmental and emission data can be displayed."
   - icon: "/images/index/icon4.png"
-    title: "Individuelle Beratungen zu Mobilitätskonzepten"
-    decription: "Wir unterstützen Sie bei der bestmöglichen Umsetzung Ihres Vorhabens durch​ Workshops und Schulungen​, Implementierung von individuellen Funktionen (z.B. Barrierefreiheits-Check, Schulweg-Check)​ und Beratungsleistungen."
+    title: "Individual advice on mobility concepts"
+    text: "We support you in the best possible implementation of your project through workshops and training courses, implementation of individual functions (e.g. accessibility check, school route check) and consulting services."
 action_section:
-  title: "Die Stadt von morgen schon heute planen."
+  title: "Planning the city of tomorrow today."
   slider_item:
   - img: "/images/index/szenario-brocke.png"
-    title: "Szenario Brücke"
-    sub_title: "Interaktive Veränderung des Netzwerks"
+    title: "scenario bridge"
+    sub_title: "Interactive change of the network"
     button:
       url: "#"
-      label: "Mehr erfahren"  
+      label: "Learn more"  
   - img: "/images/index/szenario-brocke.png"
-    title: "Szenario Brücke"
-    sub_title: "Interaktive Veränderung des Netzwerks"
+    title: "scenario bridge"
+    sub_title: "Interactive change of the network"
     button:
       url: "#"
-      label: "Mehr erfahren"  
+      label: "Learn more"  
   - img: "/images/index/szenario-brocke.png"
-    title: "Szenario Brücke"
-    sub_title: "Interaktive Veränderung des Netzwerks"
+    title: "scenario bridge"
+    sub_title: "Interactive change of the network"
     button:
       url: "#"
-      label: "Mehr erfahren"  
+      label: "Learn more"  
   - img: "/images/index/szenario-brocke.png"
-    title: "Szenario Brücke"
-    sub_title: "Interaktive Veränderung des Netzwerks"
+    title: "scenario bridge"
+    sub_title: "Interactive change of the network"
     button:
       url: "#"
-      label: "Mehr erfahren"  
+      label: "Learn more"  
   - img: "/images/index/szenario-brocke.png"
-    title: "Szenario Brücke"
-    sub_title: "Interaktive Veränderung des Netzwerks"
+    title: "scenario bridge"
+    sub_title: "Interactive change of the network"
     button:
       url: "#"
-      label: "Mehr erfahren"  
+      label: "Learn more"  
   action_list_item:
-  - title: "Sofortige Inbetriebnahme"
+  - title: "Immediate start-up"
     icon: "/images/index/timer-thin.png"
-  - title: "Intuitive Benutzerober-fläche"
+  - title: "Intuitive user interface"
     icon: "/images/index/user-check.png"
-  - title: "Integrierte Stadt- und Verkehrsplanung"
+  - title: "Integrated urban and traffic planning"
     icon: "/images/index/Stadt-Verkehr.png"
-  - title: "Gesteigerte Inhouse-Kompetenzen"
+  - title: "Increased in-house competencies"
     icon: "/images/index/Gesteigerte-Inhouse-Kompetenzen.png"
-  - title: "Bessere Investments"
+  - title: "Better investments"
     icon: "/images/index/Bessere-Investments.png"
 smart_tools_section:
-  title: "Smarte Tools für die smarte und nachhaltige City."
+  title: "Smart tools for the smart and sustainable city."
   action_items:
   - name: "GOAT"
     img: "/images/index/Product-GOAT.png"
-    title: "Sie wollen eigene Planungen durchführen?"
-    description: "GOAT ist unsere cloud-basierte Planungssoftware, die Sie mit interaktiven Erreichbarkeitsanalysen und Szenario-Entwicklungen bei der Förderung der nachhaltigen Mobilität unterstützt."
+    title: "Do you want to carry out your own planning?"
+    description: "GOAT is our cloud-based planning software that supports you in promoting sustainable mobility with interactive accessibility analyzes and scenario developments."
     button:
       url: "#"
-      label: "Kontaktieren Sie uns"
-  - name: "Beratung"
+      label: "Contact us"
+  - name: "advisory"
     img: "/images/index/Product-Beratung.png"
-    title: "Sie suchen professionelle Beratung?"
-    description: "Unser diverses Team unterschiedlicher Fachrichtungen berät Sie gerne zu innovativen Mobilitätskonzepten und individuellen Problemlösungen."
+    title: "Are you looking for professional advice?"
+    description: "Our diverse team from different disciplines will be happy to advise you on innovative mobility concepts and individual problem solutions."
     button:
       url: "#"
-      label: "Kontaktieren Sie uns"
+      label: "Contact us"
   - name: "WEB-GIS"
     img: "/images/index/Product-Web-GIS.png"
-    title: "Sie interessieren sich für weitere GIS-Tools?"
-    description: "Wir bieten Software-Lösungen an, mit denen Sie personalisierte Kartendienste, beispielsweise als Informationswerkzeug für Bürger:innen oder Leser:innen, erstellen können."
+    title: "Are you interested in other GIS tools?"
+    description: "We offer software solutions that you can use to create personalized map services, for example as an information tool for citizens or readers."
     button:
       url: "#"
-      label: "Kontaktieren Sie uns"
+      label: "Contact us"
 contact_section:
-  title: "Ihr Interesse ist geweckt?"
+  title: "Are you interested?"
   button:
     url: "#"
-    label: "Kontaktieren Sie uns."
+    label: "Contact us."
 development_goals_section:
   heading: Sustainable Development Goals
-  text: Mit unserem Planungsinstrument GOAT addressieren wir die folgenden SDGs.
+  text: With our planning tool GOAT we address the following SDGs.
   items:
   - logo: "/images/index/SDG3.webp"
     url: "/mission"
@@ -123,8 +123,7 @@ development_goals_section:
   - logo: "/images/index/SDG13.webp"
     url: "/mission"
 award_section:
-  heading: Auszeichnungen
-  text: Mit unserem Planungsinstrument GOAT addressieren wir die folgenden SDGs.
+  heading: awards
   items:
   - logo: "/images/top-50-startups-2021-siegel.png"
     url: https://www.top50startups.de/start-ups/ranking/2021
@@ -148,11 +147,11 @@ partner_section:
   - "/images/index/logo_xpreneurs.webp"
   - "/images/index/GST_RGB.webp"
 funded_section:
-  heading: Gefördert durch
-  text: Die Entwicklung von GOAT wird durch das BMDV von November 2021 bis Oktober 2024 im Rahmen der mFUND-Initiative (Förderlinie 2) gefördert.
+  heading: Funded by
+  text: The development of GOAT is funded by the BMDV from November 2021 to October 2024 as part of the mFUND initiative (funding line 2).
   items:
   - logo: "/images/index/logo-mfund.webp"
   - logo: "/images/index/BMDV_Logo.webp"
-    text: 'Gefördert durch:'
-    text2: aufgrund eines Beschlusses des Deutschen Bundestages
+    text: 'Funded by:'
+    text2: due to a resolution of the German Bundestag
 ---
