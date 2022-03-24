@@ -1,0 +1,216 @@
+{{ define "main" }}
+{{ with .Params.plan_section }}
+<section class="mit-uns-scn">
+  <div class="uk-container">
+    <div class="mit-uns-inner">
+      <div class="mit-uns-left" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+        <h2>{{ .title }}</h2>
+        <p>{{ .description }}</p>
+        {{ with .button }}
+        <a href="{{ .url }}" class="le-btn">{{ .label }}</a>
+        {{ end }}
+      </div>
+      <div class="mit-uns-right" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+        <img src="{{ .img }}" alt="{{ .title }}">
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ with .Params.brand_slider }}
+<section class="brands-scn" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+  <div class="uk-container">
+    <div class="brandslider">
+      {{ range .slider_img }}
+      <div class="b-item">
+        <div class="b-item-inner">
+        <img src="{{ .img }}" alt="">
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ with .Params.planing_section }}
+<section class="planing-scn">
+  <div class="uk-container">
+    <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{ .title }}</h2>
+    <div class="planing-inner">
+      {{ range .planing_items }}
+      <div class="planing-item" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+      <div class="planing-icon">
+        <img src="{{ .icon }}" alt="{{.title}}">
+      </div>
+      <div class="planing-cont">
+        <h4>{{ .title }}</h4>
+        <p>{{ .description }}</p>
+      </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ with .Params.action_section }}
+<section class="discover-scn">
+  <div class="discover-scn">
+    <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">Entdecken Sie GOAT in Action</h2>
+    <div class="discover-list discover-slider">
+      {{ range .slider_item }}
+      <div class="discover-item">
+        <div class="discover-item-inner" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+        <img src="{{ .img }}" alt="discover" />
+        <div class="discover-cont">
+          <div class="discover-txt">
+            <h5>{{.title}}</h5>
+            <p>{{.sub_title}}</p>
+          </div>
+          {{ with .button }}
+          <div class="btn learnmore-btn"><a href="{{.url | absURL }}">{{.label}}</a></div>
+          {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  <div class="uk-container">
+    <div class="discover-icons">
+      {{ range .action_list_item }}
+      <div class="discover-icon-item" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+        <div class="d-item-inner">
+          <div class="d-icon">
+          <img src="{{ .icon }}" alt="{{.title}}" />
+          </div>
+          <span class="d-item-txt">{{ .title }}</span>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ with .Params.smart_tools_section }}
+<section class="smart-tools-scn">
+  <div class="uk-container">
+    <h2 class="uk-h1">{{ .title }}</h2>
+    <div class="smart-tools-list">
+      {{ range .action_items }}
+      <div class="smart-tools-item">
+        <div class="smart-tools-inner">
+          <div class="smart-tools-img" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+            <img src="/images/index/Product-GOAT.png" alt="GOAT">
+            <span class="smart-tools-title">{{ .name }}</span>
+          </div>
+          <div class="smart-tools-cont" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+            <h4>{{.title}}</h4>
+            <p>{{.description}}</p>
+            {{ with .button }}
+            <a href="{{.url | absURL }}" class="cnt-btn">{{ .label }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ with .Params.contact_section }}
+<section class="interested-scn">
+  <div class="uk-contaner">
+    <div data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+    {{.title}} <a href="{{.button.url | relURL }}">{{.button.label}}</a>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<section class="news-scn">
+  <div class="uk-container">
+    <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">Neuigkeiten</h2>
+    <div class="news-list" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+      <div class="uk-column-1-2">
+        <div class="twitter-feed">
+          <a class="twitter-timeline" href="https://twitter.com/plan4better?ref_src=twsrc%5Etfw">Tweets by plan4better</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ with .Params.development_goals_section}}
+<section class="uk-section-large uk-section-">
+   <div class="uk-container uk-container-small uk-text-center">
+      <div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+         <div class=uk-width-3-4@m>
+            <h2 class="uk-h1 uk-margin-remove">{{ .heading }}</h2>
+            <div class="uk-text-lead uk-margin-top">{{.text}}</div>
+         </div>
+      </div>
+      <div class="uk-child-width-1-3 uk-child-width-1-5@m uk-flex uk-flex-center uk-flex-middle uk-grid-large uk-margin-large-top" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200">
+        {{ range .items }}
+         <div class=uk-text-center><a href="{{.url | relURL}}"><img src={{.logo}} alt=Logo></a></div>
+         {{ end }}
+      </div>
+   </div>
+</section>
+{{ end }}
+{{ with .Params.award_section}}
+<section class="uk-section-large uk-section- uk-padding-remove-top">
+   <div class="uk-container uk-container-small uk-text-center">
+      <div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+         <div class=uk-width-3-4@m>
+            <h2 class="uk-h1 uk-margin-remove">{{ .heading}}</h2>
+         </div>
+      </div>
+      <div class="uk-child-width-1-3 uk-child-width-1-5@m uk-flex uk-flex-center uk-flex-middle uk-grid-large uk-margin-large-top" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200">
+        {{ range .items }}
+         <div class=uk-text-center><a href="{{.url | absURL}}" target=_blank><img src={{.logo}} alt=Logo></a></div>
+        {{ end }}
+      </div>
+   </div>
+</section>
+{{ end }}
+{{ with .Params.partner_section }}
+<section class="uk-section-large uk-section-default uk-padding-remove-top">
+   <div class="uk-container uk-container-small uk-text-center">
+      <div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+         <div class=uk-width-3-4@m>
+            <h2 class="uk-h1 uk-margin-remove">{{ .heading }}</h2>
+         </div>
+      </div>
+      <div class="uk-child-width-1-3 uk-child-width-1-5@m uk-flex uk-flex-center uk-flex-middle uk-grid-large uk-margin-large-top" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200">
+        {{ range .logos }}
+         <div class=uk-text-center><img src={{.}} alt=Logo></div>
+        {{ end }}
+      </div>
+   </div>
+</section>
+{{ end }}
+{{ with .Params.funded_section }}
+<section class="uk-section-large uk-section-default uk-padding-remove-top">
+   <div class="uk-container uk-container-small uk-text-center">
+      <div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+         <div class=uk-width-3-4@m>
+            <h2 class="uk-h1 uk-margin-remove">{{ .heading }}</h2>
+            <div class="uk-text-lead uk-margin-top">{{.text}}</div>
+         </div>
+      </div>
+      <div class="uk-child-width-1-3 uk-child-width-1-5@m uk-flex uk-flex-center uk-flex-middle uk-grid-large uk-margin-large-top" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200">
+        {{ range .items }}
+         <div class=uk-text-center>
+          {{ with .text }}
+            <div class="uk-text-xsmall uk-margin-small-bottom">{{.}}</div>
+          {{ end }}
+            <img src={{.logo}} alt=Logo>
+          {{ with .text }}
+            <div class="uk-text-xsmall uk-margin-small-top">{{.}}</div>
+          {{ end }}
+         </div>
+         {{ end }}
+      </div>
+   </div>
+</section>
+{{ end }}
+{{ end }}
