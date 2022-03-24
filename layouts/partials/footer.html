@@ -64,3 +64,58 @@
     
   </div>
 </footer>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="/js/slick.js"></script>
+<script type="text/javascript">
+  $('.brandslider').slick({
+     infinite: true,
+slidesToShow: 5,
+slidesToScroll: 1,
+
+autoplay: true,
+autoplaySpeed: 3000,
+responsive: [
+{
+breakpoint: 1024,
+settings: {
+  slidesToShow: 4,
+  slidesToScroll: 1,
+}
+},
+{
+breakpoint: 600,
+settings: {
+  slidesToShow: 2,
+  slidesToScroll:1
+}
+}
+]
+});
+
+$('.discover-slider').slick({
+centerMode: true,
+centerPadding: '220px',
+slidesToShow: 1,
+slidesToScroll: 1,
+autoplay: true,
+autoplaySpeed: 3000,
+responsive: [
+{
+breakpoint: 1200,
+settings: {
+  centerPadding: '100px',
+  slidesToShow: 1
+}
+},
+{
+breakpoint: 700,
+settings: {
+  centerMode: false,
+  centerPadding: '0',
+  slidesToShow: 1
+}
+}
+]
+});			
+</script>

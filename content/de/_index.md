@@ -2,16 +2,9 @@
 title: Nachhaltige Städte und Regionen planen
 layout: blocks
 header:
-  layout: left
-  heading: Planen Sie mit uns nachhaltige Städte und Regionen!
-  text: Digitale Planungswerkzeuge zur Förderung der aktiven Mobilität und lokalen
-    Erreichbarkeit.
-  image: "/images/index/heatmap-muc-1.webp"
-  button:
-    text: GOAT testen
-    url: "/goatlive/"
-  background: default
-  background_image: "/images/title_street-1.webp"
+  layout: video
+  video_bg: "/images/index/video.png"
+  video: "/video/technical-demo.mp4"
 blocks:
 - template: card-block
   block: card
