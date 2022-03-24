@@ -478,7 +478,7 @@ right: 115px;
 
 .abo-goat-cont ul li:before {
     content: '';
-    background-image: url(../images/checkicon.png);
+    background-image: url(/images/checkicon.png);
     position: absolute;
     left: 0px;
     top: 9px;
@@ -525,7 +525,7 @@ right: 115px;
 	margin-top: -12px;
 	width: 14px;
 	height: 24px;
-	background-image: url(../images/white-arr.png);
+	background-image: url(/images/white-arr.png);
 	background-repeat: no-repeat;
 
 
@@ -638,7 +638,7 @@ right: 115px;
    width: 48px;
    height: 55px;
    background-repeat: no-repeat;
-   background-image: url(../images/quote-right-duotone.png);
+   background-image: url(/images/quote-right-duotone.png);
    display: inline-block;
    opacity: 0;
    transition: 0.5s all;
@@ -838,7 +838,7 @@ right: 115px;
     right: 10px;
     top: 50%;
     background-repeat: no-repeat;
-    background-image: url(../images/theme-arr.png);
+    background-image: url(/images/theme-arr.png);
     width: 24px;
     height: 14px;
     margin-top: -7px;
