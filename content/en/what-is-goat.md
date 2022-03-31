@@ -30,7 +30,7 @@ discover_section:
       label: 'Discover GOAT subscription'
     video:
       video_bg: '/images/index/mockuper-2.png'
-      video_url: 'https://player.vimeo.com/video/474989861?h=9d0d1d8fde&autoplay=1&loop=1&title=0&byline=0&portrait=0'
+      video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
   - heading: "Processing of complex data"
     text: 'GOAT is equipped with a wealth of complex spatial data. The GOAT subscription includes points of interest, buildings, population data, land use, environmental data and various background maps. In addition, you can easily integrate your own data sets.'
     img: '/images/index/ellipse-img.png'
@@ -38,7 +38,7 @@ discover_section:
     text: 'GOAT not only increases efficiency, but the fact-based analyzes also support decision-making and investment processes that have often been subjective up to now.'
     video:
       video_bg: '/images/index/mockuper-2.png'
-      video_url: 'https://player.vimeo.com/video/474989861?h=9d0d1d8fde&autoplay=1&loop=1&title=0&byline=0&portrait=0'
+      video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
 goat_abo_section:
   heading: 'GOAT Abo'
   text: 'The GOAT subscription allows you to put together GOAT individually, tailored to your needs. The pricing depends on the selected area size and the number of inhabitants. Bookable from as little as €3,000 / year.'
@@ -69,22 +69,28 @@ feature_section:
   heading: ''
   text: ''
   list_item:
-  - heading: 'Request a demo'
+  - url: '/goatlive/'
+    heading: 'Request a demo'
     text: 'Try our demo version, which is regularly updated with the latest features and data.'
     img: '/images/index/demo-anfragen.png'
-  - heading: 'Videos'
+  - url: '/videos/'
+    heading: 'Videos'
     text: 'Lorem ipsum dolor sit amet. Id totam pariatur eos perspiciatis exercitationem error quia sed natus.'
     img: '/images/index/video-icon.png'
-  - heading: 'Tutorials'
+  - url: '/tutorials/isochrone/'
+    heading: 'Tutorials'
     text: 'Lorem ipsum dolor sit amet. Id totam pariatur eos perspiciatis exercitationem error quia sed natus.'
     img: '/images/index/tutorial-icon.png'
-  - heading: 'Docs'
+  - url: '/docs/background/'
+    heading: 'Docs'
     text: 'Lorem ipsum dolor sit amet. Id totam pariatur eos perspiciatis exercitationem error quia sed natus.'
     img: '/images/index/docs-icon.png'
 service_section:
   heading: 'More services'
   text: 'We are happy to support you in the best possible implementation of your project through:​Workshops and training courses, implementation of individual functions (e.g. accessibility check, school route check)​, additional programming hours for individual adjustments​and consulting services using GOAT.'
-  img: 
-  - '/images/index/Product-Beratung.png'
-  - '/images/index/Product-Web-GIS.png'
+  list_items: 
+  - url: '#'
+    img: '/images/index/Product-Beratung.png'
+  - url: '#'
+    img: '/images/index/Product-Web-GIS.png'
 ---

@@ -83,7 +83,10 @@ $('.goat-quote-slide').slick({
   ]
 });
 
-$('.goatabu-cont-prt').click(function(){
-		$('.goatabu-cont-prt').removeClass('goatabu-open');
-		$(this).toggleClass('goatabu-open');
+$('.goatabuitem-cont').click(function(){
+  ///$('.goatabu-cont-prt').removeClass('goatabu-open');
+      $(this).parents('.goatabu-item').siblings().find('.goatabu-cont-txt').slideUp();
+      //$(this).parents('.goatabu-item').siblings().find('.goatabu-cont-inner').removeClass('goatabu-open');
+  $(this).find('.goatabu-cont-txt').slideToggle()
+      $(this).toggleClass('goatabu-open');
 });
