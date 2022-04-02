@@ -1,6 +1,7 @@
 ---
 title: Plan sustainable cities and regions
 description: Digital planning support systems to shape sustainable mobility and liveable spaces.
+ogimage: /images/index/heatmap-muc-1.webp
 header:
   layout: video
   video_bg: "/images/index/video.png"

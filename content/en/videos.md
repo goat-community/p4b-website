@@ -3,6 +3,7 @@ description = "The functions of GOAT are demonstrated explanatory in short and e
 layout = "blocks"
 title = "Videos"
 translationKey = "videos"
+ogimage = "/images/title_street.webp"
 [header]
 background = "default"
 background_image = ""
