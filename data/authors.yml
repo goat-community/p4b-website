@@ -1,4 +1,3 @@
----
 - username: pajares
   name: Elias Pajares
   title:
@@ -14,6 +13,7 @@
       innovative Lösungen und dem Anstoßen von nachhaltigem Wandel.
   github: https://github.com/EPajares
   website: ''
+  mail: 'info@plan4better.de'
   linkedin: https://www.linkedin.com/in/eliaspajares/
   team_member: true
   twitter: https://twitter.com/PajaresElias
@@ -33,6 +33,7 @@
       für die aktive Mobilität und die Förderung offener Daten ein.
   github: https://github.com/UJehle
   website: ''
+  mail: ''
   linkedin: https://www.linkedin.com/in/ulrike-jehle/
   team_member: true
   twitter: https://twitter.com/JehleUlrike
@@ -50,6 +51,7 @@
       verwandelte er kartenbasierte Technologien in sinnvolle und offene Anwendungen.
   github: https://github.com/majkshkurti
   website: ''
+  mail: ''
   linkedin: https://www.linkedin.com/in/majkshkurti/
   team_member: true
   twitter: ''
@@ -71,9 +73,9 @@
   linkedin: https://www.linkedin.com/in/emna-ben-hassine-832730107/
   team_member: false
   Website: ''
+  mail: ''
   twitter: ''
   team_image: ''
-  website: ''
 - username: munoz
   name: Rafael Leonardo Munoz Nieto
   title:
@@ -91,9 +93,9 @@
   linkedin: https://www.linkedin.com/in/rlmunoz
   team_member: false
   Website: ''
+  mail: ''
   twitter: ''
   team_image: ''
-  website: ''
 - username: ramirez
   name: German Santiago Linares Ramirez
   title:
@@ -112,8 +114,8 @@
   team_member: false
   github: ''
   Website: ''
+  mail: ''
   team_image: ''
-  website: ''
 - username: ivanov
   name: Grigorii Ivanov
   title:
@@ -131,6 +133,7 @@
   team_image: "/images/team/team_gregory.webp"
   github: https://github.com/gregoriiv
   website: ''
+  mail: ''
   linkedin: https://www.linkedin.com/in/grigorii-ivanov-5a218796/
   twitter: ''
 - username: haxhiu
@@ -150,6 +153,7 @@
   team_image: "/images/team/team_helga.webp"
   github: ''
   website: ''
+  mail: ''
   linkedin: https://www.linkedin.com/in/helga-haxhiu-6b267b219/
   twitter: ''
 - username: hall
@@ -169,6 +173,7 @@
   team_image: "/images/team/team_joelean.webp"
   github: ''
   website: https://www.joeleanhall.com/
+  mail: ''
   linkedin: https://www.linkedin.com/in/joelean-hall-1207001b7/
   twitter: ''
 - username: bozanovic
@@ -189,6 +194,7 @@
   linkedin: https://www.linkedin.com/in/davidbozanovic/
   github: ''
   website: ''
+  mail: ''
   twitter: ''
 - username: otter
   name: Philipp Otter
@@ -207,6 +213,7 @@
   team_image: "/images/team/team_philipp.webp"
   github: ''
   website: ''
+  mail: ''
   linkedin: https://www.linkedin.com/in/philippotter96/
   twitter: ''
 - username: xue
@@ -226,6 +233,7 @@
   team_image: "/images/team/team_jiaying.webp"
   github: ''
   website: ''
+  mail: ''
   linkedin: https://www.linkedin.com/in/jiaying-xue
   twitter: ''
 - username: meining
@@ -238,6 +246,7 @@
   team_image: "/images/sophie_meining.webp"
   github: ''
   website: ''
+  mail: ''
   linkedin: https://www.linkedin.com/in/sophie-meining-192862227/
   twitter: ''
   bio:

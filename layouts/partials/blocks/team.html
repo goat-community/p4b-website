@@ -46,6 +46,9 @@
                   {{ if .twitter }}
                     <div><a class="uk-team-social" href="{{ .twitter }}" target="_blank"><span data-uk-icon="ratio:1.2; icon: twitter"></span></a></div>
                   {{ end }}
+                  {{ if .mail }}
+                    <div><a class="uk-team-social" href="mailto:{{ .mail }}" target="_blank"><span data-uk-icon="ratio:1.2; icon: mail"></span></a></div>
+                  {{ end }}
                 </div>
               </div>
             </div>
