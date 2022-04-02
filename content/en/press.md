@@ -34,6 +34,7 @@ heading = "Recent press releases"
 padding_top = "small"
 template = "news-block"
 text = ""
+load_more_button_text = "Load more"
 
 [[blocks.news]]
 heading = "Mit GOAT zur 15-Minuten-Stadt"
