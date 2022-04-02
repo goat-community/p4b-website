@@ -2,6 +2,7 @@
 description = "Die Funktionen von GOAT sind hier beispielhaft in kurzen und aussagekräftigen Videos demonstriert."
 layout = "blocks"
 title = "Videos"
+ogimage = "/images/title_street.webp"
 translationKey = "videos"
 [header]
 background = "default"

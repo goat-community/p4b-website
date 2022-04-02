@@ -1,6 +1,8 @@
 +++
 layout = "blocks"
 title = "Web GIS"
+description = "Digital planning support systems to shape sustainable mobility and liveable spaces."
+ogimage = "/images/title_street.webp"
 translationKey = "web-gis"
 [header]
 background = "default"
