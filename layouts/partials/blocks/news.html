@@ -17,7 +17,7 @@
       data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200"
       uk-height-match="target: > div > .uk-card; row: false">
       {{ range .news }}
-      <div>
+      <div class="press-item">
         <div
           class="uk-card uk-card-small uk-card-body uk-padding-remove uk-card-default uk-position-relative uk-box-shadow-hover-large uk-border-rounded-large">
           <div class="uk-grid-small  uk-position-small" data-uk-grid>
@@ -32,6 +32,11 @@
           </div>
           <a class="uk-position-cover" href="{{ .url }}" target="_blank"></a>
         </div>
+      </div>
+      {{ end }}
+      {{ with .load_more_button_text }}
+      <div class="uk-margin-medium-top load-more-button">
+        <a class="uk-button uk-button-medium uk-button-primary" href="#">{{ . }}</a>
       </div>
       {{ end }}
     </div>
