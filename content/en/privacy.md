@@ -2,6 +2,8 @@
 layout = "blocks"
 title = "Privacy"
 translationKey = ""
+description = "Digital planning support systems to shape sustainable mobility and liveable spaces."
+ogimage = "/images/title_street.webp"
 [header]
 background = "default"
 background_image = "/images/title_street.webp"

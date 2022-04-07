@@ -3,6 +3,7 @@ description : "Geo Open Accessibility Tool (GOAT) ist ein Open-Source-Webtool zu
 layout : "what_is_goat"
 title : "Was ist GOAT?"
 translationKey: "what-is-goat"
+ogimage : "/images/index/goat-img.png"
 hero_section:
   image: "/images/index/goat-img.png"
   heading: GOAT
@@ -30,7 +31,7 @@ discover_section:
       label: 'GOAT-Abo entdecken'
     video:
       video_bg: '/images/index/mockuper-2.png'
-      video_url: 'https://player.vimeo.com/video/474989861?h=9d0d1d8fde&autoplay=1&loop=1&title=0&byline=0&portrait=0'
+      video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
   - heading: "Aufbereitung komplexer Daten"
     text: 'GOAT ist mit einer Fülle an komplexen räumlichen Daten ausgestattet. Im GOAT-Abo sind u.a. Points-of-Interests, Gebäude, Bevölkerungsdaten, Flächennutzung, Umweltdaten und verschiedene Hintergrundkarten enthalten. Außerdem können problemlos eigene Datensätze integriert werden.'
     img: '/images/index/ellipse-img.png'
@@ -38,7 +39,7 @@ discover_section:
     text: 'Mit GOAT steigert sich nicht nur die Effizienz, sondern die faktenbasierten Analysen unterstützen in bisher oft subjektiven Entscheidungs- und Investitionsprozessen.'
     video:
       video_bg: '/images/index/mockuper-2.png'
-      video_url: 'https://player.vimeo.com/video/474989861?h=9d0d1d8fde&autoplay=1&loop=1&title=0&byline=0&portrait=0'
+      video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
 goat_abo_section:
   heading: 'GOAT Abo'
   text: 'Das GOAT-Abo ermöglicht Ihnen die individuelle Zusammensetzung von GOAT, zugeschnitten auf Ihre Bedürfnisse. Die Preisgestaltung richten sich nach der gewählten Gebietsgröße und der Einwohnerzahl. Schon ab 3.000 € / Jahr buchbar.'
@@ -69,24 +70,30 @@ feature_section:
   heading: ''
   text: ''
   list_item:
-  - heading: 'Demo anfragen'
+  - url: '/goatlive/'
+    heading: 'Demo anfragen'
     text: 'Testen Sie unsere Demoversion, die regelmäßig mit den neuesten Funktionen und Daten bestückt wird.'
     img: '/images/index/demo-anfragen.png'
-  - heading: 'Videos'
+  - url: '/videos/'
+    heading: 'Videos'
     text: 'Lorem ipsum dolor sit amet. Id totam pariatur eos perspiciatis exercitationem error quia sed natus.'
     img: '/images/index/video-icon.png'
-  - heading: 'Tutorials'
+  - url: '/tutorials/isochrone/'
+    heading: 'Tutorials'
     text: 'Lorem ipsum dolor sit amet. Id totam pariatur eos perspiciatis exercitationem error quia sed natus.'
     img: '/images/index/tutorial-icon.png'
-  - heading: 'Docs'
+  - url: '/docs/background/'
+    heading: 'Docs'
     text: 'Lorem ipsum dolor sit amet. Id totam pariatur eos perspiciatis exercitationem error quia sed natus.'
     img: '/images/index/docs-icon.png'
 service_section:
   heading: 'Weitere Services'
   text: 'Wir unterstützen Sie gerne bei der bestmöglichen Umsetzung Ihres Vorhabens durch:​Workshops und Schulungen, Implementierung von individuellen Funktionen (z.B. Barrierefreiheitscheck, Schulwegcheck)​, zusätzliche Programmierstunden für individuellen Anpassungen​und Beratungsleistungen unter Einsatz von GOAT.'
-  img: 
-  - '/images/index/Product-Beratung.png'
-  - '/images/index/Product-Web-GIS.png'
+  list_items: 
+  - url: '#'
+    img: '/images/index/Product-Beratung.png'
+  - url: '#'
+    img: '/images/index/Product-Web-GIS.png'
 
 
 ---

@@ -3,6 +3,7 @@ description = "Plan4Better GmbH Augustenstraße 49 80333 München Deutschland Te
 layout = "blocks"
 title = "Imprint"
 translationKey = ""
+ogimage = "/images/title_street.webp"
 [header]
 background = "default"
 background_image = "/images/title_street.webp"

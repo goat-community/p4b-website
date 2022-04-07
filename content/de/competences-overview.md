@@ -1,6 +1,8 @@
 +++
 layout = "blocks"
 title = "Competences Overview"
+description = "Digitale Planungswerkzeuge für die Gestaltung nachhaltiger Mobilität und lebenswerter Räume. Faktenbasierte Planungshilfen für den Fuß- und Radverkehr."
+ogimage = "/images/title_street.webp"
 translationKey = "competences-overview"
 [header]
 background = "default"

@@ -1,6 +1,7 @@
 ---
 title: Plan sustainable cities and regions
 description: Digital planning support systems to shape sustainable mobility and liveable spaces.
+ogimage: /images/index/heatmap-muc-1.webp
 header:
   layout: video
   video_bg: "/images/index/video.png"
@@ -36,33 +37,33 @@ planing_section:
     title: "Individuelle Beratungen zu Mobilitätskonzepten"
     text: "Wir unterstützen Sie bei der bestmöglichen Umsetzung Ihres Vorhabens durch​ Workshops und Schulungen​, Implementierung von individuellen Funktionen (z.B. Barrierefreiheits-Check, Schulweg-Check)​ und Beratungsleistungen."
 action_section:
-  title: "Die Stadt von morgen schon heute planen."
+  heading: "Entdecken Sie GOAT in Action"
   slider_item:
-  - img: "/images/index/szenario-brocke.png"
+  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
     title: "Szenario Brücke"
     sub_title: "Interaktive Veränderung des Netzwerks"
     button:
       url: "#"
       label: "Mehr erfahren"  
-  - img: "/images/index/szenario-brocke.png"
+  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
     title: "Szenario Brücke"
     sub_title: "Interaktive Veränderung des Netzwerks"
     button:
       url: "#"
       label: "Mehr erfahren"  
-  - img: "/images/index/szenario-brocke.png"
+  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
     title: "Szenario Brücke"
     sub_title: "Interaktive Veränderung des Netzwerks"
     button:
       url: "#"
       label: "Mehr erfahren"  
-  - img: "/images/index/szenario-brocke.png"
+  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
     title: "Szenario Brücke"
     sub_title: "Interaktive Veränderung des Netzwerks"
     button:
       url: "#"
       label: "Mehr erfahren"  
-  - img: "/images/index/szenario-brocke.png"
+  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
     title: "Szenario Brücke"
     sub_title: "Interaktive Veränderung des Netzwerks"
     button:
@@ -134,19 +135,6 @@ award_section:
     url: https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021
   - logo: "/images/index/gruendungspreis_new.webp"
     url: https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Meldungen/2021/GW_Preisverleihung_Sommerrunde.html
-partner_section:
-  heading: Partner
-  logos:
-  - "/images/werk1_logo_plain_trans.webp"
-  - "/images/index/freiburg_logo.webp"
-  - "/images/index/mobidata-bm.png"
-  - "/images/index/logo-tum.webp"
-  - "/images/index/mobilitatsreferat.png"
-  - "/images/index/logo_freising.webp"
-  - "/images/index/logo_ffb.webp"
-  - "/images/index/logo_munichways.webp"
-  - "/images/index/logo_xpreneurs.webp"
-  - "/images/index/GST_RGB.webp"
 funded_section:
   heading: Gefördert durch
   text: Die Entwicklung von GOAT wird durch das BMDV von November 2021 bis Oktober 2024 im Rahmen der mFUND-Initiative (Förderlinie 2) gefördert.

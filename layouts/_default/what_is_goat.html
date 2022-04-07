@@ -126,13 +126,13 @@
     <div class="uk-container">
       <div class="feature-list">
         {{ range .list_item }}
-        <div class="feature-item" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+        <a href="/goatlive/" class="feature-item" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
           <span class="feature-icon"><img src="{{.img}}" alt="{{.heading}}"></span>
           <div class="feature-cont">
             <h4>{{ .heading }}</h4>
             <p>{{.text}}</p>
           </div>
-        </div>
+        </a>
        {{ end }}
       </div>
     </div>
@@ -145,12 +145,12 @@
         <h2>{{.heading}}</h2>
         <p>{{.text}}</p>
         <div class="moreservices-list">
-          {{ range .img }}
-          <div class="moreservices-item" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+          {{ range .list_items }}
+          <a href="{{.url}}" class="moreservices-item" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
             <div class="moreservices-inner">
-              <img src="{{.}}" alt="Product Beratung">
+              <img src="{{.img}}" alt="Product Beratung">
             </div>
-          </div>
+          </a>
           {{ end }}
         </div>
       </div>

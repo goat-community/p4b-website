@@ -7,6 +7,7 @@ sections:
 description: Possible use cases and step-by-step tutorials for exemplary planning
   cases for the GOAT isochrone feature.
 
+
 ---
 #### Description of the feature
 
