@@ -88,26 +88,26 @@ smart_tools_section:
     title: "Do you want to carry out your own planning?"
     description: "GOAT is our cloud-based planning software that supports you in promoting sustainable mobility with interactive accessibility analyzes and scenario developments."
     button:
-      url: "#"
-      label: "Contact us"
+      url: "/goat/"
+      label: "GOAT Subscription"
   - name: "advisory"
     img: "/images/index/Product-Beratung.png"
     title: "Are you looking for professional advice?"
     description: "Our diverse team from different disciplines will be happy to advise you on innovative mobility concepts and individual problem solutions."
     button:
-      url: "#"
+      url: "/contact/"
       label: "Contact us"
   - name: "WEB-GIS"
     img: "/images/index/Product-Web-GIS.png"
     title: "Are you interested in other GIS tools?"
     description: "We offer software solutions that you can use to create personalized map services, for example as an information tool for citizens or readers."
     button:
-      url: "#"
+      url: "/contact/"
       label: "Contact us"
 contact_section:
   title: "Are you interested?"
   button:
-    url: "#"
+    url: "/contact/"
     label: "Contact us."
 development_goals_section:
   heading: Sustainable Development Goals

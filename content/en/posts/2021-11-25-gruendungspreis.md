@@ -28,7 +28,7 @@ The event was held virtually and was broadcast on [YouTube](https://www.youtube.
 
 ## Elevator Pitch: Presentation in one minute
 
-The winning teams were able to present themselves and their innovations with one-minute-pitches. Ulrike Jehle explained the functionality, the development process, and the added value of our digital reachability tool [GOAT](https://plan4better.de/en/what-is-goat/ "GOAT") for Plan4Better.
+The winning teams were able to present themselves and their innovations with one-minute-pitches. Ulrike Jehle explained the functionality, the development process, and the added value of our digital reachability tool [GOAT](https://plan4better.de/en/goat/ "GOAT") for Plan4Better.
 
 ![](/images/blog/gruendungspreis/pitch.webp)
 

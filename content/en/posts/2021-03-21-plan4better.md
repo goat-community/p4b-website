@@ -18,7 +18,7 @@ description: 'We are commited to our goal and founded a start-up: Plan4Better! T
 
 Our common journey started in research at the TUM, more specifically at the [Chair of Urban Structure and Transport Planning](https://www.bgu.tum.de/en/sv/homepage/). Our enthusiasm about the development of GOAT has never stopped and we are especially curious about the ability to help changing the way cities are built. By the power of the accessibility concept, digital mapping technologies and tons of spatial data.
 
-The hard and intensive work on building [GOAT](../../what-is-goat) culminated in a useful accessibility instrument, which will facilitate planners and decision makers to plan more effective for walking and cycling.
+The hard and intensive work on building [GOAT](../../goat) culminated in a useful accessibility instrument, which will facilitate planners and decision makers to plan more effective for walking and cycling.
 
 We are absolute convinced that new directions of work are necessary for continuous development and the application in practice to build more sustainable and balanced cities and regions worldwide. Therefore, we founded our start-up and chose a self-explaining name for it: Plan4Better!
 
