@@ -1,4 +1,4 @@
-baseURL = "https://plan4better.de/"
+baseURL = "https://website-new.plan4better.de/"
 defaultContentLanguage = "de"
 languageCode = "en-us"
 title = "Plan4Better"
@@ -17,7 +17,7 @@ text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeit
 [[languages.de.menu.center]]
 name = "Was ist GOAT?"
 parent = "GOAT"
-url = "/was-ist-goat/"
+url = "/goat/"
 weight = 2
 [[languages.de.menu.center]]
 name = "GOAT-live"

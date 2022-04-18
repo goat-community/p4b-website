@@ -1,78 +1,118 @@
 ---
 title: Nachhaltige Städte und Regionen planen
-layout: blocks
-header:
-  layout: left
-  heading: Planen Sie mit uns nachhaltige Städte und Regionen!
-  text: Digitale Planungswerkzeuge zur Förderung der aktiven Mobilität und lokalen
+description: Digitale Planungswerkzeuge zur Förderung der aktiven Mobilität und lokalen
     Erreichbarkeit.
-  image: "/images/index/heatmap-muc-1.webp"
+ogimage: /images/index/heatmap-muc-1.webp
+header:
+  layout: video
+  video_bg: "/images/index/video.png"
+  video: "/video/Plan4Better-Video-Draft3.mp4"
+plan_section:
+  title: "Mit uns können Sie planen."
+  description: "Durch die Fusion von Stadt- und Verkehrsplanung ermöglichen wir die Entwicklung lebenswerter Räume und nachhaltiger Mobilität."
   button:
-    text: GOAT testen
-    url: "/goatlive/"
-  background: default
-  background_image: "/images/title_street-1.webp"
-blocks:
-- template: card-block
-  block: card
-  layout: left
-  background: default
-  text: Wir sind ein Startup aus München, das aus einer Ausgründung der TUM entstanden
-    ist und kürzlich mit dem Innovationspreis der Stadt München in der Kategorie „Emmissionsfreie
-    Mobilität in München“ ausgezeichnet wurde.
-  heading: Startup aus München
-  image: "/images/index/plan4better_sw_web-44-1.webp"
-  video: ''
-  background_image: "/images/bg-4.svg"
-  background_color_content: muted
-- template: card-block
-  block: card
-  layout: right
-  background: default
-  text: Durch die Bereitstellung von verständlichen Planungstools für den Fuß- und
-    Radverkehr begleiten wir die Stadt- und Verkehrsplanung, sowie die Standortentwicklung,
-    in eine offenere, spaßigere und effizientere Zukunft.
-  heading: Spielwiese zur Gestaltung lebenswerter Räume
-  image: "/images/index/team_working-1.webp"
-  video: ''
-  background_image: "/images/bg-12.svg"
-  background_color_content: muted
-- template: features-block
-  block: features
-  background: default
-  features:
-  - icon: "/images/icon-technology.svg"
-    heading: Innovation
-    text: Stetige Operationalisierung der neusten Innovationen.
-  - icon: "/images/icon-joy.svg"
-    heading: Spaß
-    text: Analysen sollen Spaß machen und einfach zu erstellen sein.
-  - icon: "/images/icon-planning.svg"
-    heading: Nachhaltigkeit
-    text: Maxime ist der Beitrag zu einer sozialeren und ökologischeren Welt.
-  text: ''
-  heading: Unsere Werte
-- template: card-block
-  block: card
-  layout: right
-  background: default
-  image: "/images/index/isochrone_amenities-1.webp"
-  text: Der Fuß- und Radverkehr benötigt eine attraktive Verkehrsinfrastruktur und
-    nahe Ziele im Sinne der 15-Minuten-Stadt. GOAT vereint durch den Erreichbarkeitsansatz
-    diese zwei Dimensionen und liefert über digitale Karten dynamische Analysen.
-  heading: Was bieten wir?
+    url: "/goat/"
+    label: "Lösungen entdecken"
+  img: "/images/index/mockup_bridge.png"
+brand_slider:
+  slider_img:
+  - img: "/images/index/werk1.png"
+  - img: "/images/index/digital-freiburg.png"
+  - img: "/images/index/mobidata-bm.png"
+  - img: "/images/index/tum.png"
+  - img: "/images/index/mobilitatsreferat.png"
+  - img: "/images/index/werk1.png"
+planing_section:
+  title: "Die Stadt von morgen schon heute planen."
+  planing_items:
+  - icon: "/images/index/icon1.png"
+    title: "Faktenbasierte Erreichbarkeitsanalyse"
+    text: "Mithilfe von zahlreichen Erreichbarkeitsindikatoren, wie Isochronen und Heatmaps, können Sie mit GOAT, nutzerfreundlich und schnell, den Ist-Zustand analysieren und anhand von Szenarien passende Maßnahmen entwickeln."
+  - icon: "/images/index/icon2.png"
+    title: "Untersuchung infrastruktureller Veränderungen"
+    text: "GOAT ermöglicht Ihnen eine Vielzahl an Modellierungen von neuen Wegeverbindungen, Points-of-Interests oder Gebäuden vorzunehmen. Somit können Sie die besten Standort für neue Infrastruktur ermitteln."
+  - icon: "/images/index/icon3.png"
+    title: "Aufbereitung komplexer Daten"
+    text: "In GOAT lassen sich vielfältige räumliche Daten, wie Gebäude, Bevölkerungsdichten, Flächennutzung und Wegenetze visualisieren. Außerdem können Umwelt- und Emissionsdaten eingeblendet werden."
+  - icon: "/images/index/icon4.png"
+    title: "Individuelle Beratungen zu Mobilitätskonzepten"
+    text: "Wir unterstützen Sie bei der bestmöglichen Umsetzung Ihres Vorhabens durch​ Workshops und Schulungen​, Implementierung von individuellen Funktionen (z.B. Barrierefreiheits-Check, Schulweg-Check)​ und Beratungsleistungen."
+action_section:
+  heading: "Entdecken Sie GOAT in Action"
+  slider_item:
+  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
+    title: "Szenario Brücke"
+    sub_title: "Interaktive Veränderung des Netzwerks"
+    button:
+      url: "#"
+      label: "Mehr erfahren"  
+  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
+    title: "Szenario Brücke"
+    sub_title: "Interaktive Veränderung des Netzwerks"
+    button:
+      url: "#"
+      label: "Mehr erfahren"  
+  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
+    title: "Szenario Brücke"
+    sub_title: "Interaktive Veränderung des Netzwerks"
+    button:
+      url: "#"
+      label: "Mehr erfahren"  
+  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
+    title: "Szenario Brücke"
+    sub_title: "Interaktive Veränderung des Netzwerks"
+    button:
+      url: "#"
+      label: "Mehr erfahren"  
+  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
+    title: "Szenario Brücke"
+    sub_title: "Interaktive Veränderung des Netzwerks"
+    button:
+      url: "#"
+      label: "Mehr erfahren"  
+  action_list_item:
+  - title: "Sofortige Inbetriebnahme"
+    icon: "/images/index/timer-thin.png"
+  - title: "Intuitive Benutzerober-fläche"
+    icon: "/images/index/user-check.png"
+  - title: "Integrierte Stadt- und Verkehrsplanung"
+    icon: "/images/index/Stadt-Verkehr.png"
+  - title: "Gesteigerte Inhouse-Kompetenzen"
+    icon: "/images/index/Gesteigerte-Inhouse-Kompetenzen.png"
+  - title: "Bessere Investments"
+    icon: "/images/index/Bessere-Investments.png"
+smart_tools_section:
+  title: "Smarte Tools für die smarte und nachhaltige City."
+  action_items:
+  - name: "GOAT"
+    img: "/images/index/Product-GOAT.png"
+    title: "Sie wollen eigene Planungen durchführen?"
+    description: "GOAT ist unsere cloud-basierte Planungssoftware, die Sie mit interaktiven Erreichbarkeitsanalysen und Szenario-Entwicklungen bei der Förderung der nachhaltigen Mobilität unterstützt."
+    button:
+      url: "#"
+      label: "Kontaktieren Sie uns"
+  - name: "Beratung"
+    img: "/images/index/Product-Beratung.png"
+    title: "Sie suchen professionelle Beratung?"
+    description: "Unser diverses Team unterschiedlicher Fachrichtungen berät Sie gerne zu innovativen Mobilitätskonzepten und individuellen Problemlösungen."
+    button:
+      url: "#"
+      label: "Kontaktieren Sie uns"
+  - name: "WEB-GIS"
+    img: "/images/index/Product-Web-GIS.png"
+    title: "Sie interessieren sich für weitere GIS-Tools?"
+    description: "Wir bieten Software-Lösungen an, mit denen Sie personalisierte Kartendienste, beispielsweise als Informationswerkzeug für Bürger:innen oder Leser:innen, erstellen können."
+    button:
+      url: "#"
+      label: "Kontaktieren Sie uns"
+contact_section:
+  title: "Ihr Interesse ist geweckt?"
   button:
-    url: "/was-ist-goat/"
-    text: Erfahre mehr zu GOAT
-  background_image: "/images/bg-9.svg"
-- template: recent-posts-block
-  block: recent-posts
-  background: muted
-  heading: Aktuelle Blog-Posts
-- template: logos-block
-  block: logos
-  background: ''
-  padding_top: default
+    url: "#"
+    label: "Kontaktieren Sie uns."
+development_goals_section:
+  heading: Sustainable Development Goals
+  text: Mit unserem Planungsinstrument GOAT addressieren wir die folgenden SDGs.
   items:
   - logo: "/images/index/SDG3.webp"
     url: "/mission"
@@ -84,12 +124,9 @@ blocks:
     url: "/mission"
   - logo: "/images/index/SDG13.webp"
     url: "/mission"
-  heading: Sustainable Development Goals
+award_section:
+  heading: Auszeichnungen
   text: Mit unserem Planungsinstrument GOAT addressieren wir die folgenden SDGs.
-- template: logos-block
-  block: logos
-  background: ''
-  padding_top: remove
   items:
   - logo: "/images/top-50-startups-2021-siegel.png"
     url: https://www.top50startups.de/start-ups/ranking/2021
@@ -99,51 +136,12 @@ blocks:
     url: https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021
   - logo: "/images/index/gruendungspreis_new.webp"
     url: https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Meldungen/2021/GW_Preisverleihung_Sommerrunde.html
-  heading: Auszeichnungen
-  text: ''
-- template: logos-block
-  block: logos
-  background: default
-  heading: Partner
-  logos:
-  - "/images/werk1_logo_plain_trans.webp"
-  - "/images/index/freiburg_logo.webp"
-  - "/images/index/logo_mobidata-bw-1.webp"
-  - "/images/index/logo-tum-1.webp"
-  - "/images/index/logo_muc.webp"
-  - "/images/index/logo_freising.webp"
-  - "/images/index/logo_ffb.webp"
-  - "/images/index/logo_munichways.webp"
-  - "/images/index/logo_xpreneurs.webp"
-  - "/images/index/GST_RGB.webp"
-  text: ''
-  padding_top: remove
-  items:
-  - logo: "/images/werk1_logo_plain_trans.webp"
-  - logo: "/images/index/freiburg_logo.webp"
-  - logo: "/images/index/mobidata_bw.webp"
-  - logo: "/images/index/logo-tum.webp"
-  - logo: "/images/index/logo_lhm.webp"
-  - logo: "/images/index/logo_freising.webp"
-  - logo: "/images/index/logo_ffb.webp"
-  - logo: "/images/index/logo_munichways.webp"
-  - logo: "/images/index/logo_xpreneurs.webp"
-  - logo: "/images/index/GST_RGB.webp"
-- template: logos-block
-  block: logos
-  background: default
-  logos:
-  - "/images/index/logo-mfund-2.webp"
-  - "/images/index/logo-bmvi.webp"
+funded_section:
   heading: Gefördert durch
-  padding_top: remove
   text: Die Entwicklung von GOAT wird durch das BMDV von November 2021 bis Oktober 2024 im Rahmen der mFUND-Initiative (Förderlinie 2) gefördert.
   items:
   - logo: "/images/index/logo-mfund.webp"
   - logo: "/images/index/BMDV_Logo.webp"
     text: 'Gefördert durch:'
-    text_2: aufgrund eines Beschlusses des Deutschen Bundestages
-description: Digitale Planungswerkzeuge für die Gestaltung nachhaltiger Mobilität
-  und lebenswerter Räume. Faktenbasierte Planungshilfen für den Fuß- und Radverkehr.
-
+    text2: aufgrund eines Beschlusses des Deutschen Bundestages
 ---

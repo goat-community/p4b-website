@@ -2,6 +2,7 @@
 description = "Hier finden Sie alle Live-Versionen unseres Planungsinstruments GOAT, die aktuell als Demoversion zur Verfügung stehen. "
 layout = "blocks"
 title = "GOAT-live"
+ogimage = "/images/title_street.webp"
 translationKey = "goat-live"
 [header]
 background = "default"

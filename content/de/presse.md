@@ -1,7 +1,8 @@
 +++
-description = ""
 layout = "blocks"
 title = "Presse"
+description = "Hier finden Sie unser Media-Kit, Unternehmensinformationen sowie Pressemitteilungen über uns."
+ogimage = "/images/presse/presse_banner.webp"
 translationKey = "presse"
 [header]
 background = "default"
@@ -34,6 +35,7 @@ heading = "Aktuelle Pressemeldungen"
 padding_top = "small"
 template = "news-block"
 text = ""
+load_more_button_text = "Mehr laden"
 
 [[blocks.news]]
 heading = "Mit GOAT zur 15-Minuten-Stadt"

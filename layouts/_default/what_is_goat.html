@@ -1,0 +1,160 @@
+{{ define "main" }}
+{{ with .Params.hero_section}}
+<section class="abo-goat-scn">
+  <div class="abo-goat-left">
+    <div class="abo-goat-cont">
+      <h2 data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{.heading}}</h3>
+      <ul data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+        {{ range .list_item }}
+        <li>{{.}}</li>
+        {{ end }}
+      </ul>	
+    </div>
+  </div>
+  <div class="abo-goat-right" >
+    <img src="{{.image}}" alt="GOAT" />
+  </div>
+</section>
+{{ end }}
+{{ with .Params.quote_section}}
+<section class="abo-goat-quote">
+  <div class="goat-quote-slide" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+    {{ with .quote_items }}
+    {{ range . }}
+    <div class="goat-quote-item">
+      <div class="goatquote-item-inner">
+        <span class="goatquote-img">
+          <img src="{{.quote_image}}" alt="Quote">
+        </span>
+        <div class="quote-cont">
+          <span class="quote-text">{{ .quote_text }}</span>
+          {{ with .author_name }}
+          <span class="quote-name">Autor:in, {{ . }}</span>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ with .Params.discover_section}}
+<section class="goat-list-scn">
+  <div class="uk-container">
+    <div class="goat-list-inner">
+      {{ range .list_item }}
+      <div class="goatitem">
+        <div class="goatitem-inner">
+          <div class="goatitem-cont" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+            <h4>{{ .heading }}</h4>
+            <p>{{.text}}</p>
+            {{ with .button }}
+            <a href="{{.url}}" class="goatitem-btn">{{.label}}</a>
+            {{ end }}
+          </div>
+          <div class="goatitem-img" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+            {{ with .img }}
+            <img src="{{ . }}" alt="Mockuper" />
+            {{ end }}
+            {{ with .video }}
+            <img src="{{ .video_bg }}" alt="Mockuper" />
+            <div class="goatitem-video">
+                <iframe src="{{.video_url}}" width="460" height="259" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>	
+  </div>
+</section>
+{{ end }}
+{{ with .Params.goat_abo_section }}
+<section class="goatabu-text-scn">
+  <div class="uk-container">
+    <div class="goatabu-text">
+      <h2 data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{.heading}}</h2>
+      <p data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{.text}}</p>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ with .Params.question_section }}
+<section class="goatabu-process">
+  <div class="uk-container">
+    <div class="goatabu-list">
+      {{ $counter := 0 }}
+      {{ range .list_item }}
+      {{ $counter = add $counter 1 }}
+      <div class="goatabu-item">
+        <div class="goatabuitem-inner">
+          <span class="goatabuitem-img" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+            <img src="{{.img}}" alt="{{.heading}}">
+          </span>
+          <div class="goatabuitem-cont" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+            <div class="goatabu-cont-inner">
+            <span class="number-txt">{{$counter}}</span>
+            <div class="goatabu-cont-prt">
+            <div class="label-txt">{{.heading}}</div>
+            <div class="goatabu-cont-txt">
+              <span class="subtitle">{{.sub_heading}}</span>
+              <p>{{.text}}</p>
+            </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ with .Params.goat_contact_section }}
+<section class="interested-scn interested-goat-scn">
+  <div class="uk-contaner">
+    <div data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+    {{.heading}}{{with .button }} <a href="{{.url | relURL }}">{{.label}}</a>{{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ with .Params.feature_section }}
+  <section class="feature-list-scn">
+    <div class="uk-container">
+      <div class="feature-list">
+        {{ range .list_item }}
+        <a href="/goatlive/" class="feature-item" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+          <span class="feature-icon"><img src="{{.img}}" alt="{{.heading}}"></span>
+          <div class="feature-cont">
+            <h4>{{ .heading }}</h4>
+            <p>{{.text}}</p>
+          </div>
+        </a>
+       {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+  {{ with .Params.service_section}}
+  <section class="more-services-scn">
+    <div class="uk-container">
+      <div class="moreservices-top" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+        <h2>{{.heading}}</h2>
+        <p>{{.text}}</p>
+        <div class="moreservices-list">
+          {{ range .list_items }}
+          <a href="{{.url}}" class="moreservices-item" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+            <div class="moreservices-inner">
+              <img src="{{.img}}" alt="Product Beratung">
+            </div>
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end}}
+  {{ end }}

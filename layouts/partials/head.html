@@ -23,15 +23,28 @@
 {{ range .AllTranslations }}
   <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
 {{ end }}
-
-
+{{ if eq .Type "posts"}}
+<meta itemprop="image" content="{{ .Params.image | absURL }}" />
+<meta property="og:image" content="{{ .Params.image | absURL }}" />
+<meta name="twitter:image" content="{{ .Params.image | absURL }}" />
+<meta name="twitter:image:src" content="{{ .Params.image | absURL }}" /> 
+<meta name="linkedin:image" content="{{ .Params.image | absURL }}" />
+<meta name="linkedin:image:src" content="{{ .Params.image | absURL }}" /> 
+{{ else if eq .Kind "Home"}}
 <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
 <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
 <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
 <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> 
 <meta name="linkedin:image" content="{{ .Site.Params.ogimage | absURL }}" />
-<meta name="linkedin:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> 
-
+<meta name="linkedin:image:src" content="{{ .Site.Params.ogimage | absURL }}" />
+{{ else}}
+<meta itemprop="image" content="{{ .Params.ogimage | absURL }}" />
+<meta property="og:image" content="{{ .Params.ogimage | absURL }}" />
+<meta name="twitter:image" content="{{ .Params.ogimage | absURL }}" />
+<meta name="twitter:image:src" content="{{ .Params.ogimage | absURL }}" /> 
+<meta name="linkedin:image" content="{{ .Params.ogimage | absURL }}" />
+<meta name="linkedin:image:src" content="{{ .Params.ogimage | absURL }}" /> 
+{{ end }}
 <meta name="twitter:site" content="{{ .Site.Params.twitter }}">
 <meta name="twitter:creator" content="{{ .Site.Params.twitter }}" />
 

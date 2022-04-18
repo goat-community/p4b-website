@@ -2,6 +2,7 @@
 description = "To get in touch with us you can send us an email to info@plan4better.de or use the contact form below."
 layout = "blocks"
 title = "Contact"
+ogimage = "/images/title_street.webp"
 translationKey = "contact"
 [header]
 background = "default"
