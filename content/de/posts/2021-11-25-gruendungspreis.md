@@ -26,7 +26,7 @@ Die Veranstaltung wurde Corona-konform virtuell gehalten und konnte über den [Y
 
 ## Elevator Pitch: Vorstellung in einer Minute
 
-Die Gewinner-Teams konnten sich und ihre Innovationen in Form von One-Minute-Pitches vorstellen. Unsere Co-CEO Ulrike Jehle hat für Plan4Better in einer Minute die Funktionalität, den Entwicklungsprozess sowie den Mehrwert von unserem digitalen Erreichbarkeitsinstrument [GOAT](https://plan4better.de/was-ist-goat/ "Was ist GOAT") kurz und knapp auf den Punkt gebracht.
+Die Gewinner-Teams konnten sich und ihre Innovationen in Form von One-Minute-Pitches vorstellen. Unsere Co-CEO Ulrike Jehle hat für Plan4Better in einer Minute die Funktionalität, den Entwicklungsprozess sowie den Mehrwert von unserem digitalen Erreichbarkeitsinstrument [GOAT](https://plan4better.de/goat/ "Was ist GOAT") kurz und knapp auf den Punkt gebracht.
 
 ![](/images/blog/gruendungspreis/pitch.webp)
 

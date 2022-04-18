@@ -5,7 +5,7 @@ ogimage: /images/index/heatmap-muc-1.webp
 header:
   layout: video
   video_bg: "/images/index/video.png"
-  video: "/video/technical-demo.mp4"
+  video: "/video/Plan4Better-Video-Draft3.mp4"
 plan_section:
   title: "You can plan with us."
   description: "By merging urban and traffic planning, we enable the development of livable spaces and sustainable mobility."
