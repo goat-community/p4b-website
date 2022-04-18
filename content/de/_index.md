@@ -1,6 +1,7 @@
 ---
-title: Plan sustainable cities and regions
-description: Digital planning support systems to shape sustainable mobility and liveable spaces.
+title: Nachhaltige Städte und Regionen planen
+description: Digitale Planungswerkzeuge zur Förderung der aktiven Mobilität und lokalen
+    Erreichbarkeit.
 ogimage: /images/index/heatmap-muc-1.webp
 header:
   layout: video
@@ -10,7 +11,7 @@ plan_section:
   title: "Mit uns können Sie planen."
   description: "Durch die Fusion von Stadt- und Verkehrsplanung ermöglichen wir die Entwicklung lebenswerter Räume und nachhaltiger Mobilität."
   button:
-    url: "#"
+    url: "/goat/"
     label: "Lösungen entdecken"
   img: "/images/index/mockup_bridge.png"
 brand_slider:

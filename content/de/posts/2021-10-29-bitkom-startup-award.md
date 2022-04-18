@@ -20,7 +20,7 @@ Fantastische Neuigkeiten – wir sind die GewinnerInnen des [Smart Country Start
 
 Wir wurden als eines von drei Startups zum Final-Pitch nach Berlin eingeladen und durften dort gegen [Semir Babajić](https://www.linkedin.com/in/semirbabajic94/) von [Treesense](https://treesense.net/ "Treesense") und Justus Pohle von [HEIDI](https://heidi-app.de/ "HEImat DIgital") pitchen. 
 
-Den Themenschwerpunkt unseres Pitches legten wir auf die Einsatzmöglichkeit unseres digitalen Planungstools [GOAT](../../was-ist-goat/) zur Planung neuer Bildungseinrichtungen. In nur drei Minuten Pitch und nach zwei Minuten Fragenhagel der Expertenrunde konnten wir die Jury davon überzeugen, dass GOAT ein immenses Potenzial birgt, um die Erreichbarkeit von u.a. Grundschulen in der Stadt fairer zu gestalten. 
+Den Themenschwerpunkt unseres Pitches legten wir auf die Einsatzmöglichkeit unseres digitalen Planungstools [GOAT](../../goat/) zur Planung neuer Bildungseinrichtungen. In nur drei Minuten Pitch und nach zwei Minuten Fragenhagel der Expertenrunde konnten wir die Jury davon überzeugen, dass GOAT ein immenses Potenzial birgt, um die Erreichbarkeit von u.a. Grundschulen in der Stadt fairer zu gestalten. 
 
 _![der live Pitch in Berlin](/images/blog/bitkom/bitkom_pitch.webp "Pitch")_
 _Abbildung 1. Ulrike beim Pitch_
