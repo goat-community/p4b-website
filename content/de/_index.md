@@ -4,7 +4,7 @@ description: Digital planning support systems to shape sustainable mobility and 
 header:
   layout: video
   video_bg: "/images/index/video.png"
-  video: "/video/technical-demo.mp4"
+  video: "/video/Plan4Better-Video-Draft3.mp4"
 plan_section:
   title: "Mit uns können Sie planen."
   description: "Durch die Fusion von Stadt- und Verkehrsplanung ermöglichen wir die Entwicklung lebenswerter Räume und nachhaltiger Mobilität."
