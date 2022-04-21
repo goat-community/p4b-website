@@ -24,7 +24,7 @@ image = "/images/team/image222.webp"
 layout = "left"
 padding_top = "small"
 template = "card-block"
-text = "Our journey started at TUM - Chair of Urban Structure and Transport Planning. We are a diverse team of Environmental Engineers, GIS Developers, and Transport Planners. Our aim is always to leave a positive footprint on our lovely planet through continuous innovation and exchange. TEST."
+text = "Our journey started at TUM - Chair of Urban Structure and Transport Planning. We are a diverse team of Environmental Engineers, GIS Developers, and Transport Planners. Our aim is always to leave a positive footprint on our lovely planet through continuous innovation and exchange. "
 video = ""
 [blocks.button]
 text = ""
