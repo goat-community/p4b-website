@@ -1,4 +1,4 @@
-baseURL = "https://website-new.plan4better.de/"
+baseURL = "https://p4b-dev.netlify.app/"
 defaultContentLanguage = "de"
 languageCode = "en-us"
 title = "Plan4Better"
