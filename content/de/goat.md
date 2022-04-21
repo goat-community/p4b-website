@@ -6,7 +6,7 @@ translationKey: "goat"
 ogimage : "/images/index/goat-img.png"
 hero_section:
   image: "/images/index/goat-img.png"
-  heading: GOAT
+  heading_logo: "/images/goat-logo.png"
   list_item:
   - Mit einer Vielzahl an Daten bestückt
   - Fusion von Stadt- und Verkehrsplanung

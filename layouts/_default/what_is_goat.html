@@ -3,7 +3,7 @@
 <section class="abo-goat-scn">
   <div class="abo-goat-left">
     <div class="abo-goat-cont">
-      <h2 data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{.heading}}</h3>
+      <h2 data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100"><img src="{{ .heading_logo | absURL }}" alt="Goat logo"></h3>
       <ul data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
         {{ range .list_item }}
         <li>{{.}}</li>
@@ -126,7 +126,7 @@
     <div class="uk-container">
       <div class="feature-list">
         {{ range .list_item }}
-        <a href="/goatlive/" class="feature-item" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+        <a href="{{ .url | absURL }}" class="feature-item" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
           <span class="feature-icon"><img src="{{.img}}" alt="{{.heading}}"></span>
           <div class="feature-cont">
             <h4>{{ .heading }}</h4>
