@@ -38,6 +38,9 @@
 }
 
 .mit-uns-inner .mit-uns-left {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
     max-width: 50%;
     width: 100%;
 }
@@ -65,6 +68,7 @@
     box-sizing: border-box;
     border-radius: 23px;
     color: #fff;
+    width: fit-content;
     padding: 7px 15px;
     font-size: 18px;
     display: inline-block;
@@ -85,7 +89,7 @@
     min-height: 52px;
 }
 .brands-scn{
-	border-bottom: #2BB381 1px solid;
+	// border-bottom: #2BB381 1px solid;
 	padding: 40px 0px;
 	width: 100%;
 }
@@ -836,7 +840,7 @@ right: 115px;
 }
 
 .goatabu-list .goatabu-item {
-    margin: 30px 0px;
+    margin: 45px 0px;
 }
 
 .goatabu-cont-inner .goatabu-cont-prt:after {
@@ -862,18 +866,18 @@ right: 115px;
 
 
 .goatitem-video {
-        position: absolute;
-    top: 99px;
+    position: absolute;
+    top: 98px;
     left: 81px;
-    width: 461px;
-    height: 265px;
+    width: 462px;
+    height: 266px;
 }
 
 .faktenbasierte-video .goatitem-video {
-	top: 97px;
+    top: 97px;
     left: 81px;
     width: 462px;
-    height: 268px;
+    height: 269px;
 }
 
 .goatitem-video iframe {
@@ -1260,4 +1264,21 @@ right: 115px;
 }
 .load-more-button {
   width: fit-content;
+}
+.mail-icon {
+    width: 26px;
+
+    & path {
+        fill: $inverse-global-color;
+    }
+}
+.uk-team-social:hover .mail-icon {
+    & path {
+        fill: $global-primary-background;
+    }
+}
+@media only screen and (min-width: 1900px) {
+    .abo-goat-cont ul li {
+        font-size: 36px;
+    }
 }
