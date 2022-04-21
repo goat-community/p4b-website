@@ -40,8 +40,8 @@
   text:
     en: You can add, modify and delete points of interest and assess the effects on
       accessibility on the fly within a few seconds.
-    de: Sie können Points of Interest hinzufügen, modifizieren und löschen, die Veränderung
-      in der Erreichbarkeit wird dir dynamisch aufgezeigt.
+    de: Sie können Einrichtungen hinzufügen, modifizieren und löschen, die Veränderung
+      in der Erreichbarkeit wird Ihnen dynamisch angezeigt.
   comments: ''
 - image: "/images/videos/walkability_population_heatmap.webp"
   vimeo: 370376888
@@ -72,8 +72,6 @@
     en: Visualize extensive spatial data
     de: Visualisierung umfangreicher räumlicher Daten
   text:
-    en: You can visualize extensive spatial data easily. Depending on the version
-      you will find data such as noise levels, landuse or the number of accidents.
-    de: Sie können umfangreiche räumliche Daten einfach visualisieren. Je nach Version
-      finden Sie Daten wie Lärmpegel, Flächennutzung oder Unfallzahlen.
+    en: You can easily visualise extensive spatial data. Depending on local availability e.g. noise levels, land use or accident numbers can be integrated.
+    de: Sie können umfangreiche räumliche Daten einfach visualisieren. Je nach lokaler Verfügbarkeit können z.B. Lärmpegel, Flächennutzung oder Unfallzahlen integriert werden.
   comments: ''
