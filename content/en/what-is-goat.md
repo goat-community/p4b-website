@@ -6,7 +6,7 @@ ogimage : "/images/index/goat-img.png"
 translationKey: "what-is-goat"
 hero_section:
   image: "/images/index/goat-img.png"
-  heading: GOAT
+  heading_logo: "/images/goat-logo.png"
   list_item:
   - Equipped with a large amount of data
   - Fusion of urban and traffic planning
