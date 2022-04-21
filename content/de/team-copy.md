@@ -1,5 +1,5 @@
 +++
-description = "Wir sind ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen."
+description = "Wir sind ein diverses Team aus Umweltingenieur:innen, GIS-Entwickler:innen und Verkehrsplaner:innen."
 draft = true
 layout = "blocks"
 title = "Team-(copy)"
