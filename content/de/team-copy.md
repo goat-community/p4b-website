@@ -82,5 +82,10 @@ padding = "uk-padding-small"
 padding_top = "remove"
 template = "images-block"
 text = "Sende bei Interesse gerne eine Bewerbung mit Motivationsschreiben und Lebenslauf an"
+[[blocks]]
+background = "default"
+block = "features"
+heading = "Unsere Werte "
+template = "features-block"
 
 +++
