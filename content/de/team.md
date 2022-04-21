@@ -1,9 +1,9 @@
 +++
-description = "Wir sind ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen."
+description = "Wir sind ein diverses Team aus Umweltingenieur:innen, GIS-Entwickler:innen und Verkehrsplaner:innen."
 layout = "blocks"
+ogimage = "/images/team/image222.webp"
 title = "Team"
 translationKey = "team"
-ogimage = "/images/team/image222.webp"
 [header]
 background = "default"
 background_image = ""
@@ -54,33 +54,33 @@ text = "Schreiben Sie uns gerne an und kommen Sie mit dem Team von Plan4Better i
 background = "muted"
 block = "links"
 heading = "Stellenangebote"
+padding_top = "remove"
 template = "links-block"
 text = "Werde Teil unseres Teams! Wir haben regelmäßig offene Praktikanten- und Werkstudentenstellen, u.a. im Bereich Verkehrs-/ Stadtplanung, Softwareentwicklung und Betriebswirtschaft. Aktuell haben wir zwei offene Stellen:"
-padding_top = "remove"
 [[blocks.links]]
+download_url = "/download/jobpostings/jobposting_P4B_intern_urban_transport_planning.pdf"
 heading = "Praktikum: Stadt- und Verkehrsplanung"
 icon = "download"
+padding_top = "remove"
 page = ""
 text = "Praktikant*in für Mitarbeit im Projekt GOAT 3.0, Erstellung von Erreichbarkeitsanalysen und Sales-Unterstützung gesucht! Stellenanzeige hier runterladen."
-download_url = "/download/jobpostings/jobposting_P4B_intern_urban_transport_planning.pdf"
-padding_top = "remove"
 [[blocks.links]]
+download_url = "/download/jobpostings/jobposting_P4B_intern_development.pdf"
 heading = "Praktikum: Software Development"
 icon = "download"
+padding_top = "remove"
 page = ""
 text = "Praktikant*in für Backend Development und Datenanalyse gesucht! Stellenanzeige hier runterladen."
-download_url = "/download/jobpostings/jobposting_P4B_intern_development.pdf"
-padding_top = "remove"
 [[blocks]]
 background = "muted"
 block = "images"
 columns = "1"
 heading = ""
 images = []
+mail = "info@plan4better.de"
+padding = "uk-padding-small"
+padding_top = "remove"
 template = "images-block"
 text = "Sende bei Interesse gerne eine Bewerbung mit Motivationsschreiben und Lebenslauf an"
-mail = "info@plan4better.de"
-padding_top = "remove"
-padding = "uk-padding-small"
 
 +++
