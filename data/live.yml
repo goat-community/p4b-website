@@ -5,19 +5,18 @@
     de: München
   text:
     en: Munich is our home-base! This version of GOAT is usually the most up-to-date.
-    de: München ist unsere Home-Base! Diese Version von GOAT ist in der Regel die
-      am häufigsten aktualisierte.
-  url: https://muenchen.open-accessibility.org/
+    de: München ist unsere Home-Base! Im Rahmen einer Innovationsphase wurde GOAT von der Landeshauptstadt eingesetzt, um u.a. die Auswirkungen neuer Fuß- und Radwegeverbindungen zu analysieren, sowie geeignete Standorte für Bikesharing-Stationen zu identifizieren.
+  url: 
   comments: München
 - image: "/images/GOAT/ffb.webp"
   title:
     en: Fürstenfeldbruck
     de: Fürstenfeldbruck
   text:
-    en: 'This version of GOAT is a custom version for the municipality of Fürstenfeldbruck
-      near Munich. '
-    de: Diese Version von GOAT ist eine individualisierte Version für die Stadt Fürstenfeldbruck.
-  url: https://ffb.open-accessibility.org/
+    en: This version of GOAT is a custom version for the municipality of Fürstenfeldbruck
+      near Munich. 
+    de: Fürstenfeldbruck war einer unserer Haupt-Entwicklungspartner, mit denen wir in einem ko-kreativen Prozess die GOAT Version 1.0 entwickelt haben. GOAT wurde von den lokalen Planer:innen u.a. eingesetzt, um die Anbindung neuer Wohngebiete und Verteilung der Supermärkte zu überprüfen 
+  url: 
   comments: Fürstenfeldbruck
 - image: "/images/GOAT/freising.webp"
   title:
