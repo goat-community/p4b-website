@@ -1,5 +1,5 @@
 +++
-description = "Wir sind ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen."
+description = "Wir sind ein diverses Team aus Umweltingenieur:innen, GIS-Entwickler:innen und Verkehrsplaner:innen."
 draft = true
 layout = "blocks"
 title = "Team-(copy)"
@@ -24,7 +24,7 @@ image = "/images/team/image222.webp"
 layout = "left"
 padding_top = "small"
 template = "card-block"
-text = "Unser gemeinsamer Weg startete an der TUM am Lehrstuhl für Siedlungsstruktur und Verkehrsplanung. Wir sind ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen. Unser Ziel ist es, durch kontinuierliche Innovation und offenen Austausch einen positiven Beitrag zum Erhalt unseres wundervollen Planeten zu leisten."
+text = "Unser gemeinsamer Weg startete an der TUM am Lehrstuhl für Siedlungsstruktur und Verkehrsplanung. Wir sind ein diverses Team aus Umweltingenieur:innen, GIS-Entwickler:innen und Verkehrsplaner:innen. Unser Ziel ist es, durch kontinuierliche Innovation und offenen Austausch einen positiven Beitrag zum Erhalt unseres wundervollen Planeten zu leisten."
 video = ""
 [blocks.button]
 text = ""
@@ -34,12 +34,12 @@ background = "secondary"
 background_color_content = "secondary"
 background_image = ""
 block = "card"
-heading = ""
+heading = "Fusion aus Stadt- und Verkehrsplanung"
 image = "/images/team/team.webp"
 layout = "right"
 padding_top = "default"
 template = "card-block"
-text = "Wir freuen uns, eines der ersten Start-Ups im Venture Lab Built Environment der Technischen Universität München zu sein."
+text = "Durch die Bereitstellung von verständlichen Planungstools für den Fuß- und Radverkehr begleiten wir die Stadt- und Verkehrsplanung, sowie die Standortentwicklung, in eine offenere, spaßigere und effizientere Zukunft."
 video = ""
 [blocks.button]
 text = ""
@@ -82,5 +82,10 @@ padding = "uk-padding-small"
 padding_top = "remove"
 template = "images-block"
 text = "Sende bei Interesse gerne eine Bewerbung mit Motivationsschreiben und Lebenslauf an"
+[[blocks]]
+background = "default"
+block = "features"
+heading = "Unsere Werte "
+template = "features-block"
 
 +++
