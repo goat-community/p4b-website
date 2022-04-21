@@ -39,31 +39,31 @@ planing_section:
 action_section:
   heading: "Entdecken Sie GOAT in Action"
   slider_item:
-  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
+  - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
     title: "Szenario Brücke"
     sub_title: "Interaktive Veränderung des Netzwerks"
     button:
       url: "#"
       label: "Mehr erfahren"  
-  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
+  - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
     title: "Szenario Brücke"
     sub_title: "Interaktive Veränderung des Netzwerks"
     button:
       url: "#"
       label: "Mehr erfahren"  
-  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
+  - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
     title: "Szenario Brücke"
     sub_title: "Interaktive Veränderung des Netzwerks"
     button:
       url: "#"
       label: "Mehr erfahren"  
-  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
+  - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
     title: "Szenario Brücke"
     sub_title: "Interaktive Veränderung des Netzwerks"
     button:
       url: "#"
       label: "Mehr erfahren"  
-  - videoURL: "https://player.vimeo.com/video/311550100?h=37a0b14df2&autoplay=1"
+  - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
     title: "Szenario Brücke"
     sub_title: "Interaktive Veränderung des Netzwerks"
     button:
