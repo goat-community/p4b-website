@@ -3,6 +3,7 @@ author: haxhiu
 categories:
 - development
 - news
+- projects
 date: 2021-04-06T10:00:00.000+00:00
 description: 'Our Walkability Index for MobiData BW Hackathon was a success! This
   is how we continue the development in the innovation phase:'

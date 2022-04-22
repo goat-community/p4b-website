@@ -1,16 +1,17 @@
 ---
-title: Plan sustainable cities and regions
-description: Digital planning support systems to shape sustainable mobility and liveable spaces.
+title: Nachhaltige Städte und Regionen planen
+description: Digitale Planungswerkzeuge zur Förderung der aktiven Mobilität und lokalen
+    Erreichbarkeit.
 ogimage: /images/index/heatmap-muc-1.webp
 header:
   layout: video
   video_bg: "/images/index/video.png"
-  video: "/video/technical-demo.mp4"
+  video: "/video/Plan4Better-Video-Draft3.mp4"
 plan_section:
   title: "Mit uns können Sie planen."
   description: "Durch die Fusion von Stadt- und Verkehrsplanung ermöglichen wir die Entwicklung lebenswerter Räume und nachhaltiger Mobilität."
   button:
-    url: "#"
+    url: "/goat/"
     label: "Lösungen entdecken"
   img: "/images/index/mockup_bridge.png"
 brand_slider:
@@ -40,32 +41,32 @@ action_section:
   heading: "Entdecken Sie GOAT in Action"
   slider_item:
   - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
-    title: "Szenario Brücke"
-    sub_title: "Interaktive Veränderung des Netzwerks"
+    title: "Brückenszenario"
+    sub_title: "Interaktive Veränderung des Wegenetzes"
+    button:
+      url: "#"
+      label: "Mehr erfahren"  
+  - videoURL: "https://player.vimeo.com/video/411721219?autoplay=1&loop=1&autopause=0"
+    title: "Standortplanung"
+    sub_title: "Analyse geeigneter Standorte für neue Bike-Sharing-Stationen"
+    button:
+      url: "#"
+      label: "Mehr erfahren"  
+  - videoURL: "https://player.vimeo.com/video/311547681?autoplay=1&loop=1&autopause=0"
+    title: "Isochronen berechnen"
+    sub_title: "Berechnung von Reisezeit-Isochronen"
+    button:
+      url: "#"
+      label: "Mehr erfahren"  
+  - videoURL: "https://player.vimeo.com/video/370382250?autoplay=1&loop=1&autopause=0"
+    title: "Berechnung von Multi-Isochronen"
+    sub_title: "Analysieren, wie gut ein Stadtviertel mit bestimmten Einrichtungen versorgt ist"
     button:
       url: "#"
       label: "Mehr erfahren"  
   - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
-    title: "Szenario Brücke"
-    sub_title: "Interaktive Veränderung des Netzwerks"
-    button:
-      url: "#"
-      label: "Mehr erfahren"  
-  - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
-    title: "Szenario Brücke"
-    sub_title: "Interaktive Veränderung des Netzwerks"
-    button:
-      url: "#"
-      label: "Mehr erfahren"  
-  - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
-    title: "Szenario Brücke"
-    sub_title: "Interaktive Veränderung des Netzwerks"
-    button:
-      url: "#"
-      label: "Mehr erfahren"  
-  - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
-    title: "Szenario Brücke"
-    sub_title: "Interaktive Veränderung des Netzwerks"
+    title: "Eine Vielzahl an räumlichen Daten visualisieren"
+    sub_title: "Visualisierung zahlreicher Datensätze, wie z.B. Flächennutzung, Lärmpegel und Unfallzahlen"
     button:
       url: "#"
       label: "Mehr erfahren"  
@@ -88,26 +89,26 @@ smart_tools_section:
     title: "Sie wollen eigene Planungen durchführen?"
     description: "GOAT ist unsere cloud-basierte Planungssoftware, die Sie mit interaktiven Erreichbarkeitsanalysen und Szenario-Entwicklungen bei der Förderung der nachhaltigen Mobilität unterstützt."
     button:
-      url: "#"
-      label: "Kontaktieren Sie uns"
+      url: "/goat/"
+      label: "GOAT-Abo"
   - name: "Beratung"
     img: "/images/index/Product-Beratung.png"
     title: "Sie suchen professionelle Beratung?"
     description: "Unser diverses Team unterschiedlicher Fachrichtungen berät Sie gerne zu innovativen Mobilitätskonzepten und individuellen Problemlösungen."
     button:
-      url: "#"
+      url: "/kontakt/"
       label: "Kontaktieren Sie uns"
   - name: "WEB-GIS"
     img: "/images/index/Product-Web-GIS.png"
     title: "Sie interessieren sich für weitere GIS-Tools?"
     description: "Wir bieten Software-Lösungen an, mit denen Sie personalisierte Kartendienste, beispielsweise als Informationswerkzeug für Bürger:innen oder Leser:innen, erstellen können."
     button:
-      url: "#"
+      url: "/kontakt/"
       label: "Kontaktieren Sie uns"
 contact_section:
   title: "Ihr Interesse ist geweckt?"
   button:
-    url: "#"
+    url: "/kontakt/"
     label: "Kontaktieren Sie uns."
 development_goals_section:
   heading: Sustainable Development Goals

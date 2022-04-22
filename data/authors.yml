@@ -169,7 +169,7 @@
       Als Praktikantin unterstützt sie das Team bei Website-Updates, Datenaufbereitung
       und Recherchen.
   image: "/images/team/hall.webp"
-  team_member: true
+  team_member: false
   team_image: "/images/team/team_joelean.webp"
   github: ''
   website: https://www.joeleanhall.com/
@@ -229,7 +229,7 @@
       Mobilitätsdatenanalysen und räumlichen Daten. Als Kartographie-Studentin hilft
       sie bei der Mobilitätsforschung und der Visualisierung von Geodaten.
   image: ''
-  team_member: true
+  team_member: false
   team_image: "/images/team/team_jiaying.webp"
   github: ''
   website: ''
@@ -239,8 +239,8 @@
 - username: meining
   name: Sophie Meining
   title:
-    en: 'Intern '
-    de: Praktikantin
+    en: Working Student
+    de: Werkstudentin
   image: "/images/sophie_meiningsw.webp"
   team_member: true
   team_image: "/images/sophie_meining.webp"
@@ -251,8 +251,8 @@
   twitter: ''
   bio:
     de: 'Sophie begeistert sich für Innovationen und die Umsetzung von nachhaltigen
-      Ideen. Als Praktikantin bei Plan4Better kümmert Sie sich um Marketing und Content
-      Creation.  '
+      Ideen. Als Werkstudentin bei Plan4Better kümmert Sie sich um Marketing und Content
+      Creation.'
     en: 'Sophie is passionate about innovation and the implementation of sustainable
-      ideas. As an intern at Plan4Better, she takes care of marketing and content
-      creation. '
+      ideas. As an working student at Plan4Better, she takes care of marketing and content
+      creation.'

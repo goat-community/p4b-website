@@ -20,7 +20,7 @@ Great news – we are the winners of the [Smart Country Startup Award](https://w
 
 We were invited to the final pitch in Berlin as one of three startups and were allowed to pitch against [Semir Babajić](https://www.linkedin.com/in/semirbabajic94/) from [Treesense](https://treesense.net/ "Treesense") and Justus Pohle from [HEIDI](https://heidi-app.de/ "HEImat DIgital"). 
 
-In just three minutes pitch and two minutes of questions by an expert panel, we were able to convince the jury of our digital planning tool [GOAT](../../what-is-goat/). We highlighted the potential of GOAT to help in finding the ideal locations for new educational institutions, such as primary schools.
+In just three minutes pitch and two minutes of questions by an expert panel, we were able to convince the jury of our digital planning tool [GOAT](../../goat/). We highlighted the potential of GOAT to help in finding the ideal locations for new educational institutions, such as primary schools.
 
 _![the live Pitch in Berlin](/images/blog/bitkom/bitkom_pitch.webp "Pitch")_
 _Figure 1. Ulrike at the Pitch_

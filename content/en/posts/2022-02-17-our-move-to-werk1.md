@@ -18,7 +18,7 @@ Our new office is based in Munich's Werksviertel - centrally located near Munich
 
 _Figure 1: Our walk to the office through the Werksviertel_
 
-This week we were able to move into our office in [WERK1](https://www.werk1.com/ "WERK1"), "the start-up friendliest place in Munich". We are very happy that we now have our own space as Plan4Better to work together on our planning software [GOAT](/what-is-goat/ "What is GOAT?") and other exciting projects.
+This week we were able to move into our office in [WERK1](https://www.werk1.com/ "WERK1"), "the start-up friendliest place in Munich". We are very happy that we now have our own space as Plan4Better to work together on our planning software [GOAT](/goat/ "What is GOAT?") and other exciting projects.
 
 ## Goodbye, Colab
 

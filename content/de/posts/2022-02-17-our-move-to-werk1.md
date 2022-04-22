@@ -19,7 +19,7 @@ Unser neues Büro befindet sich im Münchner Werksviertel – zentral gelegen am
 
 _Abbildung 1: Unser Weg zum Büro durch das Werksviertel_
 
-Diese Woche konnten wir unser Büro im [WERK1](https://www.werk1.com/ "Werk1"), dem “Startup-freundlichsten Ort Münchens“ beziehen. Wir freuen uns sehr, dass wir jetzt mit Plan4Better unser eigenes Büro haben, um gemeinsam an unserer Planungssoftware [GOAT](/was-ist-goat/ "GOAT") und weiteren, spannenden Projekte zu arbeiten.
+Diese Woche konnten wir unser Büro im [WERK1](https://www.werk1.com/ "Werk1"), dem “Startup-freundlichsten Ort Münchens“ beziehen. Wir freuen uns sehr, dass wir jetzt mit Plan4Better unser eigenes Büro haben, um gemeinsam an unserer Planungssoftware [GOAT](/goat/ "GOAT") und weiteren, spannenden Projekte zu arbeiten.
 
 ## Auf Wiedersehen, Colab
 

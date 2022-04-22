@@ -1,4 +1,4 @@
-baseURL = "https://plan4better.de/"
+baseURL = "https://p4b-dev.netlify.app/"
 defaultContentLanguage = "de"
 languageCode = "en-us"
 title = "Plan4Better"
@@ -17,12 +17,12 @@ text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeit
 [[languages.de.menu.center]]
 name = "Was ist GOAT?"
 parent = "GOAT"
-url = "/was-ist-goat/"
+url = "/goat/"
 weight = 2
 [[languages.de.menu.center]]
-name = "GOAT-live"
+name = "Referenzen"
 parent = "GOAT"
-url = "/goatlive/"
+url = "/goat-application/"
 weight = 3
 [[languages.de.menu.center]]
 name = "Videos"
@@ -150,12 +150,12 @@ text = "GOAT is an interactive webtool for accessibility analysis on walking and
 [[languages.en.menu.center]]
 name = "What is GOAT?"
 parent = "GOAT"
-url = "/en/what-is-goat/"
+url = "/en/goat/"
 weight = 2
 [[languages.en.menu.center]]
-name = "GOAT-live"
+name = "Application"
 parent = "GOAT"
-url = "/goatlive/"
+url = "/goat-application/"
 weight = 3
 [[languages.en.menu.center]]
 name = "Videos"

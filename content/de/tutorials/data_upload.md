@@ -1,15 +1,14 @@
 ---
 title: Hochladen eigener POI-Daten
 permalink: "/de/tutorials/data_upload/"
-weight: 10
+weight: 60
 sections:
 - training
 description: Schritt-für-Schritt-Anleitung für das Hochladen eigener Point-of-Interest-Datensätze.
 
 ---
-# Hochladen eigener POI-Daten
 #### Beschreibung des Features
-In GOAT wird standardmäßig bereits ein Datensatz mit einer Vielzahl an Points-of-Interest (POIs) bereitgestellt. Falls Sie weitere POI-Datensätze in GOAT integrieren möchten, können Sie dies über die "Hochladen" Funktion tun. Insgesamt stehen jedem Nutzer hierfür 500 MB Speicherplatz zur Verfügung. 
+In GOAT wird standardmäßig bereits ein Datensatz mit einer Vielzahl an Points-of-Interest (POIs) bereitgestellt. Falls Sie weitere POI-Datensätze in GOAT integrieren möchten, können Sie dies über die „Hochladen“ Funktion tun. Insgesamt stehen jedem Nutzer hierfür 500 MB Speicherplatz zur Verfügung. 
 
 #### Schritt-für-Schritt-Anleitung für das Hochladen eigener Point-of-Interest-Datensätze
 
@@ -27,6 +26,6 @@ In GOAT wird standardmäßig bereits ein Datensatz mit einer Vielzahl an Points-
 
 5. Wählen Sie die Datei aus ihrem lokalen Ordner aus und laden diese hoch. 
 
-<img src="/images/training_materials/Data_upload/browse_files.png" alt="Datei hochladen" style="max-height:200px;"/>
+<img src="/images/training_materials/Data_upload/browse_files.png" alt="Datei hochladen" style="max-height:205px;"/>
 
-6. .... 
+

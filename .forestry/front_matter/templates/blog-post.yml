@@ -35,5 +35,3 @@ fields:
   name: author
   label: Author
   description: Enter username from authors settings.
-
-
