@@ -41,6 +41,24 @@ padding_top = "default"
 template = "card-block"
 text = "Unser gemeinsamer Weg startete an der TU München. Aus der Wissenschaft heraus gründeten wir Plan4Better, um faktenbasierte und nutzerfreundliche Planungsentscheidungen zu ermöglichen. Seitdem wachsen wir stetig und sind durch unser interdisziplinäres und diverses Team zu einer relevanten Schnittstelle von Planungswissenschaft und Praxis geworden."
 video = ""
+[[blocks]]
+template = "features-block"
+block = "features"
+background = "default"
+text = ''
+heading = "Unsere Werte"
+[[blocks.features]]
+icon = "/images/icon-technology.svg"
+heading = "Innovation"
+text = "Stetige Operationalisierung der neusten Innovationen."
+[[blocks.features]]
+icon = "/images/icon-joy.svg"
+heading = "Spaß"
+text = "Analysen sollen Spaß machen und einfach zu erstellen sein."
+[[blocks.features]]
+icon = "/images/icon-planning.svg"
+heading = "Nachhaltigkeit"
+text = "Maxime ist der Beitrag zu einer sozialeren und ökologischeren Welt."
 [blocks.button]
 text = "Venture Lab Built Environment"
 url = "https://www.tum.de/en/innovation/entrepreneurship/venture-labs/"

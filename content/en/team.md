@@ -45,6 +45,24 @@ video = ""
 text = "Venture Lab Built Environment"
 url = "https://www.tum.de/en/innovation/entrepreneurship/venture-labs/"
 [[blocks]]
+template = "features-block"
+block = "features"
+background = "default"
+text = ''
+heading = "Our Values"
+[[blocks.features]]
+icon = "/images/icon-technology.svg"
+heading = "Innovation"
+text = "Stetige Operationalisierung der neusten Innovationen."
+[[blocks.features]]
+icon = "/images/icon-joy.svg"
+heading = "Joy"
+text = "Analysen sollen Spaß machen und einfach zu erstellen sein."
+[[blocks.features]]
+icon = "/images/icon-planning.svg"
+heading = "Sustainability"
+text = "Maxime ist der Beitrag zu einer sozialeren und ökologischeren Welt."
+[[blocks]]
 background = "muted"
 block = "team"
 heading = "Team"
