@@ -39,7 +39,7 @@ image = "/images/team/team.webp"
 layout = "right"
 padding_top = "default"
 template = "card-block"
-text = "Wir freuen uns, eines der ersten Start-Ups im Venture Lab Built Environment der Technischen Universität München zu sein."
+text = "Unser gemeinsamer Weg startete an der TU München. Aus der Wissenschaft heraus gründeten wir Plan4Better, um faktenbasierte und nutzerfreundliche Planungsentscheidungen zu ermöglichen. Seitdem wachsen wir stetig und sind durch unser interdisziplinäres und diverses Team zu einer relevanten Schnittstelle von Planungswissenschaft und Praxis geworden."
 video = ""
 [blocks.button]
 text = "Venture Lab Built Environment"
