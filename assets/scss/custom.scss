@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 .video-scn {
 	width: 100%;
 	height: 100%;
@@ -809,7 +812,6 @@ right: 115px;
     font-weight: 600;
     font-size: 28px;
     color: #2bb381;
-    cursor: pointer;
 }
 
 .goatabu-cont-inner .goatabu-cont-prt .goatabu-cont-txt {
@@ -837,6 +839,7 @@ right: 115px;
 
 .goatabu-list * {
     box-sizing: border-box;
+    position: relative;
 }
 
 .goatabu-list .goatabu-item {
@@ -991,7 +994,9 @@ right: 115px;
 	max-width: calc(100% - 290px);
 }
 }
-
+.goatabu-process .goatabuitem-cont {
+    cursor: pointer;
+}
 @media only screen and (max-width: 1000px) {
 .mit-uns-inner h2 {
 	font-size: 40px;
@@ -1281,4 +1286,22 @@ right: 115px;
     .abo-goat-cont ul li {
         font-size: 36px;
     }
+}
+.scroll-btn {
+    position: absolute;
+    right: 30px;
+    top: calc(100% - 150px);
+}
+.goatabu-list {
+    position: relative;
+}
+.dot-line {
+    position: absolute;
+    left: 50%;
+    top: 100px;
+    width: 1px;
+    height: calc(100% - 200px);
+    background-image: linear-gradient(1800deg, transparent, transparent 50%, #fff 50%, #fff 100%), linear-gradient(180deg, #c2c9d6, #c2c9d6, #c2c9d6, #c2c9d6, #c2c9d6);
+    background-size: 3px 20px, 100% 20px;
+    border: none;
 }
