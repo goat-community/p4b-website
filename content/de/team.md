@@ -24,7 +24,7 @@ image = "/images/team/image222.webp"
 layout = "left"
 padding_top = "small"
 template = "card-block"
-text = "Plan4Better steht für nachhaltige und effiziente Stadt- und Verkehrsplanung. Unsere Vision sind lebenswerte Städte und Regionen, in denen aktive Mobilitätskonzepte, vernetzte Nachbarschaften und gute Erreichbarkeit zu wichtigen Zielen im Mittelpunkt stehen – ganz im Sinne der 15-Minuten-Stadt.  \nDiese setzen wir mit unserer cloudbasierten Planungssoftware GOAT und Beratungsleistungen um."
+text = "Plan4Better steht für nachhaltige und effiziente Stadt- und Verkehrsplanung. Unsere Vision sind lebenswerte Städte und Regionen, in denen aktive Mobilitätskonzepte, vernetzte Nachbarschaften und gute Erreichbarkeit zu wichtigen Zielen im Mittelpunkt stehen – ganz im Sinne der 15-Minuten-Stadt. Diese setzen wir mit unserer cloudbasierten Planungssoftware GOAT und Beratungsleistungen um."
 video = ""
 [blocks.button]
 text = ""
