@@ -4,10 +4,11 @@
   {{ if and (.Params.header.layout) (not (eq .Params.header.layout "none")) }}
     {{ if eq .Params.header.layout "video" }}
       <section class="video-scn">
-        <img src="/images/index/video.png" alt="Video">
-          <video poster="/images/index/video.png" autoplay="autoplay" loop="loop" muted defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" class="videoplay">
-      <source src="/video/technical-demo.mp4" type="video/mp4">
-      </video>
+        <img src="{{ .Params.header.video_bg | absURL }}" alt="Video">
+        <video poster="{{ .Params.header.video_bg| absURL }}" autoplay="autoplay" loop="loop" muted defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" class="videoplay">
+        <source src="{{ .Params.header.video | absURL }}" type="video/mp4">
+        </video>
+        <a class="scroll-btn" href="#next_section"><span data-uk-icon="ratio:2; icon: chevron-down"></span></a>
     {{ else }}
       <div class="{{ if or (eq .Params.header.layout "left") (eq .Params.header.layout "full") }}uk-section-large{{ else }}uk-section-large{{ end }} uk-background-cover uk-position-relative uk-background-cover uk-background-center-right" 
         {{ if .Params.header.background_image }} style="background-image: url({{ .Params.header.background_image |absURL }});"{{ end }}>
