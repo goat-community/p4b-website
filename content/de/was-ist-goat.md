@@ -34,7 +34,7 @@ discover_section:
       video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
   - heading: "Aufbereitung komplexer Daten"
     text: 'GOAT ist mit einer Fülle an komplexen räumlichen Daten ausgestattet. Im GOAT-Abo sind u.a. Points-of-Interests, Gebäude, Bevölkerungsdaten, Flächennutzung, Umweltdaten und verschiedene Hintergrundkarten enthalten. Außerdem können problemlos eigene Datensätze integriert werden.'
-    img: '/images/index/ellipse-img.png'
+    img: '/images/index/Aufbereitung-komplexer.gif'
   - heading: "Faktenbasierte Erreichbarkeitsanalysen"
     text: 'Mit GOAT steigert sich nicht nur die Effizienz, sondern die faktenbasierten Analysen unterstützen in bisher oft subjektiven Entscheidungs- und Investitionsprozessen.'
     video:
@@ -71,28 +71,30 @@ feature_section:
   text: ''
   list_item:
   - url: '/goatlive/'
-    heading: 'Demo anfragen'
-    text: 'Testen Sie unsere Demoversion, die regelmäßig mit den neuesten Funktionen und Daten bestückt wird.'
-    img: '/images/index/demo-anfragen.png'
+    heading: 'GOAT-live'
+    text: 'Hier finden Sie unsere Demoversionen, die regelmäßig mit den neusten Funktionen und Daten bestückt werden.'
+    icon: location
   - url: '/videos/'
     heading: 'Videos'
-    text: 'Lorem ipsum dolor sit amet. Id totam pariatur eos perspiciatis exercitationem error quia sed natus.'
-    img: '/images/index/video-icon.png'
+    text: 'Videos geben einen Überblick zu den Funktionen und Einsatzmöglichkeiten von GOAT.'
+    icon: play-circle
   - url: '/tutorials/isochrone/'
     heading: 'Tutorials'
-    text: 'Lorem ipsum dolor sit amet. Id totam pariatur eos perspiciatis exercitationem error quia sed natus.'
-    img: '/images/index/tutorial-icon.png'
+    text: 'Schritt-für-Schritt Anleitung zur Nutzung von GOAT um typische Planungsfragen aus der Praxis zu bearbeiten.'
+    icon: file-text
   - url: '/docs/background/'
     heading: 'Docs'
-    text: 'Lorem ipsum dolor sit amet. Id totam pariatur eos perspiciatis exercitationem error quia sed natus.'
-    img: '/images/index/docs-icon.png'
+    text: 'Detaillierte Informationen zum technischen Hintergrund und zur Beteiligung am Open-Source-Projekt.'
+    icon: code
 service_section:
   heading: 'Weitere Services'
   text: 'Wir unterstützen Sie gerne bei der bestmöglichen Umsetzung Ihres Vorhabens durch:​Workshops und Schulungen, Implementierung von individuellen Funktionen (z.B. Barrierefreiheitscheck, Schulwegcheck)​, zusätzliche Programmierstunden für individuellen Anpassungen​und Beratungsleistungen unter Einsatz von GOAT.'
   list_items: 
   - url: '#'
+    heading: 'Product 1'
     img: '/images/index/Product-Beratung.png'
   - url: '#'
+    heading: 'Product 2'
     img: '/images/index/Product-Web-GIS.png'
 
 
