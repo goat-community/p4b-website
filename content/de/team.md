@@ -39,7 +39,7 @@ image = "/images/team/team.webp"
 layout = "right"
 padding_top = "default"
 template = "card-block"
-text = "Unser gemeinsamer Weg startete an der TU München. Aus der Wissenschaft heraus gründeten wir Plan4Better, um faktenbasierte und nutzerfreundliche Planungsentscheidungen zu ermöglichen. Seitdem wachsen wir stetig und sind durch unser interdisziplinäres und diverses Team zu einer relevanten Schnittstelle von Planungswissenschaft und Praxis geworden."
+text = "Unser gemeinsamer Weg startete am Lehrstuhl für Siedlungsstruktur und Verkehrsplanung der TU München. Aus der Wissenschaft heraus gründeten wir Plan4Better, um faktenbasierte und nutzerfreundliche Planungsentscheidungen zu ermöglichen. Seitdem wachsen wir stetig und sind durch unser interdisziplinäres und diverses Team zu einer relevanten Schnittstelle von Planungswissenschaft und Praxis geworden."
 video = ""
 [[blocks]]
 template = "features-block"
