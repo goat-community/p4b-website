@@ -24,7 +24,7 @@ image = "/images/team/image222.webp"
 layout = "left"
 padding_top = "small"
 template = "card-block"
-text = "Unser gemeinsamer Weg startete an der TUM am Lehrstuhl für Siedlungsstruktur und Verkehrsplanung. Wir sind ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen. Unser Ziel ist es, durch kontinuierliche Innovation und offenen Austausch einen positiven Beitrag zum Erhalt unseres wundervollen Planeten zu leisten."
+text = "Plan4Better steht für nachhaltige und effiziente Stadt- und Verkehrsplanung. Unsere Vision sind lebenswerte Städte und Regionen, in denen aktive Mobilitätskonzepte, vernetzte Nachbarschaften und gute Erreichbarkeit zu wichtigen Zielen im Mittelpunkt stehen – ganz im Sinne der 15-Minuten-Stadt.  \nDiese setzen wir mit unserer cloudbasierten Planungssoftware GOAT und Beratungsleistungen um."
 video = ""
 [blocks.button]
 text = ""
