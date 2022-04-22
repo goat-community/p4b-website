@@ -11,11 +11,12 @@ hero_section:
   - Equipped with a large amount of data
   - Fusion of urban and traffic planning
   - Intuitive user interface
+  - Open Source
 quote_section:
   quote_items:
-  - quote_image: "/images/index/quote-img.png"
-    quote_text: '„Intuitive user interface High potential of the tool, expansion to all of Germany would be a large added value area“​'
-    author_name: "Funktion"
+  - quote_image: "/images/index/digital-freiburg.png"
+    quote_text: '„An excellent tool for data-driven, modern urban and mobility planning for ambitious 15-minute cities.“​'
+    author_name: "Michael Bauder, City of Freiburg"
   - quote_image: "/images/index/quote-img.png"
     quote_text: '„Intuitive user interface High potential of the tool, expansion to all of Germany would be a large added value area“​'
     author_name: "Funktion"

@@ -11,11 +11,12 @@ hero_section:
   - Mit einer Vielzahl an Daten bestückt
   - Fusion von Stadt- und Verkehrsplanung
   - Intuitive Benutzeroberfläche
+  - Open Source
 quote_section:
   quote_items:
-  - quote_image: "/images/index/quote-img.png"
-    quote_text: '„Hohes Potential des Tools, Ausweitung auf ganz Deutschland wäre ein großer Mehrwert“​'
-    author_name: "Funktion"
+  - quote_image: "/images/index/digital-freiburg.png"
+    quote_text: '„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.“​'
+    author_name: "Michael Bauder, Stadt Freiburg"
   - quote_image: "/images/index/quote-img.png"
     quote_text: '„Hohes Potential des Tools, Ausweitung auf ganz Deutschland wäre ein großer Mehrwert“​'
     author_name: "Funktion"
