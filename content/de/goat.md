@@ -35,7 +35,7 @@ discover_section:
       video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
   - heading: "Aufbereitung komplexer Daten"
     text: 'GOAT ist mit einer Fülle an komplexen räumlichen Daten ausgestattet. Im GOAT-Abo sind u.a. Points-of-Interests, Gebäude, Bevölkerungsdaten, Flächennutzung, Umweltdaten und verschiedene Hintergrundkarten enthalten. Außerdem können problemlos eigene Datensätze integriert werden.'
-    img: '/images/index/Aufbereitung-komplexer.gif'
+    img: '/images/GOAT/data_gif.gif'
   - heading: "Faktenbasierte Erreichbarkeitsanalysen"
     text: 'Mit GOAT steigert sich nicht nur die Effizienz, sondern die faktenbasierten Analysen unterstützen in bisher oft subjektiven Entscheidungs- und Investitionsprozessen.'
     video:
@@ -71,7 +71,7 @@ feature_section:
   heading: ''
   text: ''
   list_item:
-  - url: '/goatlive/'
+  - url: '/goat-application/'
     heading: 'GOAT-live'
     text: 'Hier finden Sie unsere Demoversionen, die regelmäßig mit den neusten Funktionen und Daten bestückt werden.'
     icon: location
@@ -92,10 +92,10 @@ service_section:
   text: 'Wir unterstützen Sie gerne bei der bestmöglichen Umsetzung Ihres Vorhabens durch:​Workshops und Schulungen, Implementierung von individuellen Funktionen (z.B. Barrierefreiheitscheck, Schulwegcheck)​, zusätzliche Programmierstunden für individuellen Anpassungen​und Beratungsleistungen unter Einsatz von GOAT.'
   list_items: 
   - url: '#'
-    heading: 'Product 1'
+    heading: ''
     img: '/images/index/Product-Beratung.png'
   - url: '#'
-    heading: 'Product 2'
+    heading: ''
     img: '/images/index/Product-Web-GIS.png'
 
 
