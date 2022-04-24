@@ -91,10 +91,10 @@ service_section:
   heading: 'More services'
   text: 'We are happy to support you in the best possible implementation of your project through:​Workshops and training courses, implementation of individual functions (e.g. accessibility check, school route check)​, additional programming hours for individual adjustments​and consulting services using GOAT.'
   list_items: 
-  - url: '#'
+  - url: ''
     heading: ''
     img: '/images/index/Product-Beratung.png'
-  - url: '#'
+  - url: ''
     heading: ''
     img: '/images/index/Product-Web-GIS.png'
 ---
