@@ -35,7 +35,7 @@ discover_section:
       video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
   - heading: "Processing of complex data"
     text: 'GOAT is equipped with a wealth of complex spatial data. The GOAT subscription includes points of interest, buildings, population data, land use, environmental data and various background maps. In addition, you can easily integrate your own data sets.'
-    img: '/images/index/ellipse-img.png'
+    img: '/images/index/Aufbereitung-komplexer.gif'
   - heading: "Fact-based accessibility analyses"
     text: 'GOAT not only increases efficiency, but the fact-based analyzes also support decision-making and investment processes that have often been subjective up to now.'
     video:
@@ -72,27 +72,29 @@ feature_section:
   text: ''
   list_item:
   - url: '/goatlive/'
-    heading: 'Request a demo'
-    text: 'Try our demo version, which is regularly updated with the latest features and data.'
-    img: '/images/index/demo-anfragen.png'
+    heading: 'GOAT-live'
+    text: 'Here you can find our demo versions of GOAT. They are frequently enhanced with new features and up-to-date data.'
+    icon : "location"
   - url: '/videos/'
     heading: 'Videos'
-    text: 'Lorem ipsum dolor sit amet. Id totam pariatur eos perspiciatis exercitationem error quia sed natus.'
-    img: '/images/index/video-icon.png'
+    text: 'Videos for a quick start. Here the functions of GOAT are demonstrated exemplarily.'
+    icon : "play-circle"
   - url: '/tutorials/isochrone/'
     heading: 'Tutorials'
-    text: 'Lorem ipsum dolor sit amet. Id totam pariatur eos perspiciatis exercitationem error quia sed natus.'
-    img: '/images/index/tutorial-icon.png'
+    text: 'Explanation of the individual functions of GOAT and step-by-step guides for answering typical planning questions.'
+    icon : "file-text"
   - url: '/docs/background/'
     heading: 'Docs'
-    text: 'Lorem ipsum dolor sit amet. Id totam pariatur eos perspiciatis exercitationem error quia sed natus.'
-    img: '/images/index/docs-icon.png'
+    text: 'Detailed information on the technical background and guidance for participation in our open source projects.'
+    icon : "code"
 service_section:
   heading: 'More services'
   text: 'We are happy to support you in the best possible implementation of your project through:​Workshops and training courses, implementation of individual functions (e.g. accessibility check, school route check)​, additional programming hours for individual adjustments​and consulting services using GOAT.'
   list_items: 
   - url: '#'
+    heading: ''
     img: '/images/index/Product-Beratung.png'
   - url: '#'
+    heading: ''
     img: '/images/index/Product-Web-GIS.png'
 ---
