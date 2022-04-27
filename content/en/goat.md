@@ -89,10 +89,14 @@ sections:
       heading: ''
       text: ''
       list_item:
-      - url: '/goat-application/'
-        heading: 'GOAT-live'
-        text: 'Here you can find our demo versions of GOAT. They are frequently enhanced with new features and up-to-date data.'
+      - url: '/request-demo/'
+        heading: 'GOAT-Demo'
+        text: 'Test all functionalities in our demo version.'
         icon : "images/index/goat-icon.svg"
+      - url: '/goat-application/'
+        heading: 'References'
+        text: 'Detailed information on the technical background and guidance for participation in our open source projects.'
+        icon : "images/index/code.svg"
       - url: '/videos/'
         heading: 'Videos'
         text: 'Videos for a quick start. Here the functions of GOAT are demonstrated exemplarily.'
@@ -101,10 +105,6 @@ sections:
         heading: 'Tutorials'
         text: 'Explanation of the individual functions of GOAT and step-by-step guides for answering typical planning questions.'
         icon : "images/index/docs.svg"
-      - url: '/docs/background/'
-        heading: 'Docs'
-        text: 'Detailed information on the technical background and guidance for participation in our open source projects.'
-        icon : "images/index/code.svg"
 
   - order: 7
     service_section:

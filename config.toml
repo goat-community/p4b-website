@@ -113,7 +113,7 @@ url = "/privacy/"
 weight = 4
 [[languages.de.menu.right]]
 name = "GOAT testen"
-url = "/goat-application/"
+url = "/request-demo/"
 weight = 1
 [languages.de.menu.right.params]
 button = "primary-outline"

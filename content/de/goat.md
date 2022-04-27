@@ -21,7 +21,7 @@ sections:
       quote_items:
       - quote_image: "/images/index/digital-freiburg.png"
         quote_text: '„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.“​'
-        author_name: "Dr. Michael Bauder, Stadt Freibur"
+        author_name: "Dr. Michael Bauder, Stadt Freiburg"
       - quote_image: "/images/index/logo_freising.webp"
         quote_text: '„Eine richtungsweisende Unterstützung bei der Umsetzung der 15-Minuten-Stadt!“​'
         author_name: "Jonas Bellingrodt, Amt für Stadtplanung und Umwelt, Stadt Freising"
@@ -88,10 +88,14 @@ sections:
     feature_section:
       background_color_content: default
       list_item:
-      - url: '/goat-application/'
-        heading: 'GOAT-live'
-        text: 'Hier finden Sie unsere Demoversionen, die regelmäßig mit den neusten Funktionen und Daten bestückt werden.'
+      - url: '/request-demo/'
+        heading: 'GOAT-Demo'
+        text: 'Testen Sie alle GOAT Funktionen in unserer Demoversion.'
         icon: 'images/index/goat-icon.svg'
+      - url: '/goat-application/'
+        heading: 'Referenzen'
+        text: 'Explore previous applications of GOAT.'
+        icon: images/index/code.svg
       - url: '/videos/'
         heading: 'Videos'
         text: 'Videos geben einen Überblick zu den Funktionen und Einsatzmöglichkeiten von GOAT.'
@@ -100,10 +104,6 @@ sections:
         heading: 'Tutorials'
         text: 'Schritt-für-Schritt Anleitung zur Nutzung von GOAT um typische Planungsfragen aus der Praxis zu bearbeiten.'
         icon: images/index/docs.svg
-      - url: '/docs/background/'
-        heading: 'Docs'
-        text: 'Detaillierte Informationen zum technischen Hintergrund und zur Beteiligung am Open-Source-Projekt.'
-        icon: images/index/code.svg
 
   - order: 7
     service_section:
