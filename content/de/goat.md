@@ -22,15 +22,18 @@ sections:
       - quote_image: "/images/index/digital-freiburg.png"
         quote_text: '„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.“​'
         author_name: "Dr. Michael Bauder, Stadt Freiburg"
-      - quote_image: "/images/index/logo_freising.webp"
-        quote_text: '„Eine richtungsweisende Unterstützung bei der Umsetzung der 15-Minuten-Stadt!“​'
-        author_name: "Jonas Bellingrodt, Amt für Stadtplanung und Umwelt, Stadt Freising"
-      - quote_image: "/images/index/logo_psu.webp"
-        quote_text: '„GOAT hat entscheidende Vorteile für eine umweltgerechte Stadt-, Orts- und Raumplanung, da es von vornherein die Nutzerperspektive beinhaltet und nicht zuerst die Expertensicht repräsentiert. Das ist neu!“​'
-        author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
       - quote_image: "/images/index/logo_lhm.webp"
         quote_text: '„GOAT ist ein sehr gutes Tool zur Berechnung und Darstellung von Erreichbarkeiten in der Verkehrs- und Stadtplanung.“​'
         author_name: "Attila Lüttmerding, Abteilungsleiter Grundlagen und Daten, Mobilitätsreferat, Landeshauptstadt München"
+      - quote_image: "/images/index/logo_freising.webp"
+        quote_text: '„Eine richtungsweisende Unterstützung bei der Umsetzung der 15-Minuten-Stadt!“​'
+        author_name: "Jonas Bellingrodt, Amt für Stadtplanung und Umwelt, Stadt Freising"
+     - quote_image: "/images/index/logo_psu.webp"
+        quote_text: '„GOAT hat entscheidende Vorteile für eine umweltgerechte Stadt-, Orts- und Raumplanung, da es von vornherein die Nutzerperspektive beinhaltet und nicht zuerst die Expertensicht repräsentiert. Das ist neu!“​'
+        author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
+      - quote_image: "/images/index/logo_ffb.webp"
+        quote_text: '„In Fürstenfeldbruck wird GOAT in der Stadt- und Verkehrsplanung genutzt und ist eine große Hilfe für die Erreichbarkeitsanalysen zu Fuß und mit dem Fahrrad“​'
+        author_name: "Montserrat Miramontes, Mobilitätsmanagerin, Stadt Fürstenfeldbruck"
 
   - order: 2
     discover_section:
