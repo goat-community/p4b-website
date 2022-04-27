@@ -94,7 +94,7 @@ sections:
         icon: 'images/index/goat-icon.svg'
       - url: '/goat-application/'
         heading: 'Referenzen'
-        text: 'Explore previous applications of GOAT.'
+        text: 'Entdecken Sie bisherige Einsätze und Anwendungen von GOAT.'
         icon: images/index/code.svg
       - url: '/videos/'
         heading: 'Videos'
@@ -102,7 +102,7 @@ sections:
         icon: images/index/video.svg
       - url: '/tutorials/isochrone/'
         heading: 'Tutorials'
-        text: 'Schritt-für-Schritt Anleitung zur Nutzung von GOAT um typische Planungsfragen aus der Praxis zu bearbeiten.'
+        text: 'Schritt-für-Schritt Anleitung zur Beantwortung typischer Planungsfragen mit GOAT.'
         icon: images/index/docs.svg
 
   - order: 7
