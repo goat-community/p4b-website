@@ -16,7 +16,7 @@ plan_section:
   img: "/images/index/mockup_bridge.png"
 brand_slider:
   slider_img:
-  - logo: "/images/index/werk1.png"
+  - logo: "/images/index/logo_werk1.webp"
   - logo: "/images/index/freiburg_logo.webp"
   - logo: "/images/index/mobidata_bw.webp"
   - logo: "/images/index/logo-tum.webp"
