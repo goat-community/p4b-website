@@ -23,9 +23,6 @@ quote_section:
   - quote_image: "/images/index/logo_psu.webp"
     quote_text: '„GOAT hat entscheidende Vorteile für eine umweltgerechte Stadt-, Orts- und Raumplanung, da es von vornherein die Nutzerperspektive beinhaltet und nicht zuerst die Expertensicht repräsentiert. Das ist neu!“​'
     author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
-  - quote_image: "/images/index/logo_psu.webp"
-    quote_text: '„GOAT hat entscheidende Vorteile für eine umweltgerechte Stadt-, Orts- und Raumplanung, da es von vornherein die Nutzerperspektive beinhaltet und nicht zuerst die Expertensicht repräsentiert. Das ist neu!“​'
-    author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
   - quote_image: "/images/index/logo_lhm.webp"
     quote_text: '„GOAT ist ein sehr gutes Tool zur Berechnung und Darstellung von Erreichbarkeiten in der Verkehrs- und Stadtplanung.“​'
     author_name: "Attila Lüttmerding, Abteilungsleiter Grundlagen und Daten, Mobilitätsreferat, Landeshauptstadt München"
