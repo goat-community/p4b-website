@@ -112,7 +112,7 @@ name = "Datenschutzerklärung"
 url = "/privacy/"
 weight = 4
 [[languages.de.menu.right]]
-name = "GOAT testen"
+name = "Demo anfragen"
 url = "/request-demo/"
 weight = 1
 [languages.de.menu.right.params]
@@ -272,8 +272,8 @@ name = "Privacy"
 url = "/privacy/"
 weight = 4
 [[languages.en.menu.right]]
-name = "Try GOAT"
-url = "/goat-application/"
+name = "Request Demo"
+url = "/request-demo/"
 weight = 1
 [languages.en.menu.right.params]
 button = "primary-outline"
