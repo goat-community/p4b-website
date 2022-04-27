@@ -129,9 +129,18 @@ sections:
         url: "/contact/"
         label: "Contact us."
   - order: 7
-    blog_section: true
-    background: default
-    background_color_content: default
+    award_section:
+      background_color_content: default
+      heading: awards
+      items:
+      - logo: "/images/top-50-startups-2021-siegel.png"
+        url: https://www.top50startups.de/start-ups/ranking/2021
+      - logo: "/images/index/innovationspreis.webp"
+        url: https://muenchen.digital/blog/innovationspreis-2021/
+      - logo: "/images/index/bitkom_award.webp"
+        url: https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021
+      - logo: "/images/index/gruendungspreis_new.webp"
+        url: https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Meldungen/2021/GW_Preisverleihung_Sommerrunde.html
   - order: 8
     development_goals_section:
       background_color_content: default
@@ -149,18 +158,11 @@ sections:
       - logo: "/images/index/SDG13.webp"
         url: "/mission"
   - order: 9
-    award_section:
-      background_color_content: default
-      heading: awards
-      items:
-      - logo: "/images/top-50-startups-2021-siegel.png"
-        url: https://www.top50startups.de/start-ups/ranking/2021
-      - logo: "/images/index/innovationspreis.webp"
-        url: https://muenchen.digital/blog/innovationspreis-2021/
-      - logo: "/images/index/bitkom_award.webp"
-        url: https://www.bitkom.org/Presse/Presseinformation/Plan4Better-Gewinner-Smart-City-Startup-Award-2021
-      - logo: "/images/index/gruendungspreis_new.webp"
-        url: https://www.de.digital/DIGITAL/Redaktion/DE/Gruenderwettbewerb/Meldungen/2021/GW_Preisverleihung_Sommerrunde.html
+    blog_section: true
+    background: default
+    background_color_content: default
+
+
   - order: 10
     funded_section:
       background_color_content: default
