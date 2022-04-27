@@ -52,7 +52,10 @@
           <div class="uk-article-content uk-article-post uk-text-size-m">
             {{ .Content }}
             <div>
-            <div class="uk-text-medium uk-margin-small-top uk-text-center">Share article</div>
+              <hr>
+            <div class="uk-text-medium uk-margin-small-top uk-text-center">            
+              <h4 class="share">Share article</h4>
+            </div>
             <div class="uk-grid-small uk-flex-center uk-child-width-auto uk-margin-top" data-uk-grid>
                 <div><a class="uk-link-social" href="https://twitter.com/intent/tweet?url={{.Permalink}}&text={{.Title}}" target="_blank"><span data-uk-icon="icon: twitter"></span></a></div>
                 <div><a class="uk-link-social" href="https://www.linkedin.com/shareArticle?mini=true&url={{.Permalink}}" target="_blank"><span data-uk-icon="icon: linkedin"></span></a></div>
