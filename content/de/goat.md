@@ -16,13 +16,13 @@ quote_section:
   quote_items:
   - quote_image: "/images/index/digital-freiburg.png"
     quote_text: '„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.“​'
-    author_name: "Michael Bauder, Stadt Freiburg"
-  - quote_image: "/images/index/quote-img.png"
-    quote_text: '„Hohes Potential des Tools, Ausweitung auf ganz Deutschland wäre ein großer Mehrwert“​'
-    author_name: "Funktion"
-  - quote_image: "/images/index/quote-img.png"
-    quote_text: '„Hohes Potential des Tools, Ausweitung auf ganz Deutschland wäre ein großer Mehrwert“​'
-    author_name: "Funktion"
+    author_name: "Dr. Michael Bauder, Stadt Freiburg"
+  - quote_image: "/images/index/logo_freising.webp"
+    quote_text: '„Eine richtungsweisende Unterstützung bei der Umsetzung der 15-Minuten-Stadt!“​'
+    author_name: "Jonas Bellingrodt, Amt für Stadtplanung und Umwelt, Stadt Freising"
+  - quote_image: "/images/index/logo_psu.webp"
+    quote_text: '„GOAT hat entscheidende Vorteile für eine umweltgerechte Stadt-, Orts- und Raumplanung, da es von vornherein die Nutzerperspektive beinhaltet und nicht zuerst die Expertensicht repräsentiert. Das ist neu!“​'
+    author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
 discover_section:
   list_item:
   - heading: "Das Tool für die integrierte Stadt- und Verkehrsplanung."
