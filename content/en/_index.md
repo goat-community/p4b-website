@@ -15,12 +15,16 @@ plan_section:
   img: "/images/index/mockup_bridge.png"
 brand_slider:
   slider_img:
-  - img: "/images/index/werk1.png"
-  - img: "/images/index/digital-freiburg.png"
-  - img: "/images/index/mobidata-bm.png"
-  - img: "/images/index/tum.png"
-  - img: "/images/index/mobilitatsreferat.png"
-  - img: "/images/index/werk1.png"
+  - logo: "/images/werk1_logo_plain_trans.webp"
+  - logo: "/images/index/freiburg_logo.webp"
+  - logo: "/images/index/mobidata_bw.webp"
+  - logo: "/images/index/logo-tum.webp"
+  - logo: "/images/index/logo_lhm.webp"
+  - logo: "/images/index/logo_freising.webp"
+  - logo: "/images/index/logo_ffb.webp"
+  - logo: "/images/index/logo_munichways.webp"
+  - logo: "/images/index/logo_xpreneurs.webp"
+  - logo: "/images/index/GST_RGB.webp"
 planing_section:
   title: "Planning the city of tomorrow today."
   planing_items:
