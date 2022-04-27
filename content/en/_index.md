@@ -55,31 +55,31 @@ sections:
         title: "Scenario Bridge"
         sub_title: "Interactive change of the network"
         button:
-          url: "#"
+          url: "/goat/"
           label: "Learn more"  
       - videoURL: "https://player.vimeo.com/video/411721219?autoplay=1&loop=1&autopause=0"
         title: "Location Planning"
         sub_title: "Finding the ideal location for a new bike sharing station"
         button:
-          url: "#"
+          url: "/goat/"
           label: "Learn more"  
       - videoURL: "https://player.vimeo.com/video/311547681?autoplay=1&loop=1&autopause=0"
         title: "Calculating Walking Isochrones"
         sub_title: "Calculation of travel-time isochrones"
         button:
-          url: "#"
+          url: "/goat/"
           label: "Learn more"  
       - videoURL: "https://player.vimeo.com/video/370382250?autoplay=1&loop=1&autopause=0"
         title: "Calculation of Multi-Isochrones"
         sub_title: "Assessing how good a neighboorhood is served with certain amenities"
         button:
-          url: "#"
+          url: "/goat/"
           label: "Learn more"  
-      - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/422451126?autoplay=1&loop=1&autopause=0"
         title: "Visualize extensive spatial data"
         sub_title: "Visualization of numerous datasets, such as land use, noise levels and accident numbers"
         button:
-          url: "#"
+          url: "/goat/"
           label: "Learn more"  
       action_list_item:
       - title: "Immediate start-up"
@@ -161,8 +161,6 @@ sections:
     blog_section: true
     background: default
     background_color_content: default
-
-
   - order: 10
     funded_section:
       background_color_content: default
