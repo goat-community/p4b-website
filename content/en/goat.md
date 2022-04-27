@@ -23,6 +23,9 @@ quote_section:
   - quote_image: "/images/index/logo_psu.webp"
     quote_text: '„GOAT has decisive advantages for environmentally sound urban, local and spatial planning because it includes the user perspective from the outset and does not represent the expert view first. This is new!“​'
     author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
+  - quote_image: "/images/index/logo_lhm.webp"
+    quote_text: '„GOAT is a very good tool for calculating and visualising accessibility in transport and urban planning.“​'
+    author_name: "Attila Lüttmerding, Head of Mobility Data Unit, Department of Mobility, City of Munich"
 discover_section:
   list_item:
   - heading: "The tool for integrated city and traffic planning."
