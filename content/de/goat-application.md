@@ -18,7 +18,7 @@ url = ""
 block = "live"
 heading = "GOAT - Referenzen"
 template = "card-block"
-text = "GOAT ist ein übertragbares und hochflexibles Tool, das für verschiedene Anwendungsfälle eingesetzt werden kann. Im Rahmen von verschiedenen Projekten wurde GOAT bereits auf über 30 Untersuchungsgebiete übertragen. Eine Auswahl finden Sie im folgenden:"
+text = "GOAT ist ein übertragbares und hochflexibles Tool, das für unterschiedliche Anwendungsfälle eingesetzt werden kann. Im Rahmen von verschiedenen Projekten wurde GOAT bereits auf über 30 Untersuchungsgebiete übertragen. Eine Auswahl finden Sie im folgenden:"
 [[blocks]]
 background = "default"
 background_color_content = "default"

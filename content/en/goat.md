@@ -74,7 +74,7 @@ feature_section:
   heading: ''
   text: ''
   list_item:
-  - url: '/goatlive/'
+  - url: '/goat-application/'
     heading: 'GOAT-live'
     text: 'Here you can find our demo versions of GOAT. They are frequently enhanced with new features and up-to-date data.'
     icon : "location"
