@@ -95,7 +95,7 @@ sections:
         icon : "images/index/goat-icon.svg"
       - url: '/goat-application/'
         heading: 'References'
-        text: 'Detailed information on the technical background and guidance for participation in our open source projects.'
+        text: 'Explore previous applications of GOAT.'
         icon : "images/index/code.svg"
       - url: '/videos/'
         heading: 'Videos'
