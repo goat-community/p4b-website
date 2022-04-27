@@ -27,6 +27,7 @@ $(function() {
 
   $('.discover-slider').slick({
     centerMode: true,
+    infinite: true,
     centerPadding: '220px',
     slidesToShow: 1,
     slidesToScroll: 1,
@@ -54,6 +55,7 @@ $(function() {
     centerMode: true,
     centerPadding: '220px',
     slidesToShow: 1,
+    infinite: true,
     autoplay: true,
     autoplaySpeed: 3000,
     responsive: [
@@ -103,4 +105,17 @@ $(function() {
       $(".load-more-button").css("display", "none")
     }
   })
+  if ($('.funded_section').hasClass('primary') === true || $('.funded_section').hasClass('secondary') === true ) {    
+    $('.funded_section').removeClass('uk-padding-remove-top');
+  }
+  if ($('.development_goals_section').hasClass('primary') === true || $('.development_goals_section').hasClass('secondary') === true ) {    
+    $('.award_section').removeClass('uk-padding-remove-top');
+  }
+  else {
+    $('.award_section').addClass('uk-padding-remove-top');
+  }
+  if ($('.award_section').hasClass('primary') === true || $('.award_section').hasClass('secondary') === true ) {    
+    $('.award_section').removeClass('uk-padding-remove-top');
+    $('.funded_section').removeClass('uk-padding-remove-top');
+  }
 });
