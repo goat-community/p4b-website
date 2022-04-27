@@ -33,7 +33,7 @@ sections:
         author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
       - quote_image: "/images/index/logo_ffb.webp"
         quote_text: '„In Fürstenfeldbruck wird GOAT in der Stadt- und Verkehrsplanung genutzt und ist eine große Hilfe für die Erreichbarkeitsanalysen zu Fuß und mit dem Fahrrad“​'
-        author_name: "Montserrat Miramontes, Mobilitätsmanagerin, Stadt Fürstenfeldbruck"
+        author_name: "Dr. Montserrat Miramontes, Mobilitätsmanagerin, Stadt Fürstenfeldbruck"
 
   - order: 2
     discover_section:
