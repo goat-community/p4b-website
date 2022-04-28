@@ -51,7 +51,7 @@
             </form>
           </div>
         {{ end }}
-        <div class="uk-margin-m-top uk-text-small uk-width-3-4@m">{{ i18n "copyright" }}</div>
+        <div class="uk-margin-m-top uk-text-small uk-width-3-4@m">{{ i18n "copyright" | safeHTML }}</div>
         <div class="uk-margin-m-top uk-flex uk-flex-center uk-flex-left@m">
           <div class="uk-child-width-auto uk-grid-small" data-uk-grid>
             {{ range .Site.Menus.social -}}
