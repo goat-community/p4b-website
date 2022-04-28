@@ -50,7 +50,7 @@ sections:
       - heading: "Fact-based accessibility analyses"
         text: 'GOAT not only increases efficiency, but the fact-based analyzes also support decision-making and investment processes that have often been subjective up to now.'
         video:
-          video_bg: '/images/index/mockuper-2.png'
+          video_bg: '/images/index/mockuper-4.png'
           video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
 
   - order: 3
