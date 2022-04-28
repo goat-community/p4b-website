@@ -60,31 +60,31 @@ sections:
         title: "Brückenszenario"
         sub_title: "Interaktive Veränderung des Wegenetzes"
         button:
-          url: "#"
+          url: "/goat/"
           label: "Mehr erfahren"  
       - videoURL: "https://player.vimeo.com/video/411721219?autoplay=1&loop=1&autopause=0"
         title: "Standortplanung"
         sub_title: "Analyse geeigneter Standorte für neue Bike-Sharing-Stationen"
         button:
-          url: "#"
+          url: "/goat/"
           label: "Mehr erfahren"  
       - videoURL: "https://player.vimeo.com/video/311547681?autoplay=1&loop=1&autopause=0"
         title: "Isochronen berechnen"
         sub_title: "Berechnung von Reisezeit-Isochronen"
         button:
-          url: "#"
+          url: "/goat/"
           label: "Mehr erfahren"  
       - videoURL: "https://player.vimeo.com/video/370382250?autoplay=1&loop=1&autopause=0"
         title: "Berechnung von Multi-Isochronen"
         sub_title: "Analysieren, wie gut ein Stadtviertel mit bestimmten Einrichtungen versorgt ist"
         button:
-          url: "#"
+          url: "/goat/"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/422451126?autoplay=1&loop=1&autopause=0"
         title: "Eine Vielzahl an räumlichen Daten visualisieren"
         sub_title: "Visualisierung zahlreicher Datensätze, wie z.B. Flächennutzung, Lärmpegel und Unfallzahlen"
         button:
-          url: "#"
+          url: "/goat/"
           label: "Mehr erfahren"  
       action_list_item:
       - title: "Sofortige Inbetriebnahme"
@@ -166,7 +166,6 @@ sections:
   - order: 9
     blog_section: true
     background_color_content: default
-
   - order: 10
     background_color_content: default
     funded_section:

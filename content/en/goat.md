@@ -22,15 +22,18 @@ sections:
       - quote_image: "/images/index/digital-freiburg.png"
         quote_text: '„An excellent tool for data-driven, modern urban and mobility planning for ambitious 15-minute cities.“​'
         author_name: "Michael Bauder, City of Freiburg"
-      - quote_image: "/images/index/logo_freising.webp"
-        quote_text: '„A trend-setting support for the implementation of the 15-minute city“​'
-        author_name: "Jonas Bellingrodt, Department of Urban Planning and Environment, City of Freising"
-      - quote_image: "/images/index/logo_psu.webp"
-        quote_text: '„GOAT has decisive advantages for environmentally sound urban, local and spatial planning because it includes the user perspective from the outset and does not represent the expert view first. This is new!“​'
-        author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
       - quote_image: "/images/index/logo_lhm.webp"
         quote_text: '„GOAT is a very good tool for calculating and visualising accessibility in transport and urban planning.“​'
         author_name: "Attila Lüttmerding, Head of Mobility Data Unit, Department of Mobility, City of Munich"
+      - quote_image: "/images/index/logo_psu.webp"
+        quote_text: '„GOAT has decisive advantages for environmentally sound urban, local and spatial planning because it includes the user perspective from the outset and does not represent the expert view first. This is new!“​'
+        author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
+      - quote_image: "/images/index/logo_freising.webp"
+        quote_text: '„A trend-setting support for the implementation of the 15-minute city“​'
+        author_name: "Jonas Bellingrodt, Department of Urban Planning and Environment, City of Freising"
+      - quote_image: "/images/index/logo_ffb.webp"
+        quote_text: '„In Fürstenfeldbruck, GOAT is used in urban and transport planning and is a great help for accessibility analyses on walking and cycling."​'
+        author_name: "Dr. Montserrat Miramontes, Mobilitätsmanagerin, Stadt Fürstenfeldbruck"
 
 
   - order: 2
@@ -95,7 +98,7 @@ sections:
         icon : "images/index/goat-icon.svg"
       - url: '/goat-application/'
         heading: 'References'
-        text: 'Detailed information on the technical background and guidance for participation in our open source projects.'
+        text: 'Explore previous applications of GOAT.'
         icon : "images/index/code.svg"
       - url: '/videos/'
         heading: 'Videos'

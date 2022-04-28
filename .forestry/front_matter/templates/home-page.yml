@@ -1,0 +1,62 @@
+---
+label: Home page
+hide_body: true
+fields:
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: translationKey
+  label: translationKey
+- type: file
+  name: ogimage
+  label: ogimage
+- type: field_group
+  name: hero_section
+  label: hero_section
+  fields:
+  - type: text
+    name: layout
+    label: layout
+  - type: text
+    name: background_color_content
+    label: background_color_content
+  - type: file
+    name: image
+    label: image
+  - type: file
+    name: heading_logo
+    label: heading_logo
+  - type: list
+    name: list_item
+    label: list_item
+- type: field_group_list
+  name: sections
+  label: sections
+  fields:
+  - type: number
+    name: order
+    label: order
+  - type: field_group
+    name: quote_section
+    label: quote_section
+    fields:
+    - type: field_group_list
+      name: quote_items
+      label: quote_items
+      fields:
+      - type: file
+        name: quote_image
+        label: quote_image
+      - type: textarea
+        name: quote_text
+        label: quote_text
+      - type: text
+        name: author_name
+        label: author_name
