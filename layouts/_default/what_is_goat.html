@@ -4,7 +4,9 @@
     {{ if ne .layout "right" }}
     <div class="abo-goat-left">
       <div class="abo-goat-cont">
-        <h2 data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100"><img src="{{ .heading_logo | absURL }}" alt="Goat logo"></h3>
+        <h2 data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+          <img class="goat-heading-logo" src="{{ .heading_logo | absURL }}" alt="Goat logo">
+        </h3>
         <ul data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
           {{ range .list_item }}
           <li>{{.}}</li>
@@ -47,7 +49,7 @@
             <div class="quote-cont">
               <span class="quote-text">{{ .quote_text }}</span>
               {{ with .author_name }}
-              <span class="quote-name">S{{ . }}</span>
+              <span class="quote-name">Autor:in, {{ . }}</span>
               {{ end }}
             </div>
           </div>

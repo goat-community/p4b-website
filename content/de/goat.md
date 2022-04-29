@@ -54,7 +54,7 @@ sections:
         text: 'Mit GOAT steigert sich nicht nur die Effizienz, sondern die faktenbasierten Analysen unterstützen in bisher oft subjektiven Entscheidungs- und Investitionsprozessen.'
         video:
           video_bg: '/images/index/mockuper-4.png'
-          video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
+          video_url: ''
 
   - order: 3
     goat_abo_section:
