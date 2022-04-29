@@ -23,6 +23,6 @@ display_phone = false
 heading = "Kontakt"
 subheading = ""
 template = "contact-block"
-text = "Wenn Sie Ideen, Fragen oder Wünsche haben, können Sie uns gerne eine E-Mail schreiben oder einfach das untenstehende Kontaktformular nutzen. Wir freuen uns auf Ihre Nachrichten."
+text = "Wenn Sie Anfragen, Ideen oder Wünsche haben, können Sie uns gerne eine E-Mail schreiben oder einfach das untenstehende Kontaktformular nutzen. Wir freuen uns auf Ihre Nachrichten."
 
 +++
