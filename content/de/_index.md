@@ -81,7 +81,7 @@ sections:
           url: "/goat/"
           label: "Mehr erfahren"  
       - videoURL: "https://player.vimeo.com/video/422451126?autoplay=1&loop=1&autopause=0"
-        title: "Eine Vielzahl an räumlichen Daten visualisieren"
+        title: "Räumliche Daten visualisieren"
         sub_title: "Visualisierung zahlreicher Datensätze, wie z.B. Flächennutzung, Lärmpegel und Unfallzahlen"
         button:
           url: "/goat/"

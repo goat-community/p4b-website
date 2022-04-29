@@ -22,7 +22,7 @@ weight = 2
 [[languages.de.menu.center]]
 name = "Referenzen"
 parent = "GOAT"
-url = "/goat-application/"
+url = "/goat-references/"
 weight = 3
 [[languages.de.menu.center]]
 name = "Videos"
@@ -153,9 +153,9 @@ parent = "GOAT"
 url = "/en/goat/"
 weight = 2
 [[languages.en.menu.center]]
-name = "Application"
+name = "References"
 parent = "GOAT"
-url = "/goat-application/"
+url = "/goat-references/"
 weight = 3
 [[languages.en.menu.center]]
 name = "Videos"
