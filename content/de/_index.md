@@ -42,7 +42,7 @@ sections:
       - icon: "/images/index/plan-icon-front-2.png"
         iconBack: "/images/index/plan-icon-back-2.png"
         title: "Untersuchung infrastruktureller Veränderungen"
-        text: "GOAT ermöglicht Ihnen eine Vielzahl an Modellierungen von neuen Wegeverbindungen, Points-of-Interests oder Gebäuden vorzunehmen. Somit können Sie die besten Standort für neue Infrastruktur ermitteln."
+        text: "Mit GOAT können Sie Wegeverbindungen, Points-of-Interests und Gebäude hinzufügen, verändern oder entfernen. Somit können Sie z.B. den besten Standort für neue Infrastruktur ermitteln."
       - icon: "/images/index/plan-icon-front-3.png"
         iconBack: "/images/index/plan-icon-back-3.png"
         title: "Aufbereitung komplexer Daten"
