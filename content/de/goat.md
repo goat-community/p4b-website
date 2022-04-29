@@ -34,6 +34,9 @@ sections:
       - quote_image: "/images/index/logo_ffb.webp"
         quote_text: '„In Fürstenfeldbruck wird GOAT in der Stadt- und Verkehrsplanung genutzt und ist eine große Hilfe für die Erreichbarkeitsanalysen zu Fuß und mit dem Fahrrad“​'
         author_name: "Dr. Montserrat Miramontes, Mobilitätsmanagerin, Stadt Fürstenfeldbruck"
+      - quote_image: "/images/index/logo_mvv.webp"
+        quote_text: '„GOAT bringt einen großen Mehrwert für die Mobilitätsplaner, da dieses Tool sehr intuitiv ist und schnelle, optisch ansprechende und leicht verständliche Ergebnisse für einige der komplexesten Planungsprobleme liefert, die normalerweise spezialisierte Software, fundiertes Know-How sowie lange Analysezeiten erfordern."​'
+        author_name: "Shravan Shinde, Bereich Konzeption & Consulting, Münchner Verkehrs- und Tarifverbund GmbH"
 
   - order: 2
     discover_section:
