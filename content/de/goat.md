@@ -7,7 +7,7 @@ ogimage : "/images/index/goat-img.png"
 hero_section:
   layout: left
   background_color_content: default
-  image: "/images/index/goat-img.png"
+  image: "/images/GOAT/mockup-heatmap.webp"
   heading_logo: "/images/goat-logo.png"
   list_item:
   - Mit einer Vielzahl an Daten bestückt
@@ -34,13 +34,16 @@ sections:
       - quote_image: "/images/index/logo_ffb.webp"
         quote_text: '„In Fürstenfeldbruck wird GOAT in der Stadt- und Verkehrsplanung genutzt und ist eine große Hilfe für die Erreichbarkeitsanalysen zu Fuß und mit dem Fahrrad“​'
         author_name: "Dr. Montserrat Miramontes, Mobilitätsmanagerin, Stadt Fürstenfeldbruck"
+      - quote_image: "/images/index/logo_mvv.webp"
+        quote_text: '„GOAT bringt einen großen Mehrwert für die Mobilitätsplaner, da dieses Tool sehr intuitiv ist und schnelle, optisch ansprechende und leicht verständliche Ergebnisse für einige der komplexesten Planungsprobleme liefert, die normalerweise spezialisierte Software, fundiertes Know-How sowie lange Analysezeiten erfordern."​'
+        author_name: "Shravan Shinde, Bereich Konzeption & Consulting, Münchner Verkehrs- und Tarifverbund GmbH"
 
   - order: 2
     discover_section:
       background_color_content: primary
       list_item:
       - heading: "Das Tool für die integrierte Stadt- und Verkehrsplanung."
-        text: 'Wir bieten mit GOAT eine Planungssoftware, die es erlaubt mit Hilfe von Erreichbarkeitsanalysen mühelos den Ist-Zustand zu analysieren und neue Konzepte und Vorhaben, wie den Bau neuer Infrastruktur oder Einrichtungen (z.B. Kindergarten, Bikesharing) zu bewerten.'
+        text: 'Wir bieten mit GOAT eine Planungssoftware, die es erlaubt mit Hilfe von Erreichbarkeitsanalysen mühelos den Ist-Zustand zu analysieren und neue Konzepte und Vorhaben, wie den Bau neuer Infrastruktur oder Einrichtungen (z.B. Kindergarten, Bikesharing Station) zu bewerten.'
         button:
           url: '#'
           label: 'GOAT-Abo entdecken'

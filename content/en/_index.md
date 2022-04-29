@@ -4,18 +4,18 @@ description: Digital planning support systems to shape sustainable mobility and 
 ogimage: /images/index/heatmap-muc-1.webp
 header:
   layout: video
-  video_bg: "/images/index/video.png"
-  video: "/video/Plan4Better Video Draft Cropped.mp4"
+  video_bg: "/images/index/video.webp"
+  video: "/video/Plan4Better_Website_Video.mp4"
 sections:
   - order: 1
     plan_section:
       background_color_content: default
-      title: "You can plan with us."
-      description: "By merging urban and traffic planning, we enable the development of livable spaces and sustainable mobility."
+      title: "Plan sustainable cities and regions."
+      description: "By integrating urban and transport planning, we enable change-makers to develop liveable spaces and sustainable mobility."
       button:
         url: "#"
         label: "Discover Solutions"
-      img: "/images/index/mockup_bridge.png"
+      img: "/images/index/mockup_bridge.webp"
   - order: 2
     brand_slider:
       slider_img:
@@ -37,11 +37,11 @@ sections:
       - icon: "/images/index/plan-icon-front-1.png"
         iconBack: "/images/index/plan-icon-back-1.png"
         title: "Fact-based accessibility analysis"
-        text: "With the help of numerous accessibility indicators, such as isochrones and heat maps, you can use GOAT to quickly and user-friendly analyze the current status and develop suitable measures based on scenarios."
+        text: "By using various accessibility indicators, such as isochrones and heatmaps, GOAT allows you to quickly analyse the current situation in a user-friendly manner and develop suitable measures based on scenarios."
       - icon: "/images/index/plan-icon-front-2.png"
         iconBack: "/images/index/plan-icon-back-2.png"
         title: "Investigation of infrastructural changes"
-        text: "GOAT allows you to model a variety of new path connections, points of interest or buildings. This allows you to determine the best location for new infrastructure."
+        text: "With GOAT you can add, change or remove path connections, points of interests and buildings. This allows you to determine the best location for new infrastructure, for example."
       - icon: "/images/index/plan-icon-front-3.png"
         iconBack: "/images/index/plan-icon-back-3.png"
         title: "Processing of complex data"
@@ -53,7 +53,7 @@ sections:
   - order: 4
     action_section:
       background_color_content: secondary
-      heading: "Entdecken Sie GOAT in Action"
+      heading: "Discover GOAT in action"
       slider_item:
       - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
         title: "Scenario Bridge"
@@ -86,11 +86,11 @@ sections:
           url: "#"
           label: "Learn more"  
       action_list_item:
-      - title: "Immediate start-up"
+      - title: "Immediate commissioning"
         icon: "/images/index/timer-thin.png"
       - title: "Intuitive user interface"
         icon: "/images/index/user-check.png"
-      - title: "Integrated urban and traffic planning"
+      - title: "Integrated urban and transport planning"
         icon: "/images/index/Stadt-Verkehr.png"
       - title: "Increased in-house competencies"
         icon: "/images/index/Gesteigerte-Inhouse-Kompetenzen.png"
@@ -99,19 +99,19 @@ sections:
   - order: 5
     smart_tools_section:
       background_color_content: default
-      title: "Smart tools for the smart and sustainable city."
+      title: "Smart tools for smart and sustainable cities."
       action_items:
       - name: "GOAT"
-        img: "/images/index/Product-GOAT.png"
-        title: "Do you want to carry out your own planning?"
-        description: "GOAT is our cloud-based planning software that supports you in promoting sustainable mobility with interactive accessibility analyzes and scenario developments."
+        img: "/images/index/product-goat.webp"
+        title: "Do you want to conduct own analyses?"
+        description: "GOAT is our cloud-based planning software that supports you in promoting sustainable mobility with interactive accessibility analyses and scenario developments."
         button:
           background_color_content: default
           url: "/goat/"
           label: "GOAT Subscription"
-      - name: "advisory"
+      - name: "consulting"
         img: "/images/index/Product-Beratung.png"
-        title: "Are you looking for professional advice?"
+        title: "Are you looking for professional consulting?"
         description: "Our diverse team from different disciplines will be happy to advise you on innovative mobility concepts and individual problem solutions."
         button:
           background_color_content: secondary
@@ -120,7 +120,7 @@ sections:
       - name: "WEB-GIS"
         img: "/images/index/Product-Web-GIS.png"
         title: "Are you interested in other GIS tools?"
-        description: "We offer software solutions that you can use to create personalized map services, for example as an information tool for citizens or readers."
+        description: "We offer software solutions that allow you to create personalised map services, for example as an information tool for citizens or readers."
         button:
           background_color_content: secondary
           url: "/contact/"
@@ -135,7 +135,7 @@ sections:
   - order: 7
     award_section:
       background_color_content: default
-      heading: awards
+      heading: Awards
       items:
       - logo: "/images/top-50-startups-2021-siegel.png"
         url: https://www.top50startups.de/start-ups/ranking/2021
