@@ -16,7 +16,7 @@ sections:
       button:
         url: "/goat/"
         label: "Lösungen entdecken"
-      img: "/images/index/mockup_bridge.png"
+      img: "/images/index/mockup_bridge.webp"
   - order: 2
     brand_slider:
       slider_img:
@@ -103,7 +103,7 @@ sections:
       title: "Smarte Tools für die smarte und nachhaltige City."
       action_items:
       - name: "GOAT"
-        img: "/images/index/Product-GOAT.png"
+        img: "/images/index/product-goat.webp"
         title: "Sie wollen eigene Planungen durchführen?"
         description: "GOAT ist unsere cloud-basierte Planungssoftware, die Sie mit interaktiven Erreichbarkeitsanalysen und Szenario-Entwicklungen bei der Förderung der nachhaltigen Mobilität unterstützt."
         button:

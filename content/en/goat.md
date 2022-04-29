@@ -7,7 +7,7 @@ translationKey: "goat"
 hero_section:
   layout: left
   background_color_content: default
-  image: "/images/index/goat-img.png"
+  image: "/images/GOAT/mockup-heatmap.webp"
   heading_logo: "/images/goat-logo.png"
   list_item:
   - Equipped with a large amount of data

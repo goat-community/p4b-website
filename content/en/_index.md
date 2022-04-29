@@ -15,7 +15,7 @@ sections:
       button:
         url: "#"
         label: "Discover Solutions"
-      img: "/images/index/mockup_bridge.png"
+      img: "/images/index/mockup_bridge.webp"
   - order: 2
     brand_slider:
       slider_img:
@@ -102,7 +102,7 @@ sections:
       title: "Smart tools for the smart and sustainable city."
       action_items:
       - name: "GOAT"
-        img: "/images/index/Product-GOAT.png"
+        img: "/images/index/product-goat.webp"
         title: "Do you want to carry out your own planning?"
         description: "GOAT is our cloud-based planning software that supports you in promoting sustainable mobility with interactive accessibility analyzes and scenario developments."
         button:
