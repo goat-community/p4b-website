@@ -5,8 +5,8 @@ description: Digitale Planungswerkzeuge zur Förderung der aktiven Mobilität un
 ogimage: /images/index/heatmap-muc-1.webp
 header:
   layout: video
-  video_bg: "/images/index/video.png"
-  video: "/video/Plan4Better Video Draft Cropped.mp4"
+  video_bg: "/images/index/video.webp"
+  video: "/video/Plan4Better_Website_Video.mp4"
 sections:
   - order: 1
     plan_section:
