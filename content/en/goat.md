@@ -10,8 +10,8 @@ hero_section:
   image: "/images/GOAT/mockup-heatmap.webp"
   heading_logo: "/images/goat-logo.png"
   list_item:
-  - Equipped with a large amount of data
-  - Fusion of urban and traffic planning
+  - Equipped with a plethora of data
+  - Integration of urban and transport planning
   - Intuitive user interface
   - Open Source
 
@@ -39,8 +39,8 @@ sections:
   - order: 2
     discover_section:
       list_item:
-      - heading: "The tool for integrated city and traffic planning."
-        text: 'With GOAT, we offer planning software that allows you to easily analyze the current situation with the help of accessibility analyzes and to evaluate new concepts and projects, such as the construction of new infrastructure or facilities (e.g. kindergarten, bike sharing).'
+      - heading: "The tool for integrated urban and transport planning."
+        text: 'With GOAT, we offer a planning software that allows you to easily assess the current situation with the help of accessibility analyzes and to evaluate new concepts and projects, such as the construction of new infrastructure or facilities (e.g. kindergarten, bike sharing station).'
         button:
           url: '#'
           label: 'Discover GOAT subscription'
@@ -48,7 +48,7 @@ sections:
           video_bg: '/images/index/mockuper-2.png'
           video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
       - heading: "Processing of complex data"
-        text: 'GOAT is equipped with a wealth of complex spatial data. The GOAT subscription includes points of interest, buildings, population data, land use, environmental data and various background maps. In addition, you can easily integrate your own data sets.'
+        text: 'GOAT is equipped with a plethora of complex spatial data. The GOAT subscription includes points of interest, buildings, population data, land use, environmental data and various background maps. In addition, you can easily integrate your own data sets.'
         img: '/images/GOAT/data_gif.gif'
       - heading: "Fact-based accessibility analyses"
         text: 'GOAT not only increases efficiency, but the fact-based analyzes also support decision-making and investment processes that have often been subjective up to now.'
@@ -58,27 +58,27 @@ sections:
 
   - order: 3
     goat_abo_section:
-      heading: 'GOAT Abo'
-      text: 'The GOAT subscription allows you to put together GOAT individually, tailored to your needs. The pricing depends on the selected area size and the number of inhabitants. Bookable from as little as €3,000 / year.'
+      heading: 'GOAT Subscription'
+      text: 'The GOAT subscription allows you to compose GOAT individually, tailored to your needs. Pricing is based on the selected area and number of inhabitants. Can be booked from as little as € 3,000 / year.'
 
   - order: 4
     question_section:
       list_item:
       - img: '/images/index/undraw_map_re_60yf.png'
-        heading: 'Choose area size'
-        sub_heading: 'Municipality - district - transport association - ...'
+        heading: 'Choose Area Size'
+        sub_heading: 'Municipality - County - Transport Association - ...'
         text: 'Choose your desired area for GOAT. The pricing depends on the number of residents.'
       - img: '/images/index/undraw_pitching_re_fpgk.png'
-        heading: 'select modules'
-        sub_heading: 'Pedestrian traffic - bicycle traffic - public transport'
-        text: 'Each module enables you to carry out accessibility analyzes of the current status for the selected means of transport (foot, bike and/or public transport) independently of the selected functions.'
+        heading: 'Select Modules'
+        sub_heading: 'Walking - Cycling - Public Transport'
+        text: 'Each module allows you to perform accessibility analyses of the current state for the selected modes of transport (walking, cycling and/or public transport), regardless of the functions selected.'
       - img: '/images/index/undraw_select_option_re_u4qn.png'
-        heading: 'Choose scenario functions'
-        sub_heading: 'Paths - points of interest - buildings'
-        text: 'The scenario functions make it possible to analyze the effects of new infrastructure (paths, POIs, and/or buildings) and to determine the impact on accessibility.'
+        heading: 'Choose Scenario Functionalities'
+        sub_heading: 'Paths - Points of Interest - Buildings'
+        text: 'The scenario functionalities allow to analyze the effects of new infrastructure (paths, POIs, and/or buildings) and to determine the impact on accessibility.'
       - img: '/images/index/undraw_team_spirit_re_yl1v.png'
-        heading: 'Choose number of users'
-        text: 'By default, a:e user:in is included in the price. If you would like to use GOAT in a team, you are welcome to add more users.'
+        heading: 'Choose Number of Users'
+        text: 'By default, one user is included in the price. If you would like to use GOAT in a team, you are welcome to add more users.'
 
   - order: 5
     goat_contact_section:
@@ -98,7 +98,7 @@ sections:
         icon : "images/index/goat-icon.svg"
       - url: '/goat-application/'
         heading: 'References'
-        text: 'Explore previous applications of GOAT.'
+        text: 'Explore previous projects and applications of GOAT.'
         icon : "images/index/code.svg"
       - url: '/videos/'
         heading: 'Videos'
@@ -106,13 +106,13 @@ sections:
         icon : "images/index/video.svg"
       - url: '/tutorials/isochrone/'
         heading: 'Tutorials'
-        text: 'Explanation of the individual functions of GOAT and step-by-step guides for answering typical planning questions.'
+        text: 'Explanation of the GOAT functionalities and step-by-step guidelines for using GOAT.'
         icon : "images/index/docs.svg"
 
   - order: 7
     service_section:
       heading: 'More services'
-      text: 'We are happy to support you in the best possible implementation of your project through:​Workshops and training courses, implementation of individual functions (e.g. accessibility check, school route check)​, additional programming hours for individual adjustments​and consulting services using GOAT.'
+      text: 'We are happy to support you in the best possible implementation of your project through:​ Workshops and training courses, implementation of individual functions (e.g. wheelchair accessibility check, school route check)​, additional programming hours for individual adjustments​and consulting services using GOAT.'
       list_items: 
       - url: ''
         heading: ''
