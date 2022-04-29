@@ -49,7 +49,7 @@ sections:
           video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
       - heading: "Aufbereitung komplexer Daten"
         text: 'GOAT ist mit einer Fülle an komplexen räumlichen Daten ausgestattet. Im GOAT-Abo sind u.a. Points-of-Interests, Gebäude, Bevölkerungsdaten, Flächennutzung, Umweltdaten und verschiedene Hintergrundkarten enthalten. Außerdem können problemlos eigene Datensätze integriert werden.'
-        img: '/images/goat/data_gif.gif'
+        img: '/images/GOAT/data_gif.gif'
       - heading: "Faktenbasierte Erreichbarkeitsanalysen"
         text: 'Mit GOAT steigert sich nicht nur die Effizienz, sondern die faktenbasierten Analysen unterstützen in bisher oft subjektiven Entscheidungs- und Investitionsprozessen.'
         video:

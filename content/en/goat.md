@@ -49,7 +49,7 @@ sections:
           video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
       - heading: "Processing of complex data"
         text: 'GOAT is equipped with a wealth of complex spatial data. The GOAT subscription includes points of interest, buildings, population data, land use, environmental data and various background maps. In addition, you can easily integrate your own data sets.'
-        img: '/images/index/Aufbereitung-komplexer.gif'
+        img: '/images/GOAT/data_gif.gif'
       - heading: "Fact-based accessibility analyses"
         text: 'GOAT not only increases efficiency, but the fact-based analyzes also support decision-making and investment processes that have often been subjective up to now.'
         video:
