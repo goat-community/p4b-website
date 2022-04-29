@@ -16,7 +16,7 @@ description: 'Wir gehen aufs Ganze und gründen ein Start-up: Plan4Better! Hier 
 ---
 ## Wie alles begann 
 
-Unser gemeinsamer Weg begann als Wissenschaftler an der TUM, genauer gesagt, am [Lehrstuhl für Siedlungsstruktur und Verkehrsplanung](https://www.bgu.tum.de/sv/startseite/). Dort haben wir seit über 3 Jahren voller Enthusiasmus an der Entwicklung von [GOAT](../../was-ist-goat) gearbeitet. Mit Hilfe des Erreichbarkeitsansatzes und einer Vielzahl an Daten konnten wir eine praxistaugliche Version von GOAT entwickeln, die PlanerInnen und EntscheidungsträgerInnen dabei hilft, effektiver für den Fuß- und Radverkehr zu planen. 
+Unser gemeinsamer Weg begann als Wissenschaftler an der TUM, genauer gesagt, am [Lehrstuhl für Siedlungsstruktur und Verkehrsplanung](https://www.bgu.tum.de/sv/startseite/). Dort haben wir seit über 3 Jahren voller Enthusiasmus an der Entwicklung von [GOAT](../../goat) gearbeitet. Mit Hilfe des Erreichbarkeitsansatzes und einer Vielzahl an Daten konnten wir eine praxistaugliche Version von GOAT entwickeln, die PlanerInnen und EntscheidungsträgerInnen dabei hilft, effektiver für den Fuß- und Radverkehr zu planen. 
 
 Um auch weiterhin eine kontinuierliche Entwicklung von GOAT zu gewährleisten und das Tool gleichzeitig in die breite Praxisanwendung zu bringen, haben wir uns kürzlich dazu entschieden, unsere Aktivitäten neu auszurichten und ein Start-up zu gründen: Plan4Better!
 

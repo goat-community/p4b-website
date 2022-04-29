@@ -15,7 +15,7 @@ weight = 1
 heading = "Geo Open Accessibility Tool - GOAT"
 text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeitsanalysen für den Fuß- und Radverkehr, sowie die Stadt- und Quartiersplanung. Detaillierte Infos finden Sie auf den folgenden Seiten."
 [[languages.de.menu.center]]
-name = "Was ist GOAT?"
+name = "GOAT-Abo"
 parent = "GOAT"
 url = "/goat/"
 weight = 2
@@ -148,7 +148,7 @@ weight = 1
 heading = "Geo Open Accessibility Tool - GOAT"
 text = "GOAT is an interactive webtool for accessibility analysis on walking and cycling. Find out more by visiting the subpages."
 [[languages.en.menu.center]]
-name = "What is GOAT?"
+name = "GOAT-Subscription"
 parent = "GOAT"
 url = "/en/goat/"
 weight = 2

@@ -40,7 +40,7 @@ sections:
       background_color_content: primary
       list_item:
       - heading: "Das Tool für die integrierte Stadt- und Verkehrsplanung."
-        text: 'Wir bieten mit GOAT eine Planungssoftware, die es erlaubt mit Hilfe von Erreichbarkeitsanalysen mühelos den Ist-Zustand zu analysieren und neue Konzepte und Vorhaben, wie den Bau neuer Infrastruktur oder Einrichtungen (z.B. Kindergarten, Bikesharing) zu bewerten.'
+        text: 'Wir bieten mit GOAT eine Planungssoftware, die es erlaubt mit Hilfe von Erreichbarkeitsanalysen mühelos den Ist-Zustand zu analysieren und neue Konzepte und Vorhaben, wie den Bau neuer Infrastruktur oder Einrichtungen (z.B. Kindergarten, Bikesharing Station) zu bewerten.'
         button:
           url: '#'
           label: 'GOAT-Abo entdecken'
