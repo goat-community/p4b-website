@@ -79,11 +79,14 @@
       {{ range .slider_item }}
       <div class="discover-item">
         <div class="discover-item-inner" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
-          <div style="padding:56.25% 0 0;position:relative"><iframe class="lazy"
+          <div class="discoverVideoWrapper">
+            <img class="spinner" src="/images/spinner.gif" alt="spinner" />
+            <iframe class="lazy"
               sandbox="allow-same-origin allow-scripts allow-popups" src="{{ .videoURL | absURL }}" loading="lazy"
-              title="Coffee Collective" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen="" data-ll-status="loaded"></iframe></div>
+              title="{{.title}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen="" data-ll-status="loaded">
+            </iframe>
+          </div>
           <div class="discover-cont">
             <div class="discover-txt">
               <h5>{{.title}}</h5>

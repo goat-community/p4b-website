@@ -4,7 +4,7 @@
   {{ if and (.Params.header.layout) (not (eq .Params.header.layout "none")) }}
     {{ if eq .Params.header.layout "video" }}
       <section class="video-scn">
-        <img src="{{ .Params.header.video_bg | absURL }}" alt="Video">
+        <!-- <img src="{{ .Params.header.video_bg | absURL }}" alt="Video"> -->
         <video poster="{{ .Params.header.video_bg| absURL }}" autoplay="autoplay" loop="loop" muted defaultMuted playsinline  oncontextmenu="return false;"  preload="auto" class="videoplay">
         <source src="{{ .Params.header.video | absURL }}" type="video/mp4">
         </video>

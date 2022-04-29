@@ -19,16 +19,16 @@ sections:
   - order: 2
     brand_slider:
       slider_img:
+      - logo: "images/index/logo_werk1.webp"
       - logo: "/images/index/freiburg_logo.webp"
       - logo: "/images/index/mobidata_bw.webp"
       - logo: "/images/index/logo-tum.webp"
       - logo: "/images/index/logo_lhm.webp"
       - logo: "/images/index/logo_freising.webp"
       - logo: "/images/index/logo_ffb.webp"
+      - logo: "/images/index/logo_munichways.webp"
       - logo: "/images/index/logo_xpreneurs.webp"
       - logo: "/images/index/GST_RGB.webp"
-      - logo: "images/index/logo_werk1.webp"
-      - logo: "/images/index/logo_munichways.webp"
   - order: 3
     planing_section:
       background_color_content: default
@@ -59,31 +59,31 @@ sections:
         title: "Scenario Bridge"
         sub_title: "Interactive change of the network"
         button:
-          url: "/goat/"
+          url: "#"
           label: "Learn more"  
       - videoURL: "https://player.vimeo.com/video/411721219?autoplay=1&loop=1&autopause=0"
         title: "Location Planning"
         sub_title: "Finding the ideal location for a new bike sharing station"
         button:
-          url: "/goat/"
+          url: "#"
           label: "Learn more"  
       - videoURL: "https://player.vimeo.com/video/311547681?autoplay=1&loop=1&autopause=0"
         title: "Calculating Walking Isochrones"
         sub_title: "Calculation of travel-time isochrones"
         button:
-          url: "/goat/"
+          url: "#"
           label: "Learn more"  
       - videoURL: "https://player.vimeo.com/video/370382250?autoplay=1&loop=1&autopause=0"
         title: "Calculation of Multi-Isochrones"
         sub_title: "Assessing how good a neighboorhood is served with certain amenities"
         button:
-          url: "/goat/"
+          url: "#"
           label: "Learn more"  
-      - videoURL: "https://player.vimeo.com/video/422451126?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
         title: "Visualize extensive spatial data"
         sub_title: "Visualization of numerous datasets, such as land use, noise levels and accident numbers"
         button:
-          url: "/goat/"
+          url: "#"
           label: "Learn more"  
       action_list_item:
       - title: "Immediate commissioning"
@@ -106,7 +106,7 @@ sections:
         title: "Do you want to conduct own analyses?"
         description: "GOAT is our cloud-based planning software that supports you in promoting sustainable mobility with interactive accessibility analyses and scenario developments."
         button:
-          background_color_content: primary
+          background_color_content: default
           url: "/goat/"
           label: "GOAT Subscription"
       - name: "consulting"
