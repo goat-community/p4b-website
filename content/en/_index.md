@@ -162,9 +162,12 @@ sections:
       - logo: "/images/index/SDG13.webp"
         url: "/mission"
   - order: 9
-    blog_section: true
-    background: default
-    background_color_content: default
+    blog_section:
+      background_color_content: default
+      heading: News
+      twitter_timeline: 'https://twitter.com/plan4better?ref_src=twsrc%5Etfw'
+      linkedin_feed: 'https://www.linkedin.com/embed/feed/update/urn:li:share:6902248136526675968'
+
   - order: 10
     funded_section:
       background_color_content: default
