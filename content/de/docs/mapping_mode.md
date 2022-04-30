@@ -11,7 +11,7 @@ Welcome and thank you for your interest in contributing to the quality of open d
 In the following, you will find the steps to use GOAT’s editing tool “OSM Mapping Mode”.
 
 #### 1. Open GOAT OSM Mapping Mode
-First choose the desired GOAT location [here](../../goat-application/).
+First choose the desired GOAT location [here](../../goat-references/).
 In the tool, you will notice the OSM logo in the right-bottom corner.
 
 ![](/images/docs/mapping_mode/mapping_mode.png)

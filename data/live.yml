@@ -4,18 +4,26 @@
     en: Munich
     de: München
   text:
-    en: Munich is our home-base! This version of GOAT is usually the most up-to-date.
-    de: München ist unsere Home-Base! Im Rahmen einer Innovationsphase wurde GOAT von der Landeshauptstadt eingesetzt, um u.a. die Auswirkungen neuer Fuß- und Radwegeverbindungen zu analysieren, sowie geeignete Standorte für Bikesharing-Stationen zu identifizieren.
+    en: Munich is our home base! As part of various projects, GOAT was used by the City of Munich to analyse the impact of new walking and cycling connections and to identify suitable locations for bike-sharing stations.
+    de: München ist unsere Home-Base! Im Rahmen verschiedener Projekte wurde GOAT von der Landeshauptstadt eingesetzt, um u.a. die Auswirkungen neuer Fuß- und Radwegeverbindungen zu analysieren, sowie geeignete Standorte für Bikesharing-Stationen zu identifizieren.
   url: 
   comments: München
+- image: "/images/GOAT/freiburg.webp"
+  title:
+    en: Freiburg
+    de: Freiburg
+  text:
+    en: We developed new features with the city of Freiburg as part of the MobiDataBW innovation phase. In addition, GOAT is now used in regular operation by the city planning department and the public transport company.
+    de: Mit der Stadt Freiburg haben wir im Rahmen der MobiDataBW-Innovationsphase neue Funktionen entwickelt. Außerdem wird GOAT heute im Regelbetrieb vom Stadtplanungsamt und von der Freiburger Verkehrs AG eingesetzt.
+  url: 
+  comments: Freiburg
 - image: "/images/GOAT/ffb.webp"
   title:
     en: Fürstenfeldbruck
     de: Fürstenfeldbruck
   text:
-    en: This version of GOAT is a custom version for the municipality of Fürstenfeldbruck
-      near Munich. 
-    de: Fürstenfeldbruck war einer unserer Haupt-Entwicklungspartner, mit denen wir in einem ko-kreativen Prozess die GOAT Version 1.0 entwickelt haben. GOAT wurde von den lokalen Planer:innen u.a. eingesetzt, um die Anbindung neuer Wohngebiete und Verteilung der Supermärkte zu überprüfen 
+    en: Fürstenfeldbruck is one of our main development partners and was involved in the GOAT1.0 development process. GOAT was used by the local planners to calculate the effects of new path connections and to check suitable locations for new supermarkets. 
+    de: Fürstenfeldbruck ist einer unserer Haupt-Entwicklungspartner und war am GOAT1.0-Entwicklungsprozess beteiligt. GOAT wurde von den lokalen Planer:innen u.a. eingesetzt, um die Effekte neuer Wegeverbindungen zu berechnen und Verteilung der Supermärkte zu überprüfen. 
   url: 
   comments: Fürstenfeldbruck
 - image: "/images/GOAT/freising.webp"
@@ -23,16 +31,43 @@
     en: Freising
     de: Freising
   text:
-    en: This version of GOAT is an individualized version for the city of Freising.
-    de: Diese Version von GOAT ist eine individualisierte Version für die Stadt Freising.
-  url: https://freising.open-accessibility.org/
+    en: Freising is also one of our main development partners and was involved in the co-creative development process of GOAT version 1.0. GOAT was used by local planners to evaluate the connectivity of new residential areas. In addition, the local supply in rural areas was examined and suitable locations for new facilities were identified. 
+    de: Freising ist ebenfalls einer unserer Haupt-Entwicklungspartner und war am ko-kreativen Entwicklungsprozess der GOAT Version 1.0 beteiligt. GOAT wurde von den lokalen Planer:innen u.a. eingesetzt, um die Anbindung neuer Wohngebiete zu evaluieren. Außerdem wurde die Nahversorgung im ländlichen Raum untersucht und geeignete Standorte für neue Einrichtungen identifiziert. 
+  url: 
   comments: Freising
-- image: "/images/GOAT/freiburg.webp"
+- image: "/images/GOAT/spgg.webp"
   title:
-    en: Freiburg
-    de: Freiburg
+    en: San Pedro Garza García
+    de: San Pedro Garza García
   text:
-    en: This version was developed within the MobiDataBW innovation phase and contains new walkability analysis.
-    de: Diese Version ist im Rahmen der MobiDataBW-Innovationsphase entstanden und enthält neue Analysen zur Walkability.
-  url: https://freiburg.open-accessibility.org/
-  comments: Freiburg
+    en: As part of a pilot study, GOAT was applied to San Pedro Garza García in Mexico. Innovative data fusion strategies were developed that allow GOAT to be used even in regions with low OSM data availability. GOAT was used for accessibility analyses to kindergartens, schools and other public facilities and contributed to the municipal pedestrian master plan.
+    de: Im Rahmen einer Pilotstudie wurde GOAT auf San Pedro Garza García in Mexiko übertragen. Hierbei wurden innovative Datenfusionsstrategien entwickelt, die einen Einsatz von GOAT selbst in Regionen mit geringer OSM-Datenverfügbarkeit ermöglichen. GOAT wurde u.a. für Erreichbarkeitsanalysen zu Kindergärten, Schulen und weiteren öffentlichen Einrichtungen eingesetzt und trug zum städtischen Fußverkehrs-Masterplan bei.
+  url: 
+  comments: San Pedro Garza García
+- image: "/images/GOAT/bogota.webp"
+  title:
+    en: Bogotá
+    de: Bogotá
+  text:
+    en: In order to analyse social justice in Bogotá, GOAT was transferred to the first Latin American city and supplemented with socio-demographic data. Furthermore, various points-of-interest (such as cable car stations and police stations) were added to GOAT in order to adapt the tool to the local context. This study was part of a master's thesis at TUM.
+    de: Um die soziale Gerechtigkeit in Bogotá zu analysieren, wurde GOAT auf die erste lateinamerikanische Stadt übertragen und mit soziodemografischen Daten ergänzt. Außerdem wurde GOAT um diverse Points-of-Interest (wie Seilbahnstationen und Polizeistationen) ergänzt, um das Tool an den lokalen Kontext anzupassen. Diese Studie war Teil einer Masterarbeit an der TUM.
+  url: 
+  comments: Bogotá
+- image: "/images/GOAT/hasenbergl.webp"
+  title:
+    en: Hasenbergl-Lerchenau
+    de: Hasenbergl-Lerchenau
+  text:
+    en: As part of a master's thesis at TUM, GOAT was transferred to the Munich district and detailed analysis options for walkability were added, such as information on street quality (pavement width, surface condition, accessibility, etc.) and various temporal information (opening hours, lighting). 
+    de: Im Rahmen einer Masterarbeit an der TUM wurde GOAT auf den Münchner Stadtteil übertragen und detaillierte Analysemöglichkeiten zur Fußgängerfreundlichkeit, wie z.B. Informationen über die Straßenqualität (Gehwegbreite, Oberflächenbeschaffenheit, Barrierefreiheit etc.) und diverse zeitliche Informationen (Öffnungszeiten, Beleuchtung) hinzugefügt. 
+  url: 
+  comments: Hasenbergl-Lerchenau
+- image: "/images/GOAT/matosinhos.webp"
+  title:
+    en: Matosinhos
+    de: Matosinhos
+  text:
+    en: As part of a study project at TUM, GOAT was transferred to Matosinhos in Portugal. This was the first attempt to use GOAT outside Germany. With the help of local stakeholders, the relevant points-of-interest were identified and mapped. Various crowdsourcing measures were tested for this purpose.
+    de: Im Rahmen eines Studienprojekts an der TUM wurde GOAT nach Matosinhos in Portugal übertragen. Dies war der erste Versuch, GOAT außerhalb Deutschlands einzusetzen. Mit Hilfe von lokalen Stakeholdern wurden die relevanten Points-of-Interest identifiziert und kartiert. Hierfür wurden verschiedene Crowdsourcing-Maßnahmen getestet.
+  url: 
+  comments: Matosinhos

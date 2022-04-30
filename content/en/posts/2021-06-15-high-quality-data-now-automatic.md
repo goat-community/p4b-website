@@ -56,7 +56,7 @@ As shown on the map in Figure 2, it is also possible to identify streets with hi
 
 ## Automation algorithm
 
-Regardless, we decided to go even further! We did not want to analyze only one neighborhood in Munich. We wanted to capture the entire city, or even extend to [other cities where GOAT is currently in use](../../goat-application/). Our first challenge was to call the API for larger areas. To overcome it, we developed a function to divide the area into a grid of smaller squares.
+Regardless, we decided to go even further! We did not want to analyze only one neighborhood in Munich. We wanted to capture the entire city, or even extend to [other cities where GOAT is currently in use](../../goat-references/). Our first challenge was to call the API for larger areas. To overcome it, we developed a function to divide the area into a grid of smaller squares.
 
 The function also incorporates tiny time breaks in between the squares, so we would not overload the servers. Afterwards, we joined the extracted information from all the squares into a single JSON file.
 
