@@ -56,7 +56,7 @@
   <link rel="stylesheet" href="{{ $css.Permalink }}">
 {{ else -}}
   {{ $options := (dict "targetPath" "main.css" "outputStyle" "compressed" "includePaths" (slice "node_modules")) -}}
-  {{ $css := resources.Get "scss/main.scss" | minify | toCSS $options -}}
+  {{ $css := resources.Get "scss/main.scss" | toCSS $options -}}
   {{ $secureCSS := $css | resources.Fingerprint "sha512" -}}
   <link rel="stylesheet" href="{{ $secureCSS.Permalink }}">
 {{ end -}}

@@ -27,15 +27,15 @@
   class='brands-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'
   data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
   <!-- <div class="uk-container"> -->
-    <div class="brandslider">
-      {{ range .slider_img }}
-      <div class="b-item">
-        <div class="b-item-inner">
-          <img src="{{ .logo | absURL }}" alt="">
-        </div>
+  <div class="brandslider">
+    {{ range .slider_img }}
+    <div class="b-item">
+      <div class="b-item-inner">
+        <img src="{{ .logo | absURL }}" alt="">
       </div>
-      {{ end }}
     </div>
+    {{ end }}
+  </div>
   <!-- </div> -->
 </section>
 {{ end }}
@@ -48,8 +48,17 @@
       {{ range .planing_items }}
       <div class="planing-item" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
         <div class="planing-icon">
-          <img data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 1000" class="planing-icon-back" src="{{ .iconBack }}" alt="{{.title}}">
-          <img data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 500" class="planing-icon-front" src="{{ .icon }}" alt="{{.title}}">
+          {{ if .iconBack }}
+          <img data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 1000" class="planing-icon-back"
+            src="{{ .iconBack }}" alt="{{.title}}">
+          <img data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 500" class="planing-icon-front"
+            src="{{ .icon }}" alt="{{.title}}">
+          {{ else }}
+            {{ if .svg }}
+              {{ .svg | safeHTML }}
+            {{ end }}
+          {{ end }}
+
         </div>
         <div class="planing-cont">
           <h4>{{ .title }}</h4>
@@ -147,7 +156,7 @@
 {{ with .blog_section }}
 <section class="news-scn" {{if eq $order 1 }}id="next_section" {{end}}>
   <div class="uk-container">
-    <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">Neuigkeiten</h2>
+    <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{.heading}}</h2>
     <div class="news-list" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
       <div class="uk-child-width-1-2@s uk-child-width-1-3@l uk-grid-match uk-margin-medium-top uk-flex uk-flex-center"
         data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 200">
@@ -159,15 +168,19 @@
     </div>
     <div class="uk-column-1-2@s uk-margin-large-top"
       data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
+      {{ if .twitter_timeline }}
       <div class="twitter-feed">
         <a data-tweet-limit="2" class="twitter-timeline"
-          href="https://twitter.com/plan4better?ref_src=twsrc%5Etfw">Tweets by plan4better</a>
+          href="{{.twitter_timeline | absURL}}">Tweets by plan4better</a>
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
+      {{end}}
+      {{ if .linkedin_feed }}
       <div class="linked-in-feed">
-        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6902248136526675968" height="602"
+        <iframe src="{{.linkedin_feed | absURL}}" height="602"
           width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
       </div>
+      {{end}}
     </div>
   </div>
 </section>
@@ -217,7 +230,7 @@
 {{ end }}
 {{ with .funded_section }}
 <section
-  class='funded_section uk-section-large uk-section-default {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'
+  class='funded_section uk-section-large uk-section-default uk-padding-remove-top {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'
   {{if eq $order 1 }}id="next_section" {{end}}>
   <div class="uk-container uk-container-small uk-text-center">
     <div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex"
@@ -236,7 +249,7 @@
         <div class="uk-text-xsmall uk-margin-small-bottom">{{.}}</div>
         {{ end }}
         <img src={{.logo}} alt=Logo>
-        {{ with .text }}
+        {{ with .text2 }}
         <div class="uk-text-xsmall uk-margin-small-top">{{.}}</div>
         {{ end }}
       </div>
