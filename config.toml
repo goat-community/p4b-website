@@ -72,7 +72,7 @@ url = "/"
 weight = 3
 [languages.de.menu.center.params]
 heading = "Plan4Better - Über uns"
-text = "Wir sind Plan4Better - ein diverses Team aus Umweltingenieur*innen, GIS-Entwickler*innen und Verkehrsplaner*innen, vereint durch die Motivation einen Beitrag zur nachhaltigen Stadt- und Verkehrsplanung zu leisten. "
+text = "Wir sind Plan4Better - ein diverses Team aus Umweltingenieur:innen, GIS-Entwickler:innen und Verkehrsplaner:innen, vereint durch die Motivation einen Beitrag zur nachhaltigen Stadt- und Verkehrsplanung zu leisten. "
 [[languages.de.menu.center]]
 name = "Team"
 parent = "Über uns"

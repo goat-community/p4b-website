@@ -38,4 +38,4 @@ Weitere Innovationen aus unterschiedlichen Bereichen wie der Industrie, Medizin,
 
 ## Wir sagen Danke
 
-Vielen Dank für die gute Organisation auch an das Team vom [VDI/VDE Innovation + Technik GmbH](https://vdivde-it.de/ "VDI/VDE"). Herzlichen Glückwunsch und alles Gute an die weiteren Sieger*innen! Wir freuen uns über das Innovationsreichtum in Deutschland und sind guter Hoffnung für eine nachhaltige Zukunft.
+Vielen Dank für die gute Organisation auch an das Team vom [VDI/VDE Innovation + Technik GmbH](https://vdivde-it.de/ "VDI/VDE"). Herzlichen Glückwunsch und alles Gute an die weiteren Sieger:innen! Wir freuen uns über das Innovationsreichtum in Deutschland und sind guter Hoffnung für eine nachhaltige Zukunft.

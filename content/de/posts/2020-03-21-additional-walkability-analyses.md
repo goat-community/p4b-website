@@ -50,7 +50,7 @@ Die Analyse der ermittelten Daten offenbart, dass es im Untersuchungsgebiet eine
 
 ## Visualiserung der Walkability Kriterien
 
-Außerdem wurde das Frontend angepasst, um weitere Layer zu verschiedenen Kriterien zur fußläufigen Erreichbarkeit zu visualisieren (Beleuchtung, Rollstuhltauglichkeit, Gehwegbreite, Oberflächenbeschaffenheit, Anzahl der Fahrspuren, Höchstgeschwindigkeit, Parkmöglichkeiten, Straßenkreuzungen, Stadtmöbel), wodurch die Transportkomponente realistischer dargestellt wird (Kapitel 8). Diese Layer liefern den Anwender*Innen nützliche Informationen, und ermöglichen dadurch Schwachstellen im Fußwegnetzwerk leicht zu erkennen.
+Außerdem wurde das Frontend angepasst, um weitere Layer zu verschiedenen Kriterien zur fußläufigen Erreichbarkeit zu visualisieren (Beleuchtung, Rollstuhltauglichkeit, Gehwegbreite, Oberflächenbeschaffenheit, Anzahl der Fahrspuren, Höchstgeschwindigkeit, Parkmöglichkeiten, Straßenkreuzungen, Stadtmöbel), wodurch die Transportkomponente realistischer dargestellt wird (Kapitel 8). Diese Layer liefern den Anwender:innen nützliche Informationen, und ermöglichen dadurch Schwachstellen im Fußwegnetzwerk leicht zu erkennen.
 Die objektiv erhobenen Qualitätskriterien der Straßenebene können jedoch nicht das gesamte Konzept der fußläufigen Erreichbarkeit abdecken, daher wurden auch Aussagen von Passanten über die wahrgenommene Qualität der fußläufigen Erreichbarkeit einbezogen, um so ein umfassenderes Bild zu liefern. Das stellte sich als besonders wertvoll heraus, da die wahrgenommene Qualität oft von der objektiv gemessenen Qualität abweicht.
 
 ## Fazit

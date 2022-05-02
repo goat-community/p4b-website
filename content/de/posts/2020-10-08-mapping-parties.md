@@ -23,7 +23,7 @@ OSM-Daten werden von vielen StadtplanerInnen, GeographInnen und EntwicklerInnen 
 
 ## Mapping Parties
 
-Die Mapping-Partys beginnen immer mit einer kurzen, allgemeinen Einführung in OSM und die Tools, die für den Mapping-Prozess genutzt werden. Die Teilnehmenden werden anschließend in kleinen Gruppen aufgeteilt und bekommen unterschiedliche Mapping-Aufgaben zugewiesen. Der Mapping-Wettbewerb findet in unterschiedlichen Teilen der Stadt statt und dauert ungefähr zwei Stunden. Im Anschluss werden die Beiträge ausgewertet und die Gewinner*Innen bei einem Get-Together bekannt gegeben. In den vergangenen Jahren haben wir hierzu schöne Locations, wie dem Englischen Garten in München, ausgewählt.
+Die Mapping-Partys beginnen immer mit einer kurzen, allgemeinen Einführung in OSM und die Tools, die für den Mapping-Prozess genutzt werden. Die Teilnehmenden werden anschließend in kleinen Gruppen aufgeteilt und bekommen unterschiedliche Mapping-Aufgaben zugewiesen. Der Mapping-Wettbewerb findet in unterschiedlichen Teilen der Stadt statt und dauert ungefähr zwei Stunden. Im Anschluss werden die Beiträge ausgewertet und die Gewinner:innen bei einem Get-Together bekannt gegeben. In den vergangenen Jahren haben wir hierzu schöne Locations, wie dem Englischen Garten in München, ausgewählt.
 
 ![Teilnehmende einer Mapping Party im Enlischen Garten München](/images/blog/mapping_party/previous_mapping_parties.jpg "Teilnehmende")
 
