@@ -17,7 +17,7 @@ Wir freuen uns, verkünden zu können, dass wir den [Münchner Innovationspreis]
 
 ## Der Wettbewerb
 
-Die Startup-Community wurde durch den Wettbewerb aufgerufen, nachhaltige Lösungen für kommunale Angelegenheiten zu präsentieren. So entschieden auch wir uns, eine Bewerbung im Frühling 2021 einzureichen. Daraufhin wurden wir benachrichtigt, dass wir unter den Finalist*innen seien und somit im Sommer die Chance bekommen sollten, unsere Ideen der Jury vorzustellen.
+Die Startup-Community wurde durch den Wettbewerb aufgerufen, nachhaltige Lösungen für kommunale Angelegenheiten zu präsentieren. So entschieden auch wir uns, eine Bewerbung im Frühling 2021 einzureichen. Daraufhin wurden wir benachrichtigt, dass wir unter den Finalist:innen seien und somit im Sommer die Chance bekommen sollten, unsere Ideen der Jury vorzustellen.
 
 Zum Pitch wurden wir im späten Juli eingeladen und konnten diesen im [Munich Urban Colab](https://www.munich-urban-colab.de/) Gebäude halten. Das ist ein neu eröffneter Gebäudekomplex, der als Büro- und Eventfläche für Startups genutzt wird und unterschiedlichste Startups in einem Co-Working-Space zusammenbringen soll. Da das Urban Colab kurz zuvor erst eröffnet wurde, hatten wir die Ehre, dort Teil einer der ersten vor Ort Veranstaltungen zu sein.
 

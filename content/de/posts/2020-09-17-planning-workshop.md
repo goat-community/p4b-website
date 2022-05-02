@@ -23,7 +23,7 @@ Wir sind den teilnehmenden StadtplanerInnen, VerkehrsplanerInnen, ArchitektInnen
 
 ## Ablauf der Planungsworkshops
 
-Alle drei Planungsworkshops hatten eine Dauer von drei Stunden und verliefen nach einer ähnlichen Agenda. Zunächst wurde den Teilnehmenden das Planungswerkzeug GOAT vorgestellt. So konnten sie sich bereits mit den Hauptfunktionen des Tools vertraut machen. Das Projektteam präsentierte anschließend aktuelle Planungsfragen, die bereits im Vorfeld in Absprache mit den lokalen Stadtplaner*Innen, für den jeweiligen Kontext vorbereitet wurden. Darauf folgend bildeten die Teilnehmenden, auf Basis der jeweiligen Interessen, kleine Gruppen und arbeiteten gemeinsam an den Planungsfragen. Eine besondere Herausforderung stellte die COVID-19-Situation dar, potenzielle Risiken wurden durch das Einhalten der Abstandregeln und das Tragen von Masken minimiert.
+Alle drei Planungsworkshops hatten eine Dauer von drei Stunden und verliefen nach einer ähnlichen Agenda. Zunächst wurde den Teilnehmenden das Planungswerkzeug GOAT vorgestellt. So konnten sie sich bereits mit den Hauptfunktionen des Tools vertraut machen. Das Projektteam präsentierte anschließend aktuelle Planungsfragen, die bereits im Vorfeld in Absprache mit den lokalen Stadtplaner:innen, für den jeweiligen Kontext vorbereitet wurden. Darauf folgend bildeten die Teilnehmenden, auf Basis der jeweiligen Interessen, kleine Gruppen und arbeiteten gemeinsam an den Planungsfragen. Eine besondere Herausforderung stellte die COVID-19-Situation dar, potenzielle Risiken wurden durch das Einhalten der Abstandregeln und das Tragen von Masken minimiert.
 
 ![](/images/blog/planning_workshops/images_FR_FFB.png)
 
@@ -33,7 +33,7 @@ Die Planungsfragen basierten auf realen Planungsfragen aus der Praxis jeder einz
 
 * **Neue Entwicklungsgebiete**: Entwicklung von Szenarien für neue Wohngebiete mit lokaler Nahversorgung (z.B. Kindergarten, Supermarkt) und neuen Wegverbindungen
 * **Neue Fußgänger- und Fahrradbrücken**: Entwicklung von Szenarien für neue Brücken und Vergleich der Erreichbarkeitsveränderungen an verschiedenen Standorten
-* **Barrierefreier Umbau einer Fußgängerbrücke**: Entwicklung von Szenarien für den barrierefreien Umbau einer Fußgängerbrücke und ihre Auswirkungen auf die Barrierefreiheit für Rollstuhlfahrer*Innen
+* **Barrierefreier Umbau einer Fußgängerbrücke**: Entwicklung von Szenarien für den barrierefreien Umbau einer Fußgängerbrücke und ihre Auswirkungen auf die Barrierefreiheit für Rollstuhlfahrer:innen
 * **Standortplanung für Nahversorgung** (z.B. Supermarkt) und **Mobilitätsdienstleistungen** (z.B. Bikesharing- und Mobilitätsstationen): Vergleichen verschiedener Standorte durch Erreichbarkeitsanalysen mit Heatmaps und Multi-Isochronen
 
 Die folgende Abbildung zeigt die Ergebnisse einer beispielhaften Planungsfrage. Dabei ging es um die Auswirkungen einer Verdichtung auf eine ländliche Gemeinschaft in Bezug auf die Erreichbarkeit und stellt dadurch eine typische Herausforderung in der Stadt- und Verkehrsplanung dar.
@@ -53,4 +53,4 @@ Bei der Bearbeitung der Planungsfragen und bei der Feedbackrunde hatten die Teil
 * Ermöglichen die Heatmap zu exportieren
 * Den Vergleich von Isochronen unterschiedlicher Modi zu vereinfachen
 
-Die Vorschläge wurden sorgfältig dokumentiert. Diese werden, wann immer möglich, im weiteren Entwicklungsprozess umgesetzt. Einige der Funktionen befinden sich sogar bereits in Entwicklung und werden in Kürze veröffentlicht (siehe unsere [GitHub-Seite](https://github.com/goat-community/goat)). Im Anschluss an die Planungsworkshops wird ein abschließender Syntheseworkshop mit Teilnehmenden aus allen Gemeinden sowie weiteren Expert*Innen stattfinden. Dieser letzte Workshop im Rahmen des mFUND-Projekts wird genutzt, um weiteres Feedback zur Benutzererfahrung zu erhalten. Daraus werden weitere Schlussfolgerungen für den zukünftigen Entwicklungspfad von GOAT abgeleitet.
+Die Vorschläge wurden sorgfältig dokumentiert. Diese werden, wann immer möglich, im weiteren Entwicklungsprozess umgesetzt. Einige der Funktionen befinden sich sogar bereits in Entwicklung und werden in Kürze veröffentlicht (siehe unsere [GitHub-Seite](https://github.com/goat-community/goat)). Im Anschluss an die Planungsworkshops wird ein abschließender Syntheseworkshop mit Teilnehmenden aus allen Gemeinden sowie weiteren Expert:innen stattfinden. Dieser letzte Workshop im Rahmen des mFUND-Projekts wird genutzt, um weiteres Feedback zur Benutzererfahrung zu erhalten. Daraus werden weitere Schlussfolgerungen für den zukünftigen Entwicklungspfad von GOAT abgeleitet.

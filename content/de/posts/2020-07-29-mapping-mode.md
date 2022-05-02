@@ -21,7 +21,7 @@ description: Die Funktion von GOAT OSM-Mapping-Modus ermöglicht OpenStreetMap D
 ---
 ## Open Data Liebe
 
-Wir lieben Open-Source und Open-Data Projekte! Diese sind seit Beginn an das Herz und die Seele von GOAT. Aus diesem Grund ist die Architektur von GOAT komplett mit Open-Source-Software aufgebaut. Jeder kann etwas dazu beitragen, während der Betrieb und die Funktionalität von GOAT frei zugänglich bleibt. Deshalb ist GOAT hauptsächlich mit OpenStreetMap (OSM) gebaut. Die geographischen Daten von OSM sind eine unverzichtbare Datenquelle für zahlreiche Projekte weltweit. Das ist tausenden von Kartograf*Innen und Mitwirkenden zu verdanken. Wir sind bestrebt diese Daten nicht nur zu verwenden, sondern wollen darüber hinaus auch neue Daten für die Community beisteuern. Daher versuchen wir immer, wenn sich die Möglichkeit ergibt, lokal Daten zu erheben, wenn wir GOAT für ein bestimmtes Untersuchungsgebiet aufsetzen.
+Wir lieben Open-Source und Open-Data Projekte! Diese sind seit Beginn an das Herz und die Seele von GOAT. Aus diesem Grund ist die Architektur von GOAT komplett mit Open-Source-Software aufgebaut. Jeder kann etwas dazu beitragen, während der Betrieb und die Funktionalität von GOAT frei zugänglich bleibt. Deshalb ist GOAT hauptsächlich mit OpenStreetMap (OSM) gebaut. Die geographischen Daten von OSM sind eine unverzichtbare Datenquelle für zahlreiche Projekte weltweit. Das ist tausenden von Kartograf:innen und Mitwirkenden zu verdanken. Wir sind bestrebt diese Daten nicht nur zu verwenden, sondern wollen darüber hinaus auch neue Daten für die Community beisteuern. Daher versuchen wir immer, wenn sich die Möglichkeit ergibt, lokal Daten zu erheben, wenn wir GOAT für ein bestimmtes Untersuchungsgebiet aufsetzen.
 
 ## OSM Mapping Mode
 

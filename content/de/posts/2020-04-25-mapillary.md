@@ -42,7 +42,7 @@ Um diese Aufgabe zu organisieren, haben wir bei Mapillary die Funktion „Captur
 
 ![Unterteilung von Fürstenfeldbruck in tasks in Mapillary Driver.](/images/blog/mapillary/mapillary_tasks.webp "Karte von Fürstenfeldbruck")
 
-_Abbildung 3. Das Gebiet in Fürstenfeldbruck, aufgeteilt nach Aufgaben und Zuordnung der einzelnen Fahrer*Innen_
+_Abbildung 3. Das Gebiet in Fürstenfeldbruck, aufgeteilt nach Aufgaben und Zuordnung der einzelnen Fahrer:innen_
 
 Durch diese Arbeiten liefern wir neue Daten und verbessern die bereits bestehen Daten zur Weiterentwicklung der GOAT-Funktionen in Fürstenfeldbruck. Gleichzeitig freuen wir uns aber auch sehr, die Daten mit allen Interessierten zu teilen. Die Informationen aus den Bildern und die KI-Algorithmen von Mapillary helfen u.a. dabei, die OSM-Daten zu verbessern und somit eine genauere Berechnungsgrundlage für das Routing zu schaffen.
 
@@ -68,6 +68,6 @@ Die Mapillary-Aufnahmen wurden genutzt, um die Qualität von OpenStreetMap-Daten
 
 _Abbildung 6. Nutzung von Mapillaryaufnahmen zur Verbesserung der OSM-Daten_
 
-Wir haben die Daten bisher hauptsächlich genutzt, um die Attribute des Straßennetzwerks in OSM zu vervollständigen. Auf der Grundlage der Bilder aus Mapillary, können viele relevante Attribute gesammelt werden, die für die Gewährleistung einer realistischeren Radroutenführung wichtig sind. Beispielsweise ist es möglich, die Art der Straßenoberfläche (gepflastert, ungepflastert, Asphalt, Beton, Pflastersteine etc.) zu identifizieren oder die Qualität des Straßenbelags (exzellent, gut, mittel, schlecht) einer Straße oder eines Weges zu spezifizieren. Es ist auch möglich, zu identifizieren, ob eine Straße für Fahrräder und Fußgänger*Innen ausgelegt ist und vieles mehr.
+Wir haben die Daten bisher hauptsächlich genutzt, um die Attribute des Straßennetzwerks in OSM zu vervollständigen. Auf der Grundlage der Bilder aus Mapillary, können viele relevante Attribute gesammelt werden, die für die Gewährleistung einer realistischeren Radroutenführung wichtig sind. Beispielsweise ist es möglich, die Art der Straßenoberfläche (gepflastert, ungepflastert, Asphalt, Beton, Pflastersteine etc.) zu identifizieren oder die Qualität des Straßenbelags (exzellent, gut, mittel, schlecht) einer Straße oder eines Weges zu spezifizieren. Es ist auch möglich, zu identifizieren, ob eine Straße für Fahrräder und Fußgänger:innen ausgelegt ist und vieles mehr.
 
 Wir werden weiterhin Bildmaterial sammeln und unsere Methodik verfeinern, um bessere Kartendaten für alle zu erstellen!
