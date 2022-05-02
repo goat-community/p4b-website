@@ -30,7 +30,7 @@ Wie viele Supermärkte können von einem bestimmten Punkt aus innerhalb von 10 G
 
 1. Wählen Sie im Menü „Filter Thematische Daten“ die Einrichtung „Supermarkt“ (zu finden in der Kategorie „Einkaufen“).
 
-<img src="/images/training_materials/Isochrone/amenity_supermarket.png" alt="amenity supermarket" style="max-height:300px;"/>
+<img src="/images/training_materials/Isochrone/amenity_supermarket.png" alt="amenity supermarket" style="max-height:400px;"/>
 
 2. Zoomen Sie zu dem Bereich, in dem Sie die Isochrone berechnen möchten.
    

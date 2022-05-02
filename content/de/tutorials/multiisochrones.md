@@ -29,7 +29,7 @@ Wie gut sind die Supermärkte aktuell über die Stadt verteilt? In welchen Stadt
 
 1. Wählen Sie im Menü „Filter Thematische Daten“ die Einrichtung „Supermarkt“ (zu finden in der Kategorie „Einkaufen“).
 
-<img src="/images/training_materials/Isochrone/amenity_supermarket.png" alt="amenity supermarket" style="max-height:300px;"/>
+<img src="/images/training_materials/Isochrone/amenity_supermarket.png" alt="amenity supermarket" style="max-height:400px;"/>
 
 2. Stellen Sie die Routing-Optionen wie gewünscht ein (z.B. Zu Fuß, 5km/h, 10 Min Reisezeit, 2 Isochronen).
 

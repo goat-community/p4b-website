@@ -30,7 +30,7 @@ How many supermarkets can be reached from a certain point in 10 minutes walking?
 
 1. Display all supermarkets by enabling the amenity "Supermarket" in the Thematic Data Filter under the category "Shop".
 
-<img src="/images/training_materials/Isochrone/amenity_supermarket_en.png" alt="amenity supermarket" style="max-height:300px;"/>
+<img src="/images/training_materials/Isochrone/amenity_supermarket_en.png" alt="amenity supermarket" style="max-height:400px;"/>
 
 2. Zoom in into the area where you want to calculate the isochrone.
 

@@ -29,7 +29,7 @@ How well are the supermarkets currently distributed over the city? In which dist
 
 1. Display the supermarkets as thematic data (can be found in the "shop" category).
 
-<img src="/images/training_materials/Isochrone/amenity_supermarket_en.png"  alt="Thematic Data" style="max-height:300px;"/>
+<img src="/images/training_materials/Isochrone/amenity_supermarket_en.png"  alt="Thematic Data" style="max-height:400px;"/>
 
 2. Set the routing options as desired (e.g. walking, 5km/h, 10 min travel time, 2 isochrones).
    
