@@ -18,15 +18,15 @@ In GOAT, a dataset with a variety of Points-of-Interest (POIs) is already provid
 
 3. Click on the plus symbol.
 
-<img src="/images/training_materials/Data_upload/user-data-upload_en.png" alt="Data Upload" style="max-height:400px;"/>
+<img src="/images/training_materials/Data_upload/user-data-upload_en.webp" alt="Data Upload" style="max-height:400px;"/>
 
 4. Select the POI category of the dataset. You can either choose one of the predefined categories or create your own. 
 
-<img src="/images/training_materials/Data_upload/poi_category_en.png" alt="Select POI category" style="max-height:200px;"/>
+<img src="/images/training_materials/Data_upload/poi_category_en.webp" alt="Select POI category" style="max-height:200px;"/>
 
 5. Select the file from your local folder and upload it. 
 
-<img src="/images/training_materials/Data_upload/browse_files_en.png" alt="Upload file" style="max-height:200px;"/>
+<img src="/images/training_materials/Data_upload/browse_files_en.webp" alt="Upload file" style="max-height:200px;"/>
 
 
 

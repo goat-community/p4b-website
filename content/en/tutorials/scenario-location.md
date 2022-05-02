@@ -45,11 +45,11 @@ GOAT allows you to develop your own location planning scenarios, for example, ad
 
 <img src="/images/training_materials/Scenario_POIs/name_scenario_en.png" alt="Name scenario" style="max-height:170px;"/>
 
-5. You're now in the scenario mode. To indicate the new mode, the menu color changes from green to dark blue.
-
-6. Select the layer you want to edit, in this case the "Point of Interest" Layer.
+5. Select the layer you want to edit, in this case the "Point of Interest" Layer.
 
 <img src="/images/training_materials/Scenario_POIs/poi_en.png" alt="Edit POIs" style="max-height:200px;"/>
+
+6. You're now in the scenario mode. To indicate the new mode, the menu color changes from green to dark blue.
 
 7. Edit the kindergartens (move existing kindergartens or add new kindergartens) to cover the neighborhoods with accessibility deficits. 
 

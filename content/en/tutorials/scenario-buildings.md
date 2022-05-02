@@ -12,7 +12,7 @@ GOAT allows the development of personalized scenarios for changes in the buildin
 
 #### Possible use cases (planning questions)
 
-* How does a new residential area effect the accessibility to schools in a certain neighbourhood?
+* How does a new residential area effect the accessibility to kindergartens in a certain neighbourhood?
 * Is the population in a new residential area served with the everyday necessities?
 * Where is the potential for further settlement development?
 
@@ -26,44 +26,42 @@ GOAT allows the development of personalized scenarios for changes in the buildin
 
 ###### 1.2 Step-by-Step guide
 
-1. Display the layer "Buildings" from the category "Buildings and landuse" and the layer "Population" from the category "Accessibility." These show all existing buildings (in red: buildings with residential use, in white: buildings without residential use) and the population density (the darker the background, the higher the population density).
+1. Display the layer "Buildings" from the category "Buildings and landuse".
 
-![Buildings layer](/images/training_materials/Scenario_buildings/building_layer.webp)
+<img src="/images/training_materials/Scenario_buildings/buildings_en.webp" alt="Buildings"/>
 
-2. Navigate to the scenario development menu and create a new scenario.
+2. In addition, enable the heatmap "Population Density". These show all existing buildings (in red: buildings with residential use, in white: buildings without residential use) and the population density (the darker the background, the higher the population density).
 
-<img src="/images/training_materials/Scenario_POIs/create_scenario.webp" alt="New scenario" style="max-height:150px;"/>
+<img src="/images/training_materials/Scenario_buildings/population_en.webp" alt="Population"/>
 
-3. Give the scenario a name and click on "OK."
+3. Navigate to the scenario development menu and create a new scenario.
 
-<img src="/images/training_materials/Scenario_buildings/name_scenario.webp" alt="Name scenario" style="max-height:200px;"/>
+<img src="/images/training_materials/Scenario_buildings/create_scenario_en.webp" alt="New scenario" style="max-height:250px;"/>
 
-4. Select which layer you want to edit, in this case the "Buildings" Layer.
+4. Give the scenario a name and click on "OK."
 
-<img src="/images/training_materials/Scenario_buildings/scenario_buildings.webp" alt="Edit Buildings" style="max-height:250px;"/>
+<img src="/images/training_materials/Scenario_buildings/name_scenario_en.webp" alt="Name scenario" style="max-height:150px;"/>
 
-5. Using the editing tools, you can draw and edit new buildings. Specify the type of use and the number of floors for each new building. In addition, you must set at least one entrance for each building. Once you have done this, the building will appear in green.
+5. Select which layer you want to edit, in this case the "Buildings" Layer.
 
-![Draw Buildings](/images/training_materials/Scenario_buildings/draw.webp)
+<img src="/images/training_materials/Scenario_buildings/scenario_buildings_en.webp" alt="Edit Buildings" style="max-height:250px;"/>
 
-6. In order to integrate the modified buildings into the database, they must be uploaded using the "Upload" button.
+6. Using the editing tools, you can draw and edit new buildings. Specify the type of use and the number of floors for each new building. In addition, you must set at least one entrance for each building. Once you have done this, the building will appear in green.
 
-<img src="/images/training_materials/Scenario_buildings/upload.webp" alt="Upload Buildings" style="max-height:250px;"/>
+<img src="/images/training_materials/Scenario_buildings/draw_en.webp" alt="Gebäude zeichnen" style="max-height:400px;"/>
 
-7. Change to the scenario view. By scrolling the map, the heatmap for population density is updated. The changed population is now included in the calculation.
+7. Display the kindergartens as Thematic Data.
+   
+8. Switch to the Isochrone Menu, change to the comparison mode, select the "Multiple" isochrone calculation mode and the "Study Area" method.
 
-![Scenario View](/images/training_materials/Scenario_buildings/scenario_heatmap.webp)
+<img src="/images/training_materials/Scenario_buildings/multiisochrones_en.webp" alt="Comparison multi isochrone" style="max-height:400px;"/>
 
-8. Display the primary schools as Thematic Data.
-9. Switch to the Isochrone Menu, change to the comparison mode, select the "Multiple" isochrone calculation mode and the "Study Area" method.
+9. Select the district on the map where you have carried out the redensification with a mouse click.
+    
+10. Click on "Calculate."
 
-<img src="/images/training_materials/Scenario_buildings/multiisochrones.webp" alt="Comparison multi isochrone" style="max-height:250px;"/>
+<img src="/images/training_materials/Scenario_buildings/calculate_en.webp" alt="Berechnen" style="max-height:310px;"/>
 
-10. Select the district on the map where you have carried out the redensification with a mouse click.
-11. Click on "Calculate."
+12. The resulting multi-isochrones show the catchment areas of the kindergartens (here for the mode "pedestrian" with 5-minutes catchment area in light green and 10-minutes catchment area in dark green). In this example case, it can be seen in the map that the new population is just at the border of the catchment area and thus has to walk a good 10 minutes to the nearest kindergarten.
 
-<img src="/images/training_materials/Scenario_buildings/calculate.webp" alt="Calculation" style="max-height:250px;"/>
-
-12. The resulting multi-isochrones show the catchment areas of the primary schools (here for the mode "pedestrian" with 5-minutes catchment area in light green and 10-minutes catchment area in dark green). The associated table shows how many additional people now live in the 5- and 10-minute catchment area of a primary school as a result of the redensification.
-
-![Result](/images/training_materials/Scenario_buildings/result.webp)
+<img src="/images/training_materials/Scenario_buildings/result_en.webp" alt="Ergebnis" style="max-height:400px;"/>

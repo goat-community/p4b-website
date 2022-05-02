@@ -29,27 +29,27 @@ Wie gut sind die Supermärkte aktuell über die Stadt verteilt? In welchen Stadt
 
 1. Wählen Sie im Menü „Filter Thematische Daten“ die Einrichtung „Supermarkt“ (zu finden in der Kategorie „Einkaufen“).
 
-<img src="/images/training_materials/Isochrone/amenity_supermarket.png" alt="amenity supermarket" style="max-height:400px;"/>
+<img src="/images/training_materials/Isochrone/amenity_supermarket.webp" alt="amenity supermarket" style="max-height:400px;"/>
 
 2. Stellen Sie die Routing-Optionen wie gewünscht ein (z.B. Zu Fuß, 5km/h, 10 Min Reisezeit, 2 Isochronen).
 
-<img src="/images/training_materials/Isochrone/isochrone_settings.png"  alt="choose isochrone range" style="max-height:220px;"/>
+<img src="/images/training_materials/Isochrone/isochrone_settings.webp"  alt="choose isochrone range" style="max-height:220px;"/>
 
 3. Wechseln Sie zum Isochronenberechnungsmodus „Multi“ und wählen die Methode „Ortsteil“ aus; diese wird später alle Ergebnisse nach Ortsteilen differenziert auflisten.
 
-<img src="/images/training_materials/Multiisochrones/multi.png"  alt="Multi Isochrone" style="max-height:200px;"/>
+<img src="/images/training_materials/Multiisochrones/multi.webp"  alt="Multi Isochrone" style="max-height:200px;"/>
 
 4. Wählen Sie dann per Mausklick alle gewünschten Ortsteile in der Karte aus.
 
-<img src="/images/training_materials/Multiisochrones/select_study_area.png"  alt="Select Districts"/>
+<img src="/images/training_materials/Multiisochrones/select_study_area.webp"  alt="Select Districts"/>
 
 5. Klicken Sie auf „Berechnen“.
 
-<img src="/images/training_materials/Multiisochrones/calculate.png"  alt="Calculate" style="max-height:205px;"/>
+<img src="/images/training_materials/Multiisochrones/calculate.webp"  alt="Calculate" style="max-height:205px;"/>
 
 6. Die resultierenden Multi-Isochronen zeigen Ihnen die Einzugsbereiche der Supermärkte (hier für den Modus „Zu Fuß“ mit 5 Minuten und 10 Minuten Einzugsbereich). Die zugehörige Tabelle zeigt nach Ortsteil sortiert, wie viele Menschen von der Gesamtbevölkerung in 5 bzw. 10 Minuten Zufußgehen einen Supermarket erreichen können. Über den Download-Button können Sie die Ergebnisse herunterladen.
 
-<img src="/images/training_materials/Multiisochrones/result_multiisochrone.png"  alt="Result" />
+<img src="/images/training_materials/Multiisochrones/result_multiisochrone.webp"  alt="Result" />
 
 #### 2 Erreichbarkeit von ÖV-Haltestellen
 
@@ -69,4 +69,4 @@ Wie viele Bewohner können in einer bestimmten Reisezeit mit dem Fahrrad eine Ö
    
 5. Die resultierenden Multi-Isochronen zeigen Ihnen die Einzugsbereiche der ÖV-Haltestellen (hier für den Modus „Fahrrad“ mit 5 Minuten Einzugsbereich und 2,5 Minuten Einzugsbereich). Die zugehörige Tabelle zeigt nach Ortsteil sortiert, wie viele Menschen von der Gesamtbevölkerung in 5 bzw. 2,5 Minuten Radfahren eine ÖV-Haltestelle erreichen können.
 
-<img src="/images/training_materials/Multiisochrones/result_multiisochrone_öv.png"  alt="Result" />
+<img src="/images/training_materials/Multiisochrones/result_multiisochrone_öv.webp"  alt="Result" />

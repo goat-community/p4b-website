@@ -30,21 +30,21 @@ How many supermarkets can be reached from a certain point in 10 minutes walking?
 
 1. Display all supermarkets by enabling the amenity "Supermarket" in the Thematic Data Filter under the category "Shop".
 
-<img src="/images/training_materials/Isochrone/amenity_supermarket_en.png" alt="amenity supermarket" style="max-height:400px;"/>
+<img src="/images/training_materials/Isochrone/amenity_supermarket_en.webp" alt="amenity supermarket" style="max-height:400px;"/>
 
 2. Zoom in into the area where you want to calculate the isochrone.
 
 3. Set the isochrone range to 10 minutes. Select the desired walking speed, the routing profile and the number of isochrones.
 
-<img src="/images/training_materials/Isochrone/isochrone_settings_en.png"  alt="choose isochrone range" style="max-height:230px;"/>
+<img src="/images/training_materials/Isochrone/isochrone_settings_en.webp"  alt="choose isochrone range" style="max-height:230px;"/>
 
 4. Place the starting point for the isochrone.
 
-<img src="/images/training_materials/Isochrone/starting_point_isochrone_en.png"  alt="set starting point" style="max-height:150px;"/>
+<img src="/images/training_materials/Isochrone/starting_point_isochrone_en.webp"  alt="set starting point" style="max-height:150px;"/>
 
 5. After the calculation has been carried out, a window with the results opens automatically. From this window you can see the number of supermarkets that can be reached within 10 minutes.
 
-<img src="/images/training_materials/Isochrone/results_supermarkets_en.png"  alt="results"/>
+<img src="/images/training_materials/Isochrone/results_supermarkets_en.webp"  alt="results"/>
 
 #### 2 Bicycle Routing
 
@@ -56,21 +56,21 @@ How many people can reach the train station within 5 minutes by bike?
 
 1. Change the routing mode to “cycling and set the isochrone range to 5 minutes.
 
-<img src="/images/training_materials/Isochrone/cycling_mode_en.png"  alt="Routing mode cycling" style="max-height:220px;"/>
+<img src="/images/training_materials/Isochrone/cycling_mode_en.webp"  alt="Routing mode cycling" style="max-height:220px;"/>
 
 2. Place the starting point for the isochrone calculation on the station.
 
 <!-- ![](/images/training_materials/Isochrone/starting-point-isochrone.webp) -->
-<img src="/images/training_materials/Isochrone/starting_point_isochrone_en.png"  alt="set starting point" style="max-height:150px;"/>
+<img src="/images/training_materials/Isochrone/starting_point_isochrone_en.webp"  alt="set starting point" style="max-height:150px;"/>
 
 3. After the calculation has been carried out, a window with the results opens automatically. From this window you can see the population that can reach the train station within 5 minutes of cycling.
 
-<img src="/images/training_materials/Isochrone/cycling_result_en.png"  alt="result"/>
+<img src="/images/training_materials/Isochrone/cycling_result_en.webp"  alt="result"/>
 
 4. By clicking on the download button you can download the isochrones as GeoJSON or Shapefile and the result table as Excel file.
 
-<img src="/images/training_materials/Isochrone/download_en.png"  alt="download" style="max-height:230px;"/>
+<img src="/images/training_materials/Isochrone/download_en.webp"  alt="download" style="max-height:230px;"/>
 
 5. The slider to the right of the download button can be used to visualise the routing network.
 
-<img src="/images/training_materials/Isochrone/network_en.png"  alt="network"/>
+<img src="/images/training_materials/Isochrone/network_en.webp"  alt="network"/>
