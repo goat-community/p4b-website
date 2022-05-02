@@ -39,7 +39,7 @@ GOAT ermöglicht Veränderungen in der Bebauung, wie z.B. die Errichtung eines n
 
 5. Wählen Sie den zu bearbeitenden Layer aus, in diesem Fall den „Gebäude” Layer.
 
-<img src="/images/training_materials/Scenario_buildings/population.webp" alt="Population"/>
+<img src="/images/training_materials/Scenario_buildings/scenario_buildings.webp" alt="Edit Buildings" style="max-height:250px;"/>
 
 6. Mittels der Bearbeitungstools können Sie neue Gebäude zeichnen und bearbeiten. Bestimmen Sie für neue Gebäude jeweils die Art der Nutzung und die Anzahl der Stockwerke. Außerdem muss für jedes Gebäude mindestens ein Eingang gesetzt werden. Nachdem dies getan wurde, erscheint das Gebäude in Grün.
 
