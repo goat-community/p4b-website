@@ -4,8 +4,7 @@
 {{ range ( sort (.Params.sections) ".order" "ace") }}
 {{ $order := .order }}
 {{ with .plan_section }}
-<section class='mit-uns-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if
-  eq $order 1 }}id="next_section" {{end}}>
+<section class='mit-uns-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }}id="next_section" {{end}}>
   <div class="uk-container">
     <div class="mit-uns-inner">
       <div class="mit-uns-left" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
@@ -40,8 +39,7 @@
 </section>
 {{ end }}
 {{ with .planing_section }}
-<section class='planing-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if
-  eq $order 1 }}id="next_section" {{end}}>
+<section class='planing-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }}id="next_section" {{end}}>
   <div class="uk-container">
     <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{ .title }}</h2>
     <div class="planing-inner">
@@ -71,8 +69,7 @@
 </section>
 {{ end }}
 {{ with .action_section }}
-<section class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if
-  eq $order 1 }}id="next_section" {{end}}>
+<section class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }}id="next_section" {{end}}>
   <div class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'>
     <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{.heading}}</h2>
     <div class="discover-list discover-slider">
@@ -134,9 +131,9 @@
             <h4>{{.title}}</h4>
             <p>{{.description}}</p>
             {{ with .button }}
-            <a href="{{.url | absURL }}"
-              class='cnt-btn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'>{{
-              .label }}</a>
+            <a href="{{.url | absURL }}" class='cnt-btn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'>
+              {{.label }}
+            </a>
             {{ end }}
           </div>
         </div>
@@ -147,8 +144,7 @@
 </section>
 {{ end }}
 {{ with .contact_section }}
-<section class='interested-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'
-  {{if eq $order 1 }}id="next_section" {{end}}>
+<section class='interested-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }}id="next_section" {{end}}>
   <div class="uk-contaner">
     <div data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
       {{.title}} <a href="{{.button.url | relURL }}">{{.button.label}}</a>
@@ -233,8 +229,7 @@
 {{ end }}
 {{ with .funded_section }}
 <section
-  class='funded_section uk-section-large uk-section-default uk-padding-remove-top {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'
-  {{if eq $order 1 }}id="next_section" {{end}}>
+  class='funded_section uk-section-large uk-section-default uk-padding-remove-top {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }}id="next_section" {{end}}>
   <div class="uk-container uk-container-small uk-text-center">
     <div class="uk-text-center uk-margin-medium-bottom uk-flex-center uk-flex"
       data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
