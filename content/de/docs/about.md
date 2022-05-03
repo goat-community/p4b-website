@@ -1,5 +1,5 @@
 ---
-title: What is GOAT?
+title: GOAT Philosophy
 permalink: /de/docs/about/
 lang: de
 sections:

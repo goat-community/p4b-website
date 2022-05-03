@@ -1,5 +1,5 @@
 ---
-title: Our Story
+title: GOAT Philosophy
 permalink: "/docs/about/"
 sections:
 - about
