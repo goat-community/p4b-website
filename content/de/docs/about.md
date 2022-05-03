@@ -5,8 +5,8 @@ lang: de
 sections:
 - about
 weight: 20
----
 
+---
 ### Main characteristics
 
 GOAT...
@@ -25,23 +25,18 @@ GOAT...
 
 ### Why GOAT?
 
-It is evident that active mobility plays a very important role in urban mobility. GOAT as accessibility instruments aims to  therefore aids in rising awareness to properly plan for pedestrians and cyclists during urban infrastructural developments. GOAT comes with numerous desirable features that makes it ideal for accessibility planning.
+It is evident that active mobility plays a very important role in urban mobility. GOAT as accessibility instruments aims to therefore aids in rising awareness to properly plan for pedestrians and cyclists during urban infrastructural developments. GOAT comes with numerous desirable features that makes it ideal for accessibility planning.
 
 Modelling active mobility (walking & cycling) in transport models is challenging and does not normally deliver the expected results. Urban planners and decision makers need elaborate support to properly plan and improve active mobility. This gap can be conveniently filled by accessibility models.
 
 Various accessibility tools exist already, however, there is still seen big potential for improvements. Especially in the following fields it is perceived that common accessibility tools lack in functionality:
 
-- Few of them consider active mobility.
-
-- They often allow no scenario building.
-
-- They tend to be hard or costly to implement.
-
-- Few of them are open source.
-
-- Transferring the tool to another study area can be painful.
-
-- Accessibility tools can be black boxes.
+* Few of them consider active mobility.
+* They often allow no scenario building.
+* They tend to be hard or costly to implement.
+* Few of them are open source.
+* Transferring the tool to another study area can be painful.
+* Accessibility tools can be black boxes.
 
 As much as GOAT may not be perfect in functionality and operation at the moment, it has come in place to address these emerging issues and address them.
 
@@ -49,15 +44,11 @@ As much as GOAT may not be perfect in functionality and operation at the moment,
 
 Although GOAT is at an early stage of development, it can be used to answer different planning questions. Some examples are:
 
-- How good is the walking accessibility to schools in different parts of the city?
-
-- How many residents are served by certain public transport stops? Where can the perfect location for a new public transport be in order to serve as many residents as possible?
-
-- What is the effect of a new pedestrian bridge on the accessibility of a neighborhood?- 
-
-- How does the accessibility of a place change if there is temporary closure of a walkway?
-
-- How high is the diversity and availability of gastronomy in different neighborhoods?
+* How good is the walking accessibility to schools in different parts of the city?
+* How many residents are served by certain public transport stops? Where can the perfect location for a new public transport be in order to serve as many residents as possible?
+* What is the effect of a new pedestrian bridge on the accessibility of a neighborhood?-
+* How does the accessibility of a place change if there is temporary closure of a walkway?
+* How high is the diversity and availability of gastronomy in different neighborhoods?
 
 Many more related questions on transport and land-use planning will follow. GOAT is mainly designed to be useful for planners, researchers and decision makers, but due to is open nature it invites everybody to use it.
 
@@ -65,11 +56,11 @@ Many more related questions on transport and land-use planning will follow. GOAT
 
 GOAT architecture is completely built with open source software, in addition it is open source itself (Licence GPL-3.0). This means that GOAT can be modified and used by anyone (free of charge). Anyone can also contribute towards improving functionality and operation of GOAT.
 
-![](/images/docs/about/love_osm_os.webp) 
+![](/images/docs/about/love_osm_os.webp)
 
-The OpenStreetMap-data (OSM) with which GOAT is built is available worldwide and free of charge. OSM is seen as extremely valuable source but it also has to be highlighted that it is not only targeted to consume the data but also actively be part of the OSM-community. This decision is seen as essential for the health of this project and other projects. It also has to be underlined that the setup of GOAT allows frequent data updates, this makes it easy for users to improve OSM as data warehouse and benefit from rising data quality in the analyses. 
+The OpenStreetMap-data (OSM) with which GOAT is built is available worldwide and free of charge. OSM is seen as extremely valuable source but it also has to be highlighted that it is not only targeted to consume the data but also actively be part of the OSM-community. This decision is seen as essential for the health of this project and other projects. It also has to be underlined that the setup of GOAT allows frequent data updates, this makes it easy for users to improve OSM as data warehouse and benefit from rising data quality in the analyses.
 
-Although GOAT is built with OSM-data (land-use, points of interests), other data sources can be conveniently added. Currently, we source from the Federal Agency for Cartography and Geodesy on boundaries and the Federal Statistical Office on census population data. 
+Although GOAT is built with OSM-data (land-use, points of interests), other data sources can be conveniently added. Currently, we source from the Federal Agency for Cartography and Geodesy on boundaries and the Federal Statistical Office on census population data.
 Due to its modular nature, the GOAT application allows for easy extension and scalability. Since it is developed as a research project, state-of-the art and innovative approaches are widely used.
 
 Everybody is welcome to use and contribute to GOAT. If you are interested in contributing just visit our [GitHub](https://github.com/goat-community/goat).
