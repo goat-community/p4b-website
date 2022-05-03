@@ -49,7 +49,7 @@ sections:
           label: 'GOAT-Abo entdecken'
         video:
           video_bg: '/images/index/mockuper-2.png'
-          video_url: 'https://player.vimeo.com/video/474989861?autoplay=1&muted=1'
+          video_url: 'https://player.vimeo.com/video/411721219?autoplay=1&muted=1'
       - heading: "Aufbereitung komplexer Daten"
         text: 'GOAT ist mit einer Fülle an komplexen räumlichen Daten ausgestattet. Im GOAT-Abo sind u.a. Points-of-Interests, Gebäude, Bevölkerungsdaten, Flächennutzung, Umweltdaten und verschiedene Hintergrundkarten enthalten. Außerdem können problemlos eigene Datensätze integriert werden.'
         img: '/images/GOAT/data_gif.gif'
@@ -114,7 +114,7 @@ sections:
   - order: 7
     service_section:
       heading: 'Weitere Services'
-      text: 'Wir unterstützen Sie gerne bei der bestmöglichen Umsetzung Ihres Vorhabens durch:​Workshops und Schulungen, Implementierung von individuellen Funktionen (z.B. Barrierefreiheitscheck, Schulwegcheck)​, zusätzliche Programmierstunden für individuellen Anpassungen​und Beratungsleistungen unter Einsatz von GOAT.'
+      text: 'Wir unterstützen Sie gerne bei der bestmöglichen Umsetzung Ihres Vorhabens durch:​ Workshops und Schulungen, Implementierung von individuellen Funktionen (z.B. Barrierefreiheitscheck, Schulwegcheck)​, zusätzliche Programmierstunden für individuellen Anpassungen ​und Beratungsleistungen unter Einsatz von GOAT.'
       list_items: 
       - url: '#'
         heading: ''

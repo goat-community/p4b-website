@@ -7,8 +7,7 @@
   text:
     en: Calculate walking isochrones at different places and compare their results.
       In addition, intersect the isochrones with population numbers and amenities.
-    de: Berechnung von Reisezeitisochronen (Einzugsbereiche zu Fuß oder mit dem Fahrrad), mit Informationen zu erreichbarer
-      Bevölkerung und Points-of-Interest.
+    de: Berechnung von Reisezeitisochronen (Einzugsbereiche zu Fuß oder mit dem Fahrrad) mit Informationen zu erreichbarer Bevölkerung und Points-of-Interest.
   comments: first video
 - image: "/images/videos/isochrones_scenario.webp"
   vimeo: 311550100
@@ -29,8 +28,7 @@
   text:
     en: Show in seconds how many residents from a certain neighborhood have access
       to an amenity in a traveltime of your choice by using multi-isochrones.
-    de: Zeige mithilfe von Multi-Isochronen innerhalb von Sekunden wie viele Einwohner
-      in einem gewissen Stadtteil Zugang zu einem Ziel deiner Wahl haben.
+    de: Mithilfe von Multi- Isochronen kann innerhalb von Sekunden aufgezeigt werden, wie viele Einwohner in einem gewissen Stadtteil Zugang zu einem individuell gewählten Ziel haben. 
   comments: ''
 - image: "/images/videos/scenario_new_station.webp"
   vimeo: 411721219
@@ -38,10 +36,8 @@
     en: Use GOAT for location planning
     de: Einsatz von GOAT in der Standortplanung
   text:
-    en: You can add, modify and delete points of interest and assess the effects on
-      accessibility on the fly within a few seconds.
-    de: Sie können Einrichtungen hinzufügen, modifizieren und löschen, die Veränderung
-      in der Erreichbarkeit wird Ihnen dynamisch angezeigt.
+    en: Add, modify and delete points of interest and assess the effects on accessibility on the fly within a few seconds.
+    de: Hinzufügen, Modifizieren und Löschen von Einrichtungen, dessen Veränderung in der Erreichbarkeit dynamisch angezeigt wird. 
   comments: ''
 - image: "/images/videos/walkability_population_heatmap.webp"
   vimeo: 370376888
@@ -51,8 +47,7 @@
   text:
     en: Compare accessibility levels and populations density in order to assess the
       spatial distribution of e.g. bicycle-sharing stations.
-    de: Vergleiche Erreichbarkeitslevel mit der Bevölkerungsdichte um bspw. die Verteilung
-      von Bikesharingstationen im gesamten Stadtgebiet zu evaluieren.
+    de: Erreichbarkeitslevel können mit der Bevölkerungsdichte verglichen werden, um beispielsweise die Verteilung von Bikesharingstationen im gesamten Stadtgebiet zu evaluieren. 
   comments: ''
 - image: "/images/videos/walkability_heatmap.webp"
   vimeo: 311549509
@@ -62,9 +57,7 @@
   text:
     en: The dynamic heatmap makes use of gravity-based accessibility measures and
       allows you to show accessiblity levels for many amenities on a grid level.
-    de: Die dynamische Heatmap berechnet die gravitationsbasierte Erreichbarkeit und
-      erlaubt es die Erreichbarkeit zu verschiedenen Points-of-Interest auf in Form
-      eines Rasters darzustellen.
+    de: Die dynamische Heatmap berechnet die gravitationsbasierte Erreichbarkeit und erlaubt es, die Erreichbarkeit zu verschiedenen Points-of-Interest in Form eines Rasters darzustellen. 
   comments: ''
 - image: "/images/videos/extensive_spatial_data.webp"
   vimeo: 422451126
@@ -72,6 +65,6 @@
     en: Visualize extensive spatial data
     de: Visualisierung umfangreicher räumlicher Daten
   text:
-    en: You can easily visualise extensive spatial data. Depending on local availability e.g. noise levels, land use or accident numbers can be integrated.
+    en: Easily visualise extensive spatial data. Depending on local availability e.g. noise levels, land use or accident numbers can be integrated.
     de: Sie können umfangreiche räumliche Daten einfach visualisieren. Je nach lokaler Verfügbarkeit können z.B. Lärmpegel, Flächennutzung oder Unfallzahlen integriert werden.
   comments: ''
