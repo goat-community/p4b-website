@@ -256,3 +256,19 @@
     en: 'Sophie is passionate about innovation and the implementation of sustainable
       ideas. As an working student at Plan4Better, she takes care of marketing and content
       creation.'
+- username: reynartz
+  name: Isabel Reynartz
+  title:
+    en: Intern
+    de: Praktikantin
+  image: "/images/team/reynartz.webp"
+  team_member: true
+  team_image: "/images/team/team_isabel.webp"
+  github: ''
+  website: ''
+  mail: ''
+  linkedin: ''
+  twitter: ''
+  bio:
+    de: '...'
+    en: '...'
