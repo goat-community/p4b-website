@@ -1,59 +1,53 @@
 ---
 title: Background
-permalink: /de/docs/background/
+permalink: "/de/docs/background/"
 lang: de
 sections:
 - about
 weight: 10
+
 ---
+### **Aktive Mobilität ist wichtig!**
 
-### Active mobility matters!
+Während der Rad- und Fußverkehr in der Vergangenheit als unbedeutende Verkehrsmittel galten, wächst heutzutage immer mehr das Interesse daran Rahmenbedingungen zu schaffen, um eben diese aktiv zu fördern. Dieser Wandel ist eine Folge der zahlreichen Vorteile, die aktive Mobilität unseren Städten, der lokalen Wirtschaft, der physischen Gesundheit und der Umwelt bringt.
 
-While cycling and walking were seen as insignificant modes of transport in the past, there is a fast-rising interest in establishing conditions that actively promote them. This shift is consequent due to the unmatched benefits that active mobility brings to our cities, local economy, physical health, and the general environment.
+![](/images/bildschirmfoto-2022-05-04-um-13-55-13.png)
 
-![](/images/docs/about/modalsplit.webp)
+Aktive Mobilität nimmt bereits heute einen großen Teil der täglichen Verkehrsaktivitäten ein. Wie in vielen anderen Ländern spielt auch in Deutschland der Fuß- und Radverkehr eine wichtige Rolle für die alltägliche Mobilität (siehe: [Modal split in different cities worldwide](https://en.wikipedia.org/wiki/Modal_share)).
+Darüber hinaus spielen eben diese eine entscheidende Rolle als Zubringer für öffentliche Verkehrssysteme. In vielen Städten und Gemeinden auf der ganzen Welt nutzen Fußgänger und Radfahrer bereits einen größeren Anteil an Verkehrsmitteln. Es besteht jedoch ein großes Potenzial darin ihren Anteil weiter zu erhöhen, um in Folge dessen das Spektrum an positiven Auswirkungen umfassender nutzen zu können.
 
-Active mobility takes a large share of daily transport activities already. Just like in many other countries walking and cycling play a vital role in everyday mobility in Germany (see: [Modal split in different cities worldwide](https://en.wikipedia.org/wiki/Modal_share)).
-In addition, walking and cycling play the crucial role of acting as feeders for public transport systems. In many cities and municipalities across the world, pedestrians and cyclists take a larger share of transportation modes in use. However there is seen a lot of potential to further increase their share and as consequence harvest the wide range of positive impacts more extensively. 
+Gute Voraussetzungen für einen aktiven Verkehr sind in der Regel das Ergebnis ausgearbeiteter Planungsstrategien, allerdings kann die Ausarbeitung eben dieser sich oftmals als kompliziert herausstellen. Neben einer attraktiven Infrastruktur, einem sicheren Umfeld und einer ausgeprägten aktiven Mobilitätsstruktur ist es wichtig, nahe gelegene Destinationen zu bieten. Dies unterstreicht, dass die Förderung des Fuß- und Radverkehrs nicht allein durch Infrastrukturprojekte erreicht werden kann, sondern auch ein integriertes Konzept der Stadt- und Verkehrsplanung erfordert.
 
-Good conditions for active transport are generally a result of good planning strategies,
-however planning for walking and cycling can be more complicated than expected. Besides an attractive infrastructure, a safe environment and a strong active mobility culture it is important to provide close destinations. This underlines the fact that fostering walking and cycling cannot solely be achieved by infrastructural projects but further requires an integrated approach of urban and transport planning.
+### **Modellierung aktiver Mobilität**
 
-### Modelling active mobility
+Die Verkehr- und Stadtentwicklung sind zwei eng miteinander verflochtene und komplexe Themen. Aus diesem Grund sind Planungs- und Entscheidungsträger sehr oft auf die Hilfestellung von Planungs- und Entscheidungsunterstützenden Systemen angewiesen. Klassische Verkehrsmodelle sind eine der prominentesten Vertreter, aber auch Landnutzungsmodelle sowie integrierte Landnutzungs- und Verkehrsmodelle gehören dazu. Sie werden in der Regel verwendet, um die Auswirkungen großer Infrastruktur- oder Stadtentwicklungsprojekte zu bewerten.
 
-Transport and the urban sector are two strongly interwoven and complex topics. This is the reason why planners and decision makers very often rely on the assistance of planning and decision support systems. Classical transport models are probably the most prominent representatives but also land-use models and integrated land-use and transport models are among them. They are generally used to assess the effect of large infrastructural or urban development projects.
+Trotz der kontinuierlichen Weiterentwicklung der oben genannten Werkzeuge sind eben diese eher selten als Modell für den Fuß- und Radverkehr konzipiert. Die Herausforderung liegt in der Notwendigkeit auf einer Nachbarschaftsebene zu modellieren und kleine Veränderungen im städtischen Umfeld und im Verkehrsnetz in angemessener Weise zu berücksichtigen. So lässt sich beispielsweise die Auswirkung einer neuen Ringstraße auf das künftige Verkehrsaufkommen prognostizieren, währen die Auswirkung einer neuen Fußgängerbrücke kaum quantifiziert werden kann.
 
-Despite the ongoing development of the mentioned tools, they are rarely designed to model walking and cycling. The challenge lies in the necessity to model on the neighborhood level and the need to adequately consider small changes in the urban environment and transport network. Accordingly while for instance, predicting the effect of a new ring road into future traffic volumes might be possible, the effect of a new pedestrian bridge could be hardly quantified.
+### **Konzept der Erreichbarkeit**
 
-### Accessibility concept
+Das Konzept der Erreichbarkeit kann als mögliche Abhilfemaßnahme für dieses Problem gesehen werden. Im Gegensatz zu Verkehrsmodellen können Erreichbarkeitsmodelle alle Verkehrsträger, Maßstäbe und darüber hinaus auch die Wechselwirkungen zwischen Verkehr und Landnutzung berücksichtigen. Das Konzept der Erreichbarkeit im Allgemeinen zeichnet sich durch hohe Flexibilität und einen weiten Anwendungsbereich aus. Er überrascht daher nicht, dass es in der wissenschaftlichen Literatur unterschiedliche Definitionen gibt:
 
-The accessibility concept can be seen as a potential remedy for this issue. Unlike transport models accessibility models can be used for all transport modes, scales and in addition can consider the interactions between transport and land-use. The accessibility concept in general is characterized by its high flexibility and extensive scope. Therefore unsurprisingly various definitions are existing in the scientific literature:
+* „das Potential von Interaktionsmöglichkeiten“ (G. Hansen 1959)_
+* _„das Ausmaß, in welchem das Landnutzungs- Verkehrssystem (Gruppen von) Personen oder Gütern ermöglicht, Tätigkeiten oder Zielorte mit (Kombinationen von) Verkehrsträgern zu erreichen“ (Geurs and Van Eck 2011)_
+* _„die Anzahl und Vielfalt der Orte, die innerhalb einer bestimmten Fahrtzeit und/oder Kosten erreichbar sind“ (Bertolini, LeClerq and Kapoen 2005)_
+* _„eine Angabe der potentiellen Zahl relevanter Tätigkeiten, die sich innerhalb einer akzeptablen Reichweite eines bestimmten Ortes oder einer akzeptablen Reichweite von Personen befinden“. (te Brömmelstroet, Marco et al. 2016)_
 
--*'the potential of opportunities for interaction' (G. Hansen 1959)*
+Im Gegensatz zu Verkehrsmodellen zeigen Erreichbarkeitsmodelle Potenziale auf, z.B. „Wie viele zusätzliche Arbeitsplätze können mit einer neuen Transitlinie erreicht werden?“ anstatt zu versuchen, das Wachstum der Fahrgastzahlen durch neue Transitlinien vorherzusagen.
 
--*‘the extent to which the land use-transport system enables (groups of) individuals or goods to reach activities or destinations by means of a (combination of) transport mode(s)’ (Geurs and Van Eck 2001)*
+**Komponenten der Erreichbarkeit**
 
--*‘the number and diversity of places that can be reached within a given travel time and/or cost’ (Bertolini, LeClercq and Kapoen 2005)*
+![](/images/bildschirmfoto-2022-05-04-um-14-01-03.png)
 
--*‘an expression of the potential number of relevant activities that are located within
-acceptable reach of a given place or people in acceptable reach of an activity’. (te
-Brömmelstroet, Marco et al. 2016)*
+Mit den sogenannten Erreichbarkeitskomponenten (Geurs und van Wee 2004) kann das Erreichbarkeitskonzept konkretisiert werden. Jede Komponente kann einen Einfluss auf die Erreichbarkeit haben, daher werden idealerweise alle vier Komponenten berücksichtigt. Der Zugang zu Supermärkten könnte z.B. durch die Anzahl der verfügbaren Geschäfte (Landnutzung), die Qualität des Verkehrsnetzes (Verkehr), die Öffnungszeiten der Supermärkte (zeitlich begrenzt) und schlussendlich durch das finanzielle Budget der Menschen (individuell) beeinflusst werden.
 
-Unlike transport models accessibility models are showing potentials, for example, “How many additional jobs can be reached with a new transit line?” instead of trying to predict the growth of ridership due to new transit lines.
+Heutzutage gibt es unzählige Möglichkeiten Erreichbarkeit zu messen und je nach Zweck, Ressourcen und Datenverfügbarkeit werden geeignete Maßnahmen gewählt. Zu den am häufigsten verwendeten zählen Schwerkraft basierte – sowie Konturmessungen. Es gibt jedoch auch komplexere, wie beispielsweise nutzungsbasierte Maßnahmen. Je nach Verwendungszweck lässt sich die Erreichbarkeit mit Isochronen als relativ einfache Einzugsgebiete bis hin zu komplexen Kennzahlen anhand von Gebrauchsmustern visualisieren.
 
-###### Accessibility components
+### **Werkzeuge / Instrumente der Erreichbarkeit**
 
-![](/images/docs/about/accessibility_components.webp)
+Um die Erreichbarkeit zu messen werden Erreichbarkeitswerkzeuge benötigt. Normalerweise werden diese Instrumente mit Hilfe von Geoinformationssystemen (GIS) erstellt, die es ermöglichen, räumliche Daten zu verarbeiten und zu visualisieren. Es gibt eine Vielzahl von Werkzeugen mit sehr unterschiedlichen Verwendungszwecken, Benutzeroberflächen, Benutzergruppen und Nutzungsbedingungen. Dazu gehören Eigenentwicklungen von Forschungsgruppen, Open-Source-Projekte, aber auch proprietäre Softwareprodukte. Bislang gibt es nur wenige Werkzeuge, die dynamische Berechnungen und Ad-hoc- Szenarien Darstellung ermöglichen. Es gibt auch wenige Tools, die ausschließlich auf aktive Mobilität und Open-Source-Entwicklung spezialisiert sind. Dementsprechend wird die Notwendigkeit erkannt, Werkzeuge für die Zugänglichkeit weiterzuentwickeln, um den offenen Herausforderungen zu begegnen.
 
-With the so called accessibility components (Geurs and van Wee 2004) the accessibility concept can be made concrete. Each component can have an influence on accessibility, thus ideally all four components are considered. The access to supermarkets for instance could be influenced by the number of shops available (land-use), the quality of the transport network (transport), the opening hours of the supermarkets (temporal) and finally by the financial budget of people (individual).
-
-Nowadays there are countless ways for measuring accessibility and depending on the purpose, resources and data availability appropriate measures are chosen. Among the most used ones are gravity-based and contour measures. However there are more complex ones such as utility-based measures. Depending on the purpose accessibility can be visualized with isochrones as relative simple catchment areas up to complex indicators based on utility models.
-
-### Accessibility tools/instruments
-
-For measuring accessibility, accessibility tools are needed and they are termed as accessibility instruments or simply accessibility tools. Normally these tools are built with Geo Information Systems (GIS) that allow them to process and visualize spatial data. There are existing numerous tools with extremely varying purposes, user-interface, user groups and terms of use. Among them are in-house developments of research groups, open source projects but also proprietary software products. To the date there are only few tools existing that allow for dynamic calculations and ad-hoc scenario building. There are also few tools specialized on active mobility only and open source development. Accordingly there is seen the necessity to further develop accessibility tools to answer the open challenges.
-
-#### References
+#### **Referenzen**
 
 Brömmelstroet, Marco te, Cecília Silva, and Luca Bertolini. 2014. “Assessing Usability of
 Accessibility Instruments.”
