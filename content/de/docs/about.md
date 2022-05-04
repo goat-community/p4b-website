@@ -1,66 +1,65 @@
 ---
 title: GOAT Philosophy
-permalink: /de/docs/about/
+permalink: "/de/docs/about/"
 lang: de
 sections:
 - about
 weight: 20
 
 ---
-### Main characteristics
+### **Hauptmerkmale**
 
 GOAT...
 
-...is an interactive, flexible and useful accessibility instrument.
+… ist ein interaktives, flexibles und nützliches Erreichbarkeitswerkzeug.
 
-...focuses on active mobility (e.g. walking and cycling).
+…fokussiert sich auf aktive Mobilität (z.B. Fuß- und Radverkehr).
 
-...allows you to model scenarios.
+…erlaubt es eigene Szenarien zu modellieren.
 
-...can be set up anywhere in the world.
+…kann überall auf der Welt angewendet werden.
 
-...is open source and built completely with open source software.
+…ist Open Source und baut einschließlich auf Open Source Software auf.
 
-...is highly customizable and extendable.
+…ist sehr anpassbar und erweiterbar.
 
-### Why GOAT?
+### Warum GOAT?
 
-It is evident that active mobility plays a very important role in urban mobility. GOAT as accessibility instruments aims to therefore aids in rising awareness to properly plan for pedestrians and cyclists during urban infrastructural developments. GOAT comes with numerous desirable features that makes it ideal for accessibility planning.
+Es liegt auf der Hand, dass aktive Mobilität für die urbane Mobilität eine sehr wichtige Rolle spielt. GOAT als Erreichbarkeitsinstrument zielt daher darauf ab, das Bewusstsein für die richtige Planung für Fußgänger und Radfahrer während städtischer Infrastrukturentwicklungen zu schärfen. GOAT kommt mit zahlreichen wünschenswerten Funktionen, die es ideal für die Planung der Erreichbarkeit machen.
 
-Modelling active mobility (walking & cycling) in transport models is challenging and does not normally deliver the expected results. Urban planners and decision makers need elaborate support to properly plan and improve active mobility. This gap can be conveniently filled by accessibility models.
+Die Modellierung aktiver Mobilität (Fuß- und Radverkehr) in Verkehrs Modellen ist eine Herausforderung und führt in der Regel nicht zu den erwarteten Ergebnissen. Stadtplaner und Entscheidungsträger brauchen umfassende Unterstützung, um aktive Mobilität richtig planen und verbessern zu können. Diese Lücke kann bequem mit Erreichbarkeitsmodellen geschlossen werden.
 
-Various accessibility tools exist already, however, there is still seen big potential for improvements. Especially in the following fields it is perceived that common accessibility tools lack in functionality:
+Verschiedene Werkzeuge zur Erreichbarkeit existieren bereits, aber es besteht noch großes Verbesserungspotential. Insbesondere in folgenden Bereichen ist festzustellen, dass gängige Erreichbarkeits-Tools nicht funktional genug sind:
 
-* Few of them consider active mobility.
-* They often allow no scenario building.
-* They tend to be hard or costly to implement.
-* Few of them are open source.
-* Transferring the tool to another study area can be painful.
-* Accessibility tools can be black boxes.
+* Nur wenige ziehen aktive Mobilität in Betracht.
+* Sie erlauben oft keinen Szenarioaufbau.
+*  Sie sind in der Regel schwer oder kostspielig zu implementieren.
+* Nur wenige von ihnen sind Open Source.
+* Die Übertragung des Werkzeugs in ein anderes Studiengebiet kann schwierig sein.
+*  Erreichbarkeitswerkzeuge können „black boxes“ sein.
 
-As much as GOAT may not be perfect in functionality and operation at the moment, it has come in place to address these emerging issues and address them.
+Auch wenn GOAT im Moment vielleicht nicht perfekt in Funktionalität und Betrieb ist, wurde es eingerichtet, um diese aufkommenden Probleme anzugehen.
 
-### Planning Questions
+### Planungsfragen
 
-Although GOAT is at an early stage of development, it can be used to answer different planning questions. Some examples are:
+Obwohl sich GOAT noch in einem frühen Entwicklungsstadium befindet, können damit verschiedene Planungsfragen beantwortet werden. Einige Beispiele sind:
 
-* How good is the walking accessibility to schools in different parts of the city?
-* How many residents are served by certain public transport stops? Where can the perfect location for a new public transport be in order to serve as many residents as possible?
-* What is the effect of a new pedestrian bridge on the accessibility of a neighborhood?-
-* How does the accessibility of a place change if there is temporary closure of a walkway?
-* How high is the diversity and availability of gastronomy in different neighborhoods?
+* Wie gut ist die Erreichbarkeit von Schulen in bestimmten Stadtteilen zu Fuß?
+* Wie viele Bewohner werden von bestimmten Haltestellen des öffentlichen Nahverkehrs abgedeckt? Wo kann der perfekte Standort für einen neuen öffentlichen Nahverkehr sein, um möglichst viele Bewohner zu versorgen?
+* Wie wirkt sich eine neue Fußgängerbrücke auf die Erreichbarkeit eines Viertels aus?
+* Wie verändert sich die Erreichbarkeit eines Ortes bei vorübergehender Schließung eines Gehweges?
+* Wie hoch ist die Vielfalt und Verfügbarkeit der Gastronomie in verschiedenen Stadtteilen?
 
-Many more related questions on transport and land-use planning will follow. GOAT is mainly designed to be useful for planners, researchers and decision makers, but due to is open nature it invites everybody to use it.
+Viele weitere damit zusammenhängende Fragen zur Verkehrs- und Raumplanung werden folgen. GOAT ist in erster Linie für Planer, Forscher und Entscheidungsträger gedacht, lädt aber aufgrund seiner offenen Natur jeden dazu ein, es zu nutzen.
 
-### Philosophy
+### Philosophie
 
-GOAT architecture is completely built with open source software, in addition it is open source itself (Licence GPL-3.0). This means that GOAT can be modified and used by anyone (free of charge). Anyone can also contribute towards improving functionality and operation of GOAT.
+Die GOAT-Architektur ist komplett auf Open-Source-Software aufgebaut, außerdem ist sie selbst Open Source (Lizenz GPL-3.0). Das bedeutet, dass GOAT von jedermann (kostenlos) modifiziert und verwendet werden kann. Somit kann jeder zur Verbesserung der Funktionalität und der Funktionsweise von GOAT beitragen.
 
 ![](/images/docs/about/love_osm_os.webp)
 
-The OpenStreetMap-data (OSM) with which GOAT is built is available worldwide and free of charge. OSM is seen as extremely valuable source but it also has to be highlighted that it is not only targeted to consume the data but also actively be part of the OSM-community. This decision is seen as essential for the health of this project and other projects. It also has to be underlined that the setup of GOAT allows frequent data updates, this makes it easy for users to improve OSM as data warehouse and benefit from rising data quality in the analyses.
+Die OpenStreetMap- Daten (OSM), mit denen GOAT gebaut wird sind weltweit und kostenlos verfügbar. OSM wird als äußerst wertvolle Quelle angesehen, aber es ist hervorzuheben, dass es nicht nur darauf abzielt die Daten zu konsumieren, sondern auch aktiv Teil der OSM- Community zu sein. Diese Entscheidung wird als wesentlich für die Erhaltung dieses und anderer Projekte angesehen. Hervorzuheben ist zudem, dass das Setup von GOAT häufige Datenaktualisierungen ermöglicht, was es Anwendern erleichtert OSM als Data Warehouse zu verbessern und von steigender Datenqualität in den Analysen zu profitieren.
 
-Although GOAT is built with OSM-data (land-use, points of interests), other data sources can be conveniently added. Currently, we source from the Federal Agency for Cartography and Geodesy on boundaries and the Federal Statistical Office on census population data.
-Due to its modular nature, the GOAT application allows for easy extension and scalability. Since it is developed as a research project, state-of-the art and innovative approaches are widely used.
+Obwohl GOAT auf OSM- Daten (Landnutzung, Points of Interest) aufbaut, können weitere Datenquellen bequem hinzugefügt werden. Derzeit beziehen wir vom Bundesamt für Kartographie und Geodäsie Grenzdaten sowie die Volkszählungsdaten des Statistischen Bundesamtes. Aufgrund des modularen Charakters ermöglicht die GOAT- Anwendung eine einfache Erweiterung und Skalierbarkeit. Da es sich um ein Forschungsprojekt handelt, kommen modernste und innovative Ansätze zum Einsatz.
 
-Everybody is welcome to use and contribute to GOAT. If you are interested in contributing just visit our [GitHub](https://github.com/goat-community/goat).
+Jeder ist herzlich eingeladen, GOAT zu nutzen und dazu beizutragen. Wenn sie daran interessiert sind einen Beitrag zu leisten, besuchen sie einfach unseren [GitHub](https://github.com/goat-community/goat).
