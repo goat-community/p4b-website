@@ -13,8 +13,6 @@ GOAT ist technisch gesehen eine WebGIS- Anwendung. Die Architektur von GOAT bein
 
 Als Datenbank wird PostgreSQL und die räumliche Erweiterung PostGIS verwendet. Beide zusammen bilden den Kern der Anwendung.
 
-Als Datenbank wird PostgreSQL und die räumliche Erweiterung PostGIS verwendet. Beide zusammen bilden den Kern der Anwendung.
-
 ![](/images/docs/about/libraries_used.webp)
 
 Zusätzlich erlaubt die zugrunde liegende Datenbank mit Hilfe der Erweiterung pgRouting das Routing und die Berechnung der Isochronen. Die meisten räumlichen Operationen in GOAT werden in Spatial SQL mit der prozeduralen Programmiersprache Pl/pgSQL und Python als Pl/Python ausgeführt.  
@@ -29,7 +27,7 @@ Das Entwicklungs-Setup wird mit Hilfe einer VM, die von Vagrant gesteuert wird, 
 
 #### Daten
 
-GOAT kann praktisch alle Arten von Daten nutzen, die aktuelle Datenbetriebstechnik konzentriert sich jedoch auf die Nutzung von OpenStreetMap (OSM) -Daten. OSM wurde als Hauptdatenquelle verwendet, da es die bekannteste offene Geodatenquelle ist. OSM ist zudem ein standardisiertes Datenschema mit allgegenwärtiger Verfügbarkeit. Das automatische Setup unterstützt bereits benutzerdefinierte Landnutzungs- und Bevölkerungsdaten, so dass andere Datentypen effektiv in die Datenbank eingefügt werden können.  
-   
+GOAT kann praktisch alle Arten von Daten nutzen, die aktuelle Datenbetriebstechnik konzentriert sich jedoch auf die Nutzung von OpenStreetMap (OSM) -Daten. OSM wurde als Hauptdatenquelle verwendet, da es die bekannteste offene Geodatenquelle ist. OSM ist zudem ein standardisiertes Datenschema mit allgegenwärtiger Verfügbarkeit. Das automatische Setup unterstützt bereits benutzerdefinierte Landnutzungs- und Bevölkerungsdaten, so dass andere Datentypen effektiv in die Datenbank eingefügt werden können.
+
 Für die Aufbereitung der Daten werden SQL- und Python-Skripte verwendet. Neben der Extraktion von POIS, Haltestellen des öffentlichen Verkehrs und Landnutzung ermöglicht das Setup auch die Disaggregation von Bevölkerungsdaten mit Hilfe von Verwaltungs-, Landnutzungs- und OSM-Daten. Während der Disaggregation kann GOAT Verwaltungsdaten in unterschiedlichen Auflösungen verarbeiten. Generell gilt: Je besser die OSM-Gebäudedaten und die Verwaltungsdaten sind, desto besser ist das Ergebnis der Disaggregation.  
 OSM ist ein offener Geodatensatz, daher hängt die Qualität der Daten und Analysen von der Aktivität der lokalen OSM-Community ab. Dies befugt und lädt alle Personen und Organisationen ein, Tools wie GOAT einsetzen, um die lokalen OSM-Daten zu verbessern.
