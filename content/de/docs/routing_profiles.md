@@ -1,49 +1,49 @@
 ---
 title: Routing Profiles
-permalink: /de/docs/routing_profiles/
+permalink: "/de/docs/routing_profiles/"
 lang: de
 sections:
 - technical
 weight: 80
+
 ---
+Da GOAT auf aktive Mobilität ausgelegt ist, sind Straßen, die nur für Autos ausgelegt sind (z. B. Autobahnen) standardmäßig vom Routingnetz ausgeschlossen.  
+ Dies kann zusätzlich bei der Einrichtung der Applikation angepasst werden. Abhängig von der Datengenauigkeit im Untersuchungsgebiet und dem Zweck der GOAT-Version stehen unterschiedliche Routingprofile zur Verfügung.  
+   
+ Beim Einrichten einer eigenen GOAT-Version können die verfügbaren Routing-Profile und die entsprechenden Standardgeschwindigkeiten in den Konfigurationsdateien beim Einrichten von GOAT angepasst werden. Die Geschwindigkeit kann zudem direkt in der Benutzeroberfläche eingestellt werden.
 
-As GOAT is designed for active mobility, roads that are only designed for cars (e.g. highways) are excluded per default from the routing network.
-In addition this can be adjusted when setting up the application. Depending on the data precision in the study area and the purpose of the GOAT version, different routing profiles are available.
+#### Fußverkehr
 
-When setting up your own GOAT version, the available routing profiles and according default speeds can be adjusted in configuration files when setting up GOAT. However, the speed can be adjusted directly in the user interface.
-
-#### Walking
 <b>Standard</b>
 
-Default routing profile for walking, considering all path accessible by foot.
+Standard-Routing-Profil für Fußgänger, das alle zu Fuß erreichbaren Wege berücksichtigt.
 
-Default walking speed: 5km/h
+Voreingestellte Geschwindigkeit: 5km/h
 
-<b>Elderly</b>
+<b>Ältere Menschen</b>
 
-Same as the standard routing profile, but with a reduced walking speed of 3 km/h. 
+Wie das Standard-Routing-Profil, jedoch mit einer reduzierten Gehgeschwindigkeit von 3 km/h.
 
+#### Radverkehr
 
-#### Cycling
 <b>Standard</b>
 
-Default routing profile for cycling, considering all paths accessible by bicycle. 
+Standard-Routenprofil für den Radverkehr, das alle mit dem Fahrrad befahrbaren Wege berücksichtigt.
 
-Default cycling speed: 15km/h
+Voreingestellte Geschwindigkeit: 15km/h
 
-Depending on the surface, smoothness and slope of the different street segments, the cycling speed is adjusted accordingly. 
+Je nach Oberfläche, Glätte und Neigung der verschiedenen Straßenabschnitte wird die Fahrgeschwindigkeit entsprechend angepasst.
 
 <b>Pedelec</b>
 
-Same as the standard routing profile, but with an increased cycling speed of 23 km/h. 
+Wie das Standard-Routing-Profil, jedoch mit einer erhöhten Fahrgeschwindigkeit von 23 km/h.
 
-For Pedelecs, slopes are considered with a lower impedance than for Standard bicycles. 
+Bei Pedelecs werden Steigungen mit einer geringeren Impedanz berücksichtigt als bei Standard-Fahrrädern.
 
-#### Wheelchair
+#### Rollstuhl
 
-The wheelchair-routing is based on the walking routing, but considers only barrier-free paths and destinations. Stairs, unpaved paths and paths with high slopes are excluded from the routing. POIs that are not barrier-free are visualised with grey icons and are regarded as not accessible if the wheelchair routing profile is selected. 
+Die Rollstuhlroutenführung orientiert sich an der Gehroutenführung, berücksichtigt allerdings lediglich barrierefreie Wege und Ziele. Treppen, unbefestigte Wege und Wege mit hohen Steigungen sind von der Trassenführung ausgenommen. Nicht barrierefreie POIs werden mit grauen Icons visualisiert und gelten bei Auswahl des Rollstuhl-Routenprofils als nicht zugänglich.
 
-Via the layer "Wheelchair Usability" (to be found in the Street Level Quality layers), the conditions regarding the freedom from barriers of the paths can be displayed. 
+Über den Layer «Wheelchair Usability» (zu finden in den Street Level Quality-Layern) können die Bedingungen hinsichtlich der Barrierefreiheit der Wege dargestellt werden.
 
-This routing profile helps to find shortcoming in the barrier-free network of a city. The importance of barrier-free infrastructure gets increasingly important when considering demographic change in many societies. In addition, a high percentage of the population is temporarily mobility impaired (e.g. by pushing a baby carriage or carrying heavy luggage). All these people and needs must be taken into account when planning infrastructure for active mobility. 
-
+Dieses Routingprofil hilft, Schwachstellen im barrierefreien Netz einer Stadt zu finden. Die Bedeutung einer barrierefreien Infrastruktur gewinnt vor dem Hintergrund des demografischen Wandels in vielen Gesellschaften immer mehr an Bedeutung. Zudem ist ein hoher Prozentsatz der Bevölkerung vorübergehend in ihrer Mobilität eingeschränkt (z. B. durch Schieben eines Kinderwagens oder das Tragen von schwerem Gepäck). All diese Menschen und Bedürfnisse müssen bei der Planung der Infrastruktur für aktive Mobilität berücksichtigt werden.
