@@ -106,7 +106,7 @@ sections:
         title: "Do you want to conduct own analyses?"
         description: "GOAT is our cloud-based planning software that supports you in promoting sustainable mobility with interactive accessibility analyses and scenario developments."
         button:
-          background_color_content: primary
+          background_color_content: default
           url: "/goat/"
           label: "GOAT Subscription"
       - name: "consulting"
