@@ -82,6 +82,13 @@ icon = "download"
 padding_top = "remove"
 page = ""
 text = "Vollzeitmitarbeiter:in für Backend-Development gesucht! Stellenanzeige hier runterladen."
+[[blocks.links]]
+download_url = "/download/jobpostings/Jobposting_p4b_Frontend_Developer_Spring2022.pdf"
+heading = "Remote Job - Software-Developer Frontend"
+icon = "download"
+padding_top = "remove"
+page = ""
+text = "Vollzeitmitarbeiter:in für Frontend-Development gesucht! Stellenanzeige hier runterladen."
 [[blocks]]
 background = "muted"
 block = "images"
