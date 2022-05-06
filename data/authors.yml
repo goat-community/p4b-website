@@ -262,7 +262,7 @@
     en: Intern
     de: Praktikantin
   image: "/images/team/reynartz.webp"
-  team_member: true
+  team_member: false
   team_image: "/images/team/team_isabel.webp"
   github: ''
   website: ''
