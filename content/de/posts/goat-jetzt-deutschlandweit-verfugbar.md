@@ -1,12 +1,12 @@
 +++
-author = ""
-categories = []
+author = "meining"
+categories = ["news"]
 date = ""
 description = ""
 draft = true
-image = ""
+image = "/images/goatmockupheatmaps.webp"
 summary = "Wir launchen GOAT deutschlandweit! Ab sofort ist GOAT mit vielen neuen Funktionen für ganz Deutschland verfügbar.  "
-thumbnail = ""
+thumbnail = "/images/goatmockupheatmaps-1.webp"
 title = "GOAT jetzt deutschlandweit verfügbar "
 translationKey = ""
 
