@@ -15,7 +15,9 @@ translationKey : ""
 
 ## Marktlaunch unserer Planungssoftware GOAT
 
-[GOAT](/goat/ "Was ist GOAT?") ist ein cloudbasiertes Planungsinstrument, das Planer:innen durch eine Kombination von Stadt- und Verkehrsplanung bei der Umsetzung der 15-Minuten-Stadt unterstützt. GOAT ist open source und wird über eine interaktive Webkarte bedient. Die Analysen in GOAT basieren auf einer Vielzahl an räumlichen Daten, welche über innovative Fusions- und Veredelungsmethoden aggregiert werden. Mit diesen können wir nun die GOAT Versionen für alle gewünschten Städte und Regionen in Deutschland speisen. Die Software vertreiben wir als SaaS-Lösung an Kommunen, Landkreise und Consultants. Auf Anfrage kann GOAT auch auf Untersuchungsgebiete weltweit übertragen werden.
+[GOAT](/goat/ "Was ist GOAT?") ist ein cloudbasiertes Planungsinstrument, das Planer:innen durch eine Kombination von Stadt- und Verkehrsplanung bei der Umsetzung der 15-Minuten-Stadt unterstützt. GOAT ist open source und wird über eine interaktive Webkarte bedient. Die Analysen in GOAT basieren auf einer Vielzahl an räumlichen Daten, welche über innovative Fusions- und Veredelungsmethoden aggregiert werden. Mit diesen können wir nun die GOAT Versionen für alle gewünschten Städte und Regionen in Deutschland speisen. 
+
+Wir freuen uns, die Software als SaaS-Lösung an Kommunen, Landkreise und Consultants anbieten zu können. Auf Anfrage kann GOAT auch auf Untersuchungsgebiete weltweit übertragen werden. 
 
 ## NEU: GOAT mit Nutzer-Login, verbessertem User Interface und schnelleren Analysen
 
