@@ -4,9 +4,9 @@ categories = ["News"]
 date = ""
 description = ""
 draft = true
-image = ""
+image = "/images/goatmockupheatmaps.webp"
 summary = "We launch GOAT nationwide! GOAT is now available with many new features for the whole of Germany. "
-thumbnail = ""
+thumbnail = "/images/goatmockupheatmaps-1.webp"
 title = "GOAT now available in Germany"
 translationKey = ""
 
