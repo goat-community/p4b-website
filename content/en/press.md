@@ -38,11 +38,18 @@ text = ""
 load_more_button_text = "Load more"
 
 [[blocks.news]]
+heading = "Freiburg plant Gehwege künftig smart "
+thumbnail = "/images/presse/tagesspiegel.webp"
+source = "Tagesspiegel"
+url = "https://background.tagesspiegel.de/smart-city/freiburg-plant-gehwege-kuenftig-smart?utm_source=bg+website&utm_medium=twitter&utm_campaign=share&utm_content=sv"
+date = "26. April 2022 "
+
+[[blocks.news]]
 heading = "Mit GOAT zur 15-Minuten-Stadt"
 thumbnail = "/images/presse/muenchen-digital.webp"
 source = "München-Digital-Portal"
 url = "https://muenchen.digital/blog/plan4better-15-minuten-stadt/"
-date = "29. März 2022"
+date = "29. March 2022"
 
 [[blocks.news]]
 heading = "Podcast: Kurze Wege oder Smart City?"
