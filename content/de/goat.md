@@ -114,7 +114,7 @@ sections:
   - order: 7
     service_section:
       heading: 'Weitere Services'
-      text: 'Wir unterstützen Sie gerne bei der bestmöglichen Umsetzung Ihres Vorhabens durch:​ Workshops und Schulungen, Implementierung von individuellen Funktionen (z.B. Barrierefreiheitscheck, Schulwegcheck)​, individuelle Anpassungen ​und Beratungsleistungen.'
+      text: 'Wir unterstützen Sie gerne bei der bestmöglichen Umsetzung Ihres Vorhabens durch:​ Workshops und Schulungen, Implementierung von individuellen Funktionen (z.B. Barrierefreiheitscheck, Schulwegcheck)​, weitere WebGIS-Entwicklung ​und Beratungsleistungen.'
       list_items: 
       - url: '#'
         heading: ''

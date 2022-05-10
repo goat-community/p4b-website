@@ -2,7 +2,7 @@
 description = "You want to test GOAT? Here you can register for our demo version."
 layout = "blocks"
 title = "NEW: GOAT with user login"
-ogimage = "/images/request-demo/mockup.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 translationKey = "request-goat"
 [header]
 background = "default"
@@ -28,6 +28,6 @@ heading = "Contact Sales"
 icon = "mail"
 page = ""
 text = ""
-url = "/contact/"
+url = "/en/contact/"
 
 +++
