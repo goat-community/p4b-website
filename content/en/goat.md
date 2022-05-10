@@ -115,7 +115,7 @@ sections:
   - order: 7
     service_section:
       heading: 'More services'
-      text: 'We are happy to support you in the best possible implementation of your project through:​ Workshops and training courses, implementation of individual functions (e.g. wheelchair accessibility check, school route check)​, individual adjustments ​and consulting services.'
+      text: 'We are happy to support you in the best possible implementation of your project through:​ Workshops and training courses, implementation of individual functions (e.g. wheelchair accessibility check, school route check)​, WebGIS-development ​and consulting services.'
       list_items: 
       - url: ''
         heading: ''
