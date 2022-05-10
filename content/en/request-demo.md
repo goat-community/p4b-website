@@ -22,7 +22,7 @@ heading = "Get Demo"
 icon = "info"
 page = ""
 text = ""
-url = "https://goat-dev.plan4better.de/register"
+url = "https://goat.plan4better.de/register"
 [[blocks.links]]
 heading = "Contact Sales"
 icon = "info"
