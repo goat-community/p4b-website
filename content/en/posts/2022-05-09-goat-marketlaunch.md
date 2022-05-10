@@ -15,7 +15,7 @@ translationKey : ""
 
 ## Market launch of GOAT
 
-[GOAT](/en/goat "What is GOAT?") is a cloud-based planning instrument, which is supports planners in implementing the 15-min-city by combining the land use and transport component. GOAT is fully open source and operates via an interactive web map. The analyses in GOAT are based on a large number of spatial data, which are aggregated using innovative fusion and refinement methods. With these, we can now set up the GOAT versions for all desired cities and regions in Germany. 
+[GOAT](/en/goat "What is GOAT?") is a cloud-based planning instrument, which supports planners in implementing the 15-min-city by combining the land use and transport component. GOAT is fully open source and operates via an interactive web map. The analyses in GOAT are based on a large number of spatial data, which are aggregated using innovative fusion and refinement methods. With these, we can now set up the GOAT versions for all desired cities and regions in Germany. 
 
 We are happy to now offer our software as a SaaS solution to municipalities, counties and consultants. On request, GOAT can also be transferred to study areas worldwide.
 
