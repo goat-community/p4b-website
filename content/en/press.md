@@ -38,6 +38,13 @@ text = ""
 load_more_button_text = "Load more"
 
 [[blocks.news]]
+heading = "Pressemitteilung: Marktlaunch GOAT"
+thumbnail = "/images/presse/p4b.webp"
+source = "Plan4Better"
+url = "/download/press/2022-05-10-Pressemitteilung_Marktlaunch.pdf"
+date = "10. May 2022"
+
+[[blocks.news]]
 heading = "Freiburg plant Gehwege künftig smart "
 thumbnail = "/images/presse/tagesspiegel.webp"
 source = "Tagesspiegel"
