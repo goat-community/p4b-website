@@ -11260,7 +11260,7 @@ a {
   border-radius: 23px;
   position: relative;
   padding: 15px 20px;
-  background-color: #eeeeee; }
+  background-color: #ffffff; }
 
 .goatabu-cont-inner {
   display: flex;
