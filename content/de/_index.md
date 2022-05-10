@@ -20,16 +20,16 @@ sections:
   - order: 2
     brand_slider:
       slider_img:
-      - logo: "images/index/logo_werk1.webp"
       - logo: "/images/index/freiburg_logo.webp"
       - logo: "/images/index/mobidata_bw.webp"
       - logo: "/images/index/logo-tum.webp"
       - logo: "/images/index/logo_lhm.webp"
       - logo: "/images/index/logo_freising.webp"
       - logo: "/images/index/logo_ffb.webp"
-      - logo: "/images/index/logo_munichways.webp"
+      - logo: "images/index/logo_werk1.webp"
       - logo: "/images/index/logo_xpreneurs.webp"
       - logo: "/images/index/GST_RGB.webp"
+      - logo: "/images/index/logo_munichways.webp"
   - order: 3
     background_color_content: default
     planing_section:
