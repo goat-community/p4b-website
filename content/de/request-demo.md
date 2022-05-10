@@ -2,7 +2,7 @@
 description = "Sie wollen GOAT testen? Hier können Sie sich für unsere Demo-Version anmelden."
 layout = "blocks"
 title = "NEU: GOAT mit Nutzer-Login"
-ogimage = "/images/request-demo/mockup.webp"
+ogimage = "/images/request-demo/request_demo_ogimage.png"
 translationKey = "request-goat"
 [header]
 background = "default"
