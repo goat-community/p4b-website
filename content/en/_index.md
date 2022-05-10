@@ -53,7 +53,7 @@ sections:
   - order: 4
     action_section:
       background_color_content: secondary
-      heading: "Discover GOAT in action"
+      heading: "Discover the advantages of GOAT"
       slider_item:
       - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
         title: "Scenario Bridge"

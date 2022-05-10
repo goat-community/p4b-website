@@ -56,7 +56,7 @@ sections:
   - order: 4
     background_color_content: default
     action_section:
-      heading: "Entdecken Sie GOAT in Action"
+      heading: "Entdecken Sie die Vorteile von GOAT"
       slider_item:
       - videoURL: "https://player.vimeo.com/video/311550100?autoplay=1&loop=1&autopause=0"
         title: "Brückenszenario"
