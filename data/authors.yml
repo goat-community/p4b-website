@@ -262,13 +262,14 @@
     en: Intern
     de: Praktikantin
   image: "/images/team/reynartz.webp"
-  team_member: false
+  team_member: true
   team_image: "/images/team/team_isabel.webp"
   github: ''
   website: ''
   mail: ''
-  linkedin: ''
+  linkedin: 'https://www.linkedin.com/in/isabel-reynartz-ab848323a/'
   twitter: ''
   bio:
-    de: '...'
-    en: '...'
+    de: 'Als Geographin begeistert Isabel sich für die Umsetzung nachhaltiger Stadt- und Verkehrsplanung. Als Praktikantin bei Plan4Better unterstützt sie bei der Aufbereitung und Visualisierung von Daten sowie im Projekt GOAT 3.0.'
+    en: 'As a geographer, Isabel is passionate about the implementation of sustainable urban and transport planning. As an intern at Plan4Better, she supports the preparation and visualisation of data as well as the GOAT 3.0 project.'
+
