@@ -33,7 +33,7 @@ The accessibility concept can be seen as a potential remedy for this issue. Unli
 \-_‘the number and diversity of places that can be reached within a given travel time and/or cost’ (Bertolini, LeClercq and Kapoen 2005)_
 
 \-_‘an expression of the potential number of relevant activities that are located within
-acceptable reach of a given place or people in acceptable reach of an activity’. (te
+acceptable reach of a given place or people in acceptable reach of an activity’ (te
 Brömmelstroet, Marco et al. 2016)_
 
 Unlike transport models accessibility models are showing potentials, for example, “How many additional jobs can be reached with a new transit line?” instead of trying to predict the growth of ridership due to new transit lines.

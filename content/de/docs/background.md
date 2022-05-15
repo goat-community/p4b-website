@@ -28,10 +28,10 @@ Trotz der kontinuierlichen Weiterentwicklung der oben genannten Werkzeuge sind e
 
 Das Konzept der Erreichbarkeit kann als mögliche Abhilfemaßnahme für dieses Problem gesehen werden. Im Gegensatz zu Verkehrsmodellen können Erreichbarkeitsmodelle alle Verkehrsträger, Maßstäbe und darüber hinaus auch die Wechselwirkungen zwischen Verkehr und Landnutzung berücksichtigen. Das Konzept der Erreichbarkeit im Allgemeinen zeichnet sich durch hohe Flexibilität und einen weiten Anwendungsbereich aus. Er überrascht daher nicht, dass es in der wissenschaftlichen Literatur unterschiedliche Definitionen gibt:
 
-* „das Potential von Interaktionsmöglichkeiten“ (G. Hansen 1959)_
+* _„das Potential von Interaktionsmöglichkeiten“ (G. Hansen 1959)_
 * _„das Ausmaß, in welchem das Landnutzungs- Verkehrssystem (Gruppen von) Personen oder Gütern ermöglicht, Tätigkeiten oder Zielorte mit (Kombinationen von) Verkehrsträgern zu erreichen“ (Geurs and Van Eck 2011)_
 * _„die Anzahl und Vielfalt der Orte, die innerhalb einer bestimmten Fahrtzeit und/oder Kosten erreichbar sind“ (Bertolini, LeClerq and Kapoen 2005)_
-* _„eine Angabe der potentiellen Zahl relevanter Tätigkeiten, die sich innerhalb einer akzeptablen Reichweite eines bestimmten Ortes oder einer akzeptablen Reichweite von Personen befinden“. (te Brömmelstroet, Marco et al. 2016)_
+* _„eine Angabe der potentiellen Zahl relevanter Tätigkeiten, die sich innerhalb einer akzeptablen Reichweite eines bestimmten Ortes oder einer akzeptablen Reichweite von Personen befinden“ (te Brömmelstroet, Marco et al. 2016)_
 
 Im Gegensatz zu Verkehrsmodellen zeigen Erreichbarkeitsmodelle Potenziale auf, z.B. „Wie viele zusätzliche Arbeitsplätze können mit einer neuen Transitlinie erreicht werden?“ anstatt zu versuchen, das Wachstum der Fahrgastzahlen durch neue Transitlinien vorherzusagen.
 
@@ -45,7 +45,7 @@ Heutzutage gibt es unzählige Möglichkeiten Erreichbarkeit zu messen und je nac
 
 ### **Werkzeuge / Instrumente der Erreichbarkeit**
 
-Um die Erreichbarkeit zu messen werden Erreichbarkeitswerkzeuge benötigt. Normalerweise werden diese Instrumente mit Hilfe von Geoinformationssystemen (GIS) erstellt, die es ermöglichen, räumliche Daten zu verarbeiten und zu visualisieren. Es gibt eine Vielzahl von Werkzeugen mit sehr unterschiedlichen Verwendungszwecken, Benutzeroberflächen, Benutzergruppen und Nutzungsbedingungen. Dazu gehören Eigenentwicklungen von Forschungsgruppen, Open-Source-Projekte, aber auch proprietäre Softwareprodukte. Bislang gibt es nur wenige Werkzeuge, die dynamische Berechnungen und Ad-hoc- Szenarien Darstellung ermöglichen. Es gibt auch wenige Tools, die ausschließlich auf aktive Mobilität und Open-Source-Entwicklung spezialisiert sind. Dementsprechend wird die Notwendigkeit erkannt, Werkzeuge für die Zugänglichkeit weiterzuentwickeln, um den offenen Herausforderungen zu begegnen.
+Um die Erreichbarkeit zu messen werden Erreichbarkeitswerkzeuge benötigt. Normalerweise werden diese Instrumente mit Hilfe von Geoinformationssystemen (GIS) erstellt, die es ermöglichen, räumliche Daten zu verarbeiten und zu visualisieren. Es gibt eine Vielzahl von Werkzeugen mit sehr unterschiedlichen Verwendungszwecken, Benutzeroberflächen, Benutzergruppen und Nutzungsbedingungen. Dazu gehören Eigenentwicklungen von Forschungsgruppen, Open-Source-Projekte, aber auch proprietäre Softwareprodukte. Bislang gibt es nur wenige Werkzeuge, die dynamische Berechnungen und Ad-hoc Szenarien Darstellung ermöglichen. Es gibt auch wenige Tools, die ausschließlich auf aktive Mobilität und Open-Source-Entwicklung spezialisiert sind. Dementsprechend wird die Notwendigkeit erkannt, Werkzeuge für die Erreichbarkeit weiterzuentwickeln, um den offenen Herausforderungen zu begegnen.
 
 #### **Referenzen**
 

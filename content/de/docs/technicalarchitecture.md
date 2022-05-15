@@ -9,7 +9,7 @@ weight: 30
 ---
 #### Struktur und Umgebung
 
-GOAT ist technisch gesehen eine WebGIS- Anwendung. Die Architektur von GOAT beinhaltet verschiedene Software, einschließlich einer Reihe von Bibliotheken und Programmiersprachen. Das effiziente Zusammenspiel von Software in GOAT wird durch die beliebte klassische Server-Client-Architektur des Web ermöglicht. Wie viele Anwendungen heutzutage verfügt GOAT über eine Datenbank, die eine effiziente Speicherung und Organisation von Informationen ermöglicht. Informationen können somit entsprechend abgerufen, verwaltet und aktualisiert werden.
+GOAT ist technisch gesehen eine WebGIS-Anwendung. Die Architektur von GOAT beinhaltet verschiedene Software, einschließlich einer Reihe von Bibliotheken und Programmiersprachen. Das effiziente Zusammenspiel von Software in GOAT wird durch die beliebte klassische Server-Client-Architektur des Web ermöglicht. Wie viele Anwendungen heutzutage verfügt GOAT über eine Datenbank, die eine effiziente Speicherung und Organisation von Informationen ermöglicht. Informationen können somit entsprechend abgerufen, verwaltet und aktualisiert werden.
 
 Als Datenbank wird PostgreSQL und die räumliche Erweiterung PostGIS verwendet. Beide zusammen bilden den Kern der Anwendung.
 
