@@ -1,5 +1,5 @@
 ---
-title: Background
+title: Hintergrund
 permalink: "/de/docs/background/"
 lang: de
 sections:

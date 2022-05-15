@@ -1,5 +1,5 @@
 ---
-title: Technical Architecture
+title: Technische Architektur
 permalink: "/de/docs/technicalarchitecture/"
 lang: de
 sections:
