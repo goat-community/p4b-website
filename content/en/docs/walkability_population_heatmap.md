@@ -17,9 +17,9 @@ In addition to the [Local Accessibility Heatmap](../heatmap/), GOAT allows you t
 
 #### 1. Calculation
 
-The comparison heatmap is the result of the intersection of the two heatmaps "Local Accessibility" and "Population Density." ![](/images/docs/technical_documentation/walkability_population_index/intersection_2_layers.webp)
+The comparison heatmap is the result of the intersection of the two heatmaps "Local Accessibility" and "Population Density." 
 
-#### 2. Classification
+#### ![](/images/bildschirmfoto-2022-05-16-um-16-09-46.png)2. Classification
 
 In order to classify the accessibility levels that were computed for each grid cell, a classification based on percentiles is used. The following table shows how the percentiles of accessibility and population are calculated in each grid.
 
