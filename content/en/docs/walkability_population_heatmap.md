@@ -13,7 +13,7 @@ In addition to the [Local Accessibility Heatmap](../heatmap/), GOAT allows you t
 * Where is potential for is densification?
 * Where is an improvement of accessibility to specific amenities or public transport stations needed?
 
-![](/images/docs/technical_documentation/walkability_population_index/walkability_population_map.webp)
+#### ![](/images/heatmap-englisch.png)
 
 #### 1. Calculation
 
