@@ -9,7 +9,7 @@ weight: 60
 ---
 GOAT ermöglicht die Berechnung und Visualisierung von gravitationsbasierten Erreichbarkeitsmessungen, die als Heatmaps visualisiert werden. Basierend auf vorausberechneten Fahrzeiten und der Auswahl des Nutzers wird die Heatmap dynamisch berechnet. Zur Visualisierung wird ein hexagonales Raster verwendet.
 
-![](/images/docs/technical_documentation/heatmap/heatmap.webp)
+#### ![](/images/lokale-erreichbarkeit-1-deutsch.png)
 
 #### 1. Berechnung
 
@@ -22,7 +22,7 @@ wobei die Erreichbarkeit <b>A</b> des Ursprungsortes <b>i</b> die Summe aller am
 ![](/images/docs/technical_documentation/heatmap/Gaussian_function.webp)
 
 Die Fahrzeiten werden in Sekunden berechnet. Da der Cut-off-Wert 15 Minuten für den Modus Gehen verwendet wird, bedeutet dies, dass Ziele, die weiter als 15 Minuten entfernt sind, bei der Berechnung des Index nicht berücksichtigt werden.  
- Der Sensitivitätsparameter definiert, wie sich die Zugänglichkeit mit zunehmender Fahrzeit verändert. Da der Sensitivitätsparameter entscheidend für die Messung der Erreichbarkeit ist, können Sie diese mit GOAT einstellen. Die folgenden Grafiken zeigen den Einfluss des Sensitivitätsparameters auf die Zugänglichkeit.
+Der Sensitivitätsparameter definiert, wie sich die Zugänglichkeit mit zunehmender Fahrzeit verändert. Da der Sensitivitätsparameter entscheidend für die Messung der Erreichbarkeit ist, können Sie diese mit GOAT einstellen. Die folgenden Grafiken zeigen den Einfluss des Sensitivitätsparameters auf die Zugänglichkeit.
 
 ![](/images/docs/technical_documentation/heatmap/sensitivity_index_20000.webp)
 
@@ -43,24 +43,22 @@ Die Fahrzeiten werden für jede Gitterzelle zum jeweiligen Ziel im Straßennetz 
 
 Für eine Gitterzelle könnte die Berechnung wie in den folgenden Beispielen durchgeführt werden:
 
-Einheitlicher Sensitivitätsparameter: ![](/images/docs/technical_documentation/heatmap/accessiblity_uniform_sensitivity-index.webp) 
+Einheitlicher Sensitivitätsparameter: ![](/images/docs/technical_documentation/heatmap/accessiblity_uniform_sensitivity-index.webp)
 
 Variierender Sensitivitätsparameter für Hypermarket: ![](/images/docs/technical_documentation/heatmap/accessiblity_different_sensitivity-indices.webp)
 
-##### 3.2 Berechnung mit einheitlichem Sensitivitätsparameter: 
+##### 3.2 Berechnung mit einheitlichem Sensitivitätsparameter:
 
 Im ersten Beispiel wollen wir die Erreichbarkeit für Lebensmittel in 15 Min berechnen (β=300.000).
 Das bedeutet, dass der Sensitivitätsparameter für jede Lebensmittelkategorie gleich ist.
 
-
-![](/images/docs/technical_documentation/heatmap/uniform_sensitivity.webp)
+##### ![](/images/lokale-erreichbarkeit-4-deutsch.png)
 
 ##### 3.3 Berechnung mit unterschiedlichen Sensitivitätsparametern
 
 Im zweiten Fall berechnen wir die Erreichbarkeit von Lebensmitteln in 15 Min (β=300.000 und β=400.000). Das bedeutet, dass der Sensitivitätsparameter von den verschiedenen Lebensmittelkategorien abhängt. Für dieses Beispiel haben wir β=400.000 für den Supermarkttyp und β=300.000 für Discounter und Supermarkt verwendet.
 
-
-![](/images/docs/technical_documentation/heatmap/different_sensitivity.webp)
+![](/images/lokale-erreichbarkeit-5-deutsch.png)
 
 Vergleicht man beide Beispiele, so lassen sich signifikante Veränderungen der Erreichbarkeit feststellen, da im zweiten Beispiel der Sensitivitätsparameter zugunsten von Hypermärkten gewählt wurde.
 
