@@ -19,9 +19,8 @@ Zusätzlich zur [Lokalen Erreichbarkeits Heatmap](../heatmap/) ermöglicht GOAT 
 #### 1. Berechnung
 
 Die Vergleichs-Heatmap von Erreichbarkeit und Bevölkerungsdichte ergibt sich aus der Schnittmenge der beiden Heatmaps "Lokale Erreichbarkeit" und "Bevölkerungsdichte".
-![](/images/docs/technical_documentation/walkability_population_index/intersection_2_layers.webp)
 
-#### 2. Klassifizierung
+#### ![](/images/bildschirmfoto-2022-05-16-um-16-06-05.png)2. Klassifizierung
 
 Zur Klassifizierung der Erreichbarkeitswerte, die für jedes Hexagon berechnet wurden, wird eine Einteilung basierend auf Perzentilen verwendet. Die folgende Tabelle zeigt examplarisch, wie sich die Erreichbarkeitswerte zusammensetzen.
 
