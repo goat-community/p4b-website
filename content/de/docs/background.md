@@ -37,7 +37,7 @@ Im Gegensatz zu Verkehrsmodellen zeigen Erreichbarkeitsmodelle Potenziale auf, z
 
 **Komponenten der Erreichbarkeit**
 
-![](/images/bildschirmfoto-2022-05-04-um-14-01-03.png)
+![](/images/bildschirmfoto-2022-05-16-um-13-59-22.png)
 
 Mit den sogenannten Erreichbarkeitskomponenten (Geurs und van Wee 2004) kann das Erreichbarkeitskonzept konkretisiert werden. Jede Komponente kann einen Einfluss auf die Erreichbarkeit haben, daher werden idealerweise alle vier Komponenten berücksichtigt. Der Zugang zu Supermärkten könnte z.B. durch die Anzahl der verfügbaren Geschäfte (Landnutzung), die Qualität des Verkehrsnetzes (Verkehr), die Öffnungszeiten der Supermärkte (zeitlich begrenzt) und schlussendlich durch das finanzielle Budget der Menschen (individuell) beeinflusst werden.
 
