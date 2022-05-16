@@ -24,9 +24,9 @@ wobei die Erreichbarkeit <b>A</b> des Ursprungsortes <b>i</b> die Summe aller am
 Die Fahrzeiten werden in Sekunden berechnet. Da der Cut-off-Wert 15 Minuten für den Modus Gehen verwendet wird, bedeutet dies, dass Ziele, die weiter als 15 Minuten entfernt sind, bei der Berechnung des Index nicht berücksichtigt werden.  
 Der Sensitivitätsparameter definiert, wie sich die Zugänglichkeit mit zunehmender Fahrzeit verändert. Da der Sensitivitätsparameter entscheidend für die Messung der Erreichbarkeit ist, können Sie diese mit GOAT einstellen. Die folgenden Grafiken zeigen den Einfluss des Sensitivitätsparameters auf die Zugänglichkeit.
 
-![](/images/docs/technical_documentation/heatmap/sensitivity_index_20000.webp)
+#### ![](/images/lokale-erreichbarkeit-2-deutsch.png)
 
-![](/images/docs/technical_documentation/heatmap/sensitivity_index_30000.webp)
+#### ![](/images/deutsch.png)
 
 #### 2. Klassifizierung
 

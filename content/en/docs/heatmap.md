@@ -22,8 +22,9 @@ where the accessibility <b>A</b> of origin <b>i</b> is the sum of all opportunit
 
 Travel times are computed in seconds. The cut-off value of 15 minutes is used for the mode walking, this means that destination that are further away then 15 minutes are not considered in the calculation of the index. The sensitivity parameter defines how accessibility changes with increasing travel time. As the sensitivity parameter is decisive when measuring accessibility, GOAT allows you to adjust them. The following graphs show the influence of the sensitivity parameter on accessibility.
 
-![](/images/docs/technical_documentation/heatmap/sensitivity_index_20000.webp)
-![](/images/docs/technical_documentation/heatmap/sensitivity_index_30000.webp)
+#### ![](/images/loakel-erreichbarkeit-2-englisch.png)
+
+#### ![](/images/englisch.png)
 
 #### 2. Classification
 
