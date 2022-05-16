@@ -1,5 +1,5 @@
 ---
-title: Routing Profile
+title: Routingprofil
 permalink: "/de/docs/routing_profiles/"
 lang: de
 sections:
@@ -8,15 +8,15 @@ weight: 80
 
 ---
 Da GOAT auf aktive Mobilität ausgelegt ist, sind Straßen, die nur für Autos ausgelegt sind (z. B. Autobahnen) standardmäßig vom Routingnetz ausgeschlossen.  
- Dies kann zusätzlich bei der Einrichtung der Applikation angepasst werden. Abhängig von der Datengenauigkeit im Untersuchungsgebiet und dem Zweck der GOAT-Version stehen unterschiedliche Routingprofile zur Verfügung.  
-   
- Beim Einrichten einer eigenen GOAT-Version können die verfügbaren Routing-Profile und die entsprechenden Standardgeschwindigkeiten in den Konfigurationsdateien beim Einrichten von GOAT angepasst werden. Die Geschwindigkeit kann zudem direkt in der Benutzeroberfläche eingestellt werden.
+Dies kann zusätzlich bei der Einrichtung der Applikation angepasst werden. Abhängig von der Datengenauigkeit im Untersuchungsgebiet und dem Zweck der GOAT-Version stehen unterschiedliche Routingprofile zur Verfügung.
+
+Beim Einrichten einer eigenen GOAT-Version können die verfügbaren Routing-Profile und die entsprechenden Standardgeschwindigkeiten in den Konfigurationsdateien beim Einrichten von GOAT angepasst werden. Die Geschwindigkeit kann zudem direkt in der Benutzeroberfläche eingestellt werden.
 
 #### Fußverkehr
 
 <b>Standard</b>
 
-Standard-Routing-Profil für Fußgänger, das alle zu Fuß erreichbaren Wege berücksichtigt.
+Standard-Routing-Profil für Fußgänger:innen, das alle zu Fuß erreichbaren Wege berücksichtigt.
 
 Voreingestellte Geschwindigkeit: 5km/h
 
