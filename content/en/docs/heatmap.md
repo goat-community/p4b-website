@@ -8,7 +8,7 @@ weight: 60
 ---
 GOAT allows you to calculate and visualize gravity-based accessibility measures, which are visualized as heatmaps. Based on pre-calculated travel times the heatmap is computed dynamically based on the selection of the user. A hexagonal grid is used for visualization.
 
-![](/images/docs/technical_documentation/heatmap/heatmap.webp)
+#### ![](/images/lokale-erreichbarkeit-1-englisch.png)
 
 #### 1. Calculation
 
@@ -51,13 +51,13 @@ Varying sensitivity parameter for Hypermarket:
 In the first case we want to calculate the accessibility to groceries in 15min (β=300000).
 This means the sensitivity parameter is the same for every category of grocery.
 
-![](/images/docs/technical_documentation/heatmap/uniform_sensitivity.webp)
+##### ![](/images/lokale-erreichbarkeit-4-englisch.png)
 
 ##### 3.3 Calculation with different sensitivity indices
 
 In the second case we calculate the accessibility to groceries in 15min (β=300000 and β=400000). This means the sensitivity parameter depends on the categories of grocery. For this example, we used β= 400000 for the type of grocery hypermarket and β= 300000 for discount supermarket and supermarket.
 
-![](/images/docs/technical_documentation/heatmap/different_sensitivity.webp)
+![](/images/lokale-erreichbarkeit-5-englisch-png.png)
 
 If both examples are compared significant changes in accessibility can be observed, as in the second example the sensitivity parameter is chosen in favor of hypermarkets.
 
