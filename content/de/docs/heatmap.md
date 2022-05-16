@@ -9,7 +9,7 @@ weight: 60
 ---
 GOAT ermöglicht die Berechnung und Visualisierung von gravitationsbasierten Erreichbarkeitsmessungen, die als Heatmaps visualisiert werden. Basierend auf vorausberechneten Fahrzeiten und der Auswahl des Nutzers wird die Heatmap dynamisch berechnet. Zur Visualisierung wird ein hexagonales Raster verwendet.
 
-#### ![](/images/lokale-erreichbarkeit-1-deutsch.png)
+![](/images/lokale-erreichbarkeit-1-deutsch.png)
 
 #### 1. Berechnung
 
@@ -24,9 +24,9 @@ wobei die Erreichbarkeit <b>A</b> des Ursprungsortes <b>i</b> die Summe aller am
 Die Fahrzeiten werden in Sekunden berechnet. Da der Cut-off-Wert 15 Minuten für den Modus Gehen verwendet wird, bedeutet dies, dass Ziele, die weiter als 15 Minuten entfernt sind, bei der Berechnung des Index nicht berücksichtigt werden.  
 Der Sensitivitätsparameter definiert, wie sich die Zugänglichkeit mit zunehmender Fahrzeit verändert. Da der Sensitivitätsparameter entscheidend für die Messung der Erreichbarkeit ist, können Sie diese mit GOAT einstellen. Die folgenden Grafiken zeigen den Einfluss des Sensitivitätsparameters auf die Zugänglichkeit.
 
-#### ![](/images/lokale-erreichbarkeit-2-deutsch.png)
+![](/images/lokale-erreichbarkeit-2-deutsch.png)
 
-#### ![](/images/deutsch.png)
+![](/images/deutsch.png)
 
 #### 2. Klassifizierung
 
@@ -52,7 +52,7 @@ Variierender Sensitivitätsparameter für Hypermarket: ![](/images/docs/technica
 Im ersten Beispiel wollen wir die Erreichbarkeit für Lebensmittel in 15 Min berechnen (β=300.000).
 Das bedeutet, dass der Sensitivitätsparameter für jede Lebensmittelkategorie gleich ist.
 
-##### ![](/images/lokale-erreichbarkeit-4-deutsch.png)
+![](/images/lokale-erreichbarkeit-4-deutsch.png)
 
 ##### 3.3 Berechnung mit unterschiedlichen Sensitivitätsparametern
 
