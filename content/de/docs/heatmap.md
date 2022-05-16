@@ -1,5 +1,5 @@
 ---
-title: Heatmap - Local Accessibility
+title: Heatmap - Lokale Erreichbarkeit
 permalink: "/de/docs/heatmap/"
 lang: de
 sections:

@@ -22,7 +22,7 @@ In Fällen, in denen eine stärker anpassbare Interaktion mit den Geodaten erfor
 ![](/images/docs/about/server_client_architecture.webp)
 
 Im Front-End werden die Daten mit Hilfe der Openlayers- Bibliothek über den gebräuchlichen Webstack (HTML, CSS, JavaScript) abgerufen.  
-Alle in GOAT verwendeten Software sind Open Source und haben eine große weltweite Akzeptanz und Reputation. Dieses Setup wurde ursprünglich auf einem Ubuntu Server 18. 04 Rechner getestet, aber das gleiche könnte auch auf anderen Linux-Distributionen verwendet werden, mit ein paar Anpassungen am Setup.  
+Alle in GOAT verwendeten Softwares sind Open Source und haben eine große weltweite Akzeptanz und Reputation. Dieses Setup wurde ursprünglich auf einem Ubuntu Server 18. 04 Rechner getestet, aber das gleiche könnte auch auf anderen Linux-Distributionen verwendet werden, mit ein paar Anpassungen am Setup.  
 Das Entwicklungs-Setup wird mit Hilfe einer VM, die von Vagrant gesteuert wird, für Entwicklungs-, Test- und lokale Nutzung konzipiert. Auf diese Weise kann GOAT mühelos auf jedem Betriebssystem installiert werden.
 
 #### Daten
