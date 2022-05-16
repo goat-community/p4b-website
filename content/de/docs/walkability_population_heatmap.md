@@ -12,9 +12,9 @@ Zusätzlich zur [Lokalen Erreichbarkeits Heatmap](../heatmap/) ermöglicht GOAT 
 * Wo herrscht in der untersuchten Nachbarschaft ein Erreichbarkeitssüberschuss?
 * Wo herrscht in der untersuchten Nachbarschaft ein Dichteüberschuss?
 * Wo ist Potenzial für (Nach-)Verdichtung?
-* Wo ist eine Verbesserung der Erreichbarkeit zu bestimmten Einrichtungen oder ÖV Haltestellen notwendig?
+* Wo ist eine Verbesserung der Erreichbarkeit zu bestimmten Einrichtungen oder ÖV Haltestellen notwendig
 
-![](/images/docs/technical_documentation/walkability_population_index/walkability_population_map.webp)
+![](/images/heatmap-deutsch.png)
 
 #### 1. Berechnung
 
