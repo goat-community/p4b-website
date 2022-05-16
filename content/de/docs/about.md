@@ -25,7 +25,7 @@ GOAT...
 
 ### Warum GOAT?
 
-Es liegt auf der Hand, dass aktive Mobilität für die urbane Mobilität eine sehr wichtige Rolle spielt. GOAT als Erreichbarkeitsinstrument zielt daher darauf ab, das Bewusstsein für die richtige Planung für Fußgänger und Radfahrer während städtischer Infrastrukturentwicklungen zu schärfen. GOAT kommt mit zahlreichen hilfreichen Funktionen, die es ideal für die Planung der Erreichbarkeit machen.
+Es liegt auf der Hand, dass aktive Mobilität für die urbane Mobilität eine sehr wichtige Rolle spielt. GOAT als Erreichbarkeitsinstrument zielt daher darauf ab, das Bewusstsein für die richtige Planung für Fuß- und Radverkehr während städtischer Infrastrukturentwicklungen zu schärfen. GOAT kommt mit zahlreichen hilfreichen Funktionen, die es ideal für die Planung der Erreichbarkeit machen.
 
 Die Modellierung aktiver Mobilität (Fuß- und Radverkehr) in Verkehrsmodellen ist eine Herausforderung und führt in der Regel nicht zu den erwarteten Ergebnissen. Planer:innen und Entscheidungsträger:innen brauchen umfassende Unterstützung, um aktive Mobilität richtig planen und verbessern zu können. Diese Lücke kann bequem mit Erreichbarkeitsmodellen geschlossen werden.
 
@@ -44,7 +44,7 @@ Mit der Entwicklung von GOAT wollen wir diese Lücken beheben.
 Mit GOAT können damit verschiedene Planungsfragen beantwortet werden. Einige Beispiele sind:
 
 * Wie gut ist die Erreichbarkeit von Schulen in bestimmten Stadtteilen zu Fuß?
-* Wie viele Bewohner werden von bestimmten Haltestellen des öffentlichen Nahverkehrs abgedeckt? Wo kann der perfekte Standort für einen neuen öffentlichen Nahverkehr sein, um möglichst viele Bewohner zu versorgen?
+* Wie viele Bewohner:innen werden von bestimmten Haltestellen des öffentlichen Nahverkehrs abgedeckt? Wo kann der perfekte Standort für einen neuen öffentlichen Nahverkehr sein, um möglichst viele Bewohner:innen zu versorgen?
 * Wie wirkt sich eine neue Fußgängerbrücke auf die Erreichbarkeit eines Viertels aus?
 * Wie verändert sich die Erreichbarkeit eines Ortes bei vorübergehender Schließung eines Gehweges?
 
@@ -54,7 +54,7 @@ Die GOAT-Architektur ist komplett auf Open-Source-Software aufgebaut, außerdem 
 
 ![](/images/docs/about/love_osm_os.webp)
 
-GOAT wird mit OpenStreetMap (OSM), sowie einer Vielzahl weiterer (offener sowie propriotärer) Daten bestückt. OSM wird als äußerst wertvolle Quelle angesehen, aber es ist hervorzuheben, dass es nicht nur darauf abzielt die Daten zu konsumieren, sondern auch aktiv Teil der OSM-Community zu sein. Diese Entscheidung wird als wesentlich für die Erhaltung dieses und anderer Projekte angesehen. 
+GOAT wird mit OpenStreetMap (OSM), sowie einer Vielzahl weiterer (offener sowie propriotärer) Daten bestückt. OSM wird als äußerst wertvolle Quelle angesehen, aber es ist hervorzuheben, dass es nicht nur darauf abzielt die Daten zu konsumieren, sondern auch aktiv Teil der OSM-Community zu sein. Diese Entscheidung wird als wesentlich für die Erhaltung dieses und anderer Projekte angesehen.
 
 Außerdem können weitere individuelle Datenquellen bequem hinzugefügt werden. Aufgrund des modularen Charakters ermöglicht GOAT eine einfache Erweiterung und Skalierbarkeit. Hierbei kommen innovative Ansätze zum Einsatz.
 
