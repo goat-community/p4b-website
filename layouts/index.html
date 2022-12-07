@@ -4,8 +4,7 @@
 {{ range ( sort (.Params.sections) ".order" "ace") }}
 {{ $order := .order }}
 {{ with .plan_section }}
-<section class="mit-uns-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}" 
-{{if eq $order 1 }} id="next_section" {{end}}>
+<section class='mit-uns-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }} id="next_section" {{end}}>
   <div class="uk-container">
     <div class="mit-uns-inner">
       <div class="mit-uns-left" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
@@ -40,8 +39,7 @@
 </section>
 {{ end }}
 {{ with .planing_section }}
-<section class='planing-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if
-  eq $order 1 }}id="next_section" {{end}}>
+<section class='planing-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }} id="next_section" {{end}}>
   <div class="uk-container">
     <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{ .title }}</h2>
     <div class="planing-inner">
@@ -70,8 +68,7 @@
 {{ end }}
 {{ with .action_section }}
 
-<section class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if
-  eq $order 1 }}id="next_section" {{end}}>
+<section class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if eq $order 1 }} id="next_section" {{end}}>
   <div class='discover-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}'>
     <h2 class="uk-h1" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">{{.heading}}</h2>
     <div class="slideshow">
