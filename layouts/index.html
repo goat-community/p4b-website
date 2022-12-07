@@ -4,8 +4,8 @@
 {{ range ( sort (.Params.sections) ".order" "ace") }}
 {{ $order := .order }}
 {{ with .plan_section }}
-<section class='mit-uns-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}' {{if
-  eq $order 1 }}id="next_section" {{end}}>
+<section class="mit-uns-scn {{ if ne .background_color_content "default"}}{{.background_color_content}}{{ end }}" 
+{{if eq $order 1 }} id="next_section" {{end}}>
   <div class="uk-container">
     <div class="mit-uns-inner">
       <div class="mit-uns-left" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; delay: 100">
