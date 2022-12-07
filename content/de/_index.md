@@ -59,19 +59,19 @@ sections:
     action_section:
       heading: "Entdecken Sie die Vorteile von GOAT"
       slider_item:
-      - videoURL: "https://player.vimeo.com/video/761428637?loop=1&&autopause=0&autoplay=1"
+      - videoURL: "https://player.vimeo.com/video/761428637?loop=1&autopause=0&autoplay=1"
         title: "Pitch"
         sub_title: "Die Funktionen im Überblick"
         button:
           url: "#"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/775782337?loop=1&&autopause=0&autoplay=1"
+      - videoURL: "https://player.vimeo.com/video/775782337?loop=1&autopause=0"
         title: "ÖV-Analysen"
         sub_title: "Analyse der Qualität des ÖV-Angebots"
         button:
           url: "#"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/759803197?loop=1&&autopause=0&autoplay=1"
+      - videoURL: "https://player.vimeo.com/video/759803197?loop=1&autopause=0"
         title: "Brückenszenario"
         sub_title: "Interaktive Veränderung des Wegenetzes"
         button:

@@ -56,19 +56,19 @@ sections:
       background_color_content: secondary
       heading: "Discover the advantages of GOAT"
       slider_item:
-      - videoURL: "https://player.vimeo.com/video/771139118?loop=1&&autopause=0&autoplay=1"
+      - videoURL: "https://player.vimeo.com/video/771139118?loop=1&autopause=0&autoplay=1"
         title: "Pitch"
         sub_title: "Quick overview of the functionalities"
         button:
           url: "#"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/766394906?loop=1&&autopause=0&autoplay=1"
+      - videoURL: "https://player.vimeo.com/video/766394906?loop=1&autopause=0"
         title: "Public transport analysis"
         sub_title: "Analyze the public transport quality"
         button:
           url: "#"
           label: "Mehr erfahren" 
-      - videoURL: "https://player.vimeo.com/video/754212535?autoplay=1&loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/754212535?loop=1&autopause=0"
         title: "Scenario Bridge"
         sub_title: "Interactive change of the network"
         button:
