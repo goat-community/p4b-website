@@ -25,6 +25,7 @@ sections:
       - logo: "/images/index/logo_lhm.webp"
       - logo: "/images/index/logo_freising.webp"
       - logo: "/images/index/logo_ffb.webp"
+      - logo: "/images/index/stattbau_Logo.webp"
       - logo: "/images/index/logo_eit.webp"
       - logo: "images/index/logo_werk1.webp"
       - logo: "/images/index/logo_xpreneurs.webp"
