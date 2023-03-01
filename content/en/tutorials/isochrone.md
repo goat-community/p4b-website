@@ -9,6 +9,8 @@ description: Possible use cases and step-by-step tutorials for exemplary plannin
 
 
 ---
+![Isochrones in GOAT](/images/tutorials/Tutorial_banners/isochrone_banner.webp "Isochrones in GOAT")
+
 #### Description of the feature
 
 [Isochrones](/docs/alphashape/ "Documentation on isochrones") are isolines connecting all points that can be reached from a specific starting point within a certain time interval. GOAT allows the calculation of isochrones that take factors such as speed, infrastructure network, and traveling time into account. This can be adjusted automatically by choosing between the modes “Walking”, “Bike”, “Pedelec”, “Transit” or “Car”. Isochrones can be used as an indicator of accessibility in one specific location.

@@ -7,6 +7,8 @@ sections:
 description: Schritt-für-Schritt-Anleitung für das Hochladen eigener Point-of-Interest-Datensätze.
 
 ---
+![POIs in GOAT](/images/tutorials/Tutorial_banners/data_upload_banner.webp "POIs in GOAT")
+
 #### Beschreibung des Features
 In GOAT wird standardmäßig bereits ein Datensatz mit einer Vielzahl an Points-of-Interest (POIs) bereitgestellt. Falls Sie weitere POI-Datensätze in GOAT integrieren möchten, können Sie dies über die Funktion "Hochladen" tun. In diesem Tutorial sehen Sie, wie Sie mit QGIS Ihren eigenen POI-Layer erstellen und in GOAT integrieren. 
 #### Anleitung zur Erstellung eines eigenen Point-of-Interest-Datensatzes

@@ -6,6 +6,8 @@ sections:
 - training
 
 ---
+![Scenarios Buildings in GOAT](/images/tutorials/Tutorial_banners/scenario_building_banner.webp "Scenarios Buildings in GOAT")
+
 #### Description of the feature
 
 GOAT allows the development of personalized scenarios for changes in the building structure, such as the construction of a new residential area or the demolition of an old building. The developed scenario can be added to the existing urban structure and the changes in accessibility can be evaluated.

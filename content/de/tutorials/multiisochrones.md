@@ -8,6 +8,8 @@ description: Anleitung für die Verwendung der Multi-Isochronen-Funktion in GOAT
   eine beispielhafte Planungsaufgabe.
 
 ---
+![Isochrones in GOAT](/images/tutorials/Tutorial_banners/multi_isochrone_banner.webp "Isochrones in GOAT")
+
 #### Beschreibung des Features
 
 GOAT ermöglicht die Berechnung von Multi-Isochronen. Der wesentliche Unterschied zwischen Multi-Isochronen und Single-Isochronen besteht darin, dass man bei Multi-Isochronen mehrere Ausgangspunkte wählen und die Einzugsgebiete für alle auf einmal berechnen kann. In Verbindung mit den Bevölkerungsdaten kann so der Anteil der Bevölkerung identifiziert werden, der in einer gewissen Reisezeit Zugang zu Einrichtungen wie Supermärkten, Kindergärten, ÖV-Haltestellen etc. hat. 

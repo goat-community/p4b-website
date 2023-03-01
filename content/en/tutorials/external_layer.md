@@ -7,6 +7,8 @@ sections:
 description: Step-by-step tutorial for adding external layers
 
 ---
+![External Layers in GOAT](/images/tutorials/Tutorial_banners/external_layer_banner.webp "External Layers in GOAT")
+
 #### Description of the feature
 
 GOAT allows you to integrate your own external layers. With a huge selection of geographic maps, you can customize your analysis. You can either choose from the preset layers or add your own by using "source url".

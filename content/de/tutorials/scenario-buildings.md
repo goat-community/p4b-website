@@ -6,6 +6,8 @@ sections:
 - training
 
 ---
+![Scenarios Buildings in GOAT](/images/tutorials/Tutorial_banners/scenario_building_de_banner.webp "Scenarios Buildings in GOAT")
+
 #### Beschreibung des Features
 
 GOAT ermöglicht Veränderungen in der Bebauung, wie z.B. die Errichtung eines neuen Wohngebietes oder das Abreißen eines alten Gebäudes. Das entwickelte Szenario wird zur vorhandenen Siedlungsstruktur hinzugefügt und im Anschluss können Änderungen in der Erreichbarkeit aufgezeigt werden.

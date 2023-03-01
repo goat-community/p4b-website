@@ -6,6 +6,8 @@ sections:
 - training
 
 ---
+![Scenario Ways in GOAT](/images/tutorials/Tutorial_banners/scenario_ways_banner.webp "Scenario Ways in GOAT")
+
 #### Description of the feature
 
 GOAT allows you to develop your own scenarios, such as network modifications or building a new bridge. The developed scenario can be added to the current network, and changes in accessibility can be evaluated using isochrones.

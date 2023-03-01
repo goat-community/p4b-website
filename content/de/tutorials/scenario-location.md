@@ -6,6 +6,8 @@ sections:
 - training
 
 ---
+![Scenario Location Planning in GOAT](/images/tutorials/Tutorial_banners/scenario_location_planning_banner.webp "Scenario Location Planning in GOAT")
+
 #### Beschreibung des Features
 
 GOAT ermöglicht die Entwicklung eigener Szenarien zur Standortplanung, so kann bspw. ein neuer Supermarkt oder eine neue Schule hinzugefügt und die Auswirkungen auf die Erreichbarkeit mithilfe von Heatmaps und Multi-Isochronen ermittelt werden.

@@ -8,6 +8,8 @@ description: Schritt-für-Schritt-Anleitung für beispielhafte Planungsfragen un
   Verwendung  der GOAT Isochronen-Funktion.
 
 ---
+![Isochrones in GOAT](/images/tutorials/Tutorial_banners/isochrone_banner.webp "Isochrones in GOAT")
+
 #### Beschreibung des Features
 
 [Isochronen](/docs/alphashape/ "Dokumentation zu Isochronen") sind Isolinien, die alle Punkte verbinden, die von einem bestimmten Startpunkt aus innerhalb eines bestimmten Zeitintervalls erreicht werden können. Sie sind besonders geeignet, um die Erreichbarkeit an einem spezifischen Ort aufzuzeigen. GOAT ermöglicht die Berechnung von Isochronen und erlaubt die Anpassung der Reisegeschwindigkeit, der Reisezeit und des Routingprofils. Gegenwärtig kann zwischen den Routingprofilen „Zu Fuß“, „Fahrrad Standard“, „Fahrrad Pedelec“, „ÖPNV“ und „Auto“ ausgewählt werden. Außerdem kann die Anzahl der zu berechnenden Isochronen eingestellt werden. 
