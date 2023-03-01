@@ -6,7 +6,7 @@ sections:
 - training
 
 ---
-![Scenario Location Planning in GOAT](/images/tutorials/Tutorial_banners/scenario_location_planning_banner.webp "Scenario Location Planning in GOAT")
+![Standortplanung in GOAT](/images/tutorials/Tutorial_banners/scenario_location_planning_banner.webp "Standortplanung in GOAT")
 
 #### Beschreibung des Features
 

@@ -8,7 +8,7 @@ description: Anleitung für die Verwendung der Multi-Isochronen-Funktion in GOAT
   eine beispielhafte Planungsaufgabe.
 
 ---
-![Isochrones in GOAT](/images/tutorials/Tutorial_banners/multi_isochrone_banner.webp "Isochrones in GOAT")
+![Multi-Isochronen in GOAT](/images/tutorials/Tutorial_banners/multi_isochrone_banner.webp "Multi-Isochronen in GOAT")
 
 #### Beschreibung des Features
 

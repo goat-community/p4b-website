@@ -6,7 +6,7 @@ sections:
 - training
 description: Anleitung für die Verwendung der ÖPNV Analysen in GOAT
 ---
-![Public Transport Indicator in GOAT](/images/tutorials/Tutorial_banners/public_transport_banner.webp "Public Transport Indicator in GOAT")
+![ÖPNV-Analysen in GOAT](/images/tutorials/Tutorial_banners/public_transport_banner.webp "ÖPNV-Analysen in GOAT")
 
 #### Beschreibung des Features
 GOAT ermöglicht es Ihnen, Analysen zur Qualität und Erreichbarkeit des öffentlichen Verkehrs durchzuführen. Dazu werden im Wesentlichen zwei Indikatoren bereitgestellt: "[ÖV Güteklassen](/docs/oev_gueteklasse/ "Dokumentation über ÖV Güteklassen")" und die "Durchschnittliche Anzahl der Abfahrten". Darüber hinaus ermöglicht GOAT auch die Berechnung von [Isochronen](/docs/alphashape/ "Erfahren Sie, wie man Isochronen berechnet") für verschiedene Verkehrsmittel unter Berücksichtigung des Verkehrsnetzes und der Reisezeit. 

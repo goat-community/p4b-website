@@ -6,7 +6,7 @@ sections:
 - training
 
 ---
-![Scenarios Buildings in GOAT](/images/tutorials/Tutorial_banners/scenario_building_de_banner.webp "Scenarios Buildings in GOAT")
+![Stadtentwicklung in GOAT](/images/tutorials/Tutorial_banners/scenario_building_de_banner.webp "Stadtentwicklung in GOAT")
 
 #### Beschreibung des Features
 

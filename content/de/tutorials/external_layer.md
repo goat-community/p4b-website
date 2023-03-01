@@ -7,7 +7,7 @@ sections:
 description: Step-by-step tutorial for adding external layers
 
 ---
-![External Layers in GOAT](/images/tutorials/Tutorial_banners/external_layer_banner.webp "External Layers in GOAT")
+![Umweltdaten in GOAT](/images/tutorials/Tutorial_banners/external_layer_banner.webp "Externe Umweltdaten in GOAT")
 
 #### Beschreibung des Features
 

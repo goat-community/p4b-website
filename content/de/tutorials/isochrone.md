@@ -8,7 +8,7 @@ description: Schritt-für-Schritt-Anleitung für beispielhafte Planungsfragen un
   Verwendung  der GOAT Isochronen-Funktion.
 
 ---
-![Isochrones in GOAT](/images/tutorials/Tutorial_banners/isochrone_banner.webp "Isochrones in GOAT")
+![Isochronen in GOAT](/images/tutorials/Tutorial_banners/isochrone_banner.webp "Isochronen in GOAT")
 
 #### Beschreibung des Features
 

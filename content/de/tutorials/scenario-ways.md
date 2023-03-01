@@ -6,7 +6,7 @@ sections:
 - training
 
 ---
-![Scenario Ways in GOAT](/images/tutorials/Tutorial_banners/scenario_ways_banner.webp "Scenario Ways in GOAT")
+![Veränderungen am Wegenetz in GOAT](/images/tutorials/Tutorial_banners/scenario_ways_banner.webp "Veränderungen am Wegenetz in GOAT")
 
 #### Beschreibung des Features
 
