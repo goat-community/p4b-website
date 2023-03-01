@@ -23,6 +23,9 @@ sections:
       - quote_image: "/images/index/logo_psu.webp"
         quote_text: '„GOAT has decisive advantages for environmentally sound urban, local and spatial planning because it includes the user perspective from the outset and does not represent the expert view first. This is new!“​'
         author_name: "Dr. Johannes Gnädinger, Prof. Schaller UmweltConsult GmbH"
+      - quote_image: "/images/index/stattbau_Logo.webp"
+        quote_text: '„GOAT enables us to analyse the accessibility of construction projects in a targeted and efficient manner. The results of the analyses form a clear basis for the development of tailored mobility concepts in residential and commercial construction.“​'
+        author_name: "Julia Korsten, stattbau münchen GmbH"
       - quote_image: "/images/index/digital-freiburg.png"
         quote_text: '„An excellent tool for data-driven, modern urban and mobility planning for ambitious 15-minute cities.“​'
         author_name: "Michael Bauder, City of Freiburg"
@@ -74,8 +77,8 @@ sections:
         text: 'Choose your desired area for GOAT. The pricing depends on the number of residents.'
       - img: '/images/index/undraw_pitching_re_fpgk.png'
         heading: 'Select Modules'
-        sub_heading: 'Walking - Cycling - Public Transport'
-        text: 'Each module allows you to perform accessibility analyses of the current state for the selected modes of transport (walking, cycling and/or public transport), regardless of the functions selected.'
+        sub_heading: 'Walking & Cycling - Public Transport - Car'
+        text: 'Each module allows you to perform accessibility analyses of the current state for the selected modes of transport (walking, cycling, public transport and/or car), regardless of the functions selected.'
       - img: '/images/index/undraw_select_option_re_u4qn.png'
         heading: 'Choose duration'
         sub_heading: 'Month - Year'
