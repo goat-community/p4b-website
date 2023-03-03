@@ -25,7 +25,7 @@ text = "Willkommen auf unserer neuen Webseite! Sie suchen nach den bisherigen An
 video = ""
 [blocks.button]
 text = "GOAT Referenzen"
-url = "/goat-references/"
+url = "/references/"
 
 
 +++

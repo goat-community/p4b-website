@@ -1,9 +1,9 @@
 +++
 description = "You can find here all live versions of our planning tool GOAT that are currently maintained as demo versions."
 layout = "blocks"
-title = "GOAT - References"
+title = "References"
 ogimage = "/images/request-demo/request_demo_ogimage.png"
-translationKey = "goat-references"
+translationKey = "references"
 [header]
 background = "default"
 background_image = ""
@@ -16,7 +16,7 @@ text = ""
 url = ""
 [[blocks]]
 block = "live"
-heading = "GOAT - References"
+heading = "References"
 template = "live-block"
 text = "GOAT is a transferable and customisable tool that can be used for different applications. Within the framework of various projects, GOAT has already been transferred to more than 30 study areas. A selection can be found below:"
 

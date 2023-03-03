@@ -1,9 +1,9 @@
 +++
 description = "Hier finden Sie eine Übersicht der Städte und Regionen, auf die wir GOAT bereits übertragen haben."
 layout = "blocks"
-title = "GOAT-Referenzen"
+title = "Referenzen"
 ogimage = "/images/request-demo/request_demo_ogimage.png"
-translationKey = "goat-references"
+translationKey = "references"
 [header]
 background = "default"
 background_image = ""
@@ -16,7 +16,7 @@ text = ""
 url = ""
 [[blocks]]
 block = "live"
-heading = "GOAT - Referenzen"
+heading = "Referenzen"
 template = "card-block"
 text = "GOAT ist ein übertragbares und indivisualisierbares Tool, das für unterschiedliche Anwendungsfälle eingesetzt werden kann. Im Rahmen von verschiedenen Projekten wurde GOAT bereits auf über 30 Untersuchungsgebiete übertragen. Eine Auswahl finden Sie im folgenden:"
 

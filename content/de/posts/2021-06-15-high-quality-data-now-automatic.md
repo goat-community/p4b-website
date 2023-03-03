@@ -56,7 +56,7 @@ Auf der Karte in Abbildung 2 können somit Straßen mit hoher Vegetation oder ho
 
 ## Automatisierungsalgorithmus
 
-Wir wollen jedoch nicht nur einen Stadtteil analysieren, sondern im besten Fall ganz München und noch [weitere Städte, in denen GOAT derzeit eingesetzt wird](../../goat-references/). Unsere erste Herausforderung bestand darin, die API für größere Gebiete abzurufen. Hierzu haben wir eine Funktion entwickelt, mit der das gewünschte Gebiet in ein Raster kleinerer Quadrate unterteilt wird.
+Wir wollen jedoch nicht nur einen Stadtteil analysieren, sondern im besten Fall ganz München und noch [weitere Städte, in denen GOAT derzeit eingesetzt wird](../../references/). Unsere erste Herausforderung bestand darin, die API für größere Gebiete abzurufen. Hierzu haben wir eine Funktion entwickelt, mit der das gewünschte Gebiet in ein Raster kleinerer Quadrate unterteilt wird.
 
 Um den Server nicht zu überlasten, haben wir eine kurze Zeitpause zwischen der Abfrage der einzelnen Quadrate eingefügt. Nach erfolgreicher Abfrage aller Quadrate werden die extrahierten Informationen in einer JSON-Datei zusammengeführt.
 

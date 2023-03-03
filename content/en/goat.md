@@ -96,7 +96,7 @@ sections:
         heading: 'GOAT-Demo'
         text: 'Test all functionalities in our demo version.'
         icon : "images/index/goat-icon.svg"
-      - url: '/en/goat-references/'
+      - url: '/en/references/'
         heading: 'References'
         text: 'Explore previous projects and applications of GOAT.'
         icon : "images/index/code.svg"

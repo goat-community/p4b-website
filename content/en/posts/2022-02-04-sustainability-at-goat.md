@@ -66,7 +66,7 @@ Our planning software GOAT makes it possible to locate significant infrastructur
 
 The core of GOAT is the planning of sustainable cities and communities. By providing an easy-to-use planning tool, we help planners evaluate measures to promote active mobility concepts, design vital spaces, create connected communities, and ensure easy access to daily needs and green spaces.
 
-With this in mind, we have already conducted several pilot projects in cities such as Munich, Istanbul and Freiburg. You can find more information [here](/goat-references/ "GOAT live").
+With this in mind, we have already conducted several pilot projects in cities such as Munich, Istanbul and Freiburg. You can find more information [here](/references/ "GOAT live").
 
 ![Liveable cities](/images/undraw_a_day_at_the_park_re_9kxj.webp "Liveable cities")
 

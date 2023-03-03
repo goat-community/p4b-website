@@ -66,7 +66,7 @@ Als Mobility-Start-up fördern wir mit innovativen Produkten die Planung von nac
 
 Der Kern von GOAT ist die Planung von nachhaltigen Städten und Gemeinden. Indem wir ein einfach zu bedienendes Planungsinstrument zur Verfügung stellen, helfen wir Planer:innen in der Bewertung von Maßnahmen zur Förderung aktiver Mobilitätskonzepte, der Gestaltung vitaler Räume, der Schaffung vernetzter Communities sowie der Sicherstellung einer einfachen Erreichbarkeit von Zielen des täglichen Bedarfs und Grünflächen.
 
-Hierfür haben wir bereits einige Pilotprojekte in Städten wie München, Istanbul und Freiburg durchgeführt. Weitere Informationen finden Sie [hier](/goat-references/ "GOAT live").
+Hierfür haben wir bereits einige Pilotprojekte in Städten wie München, Istanbul und Freiburg durchgeführt. Weitere Informationen finden Sie [hier](/references/ "GOAT live").
 
 ![Graphik zu lebenswerte Städten](/images/undraw_a_day_at_the_park_re_9kxj.webp "GOAT: Lebenswerte Städte")
 

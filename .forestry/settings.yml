@@ -87,7 +87,7 @@ sections:
   label: Videos
 - type: document
   path: data/live.yml
-  label: goat-references
+  label: references
 - type: document
   path: data/docs.yml
   label: Docs Sections

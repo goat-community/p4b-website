@@ -103,11 +103,11 @@ url = "/kontakt/"
 weight = 8
 [[languages.de.menu.center]]
 name = "Referenzen"
-url = "/goat-references/"
+url = "/references/"
 weight = 7
 [[languages.en.menu.center]]
 name = "References"
-url = "/goat-references/"
+url = "/references/"
 weight = 7
 [[languages.de.menu.footer]]
 name = "Kontakt"
