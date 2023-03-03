@@ -2,8 +2,8 @@
 layout: reference
 title: GOAT in München
 lang: de
-thumbnail: "/images/references/munich_thumbnail.webp"
-image: "/images/references/munich_banner.webp"
+thumbnail: "/images/references/munich/thumbnail.webp"
+image: "/images/references/munich/banner.webp"
 summary: GOAT im Einsatz für Stadt- und Verkehrsplanung - München, Deutschland
 information:
   - Stadt München und UnternehmerTUM
@@ -23,11 +23,11 @@ description:
 overview: Im Kontext des Entwicklungsvorhabens GOAT 1.0 wurde GOAT erstmals 2020 intensiv gemeinsam mit der Stadt München eingesetzt. Darauf folgte eine 1-jährige Innovationsphase, in der GOAT in verschiedenen Referaten der Landeshauptstadt München eingesetzt wurde. Erst kürzlich kam GOAT im Rahmen des “Citizen Mobility” Projekts bei der Planung neuer Mobilitätsstationen zum Einsatz.
 
 slider_items:
-  - image: "/images/references/munich_bikesharing.webp"
+  - image: "/images/references/munich/bikesharing.webp"
     title: "Erreichbarkeit zu Bikesharing Stationen"
-  - image: "/images/references/munich_kitas.webp"
+  - image: "/images/references/munich/kitas.webp"
     title: "Erreichbarkeit zu Kitas"
-  - image: "/images/references/munich_bridge.webp"
+  - image: "/images/references/munich/bridge.webp"
     title: "Planung neuer Radwegeverbindung am Giesinger Berg"
 
 review_text: "GOAT ist ein sehr gutes Tool zur Berechnung und Darstellung von Erreichbarkeiten in der Verkehrs- und Stadtplanung."

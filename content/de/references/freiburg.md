@@ -3,7 +3,7 @@ layout: reference
 title: GOAT in Freiburg 
 lang: de
 thumbnail: "/images/references/freiburg/thumbnail.webp"
-image: "/images/references/freiburg/thumbnail.webp"
+image: "/images/references/freiburg/banner.webp"
 summary: Mit dem GOAT-Abo erstellen die Planer:innen der Stadt Freiburg und der Freiburger Verkehrs AG Erreichbarkeitsanalysen für eine Vielzahl an Planungsfragen. - Freiburg, Deutschland
 information:
   - Stadt Freiburg und Freiburger Verkehrs AG (VAG)
