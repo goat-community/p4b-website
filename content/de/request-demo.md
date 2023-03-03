@@ -1,16 +1,16 @@
 +++
 description = "Sie wollen GOAT testen? Hier können Sie sich für unsere Demo-Version anmelden."
 layout = "blocks"
-title = "NEU: GOAT mit Nutzer-Login"
+title = "GOAT mit Nutzer-Login"
 ogimage = "/images/request-demo/request_demo_ogimage.png"
 translationKey = "request-goat"
 [header]
 background = "default"
 background_image = "/images/request-demo/mockup.webp"
-heading = "NEU: GOAT mit Nutzer-Login"
+heading = "GOAT mit Nutzer-Login"
 padding_top = "default"
 layout = "center"
-text = "Wir sind den zahlreichen Nutzerwünschen gefolgt und haben mit unserer GOAT Version 1.1 einen Nutzer-Login implementiert, der es erlaubt erstellte Szenarien zu speichern und eigene Datensätze hochzuladen. "
+text = "Wir sind den zahlreichen Nutzerwünschen gefolgt und haben für GOAT einen Nutzer-Login implementiert, der es erlaubt erstellte Szenarien zu speichern und eigene Datensätze hochzuladen. "
 [[blocks]]
 background = "muted"
 block = "links"

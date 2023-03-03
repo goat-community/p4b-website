@@ -1,16 +1,16 @@
 +++
 description = "You want to test GOAT? Here you can register for our demo version."
 layout = "blocks"
-title = "NEW: GOAT with user login"
+title = "GOAT with user login"
 ogimage = "/images/request-demo/request_demo_ogimage.png"
 translationKey = "request-goat"
 [header]
 background = "default"
 background_image = "/images/request-demo/mockup.webp"
-heading = "NEW: GOAT with user login"
+heading = "GOAT with user login"
 padding_top = "default"
 layout = "center"
-text = "We have followed the numerous user requests and implemented a user login with our GOAT version 1.1, which allows you to save created scenarios and upload your own data sets. "
+text = "We have followed the numerous user requests and implemented a user login for GOAT, which allows you to save created scenarios and upload your own data sets. "
 [[blocks]]
 background = "muted"
 block = "links"
