@@ -1,7 +1,7 @@
 +++
 author = "reynartz"
 categories = ["use cases"]
-date = 2023-03-02T23:00:00Z
+date = 2023-02-28T23:00:00Z
 description = "Application Example Urban Planning: GOAT as a Planning Tool for Urban Development Concepts "
 draft = true
 image = "/images/stadtplanung_900450.webp"
