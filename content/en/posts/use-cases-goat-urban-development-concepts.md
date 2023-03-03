@@ -2,12 +2,12 @@
 author = "reynartz"
 categories = ["use cases"]
 date = 2023-02-28T23:00:00Z
-description = "Application Example Urban Planning: GOAT as a Planning Tool for Urban Development Concepts "
+description = "GOAT is a versatile planning tool that can be used in site planning, among other things. In this blog post we give a closer look at the use of GOAT in urban development concepts."
 draft = true
 image = "/images/stadtplanung_900450.webp"
-summary = "Application Example Urban Planning: GOAT as a Planning Tool for Urban Development Concepts "
+summary = "GOAT is a versatile planning tool that can be used in site planning, among other things. In this blog post we give a closer look at the use of GOAT in urban development concepts."
 thumbnail = "/images/stadtplanung_600450.webp"
-title = "Use Cases GOAT: Urban Development Concepts"
+title = "GOAT Use Cases: urban development concepts"
 translationKey = "use-cases-development-concepts"
 
 +++
