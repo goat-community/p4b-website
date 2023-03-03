@@ -13,7 +13,7 @@ translationKey = "use-cases-development-concepts"
 +++
 ## What is an urban development concept?
 
-An urban development concept seeks to support and develop the characteristics of a city in a future-oriented, sustainable and long-term manner. Interdisciplinary and cross-disciplinary communication as well as the inclusion of current trends is essential (complan Kommunalberatung GmbH, 2017). Currently, both the "city of short distances" and an expansion of local mobility and alternative forms of mobility such as car and bike sharing are of great importance in many cases (complan Kommunalberatung GmbH, 2017). This is intended to strengthen urban and local supply centers.
+An urban development concept seeks to support and develop the characteristics of a city in a future-oriented, sustainable and long-term manner. Interdisciplinary and cross-disciplinary communication as well as the inclusion of current trends is essential (complan Kommunalberatung GmbH, 2017). Currently, both the "15-minute-city" and an expansion of local mobility and alternative forms of mobility such as car and bike sharing are of great importance in many cases (complan Kommunalberatung GmbH, 2017). This is intended to strengthen urban and local supply centers.
 
 ## What can GOAT contribute to this?
 
@@ -39,7 +39,7 @@ In order to achieve the goal of decentralized services of general interest, a fa
 
 Our open source planning software GOAT contains various POIs like sports facilities, supermarkets, kindergartens and parks. These can be visualized and their spatial distribution analyzed with different accessibility indicators and intersected with population data. [Isochrones](/en/tutorials/isochrone/ "tutorials to isochrones") and [heatmaps](/en/docs/heatmap/ "documentation about heatmaps") can be used to find gaps in accessibility, identify opportunities for redensification, and thus address grievances.
 
-A good benchmark for accessibility is the results of [multi-isochrones](/en/tutorials/multiisochrones/ "tutorials to multi-isochrones"). This form of isochrones calculate what proportion of residents:inside a neighborhood have access to a particular daily amenity. Different means of transport as well as travel time can be chosen. Figure 2 shows an exemplary accessibility analysis with isochrones to supermarkets within 10 minutes.
+A good benchmark for accessibility is the results of [multi-isochrones](/en/tutorials/multiisochrones/ "tutorials to multi-isochrones"). This form of isochrones calculate what proportion of residents inside a neighborhood have access to a particular daily amenity. Different means of transport as well as travel time can be chosen. Figure 2 shows an exemplary accessibility analysis with isochrones to supermarkets within 10 minutes.
 
 ![](/images/abb2-en.png)
 
