@@ -8,7 +8,7 @@ image = "/images/stadtplanung_900450.webp"
 summary = "GOAT ist ein vielseitiges Planungstool, das unter anderem in der Standortplanung eingesetzt werden kann. In diesem Blogpost geben wir einen näheren Einblick zum Einsatz von GOAT in Stadtentwicklungskonzepten."
 thumbnail = "/images/stadtplanung_600450.webp"
 title = "GOAT Anwendungsbeispiel: Stadtplanung"
-translationKey = ""
+translationKey = "use-cases-development-concepts"
 
 +++
 ## Was ist ein Stadtentwickulungskonzept?
