@@ -49,7 +49,7 @@ _Abbildung 2: Erreichbarkeitsisochronen zu Supermärkten in GOAT_
 
 Die Aufwertung und Stärkung von fußgängerfreundlichen Stadt- und Nahversorgungszentren wird als wichtiger Punkt in der Planung von Stadtentwicklungskonzepten angesehen (complan Kommunalberatung GmbH, 2017, p. 43). Mit GOAT können neben der Analyse des aktuellen Ist-Zustandes auch interaktive Szenarien zu neuen POIs und Gebäuden angelegt werden und deren Auswirkungen auf die Erreichbarkeit analysiert werden. In diesem Video zeigen wir, wie Szenarien in GOAT durchgeführt werden können.
 
-<iframe title="vimeo-player" src="[https://player.vimeo.com/video/411721219?h=23a8a210f4](https://player.vimeo.com/video/411721219?h=23a8a210f4 "https://player.vimeo.com/video/411721219?h=23a8a210f4")" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="[https://player.vimeo.com/video/411721219](https://player.vimeo.com/video/411721219 "Standortplanung in GOAT")" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
 Zudem können Standorte alternativer und nachhaltiger Mobilität wie Carsharing, Bikesharing oder Ladestationen für E-Autos angezeigt und dynamisch verändert oder weitere Stationen hinzugefügt werden. Somit können ideale neue Standorte identifiziert werden, um möglichst der gesamten Bevölkerung einen Zugang zu diesen umweltfreundlichen Mobilitätsoptionen in der Zukunft zu ermöglichen.
 
