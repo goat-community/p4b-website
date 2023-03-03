@@ -49,7 +49,7 @@ _Figure 2: Accessibility isochrones to supermarkets in GOAT._
 
 The enhancement and strengthening of pedestrian-friendly urban and local supply centers is considered an important point in the planning of urban development concepts (complan Kommunalberatung GmbH, 2017, p. 43). With GOAT, in addition to analyzing the current state, interactive scenarios can be created for new POIs and buildings and their impact on accessibility can be analyzed. In this video, we show how scenarios can be run in GOAT.
 
-<iframe src="[https://player.vimeo.com/video/754586552?h=ebea094923](https://player.vimeo.com/video/754586552?h=ebea094923 "tutorial on scenario building in GOAT")" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="[https://player.vimeo.com/video/754586552?h=ebea094923](https://player.vimeo.com/video/754586552?h=ebea094923 "tutorial on scenario building in GOAT")" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen data-uk-responsive width="1920" height="1080"></iframe>
 
 In addition, locations of alternative and sustainable mobility such as carsharing, bikesharing or charging stations for e-cars can be displayed and dynamically changed or additional stations can be added. Thus, ideal new locations can be identified to provide access to these environmentally friendly mobility options to the entire population in the future, if possible.
 
