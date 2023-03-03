@@ -27,7 +27,7 @@ _Figure 1: Representation of the land use map in GOAT._
 
 ### Connectivity and quality of the path network
 
-For pedestrian and bicycle traffic, good connectivity between urban neighborhoods is essential. In GOAT, the existing path network can be mapped for the different modes of transport. With the help of the connectivity heatmap, it is possible to analyze how well the networks for pedestrian and bicycle paths are interconnected and thus identify potential for improvement. Scenario creation can also be used to analyze the impact of new trail connections (e.g., bike bridge) on accessibility.
+For pedestrian and bicycle traffic, good connectivity between urban neighborhoods is essential. In GOAT, the existing path network can be mapped for the different modes of transport. With the help of the [connectivity heatmap](/en/docs/heatmap-connectivity/ "documentation about heatmap"), it is possible to analyze how well the networks for pedestrian and bicycle paths are interconnected and thus identify potential for improvement. Scenario creation can also be used to analyze the impact of new trail connections (e.g., bike bridge) on accessibility.
 
 Since not only the availability of paths but also the attractiveness of the paths is crucial, further information such as surface conditions of the paths, gradients and accident statistics are stored. For an overall analysis of the cycling offer, required bicycle infrastructure, such as bicycle facilities and bicycle repair stations, can also be integrated into GOAT.
 
@@ -37,9 +37,9 @@ If locally available, data on the accessibility of footpaths can also be stored 
 
 In order to achieve the goal of decentralized services of general interest, a fair distribution of important facilities for daily needs across the urban area is essential. To determine whether all citizens can reach all important facilities within a reasonable time (ideally with sustainable modes), accessibility analyses are a suitable method.
 
-Our open source planning software GOAT contains various POIs like sports facilities, supermarkets, kindergartens and parks. These can be visualized and their spatial distribution analyzed with different accessibility indicators and intersected with population data. Isochrones and heat maps can be used to find gaps in accessibility, identify opportunities for redensification, and thus address grievances.
+Our open source planning software GOAT contains various POIs like sports facilities, supermarkets, kindergartens and parks. These can be visualized and their spatial distribution analyzed with different accessibility indicators and intersected with population data. [Isochrones](/en/tutorials/isochrone/ "tutorials to isochrones") and [heatmaps](/en/docs/heatmap/ "documentation about heatmaps") can be used to find gaps in accessibility, identify opportunities for redensification, and thus address grievances.
 
-A good benchmark for accessibility is the results of multi-isochrones. This form of isochrones calculate what proportion of residents:inside a neighborhood have access to a particular daily amenity. Different means of transport as well as travel time can be chosen. Figure 2 shows an exemplary accessibility analysis with isochrones to supermarkets within 10 minutes.
+A good benchmark for accessibility is the results of [multi-isochrones](/en/tutorials/multiisochrones/ "tutorials to multi-isochrones"). This form of isochrones calculate what proportion of residents:inside a neighborhood have access to a particular daily amenity. Different means of transport as well as travel time can be chosen. Figure 2 shows an exemplary accessibility analysis with isochrones to supermarkets within 10 minutes.
 
 ![](/images/abb2-en.png)
 
@@ -51,12 +51,12 @@ The enhancement and strengthening of pedestrian-friendly urban and local supply 
 
 In addition, locations of alternative and sustainable mobility such as carsharing, bikesharing or charging stations for e-cars can be displayed and dynamically changed or additional stations can be added. Thus, ideal new locations can be identified to provide access to these environmentally friendly mobility options to the entire population in the future, if possible.
 
+<iframe src="[https://player.vimeo.com/video/754586552?h=ebea094923](https://player.vimeo.com/video/754586552?h=ebea094923 "https://player.vimeo.com/video/754586552?h=ebea094923")" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## Try GOAT!
 
-Do you also want to perform location planning analyses with GOAT or are you interested in further functions? Contact us or try the free GOAT demo!
+Do you also want to perform location planning analyses with GOAT or are you interested in further functions?[ Contact us ](/en/contact/ "Contact Plan4Better here!")or try the [free GOAT demo](/en/request-demo/ "Try GOAT for free!")!
 
 ## References
 
-complan Kommunalberatung GmbH, 2017. city of Jena.2030+ - integrated urban development concept. City of Jena, Jena.
-
-Translated with www.DeepL.com/Translator (free version)
+complan Kommunalberatung GmbH, 2017. Stadt Jena. 2030+ - Integriertes Stadtentwicklungskonzept. Stadt Jena, Jena.

@@ -59,4 +59,4 @@ Sie wollen auch Analysen zur Standortplanung mit GOAT durchführen oder interess
 
 ## Referenzen
 
-complan Kommunalberatung GmbH, 2017. Stadt Jena.2030+ - Integriertes Stadtentwicklungskonzept. Stadt Jena, Jena.
+complan Kommunalberatung GmbH, 2017. Stadt Jena. 2030+ - Integriertes Stadtentwicklungskonzept. Stadt Jena, Jena.
