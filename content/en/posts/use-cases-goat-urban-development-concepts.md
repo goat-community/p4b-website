@@ -55,7 +55,7 @@ In addition, locations of alternative and sustainable mobility such as carsharin
 
 Do you also want to perform location planning analyses with GOAT or are you interested in further functions? Contact us or try the free GOAT demo!
 
-### References
+## References
 
 complan Kommunalberatung GmbH, 2017. city of Jena.2030+ - integrated urban development concept. City of Jena, Jena.
 
