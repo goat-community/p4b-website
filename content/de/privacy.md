@@ -52,7 +52,6 @@ Wenn Sie diese Webseite nutzen, ohne anderweitig (z.B. durch Registrierung oder 
   - Sprache und Version der Browsersoftware
   - Betriebssystem
 
-
 b) Zweck und Rechtsgrundlage
 
 Diese Verarbeitung ist technisch erforderlich, um Ihnen unsere Webseite anzeigen zu können. Wir nutzen die Daten auch, um die Sicherheit und Stabilität unserer Webseite zu gewährleisten.
@@ -110,7 +109,15 @@ c) Speicherdauer
 
 Die Daten werden gelöscht, sobald sie für den Zweck ihrer Verarbeitung nicht mehr erforderlich sind. 
 Es können darüber hinaus gesetzliche Aufbewahrungspflichten bestehen, beispielsweise handels- oder steuerrechtliche Aufbewahrungspflichten nach dem Handelsgesetzbuch (HGB) oder der Abgabenordnung (AO). Sofern solche Pflichten zur Aufbewahrung bestehen, sperren oder löschen wir Ihre Daten mit Ende dieser Aufbewahrungspflichten.
-## 6. Bestellformular
+
+## 6. GOAT
+Wir bieten ein interaktives Webtool für die Erstellung von Erreichbarkeitsanalysen, sowie die Stadt- und Verkehrsplanung an. Über die Anwendung GOAT können Analysen durchgeführt, sowie eigene Datensätze hochgeladen werden. Die Anwendung GOAT verarbeitet dabei nur diejenigen Daten, die der Nutzer bei der Registrierung angegeben hat (Vorname, Nachname, E-Mail, Berufsstand, Branche, Spracheinstellung). Außerdem können nach dem Login von dem Nutzer eigene Datensätze hochgeladen werden, diese werden ebenfalls von uns verarbeitet.
+
+Rechtsgrundlage für die Verarbeitung von Daten zur Nutzung von GOAT ist Art. 6 Abs. 1 lit. b DS-GVO. Sofern eine Einwilligung für die Verarbeitung erforderlich ist, ist Rechtsgrundlage ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DS-GVO.
+
+Die Daten werden Auf einem Server von Amazon Web Services (AWS) in Frankfurt. gespeichert, bis der Account des Nutzers gelöscht wird. Die eigens hochgeladenen Datensätze können Sie jederzeit selbst löschen.
+
+## 7. Bestellformular
 Auf unserer Webseite ist ein Bestellformular vorhanden, welches für elektronische Vorbestellungen genutzt werden kann. 
 
 a) Art und Umfang der Datenverarbeitung
@@ -132,7 +139,7 @@ c) Speicherdauer
 Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes der Verarbeitung nicht mehr benötigt werden. 
 Es können darüber hinaus gesetzliche Aufbewahrungspflichten bestehen, beispielsweise handels- oder steuerrechtliche Aufbewahrungspflichten nach dem Handelsgesetzbuch (HGB) oder der Abgabenordnung (AO). Sofern solche Pflichten zur Aufbewahrung bestehen, sperren oder löschen wir Ihre Daten mit Ende dieser Aufbewahrungspflichten.
 
-## 7. Registrierungsmöglichkeit
+## 8. Registrierungsmöglichkeit
 
 a) Art und Umfang der Datenverarbeitung
 
@@ -148,7 +155,7 @@ c) Speicherdauer
 
 Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Sie auf unserer Website registriert sind und werden anschließend gelöscht. Gesetzliche Aufbewahrungsfristen bleiben unberührt. 
 
-## 8. Datenübermittlung 
+## 9. Datenübermittlung 
 Wir geben Ihre personenbezogenen Daten nur an Dritte weiter, wenn:
 
 a) Sie hierzu ihre ausdrückliche Einwilligung nach Art. 6 Abs. 1 lit. a) DS-GVO erteilt haben.
@@ -169,7 +176,7 @@ Wir setzen solche Dienstleister ein in den Bereichen:
   
 Bei der Übermittlung an externe Stellen in Drittländern, d.h. außerhalb der EU bzw. des EWR, stellen wir sicher, dass diese Stellen Ihre personenbezogenen Daten mit der gleichen Sorgfalt behandeln wie innerhalb der EU bzw. des EWR. Wir übermitteln personenbezogene Daten nur in Drittländer, bei denen die EU-Kommission ein angemessenes Schutzniveau bestätigt hat oder wenn wir den sorgfältigen Umgang mit den personenbezogenen Daten durch vertragliche Vereinbarungen oder andere geeignete Garantien sicherstellen.
 
-## 9. Bewerbungsmöglichkeit	
+## 10. Bewerbungsmöglichkeit	
 
 a) Art und Umfang der Datenverarbeitung
 
@@ -193,7 +200,7 @@ Ihre Daten erhalten nur die Stellen, die in die Entscheidung eingebunden sind (z
 
 Weitere Datenempfänger können diejenigen Stellen sein, für die Sie uns Ihre Einwilligung zur Datenübermittlung erteilt haben. 
 
-## 10. Kommentarfunktion	
+## 11. Kommentarfunktion	
 
 a) Art und Umfang der Datenverarbeitung
 
@@ -211,7 +218,7 @@ c) Speicherdauer
 
 Die Kommentare und die damit verbundenen Daten (z.B. IP-Adresse) werden gespeichert und verbleiben auf unserer Website, bis der kommentierte Inhalt vollständig gelöscht wurde bzw. die Kommentare aus rechtlichen Gründen gelöscht werden müssen.
 
-## 11. Kontaktformular
+## 12. Kontaktformular
 a) Art und Umfang der Datenverarbeitung
 
 Auf unserer Webseite bieten wir Ihnen die Möglichkeit an, über ein bereitgestelltes Formular mit uns in Kontakt zu treten. Im Rahmen des Absendevorgangs Ihrer Anfrage über das Kontaktformular wird zur Einholung Ihrer Einwilligung auf diese Datenschutzerklärung verwiesen. 
@@ -244,7 +251,7 @@ c) Speicherdauer
 Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z.B. nach abgeschlossener Bearbeitung Ihrer Anfrage). 
 Hiervon bleiben zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen nach der nach dem Handelsgesetzbuch (HGB) oder der Abgabenordnung (AO) – unberührt.
 
-## 12. Kontaktmöglichkeiten per E-Mail
+## 13. Kontaktmöglichkeiten per E-Mail
 Auf unserer Webseite steht ihnen eine Kontaktmöglichkeit per E-Mail zur Verfügung.
 
 a) Art und Umfang der Datenverarbeitung	
@@ -259,7 +266,7 @@ c) Speicherdauer
 
 Die Dauer der Speicherung der oben genannten Daten ist abhängig vom Hintergrund Ihrer Kontaktaufnahme. Eine Löschung Ihrer personenbezogenen Daten erfolgt regelmäßig, sofern der verfolgte Zweck der Kommunikation entfallen und eine Speicherung nicht mehr erforderlich ist. Dies kann sich beispielsweise aus einer Bearbeitung ihres Anliegens ergeben.
 
-## 13. Newsletter	
+## 14. Newsletter	
 
 a) Art und Umfang der Datenverarbeitung
 
@@ -285,7 +292,7 @@ c) Speicherdauer
 
 Ihre E-Mail-Adresse wird solange gespeichert, wie Sie den Newsletter abonniert haben. Nach einer Abmeldung vom Newsletterversand wird Ihre E-Mail-Adresse gelöscht, soweit Sie nicht ausdrücklich in eine weitere Nutzung Ihrer Daten eingewilligt haben.
 
-## 14. Tracking- und Analysetools
+## 15. Tracking- und Analysetools
 
 Eine exakte Übersicht zu den von uns verwendeten Social Media Tools finden Sie [hier](/privacy_social_media/ "Datenschutzhinweise Social Media").
 
@@ -305,14 +312,14 @@ Rechtsgrundlage für die Verarbeitung von Daten mit Hilfe von Matomo ist Art. 6 
 
 Informationen zum Datenschutz finden Sie unter: https://matomo.org/privacy-policy/
    
-## 15. Datensicherheit und Sicherungsmaßnahmen 
+## 16. Datensicherheit und Sicherungsmaßnahmen 
 Wir verpflichten uns, Ihre Privatsphäre zu schützen und Ihre personenbezogenen Daten vertraulich zu behandeln. Dazu treffen wir umfangreiche technische und organisatorische Sicherheitsvorkehrungen, welche regelmäßig überprüft und dem technologischen Fortschritt angepasst werden.  
 Hierzu gehört unter anderem die Verwendung anerkannter Verschlüsselungsverfahren (SSL oder TLS). Unverschlüsselt preisgegebene Daten, beispielsweise wenn dies per unverschlüsselter E-Mail erfolgt, können aber eventuell von Dritten mitgelesen werden. Darauf haben wir keinen Einfluss. Es liegt im Verantwortungsbereich des jeweiligen Nutzers, die von ihm zur Verfügung gestellten Daten durch Verschlüsselung oder in sonstiger Weise gegen Missbrauch zu schützen.
 
-## 16. Änderungen der Datenschutzerklärung 
+## 17. Änderungen der Datenschutzerklärung 
 Wir behalten uns jederzeit das Recht vor, diese Erklärung bei Bedarf entsprechend zu aktualisieren.
 
-## 17. Ihre Rechte
+## 18. Ihre Rechte
 Hier finden Sie Ihre Rechte in Bezug auf Ihre personenbezogenen Daten. Einzelheiten dazu ergeben sich aus den Artikeln 7, 15-22 und 77 DS-GVO. Sie können sich diesbezüglich an die verantwortliche Stelle (Ziff. 2).
 
 Recht auf Widerruf Ihrer datenschutzrechtlichen Einwilligung nach Art. 7 Abs. 3 S. 1 DS-GVO
