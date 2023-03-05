@@ -2,8 +2,8 @@
 title: Data   
 permalink: "/docs/data/"
 sections:
-- technical
-weight: 30
+- about
+weight: 40
 ---
 
 #### Data used in GOAT
@@ -14,7 +14,7 @@ Data is generally defined as a set of discrete values that describe the amount, 
 
 The process of acquiring and evaluating data from diverse sources is known as data collection. First, the required data sets are identified for GOAT based on assumption that not all data are equally significant for all indicators. 
 Second, the data collection method is defined according to the type of the data set (spatial or non-spatial) with different data formats (e.g. Shapefiles, GeoJSON). The data sets used for GOAT implementation are updated at least once a year to provide up-to-date data. Furthermore, more frequent data updates, for instance, for POIs are possible. 
-The data sets which are obtained from our own collection and sources public, proprietary and, used to enhance the analysis in GOAT are given in Figure.
+The data sets which are obtained from our own collection and sources public, proprietary and, used to enhance the analysis in GOAT are given in the following figure.
 
 <img src="\images\docs\technical_documentation\data\data_en.webp" alt="data-sets" style="max-height:900px;"/>  
 
