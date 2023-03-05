@@ -1,6 +1,6 @@
 ---
 title: Multi-isochrones   
-permalink: "/docs/multi-isochrones/"
+permalink: "/de/docs/multi-isochrones/"
 sections:
 - technical
 weight: 40
