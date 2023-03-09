@@ -20,12 +20,14 @@ sections:
     brand_slider:
       slider_img:
       - logo: "/images/index/freiburg_logo.webp"
+      - logo: "/images/index/logo_MOND_darkgrey_RGB.webp"
       - logo: "/images/index/mobidata_bw.webp"
       - logo: "/images/index/logo-tum.webp"
       - logo: "/images/index/logo_lhm.webp"
       - logo: "/images/index/logo_freising.webp"
       - logo: "/images/index/logo_ffb.webp"
       - logo: "/images/index/stattbau_Logo.webp"
+      - logo: "/images/index/LOGO_Bicicli_CS_darkgrey_RGB.webp"
       - logo: "/images/index/logo_eit.webp"
       - logo: "images/index/logo_werk1.webp"
       - logo: "/images/index/logo_xpreneurs.webp"
