@@ -16,7 +16,7 @@ The process of acquiring and evaluating data from diverse sources is known as da
 Second, the data collection method is defined according to the type of the data set (spatial or non-spatial) with different data formats (e.g. Shapefiles, GeoJSON). The data sets used for GOAT implementation are updated at least once a year to provide up-to-date data. Furthermore, more frequent data updates, for instance, for POIs are possible. 
 The data sets which are obtained from our own collection and sources public, proprietary and, used to enhance the analysis in GOAT are given in the following figure.
 
-<img src="\images\docs\technical_documentation\data\data_en.webp" alt="data-sets" style="max-height:900px;"/>  
+<img src="\images\docs\technical_documentation\data\data_en_cropped.webp" alt="data-sets" style="max-height:900px;"/>  
 
 - **Point Of Interest:** In order to acquire the amenity data set, a mix of different data sources, many data sets including OpenStreetMap (OSM), Data from Open-Geoportals or commercial sources, and many data fusion techniques are in use. The well-known one, OpenStreetMap, is a free, editable map of the whole world, and being created by volunteers mainly from scratch and distributed under an open-content license. You can access further information about OSM from https://wiki.openstreetmap.org/. Although the OSM data set is good for Germany, the data is checked according to their completeness and correctness which also enables Plan4Better to contribute to OSM.
 
