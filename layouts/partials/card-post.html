@@ -10,20 +10,23 @@
     </div>
     <h4 class="uk-margin-small-bottom uk-margin-small-top"><a class="uk-card-title-link" href="{{.Permalink}}">{{ .Title }}</a></h4>
     <div>{{ .Summary }}</div>
+
     {{ $user := where .Site.Data.authors "username" .Params.author }}
-    <a class="uk-meta-link" href="{{ "/author/" | absLangURL }}{{ index $user 0 "username" | urlize }}/">
-      <div class="uk-article-meta uk-margin-top" itemscope="" itemtype="http://schema.org/Person">
-        <div data-uk-grid="" class="uk-grid-small uk-flex uk-flex-middle">
-            <div class="uk-width-auto uk-first-column">
-              <img class="uk-border-circle" src="{{ (index $user 0 "image") | absURL }}" alt="{{ index $user 0 "name" }}" itemprop="image" width="34" height="34">
+    {{ if index $user 0 "name" }}
+      <a class="uk-meta-link" href="{{ "/author/" | absLangURL }}{{ index $user 0 "username" | urlize }}/">
+        <div class="uk-article-meta uk-margin-top" itemscope="" itemtype="http://schema.org/Person">
+          <div data-uk-grid="" class="uk-grid-small uk-flex uk-flex-middle">
+              <div class="uk-width-auto uk-first-column">
+                <img class="uk-border-circle" src="{{ (index $user 0 "image") | absURL }}" alt="{{ index $user 0 "name" }}" itemprop="image" width="34" height="34">
+              </div>
+            <div class="uk-width-expand">
+              <span itemprop="name"><span itemprop="name">{{ index $user 0 "name" }}</span></span>
+              <br>
+              <time datetime="{{ .PublishDate.Format " Jan 19 2006" }}">{{ dateFormat "January 2, 2006" .Date }} </time>
             </div>
-          <div class="uk-width-expand">
-            <span itemprop="name"><span itemprop="name">{{ index $user 0 "name" }}</span></span>
-            <br>
-            <time datetime="{{ .PublishDate.Format " Jan 19 2006" }}">{{ dateFormat "January 2, 2006" .Date }} </time>
           </div>
         </div>
-      </div>
-    </a>
+      </a>
+    {{ end }}
   </div>
 </div>

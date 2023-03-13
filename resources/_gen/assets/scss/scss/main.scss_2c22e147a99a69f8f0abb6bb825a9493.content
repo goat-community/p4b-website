@@ -11957,7 +11957,12 @@ th {
   padding: 50px 50px;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center; }
+  align-items: center;
+  column-gap: 60px; }
+  .reference-quote-item img {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px; }
 
 .reference-goat-promotion {
   display: flex;
@@ -12020,6 +12025,8 @@ th {
     flex-direction: column;
     justify-content: center;
     align-items: center; }
+    .reference-quote-item img {
+      margin-bottom: 30px; }
   .references-related {
     flex-wrap: wrap; }
   .references-related {

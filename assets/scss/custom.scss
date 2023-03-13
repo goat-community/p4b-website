@@ -2027,6 +2027,13 @@ th {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  column-gap: 60px;
+
+  img {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+  }
 }
 
 .reference-goat-promotion {
@@ -2113,6 +2120,10 @@ th {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    img {
+      margin-bottom: 30px;
+    }
   }
 
   .references-related {
