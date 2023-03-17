@@ -1,6 +1,9 @@
 <div class="uk-card uk-card-default uk-border-rounded-large">
   <div class="uk-card-media-top">
-    <a href="{{.Permalink}}"><img class="uk-border-rounded-large-top" src="{{ .Params.thumbnail | absURL }}" alt="{{ .Title }}"></a>
+    <a href="{{.Permalink}}">
+      <div class="uk-border-rounded-large-top card-bg-image" style="background-image: url('{{ .Params.thumbnail | absURL }}');" alt="{{ .Title }}">
+      </div>
+      </a>
   </div>
   <div class="uk-card-body">
     <div class="uk-text-uppercase uk-text-xsmall uk-text-semi-bold uk-text-spacing-small">

@@ -12032,4 +12032,12 @@ th {
   .references-related {
     display: none; } }
 
+.uk-card-media-top div {
+  height: 250px;
+  width: 100%;
+  background-clip: content-box;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat; }
+
 /*# sourceMappingURL=main.css.map */
