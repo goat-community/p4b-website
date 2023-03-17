@@ -14,8 +14,6 @@ planning_cases:
   - Planung eines neuen Wohngebiets
   - Bewertung neuer Fuß- und Radverkehrsbrücken
   - uvw.
-description:
-
 
 overview: Seit 2022 wird GOAT vom Stadtplanungsamt der Stadt Freiburg und der VAG eingesetzt. Kürzlich wurden 5 weitere GOAT-Lizenzen durch die Stadt Freiburg erworben.
 

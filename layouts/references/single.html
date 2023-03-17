@@ -2,13 +2,13 @@
 <section class="uk-section" style="overflow-x: hidden; padding-top: 5px;">
 
     <section class="jumbotron text-center uk-padding-medium reference-header">
-        <div class="uk-container">
+        <div class="container-v2">
             <h5 class="uk-text-uppercase uk-text-spacing-small">{{ i18n "reference" }}</h5>
             {{ with .Title }}
             <h1 class="font-48 font-weight-600">{{ . }}</h1>
             {{ end }}
             {{ with .Summary }}
-            <h4 class="uk-margin-remove-top font-20 font-weight-400">{{ . }}</h4>
+            <h4 class="uk-margin-remove-top font-20 font-weight-400 uk-container">{{ . }}</h4>
             {{ end }}
         </div>
     </section>
@@ -18,7 +18,7 @@
     </section>
 
     <section class="jumbotron">
-        <div class="reference-information uk-container">
+        <div class="reference-information container-v2">
             <section class="rf-information">
                 <h2>{{ i18n "general_information"  }}</h2>
                 {{ if .Params.information }}
@@ -50,7 +50,7 @@
     </section>
     
     
-    <div class="uk-container uk-margin-medium-top">
+    <div class="container-v2 uk-margin-medium-top">
         <div class="uk-width-expand@l">
             <div class="uk-docs-content uk-position-relative">
                 <div class="uk-article-content uk-text-m uk-margin-medium-top">
@@ -59,19 +59,44 @@
                         {{ .Params.overview }}
                     </section>
                     <br />
-                    <div class="rf-slider uk-margin-medium-top">
+                    <div class="rf-slider uk-margin-medium-top {{ if gt (len .Params.slider_items) 2}} space-between {{end}}">
                         {{ range $index, $element := .Params.slider_items }}
-                            <li>
-                                <img src="{{ $element.image }}" />
-                                <div class="overlay uk-margin-small-top">
+                            <div>
+                                <li>
+                                    <img 
+                                        src="{{ $element.image }}" 
+                                        id="image-{{ $index }}" 
+                                        onclick="open_modal('image-{{$index}}')" 
+                                    />
+                                </li>
+                                <div class="uk-margin-small-top">
                                     <span>{{ $element.title }}</span>
                                 </div>
-                            </li>
+                            </div>
+                            <!-- The modal that will show when the image is clicked -->
+                            <div id="image-{{ $index }}-modal" class="modals">
+                                <span class="close" onclick="close_modal('image-{{$index}}')">&times;</span>
+                                <img class="modal-content" id="image-{{$index}}-modal-image">
+                            </div>
                         {{end}}
+                        <script>
+                            function open_modal(image_id) {
+                                var modal = document.getElementById(image_id + "-modal");
+                                var img = document.getElementById(image_id);
+                                var modalImg = document.getElementById(image_id + "-modal-image");
+                                modal.style.visibility = "visible";
+                                modalImg.src = img.src;
+                            };
+                            function close_modal(image_id) {
+                                // enable overflow again
+                                document.body.style.overflow = "visible";
+                                document.getElementById(image_id + "-modal").style.visibility = "hidden";
+                            };
+                        </script>
                     </div>
                     <div class="rf-slider-mobile uk-margin-medium-top slideshow">
                         {{ range $index, $element := .Params.slider_items }}
-                            <li class="slideshow__slide">
+                            <li class="slideshow__slide card-slider-mobile">
                                 <img src="{{ $element.image }}" />
                                 <div class="overlay uk-margin-small-top">
                                     <span>{{ $element.title }}</span>
@@ -90,7 +115,7 @@
     </div>
 
     <section class="uk-margin-large-top jumbotron">
-        <div class="reference-quote-item uk-container">
+        <div class="reference-quote-item container-v2">
             <img src="{{ .Params.review_image }}" width="250px" height="250px" />
             <div>
                 <h4>{{ .Params.review_text }}</h4>
@@ -108,8 +133,8 @@
         </div>
     </section>
 
-    <section class="uk-section-large">
-        <div class="uk-container">
+    <section class="uk-section-large related-cards-desktop">
+        <div class="container-v2">
           <h2 class="uk-h1 uk-margin-remove-top uk-text-semi-bold uk-text-center">{{ i18n "other_cities" }}</h2>
           <div class="uk-child-width-1-2@s uk-child-width-1-3@l uk-grid-match uk-margin-medium-top uk-flex uk-flex-center uk-flex-left@s uk-block-posts-grid" data-uk-grid>
             {{ $posts := where site.RegularPages "Section" "references" }}
@@ -127,6 +152,25 @@
           </div>
         </div>
     </section>
+
+    <div class="uk-margin-medium-top slideshow related-cards-mobile">
+        {{ $posts := where site.RegularPages "Section" "references" }}
+        {{ $posts_related := first 3 (where $posts "Title" "!=" .Title) }}
+        {{ $section_count := len $posts_related }}
+        {{ if ge $section_count 3 }}
+            {{ range $posts_related }}
+            <li class="slideshow__slide card-slider-mobile">
+                <div>{{ partial "card-post-partial.html" . }}</div>
+            </li>
+            {{ end }}
+        {{ else }}
+            {{ range first 3 }}
+            <li class="slideshow__slide card-slider-mobile">
+                <div>{{ partial "card-post-partial.html" . }}</div>
+            </li>
+            {{ end }}
+        {{ end }}
+    </div>
 
 </section>
 {{ end }}

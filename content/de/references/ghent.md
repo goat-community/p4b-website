@@ -1,6 +1,6 @@
 ---
 layout: reference
-title: GOAT in Ghent ( German )
+title: GOAT in Ghent
 lang: de
 thumbnail: "/images/blog/goat3.0/ghent.png"
 image: "/images/blog/goat3.0/ghent.png"
