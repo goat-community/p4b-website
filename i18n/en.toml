@@ -88,8 +88,8 @@ other = "Get GOAT for your city"
 [general_information]
 other = "General information"
 
-[other_cities]
-other = "Other cities"
+[other_references]
+other = "Other references"
 
 [search_placeholder_blog]
 other = "Search blog"

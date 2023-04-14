@@ -11954,7 +11954,7 @@ th {
       top: 100%;
       font-size: 12px;
       text-align: center;
-      width: 80%; }
+      max-width: 220px; }
   .rf-slider li {
     text-align: center;
     font-size: 11px;
