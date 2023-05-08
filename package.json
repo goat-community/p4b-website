@@ -1,0 +1,19 @@
+{
+  "name": "p4b-website",
+  "version": "1.0.0",
+  "description": "Forestry Tutorial: https://forestry.io/docs/editing/",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "string": "^3.3.3",
+    "toml": "^3.0.0"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
