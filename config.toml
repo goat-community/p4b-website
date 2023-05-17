@@ -72,6 +72,10 @@ parent = "Competences"
 url = "/consultancy/"
 weight = 5
 [[languages.de.menu.center]]
+name = "BürgerGIS"
+url = "/map4citizens/"
+weight = 2
+[[languages.de.menu.center]]
 name = "Über uns"
 url = "/"
 weight = 3
