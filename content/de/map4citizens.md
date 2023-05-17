@@ -7,7 +7,7 @@ ogimage : "/images/request-demo/request_demo_ogimage.png"
 hero_section:
   layout: left
   background_color_content: default
-  image: "/images/GOAT/mockup-heatmap.webp"
+  image: "/images/map4citizens/header.png"
   heading_logo: "/images/map4citizens/m4c_logo.png"
   list_item:
   - Einfach zu bedienendes BürgerGIS
@@ -16,42 +16,23 @@ hero_section:
   - Open Source
 
 sections:
-  - order: 1
-    quote_section:
-      quote_items:
-      - quote_image: "/images/index/digital-freiburg.png"
-        quote_text: '„To be inserted.“​'
-        author_name: "Dr. Michael Bauder, Stadt Freiburg"
-      - quote_image: "/images/index/logo_lhm.webp"
-        quote_text: '„To be inserted.“​'
-        author_name: "Attila Lüttmerding, Abteilungsleiter Grundlagen und Daten, Mobilitätsreferat, Landeshauptstadt München"
-      - quote_image: "/images/index/logo_freising.webp"
-        quote_text: '„To be inserted.“​'
-        author_name: "Jonas Bellingrodt, Amt für Stadtplanung und Umwelt, Stadt Freising"
-      - quote_image: "/images/index/logo_ffb.webp"
-        quote_text: '„To be inserted.“​'
-        author_name: "Dr. Montserrat Miramontes, Mobilitätsmanagerin, Stadt Fürstenfeldbruck"
 
   - order: 2
     discover_section:
       background_color_content: primary
       list_item:
       - heading: "Das moderne BürgerGIS"
-        text: 'TO DO.'
+        text: 'Durch ein attraktives und einfach zu bedienendes Interface werden Bürger:innen nur Nutzung motiviert. Neben dem Einblenden von statischen Layern können auch individuelle Analysen zum Thema 15-Minuten-Stadt durchgeführt werden.'
         button:
           url: '#'
           label: 'Map4Citizen-Angebot entdecken'
-        video:
-          video_bg: '/images/index/mockuper-2.png'
-          video_url: 'https://player.vimeo.com/video/411721219?autoplay=1&muted=1'
+        img: '/images/map4citizens/m4c_1.png'
       - heading: "Einfach verständliche Mobilitäts- und Erreichbarkeitsanalysen"
-        text: 'TO DO'
-        img: '/images/GOAT/data_gif.gif'
+        text: 'Map4Citizens enthält alle Datensätze aus GOAT (Points-of-Interest, Mobilitätsangebote, Bevölkerungsdichte, etc.) und macht diese durch einfache Mobilitäts- und Erreichbarkeitsbenchmarks für die Bevölkerung zugänglich.'
+        img: '/images/map4citizens/m4c_2.png'
       - heading: "Nachhaltige Entscheidungen ermöglichen"
-        text: 'TO DO.'
-        video:
-          video_bg: '/images/index/mockuper-4.png'
-          video_url: ''
+        text: 'Durch Map4Citizens erlangen Bürger:innen ein besseres Verständnis für die Stadt. Dies bildet die Grundlage für nachhaltige Mobilitätsentscheidungen bieten und stärkt die lokale Wirtschaft.'
+        img: '/images/map4citizens/m4c_3.png'
 
   - order: 3
     goat_abo_section:
@@ -61,15 +42,15 @@ sections:
   - order: 4
     question_section:
       list_item:
-      - img: '/images/index/undraw_map_re_60yf.png'
+      - img: '/images/map4citizens/amico.png'
         heading: 'Gebietsgröße wählen'
         sub_heading: 'Kommune - Landkreis - Verkehrsverbund - ...'
-        text: 'Wählen Sie ihr Wunschgebiet für GOAT.​ Die Preisgestaltung richtet sich nach der Anzahl der Einwohner:innen. '
-      - img: '/images/index/undraw_pitching_re_fpgk.png'
+        text: 'Wählen Sie ihr Wunschgebiet für Map4Citizens.​ Die Preisgestaltung richtet sich nach der Anzahl der Einwohner:innen.'
+      - img: '/images/map4citizens/pois.png'
         heading: 'Module wählen'
         sub_heading: '15-Min-Score - Isochronen - POIs - ÖV-Güteklassen - Integration externer Layer'
         text: 'Stellen Sie sich die Module nach Ihrem Belieben zusammen und erhalten somit ein perfekt auf Ihre Stadt zugeschnittenes BürgerGIS.'
-      - img: '/images/index/undraw_team_spirit_re_yl1v.png'
+      - img: '/images/map4citizens/bro.png'
         heading: 'Integration mit bestehenden GIS-Systemen'
         text: 'TO DO'
 
@@ -90,16 +71,9 @@ sections:
         icon: 'images/map4citizens/m4c_logo_short.svg'
       - url: '/references/'
         heading: 'Referenzen'
-        text: 'Entdecken Sie bisherige Einsätze und Anwendungen von GOAT.'
+        text: 'Entdecken Sie bisherige Einsätze und Anwendungen unserer Software.'
         icon: images/index/code.svg
-      - url: '/videos/'
-        heading: 'Videos'
-        text: 'Videos geben einen Überblick zu den Funktionen und Einsatzmöglichkeiten von GOAT.'
-        icon: images/index/video.svg
-      - url: '/tutorials/isochrone/'
-        heading: 'Tutorials'
-        text: 'Schritt-für-Schritt Anleitung zur Beantwortung typischer Planungsfragen mit GOAT.'
-        icon: images/index/docs.svg
+
 
   - order: 7
     service_section:
