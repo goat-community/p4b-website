@@ -19,7 +19,9 @@ Green spaces provide numerous benefits to urban areas, including reducing heat i
 
 ## Pioneering cities embracing green spaces
 
-Many cities have already embraced green spaces to enhance their resilience to climate change. For example, in Copenhagen, Denmark, the city has implemented a comprehensive plan to create green corridors that connect parks, gardens, and other green spaces. As a result, Copenhagen is now considered one of the world's most liveable cities, with high levels of air quality, low traffic congestion, and a high percentage of green space per capita. Similarly, the city has created a vast network of green spaces in Singapore, including parks, gardens, and even a botanic garden. This has resulted in a greener, more sustainable city with improved air quality, biodiversity, and recreational opportunities.
+Many cities have already embraced green spaces to enhance their resilience to climate change. For example, in Copenhagen, Denmark, the city has implemented a comprehensive plan to create green corridors that connect parks, gardens, and other green spaces. As a result, Copenhagen is now considered one of the world's most liveable cities, with high levels of air quality, low traffic congestion, and a high percentage of green space per capita. 
+
+Similarly, the city has created a vast network of green spaces in Singapore, including parks, gardens, and even a botanic garden. This has resulted in a greener, more sustainable city with improved air quality, biodiversity, and recreational opportunities.
 
 ![Marina Barrage, Singapore 2022](/images/blog/green-spaces-resilient-cities/Singapore.webp "Marina Barrage, Singapore 2022")
 
@@ -27,18 +29,24 @@ _Marina Barrage, Singapore 2022 - Photo by Aparna Johri on Unsplash._
 
 ## Equitable distribution of green spaces
 
-While green spaces offer numerous benefits, their distribution across urban areas is only sometimes equitable. Lower-income communities often need more access to green spaces, as these areas tend to be concentrated in wealthier neighbourhoods. To tackle this issue effectively, cities must adopt policies prioritizing and promoting equitable access to green spaces. These policies should not only focus on providing funding for creating new green spaces in underprivileged neighbourhoods and investing in improved public transportation infrastructure to enhance access to existing green spaces but should also actively involve citizens in the planning process. Engaging with community groups and soliciting input from residents can ensure that green spaces are designed and managed to align with the needs and aspirations of diverse populations. By fostering a participatory approach, cities can create inclusive and democratic green spaces that are accessible to all members of the community, contributing to a more just and sustainable urban environment.  
+While green spaces offer numerous benefits, their distribution across urban areas is only sometimes equitable. Lower-income communities often need more access to green spaces, as these areas tend to be concentrated in wealthier neighbourhoods. To tackle this issue effectively, cities can adopt policies prioritizing and promoting equitable access to green spaces. 
+
+These policies should not only focus on providing funding for creating new green spaces in underprivileged neighbourhoods and investing in improved public transportation infrastructure to enhance access to existing green spaces but should also actively involve citizens in the planning process. Engaging with community groups and soliciting input from residents can ensure that green spaces are designed and managed to align with the needs and aspirations of diverse populations. 
 
 
 ## Accessibility analysis for planning green spaces
 
-Accessibility analysis are a useful method for the effective planning of green spaces. This process involves analyzing the ease people can access green spaces based on transportation options, distance, and physical barriers. By conducting accessibility analysis, city planners can identify areas where green spaces are needed, determine the best locations for new green spaces, and optimize the use of existing green spaces. Additionally, accessibility analysis can help ensure that green spaces are distributed equitably across urban areas and meet the needs of diverse populations. High accessibility to green spaces is essential for creating resilient, sustainable, and liveable cities. People with easy access to green spaces are more likely to use them for recreation, exercise, and relaxation, which can improve their physical and mental health. 
+Accessibility analysis are a useful method for the effective planning of green spaces. This process involves analyzing the ease people can access green spaces based on transportation options, distance, and physical barriers. By conducting accessibility analysis, city planners can identify areas where green spaces are needed, determine the best locations for new green spaces, and optimize the use of existing green spaces. 
+
+Additionally, accessibility analysis can help ensure that green spaces are distributed equitably across urban areas and meet the needs of diverse populations. High accessibility to green spaces is essential for creating resilient, sustainable, and liveable cities. People with easy access to green spaces are more likely to use them for recreation, exercise, and relaxation, which can improve their physical and mental health. 
 
 ![Jubilee Gardens, London 2020](/images/blog/green-spaces-resilient-cities/London.webp "Jubilee Gardens, London 2020")
 
 _Jubilee Gardens, London 2020 - Photo by Luiza Giannelli on Unsplash._
 
-We're excited to announce the latest update to our planning instrument [GOAT](/../en/goat/ "What is GOAT?"), which now enables users to calculate accessibility analysis specifically for green spaces in urban areas. With this update, GOAT expands its scope beyond traditional points of interest, recognizing the vital role that green spaces play in creating vibrant and liveable urban environments. By including green spaces in our accessibility analysis, we aim to promote a greener future while addressing the growing need for equitable distribution and access to these valuable resources.
+We're excited to announce the latest update to our planning instrument [GOAT](/../en/goat/ "What is GOAT?"), which now enables users to calculate accessibility analysis specifically for green spaces in urban areas. With this update, GOAT expands its scope beyond traditional points of interest, recognizing the vital role that green spaces play in creating vibrant and liveable urban environments. 
+
+By including green spaces in our accessibility analysis, we aim to promote a greener future while addressing the growing need for equitable distribution and access to these valuable resources.
 
 ![GOAT Accessibility analysis to green areas in west Munich](/images/blog/green-spaces-resilient-cities/GOAT-print.png.webp "GOAT Accessibility analysis to green areas in west Munich")
 
