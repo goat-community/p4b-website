@@ -1,10 +1,10 @@
 ---
 author : "sasso"
 categories : ["development", "use cases"]
-date : 2023-05-09T09:00:00Z
-description : "Discover how green spaces play a crucial role in creating resilient and sustainable cities and how accessibility analysis can optimize the planning process and promote inclusivity for green urban spaces."
+date : 2023-05-30T09:00:00Z
+description : "Discover how green spaces play a crucial role in creating resilient and sustainable cities and how accessibility analysis can optimize the planning process."
 image : "/images/blog/green-spaces-resilient-cities/top_image.webp"
-summary : "Discover how green spaces play a crucial role in creating resilient and sustainable cities and how accessibility analysis can optimize the planning process and promote inclusivity for green urban spaces. "
+summary : "Discover how green spaces play a crucial role in creating resilient and sustainable cities and how accessibility analysis can optimize the planning process."
 thumbnail : "/images/blog/green-spaces-resilient-cities/thumbnail.webp"
 title : "Green Spaces in Urban Areas: The Key to Resilient Cities"
 translationKey : "accessibility-to-green-spaces"
@@ -12,7 +12,7 @@ translationKey : "accessibility-to-green-spaces"
 
 ## Overview
 
-Cities are the engines of economic growth, innovation, and progress, but they also generate significant environmental challenges, including pollution, urban heat islands, and climate change. In response to these challenges, many cities have embraced the idea of green spaces, or urban land areas dedicated to parks, gardens, and trees. This article explores the benefits of green urban spaces, highlights pioneering cities that have successfully implemented these spaces, and discusses ways to ensure their democratic distribution.   
+Cities are the engines of economic growth, innovation, and progress, but they also generate significant environmental challenges, including pollution and urban heat islands. In response to these challenges, many cities have embraced the idea of green spaces, or urban land areas dedicated to parks, gardens, and trees. This article explores the benefits of green urban spaces, highlights pioneering cities that have successfully implemented these spaces, and discusses ways to ensure their democratic distribution.   
 
 
 Green spaces provide numerous benefits to urban areas, including reducing heat islands, absorbing carbon dioxide and other pollutants, and providing habitats for urban wildlife. Additionally, green spaces can improve physical and mental health by providing opportunities for recreation and exercise and reducing stress and anxiety. Moreover, green spaces can enhance urban areas' beauty and aesthetic quality, increase property values, and boost tourism.   
