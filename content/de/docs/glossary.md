@@ -1,8 +1,9 @@
 ---
 title: Glossar   
-permalink: "/docs/glossary/"
+permalink: "/de/docs/glossary/"
+lang: de
 sections:
-- glossar
+- glossary
 weight: 10
 ---
 
