@@ -38,6 +38,20 @@ text = ""
 load_more_button_text = "Load more"
 
 [[blocks.news]]
+heading = "Dynamische Erreichbarkeitsanalysen"
+thumbnail = "/images/presse/der-nahverkehr.webp"
+source = "Der Nahverkehr"
+url = "https://www.busundbahn.de/publikationen/der-nahverkehr.html"
+date = "April 2023"
+
+[[blocks.news]]
+heading = "Alles in Reichweite? Erreichbarkeit mit Daten sichtbar machen"
+thumbnail = "/images/presse/polismobility.webp"
+source = "DATA - polisMOBILITY"
+url = "https://www.polis-mobility.de/magazin/"
+date = "April 2023"
+
+[[blocks.news]]
 heading = "Die Bessermacher*innen"
 thumbnail = "/images/presse/G+L.webp"
 source = "G+L Magazin für Landschaftarchitektur und Stadtplanung"

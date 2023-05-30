@@ -26,4 +26,4 @@ As a result, the multi-isochrones are displayed on the map along with a table li
 
 _Figure 2. Result of the Multi-isochrone calculation._
 
-Equivalent to the calculation of single [isochrones](/docs/isochrone/ "Documentation on isochrones"), multi-isochrones can be generated with all supported routing modes and represent all types of scenario building (network, points of interest, and buildings). The user can adjust travel times and speeds for the different routing modes.
+Multi-isochrones can be generated for walking and cycling and represent all types of scenario building (network, points of interest, and buildings). The user can adjust travel times and speeds for the different routing modes.

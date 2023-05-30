@@ -1,5 +1,5 @@
 ---
-title: Routingprofile
+title: Routing Profile Aktive Mobility
 permalink: "/de/docs/routing_profiles/"
 lang: de
 sections:
@@ -7,7 +7,7 @@ sections:
 weight: 80
 
 ---
-Da GOAT auf aktive Mobilität ausgelegt ist, sind Straßen, die nur für Autos ausgelegt sind (z. B. Autobahnen) standardmäßig vom Routingnetz ausgeschlossen. Dies kann zusätzlich bei der Einrichtung der Applikation angepasst werden. Abhängig von der Datengenauigkeit im Untersuchungsgebiet und dem Zweck der GOAT-Version stehen unterschiedliche Routingprofile zur Verfügung.
+Straßen, die nur für Autos ausgelegt sind (z. B. Autobahnen) standardmäßig vom Routingnetz ausgeschlossen. Dies kann zusätzlich bei der Einrichtung der Applikation angepasst werden. Abhängig von der Datengenauigkeit im Untersuchungsgebiet und dem Zweck der GOAT-Version stehen unterschiedliche Routingprofile zur Verfügung.
 
 
 #### Fußverkehr

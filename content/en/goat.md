@@ -8,7 +8,7 @@ hero_section:
   layout: left
   background_color_content: default
   image: "/images/GOAT/mockup-heatmap.webp"
-  heading_logo: "/images/goat-logo.png"
+  heading_logo: "/images/goat-logo.webp"
   list_item:
   - Equipped with a plethora of data
   - Integration of urban and transport planning
@@ -20,7 +20,7 @@ sections:
   - order: 1
     quote_section:
       quote_items:
-      - quote_image: "/images/index/digital-freiburg.png"
+      - quote_image: "/images/index/digital-freiburg.webp"
         quote_text: '„An excellent tool for data-driven, modern urban and mobility planning for ambitious 15-minute cities.“​'
         author_name: "Michael Bauder, City of Freiburg"
       - quote_image: "/images/index/logo_lhm.webp"
@@ -49,7 +49,7 @@ sections:
           url: '#'
           label: 'Discover GOAT subscription'
         video:
-          video_bg: '/images/index/mockuper-2.png'
+          video_bg: '/images/index/mockuper-2.webp'
           video_url: 'https://player.vimeo.com/video/411721219?autoplay=1&muted=1'
       - heading: "Processing of complex data"
         text: 'GOAT is equipped with a plethora of complex spatial data. The GOAT subscription includes points of interest, buildings, population data, land use, environmental data and various background maps. In addition, you can easily integrate your own data sets.'
@@ -57,7 +57,7 @@ sections:
       - heading: "Fact-based accessibility analyses"
         text: 'GOAT not only increases efficiency, but the fact-based analyzes also support decision-making and investment processes that have often been subjective up to now.'
         video:
-          video_bg: '/images/index/mockuper-4.png'
+          video_bg: '/images/index/mockuper-4.webp'
           video_url: ''
 
   - order: 3
@@ -68,15 +68,15 @@ sections:
   - order: 4
     question_section:
       list_item:
-      - img: '/images/index/undraw_map_re_60yf.png'
+      - img: '/images/index/undraw_map_re_60yf.webp'
         heading: 'Choose Area Size'
         sub_heading: 'Municipality - County - Transport Association - ...'
         text: 'Choose your desired area for GOAT. The pricing depends on the number of residents.'
-      - img: '/images/index/undraw_pitching_re_fpgk.png'
+      - img: '/images/index/undraw_pitching_re_fpgk.webp'
         heading: 'Select Modules'
         sub_heading: 'Walking & Cycling - Public Transport - Car'
         text: 'Each module allows you to perform accessibility analyses of the current state for the selected modes of transport (walking, cycling, public transport and/or car), regardless of the functions selected.'
-      - img: '/images/index/undraw_team_spirit_re_yl1v.png'
+      - img: '/images/index/undraw_team_spirit_re_yl1v.webp'
         heading: 'Choose Number of Users'
         text: 'By default, two user are included in the price. If you would like to use GOAT in a team, you are welcome to add more users.'
 
@@ -116,8 +116,8 @@ sections:
       list_items: 
       - url: ''
         heading: ''
-        img: '/images/index/Product-Beratung.png'
+        img: '/images/index/Product-Beratung.webp'
       - url: ''
         heading: ''
-        img: '/images/index/Product-Web-GIS.png'
+        img: '/images/index/Product-Web-GIS.webp'
 ---

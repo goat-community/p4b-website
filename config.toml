@@ -89,6 +89,11 @@ parent = "Über uns"
 url = "/mission/"
 weight = 5
 [[languages.de.menu.center]]
+name = "Newsletter"
+parent = "Über uns"
+url = "/newsletter/"
+weight = 6
+[[languages.de.menu.center]]
 name = "Presse"
 parent = "Über uns"
 url = "/presse/"
@@ -266,6 +271,11 @@ name = "Mission"
 parent = "About us"
 url = "/mission/"
 weight = 5
+[[languages.en.menu.center]]
+name = "Newsletter"
+parent = "About us"
+url = "/newsletter/"
+weight = 6
 [[languages.en.menu.center]]
 name = "Press"
 parent = "About us"

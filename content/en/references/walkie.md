@@ -45,6 +45,8 @@ By comparing the walkability index with the potential pedestrian flows, it was a
 - [Hackathon: Development of a Walkability Index](../../posts/2021-04-06-walkability-index/ "Hackathon: Development of a Walkability Index")
 - [Project WALKIE successfully completed](../../posts/2021-08-06-walkie/ "Project WALKIE successfully completed") 
 
+**Technical Documentation:**
+- [Walkability Index](../../docs/walkability_index/ "Walkability Index WALKIE")
 
 **Scientific publications:**
 - [Analyse der Fußwegequalitäten zu Schulen: Entwicklung von Indikatoren auf Basis von OpenData](https://www.ssoar.info/ssoar/handle/document/79047 "Analyse der Fußwegequalitäten zu Schulen: Entwicklung von Indikatoren auf Basis von OpenData")

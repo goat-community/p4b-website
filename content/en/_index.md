@@ -38,16 +38,16 @@ sections:
       background_color_content: default
       title: "Planning the city of tomorrow today."
       planing_items:
-      - icon: "/images/index/plan-icon-front-1.png"
-        iconBack: "/images/index/plan-icon-back-1.png"
+      - icon: "/images/index/plan-icon-front-1.webp"
+        iconBack: "/images/index/plan-icon-back-1.webp"
         title: "Fact-based accessibility analysis"
         text: "By using various accessibility indicators, such as isochrones and heatmaps, GOAT allows you to quickly analyse the current situation in a user-friendly manner and develop suitable measures based on scenarios."
       - icon: "/images/index/plan-icon-front-2.png"
         iconBack: "/images/index/plan-icon-back-2.png"
         title: "Investigation of infrastructural changes"
         text: "With GOAT you can add, change or remove path connections, points of interests and buildings. This allows you to determine the best location for new infrastructure, for example."
-      - icon: "/images/index/plan-icon-front-3.png"
-        iconBack: "/images/index/plan-icon-back-3.png"
+      - icon: "/images/index/plan-icon-front-3.webp"
+        iconBack: "/images/index/plan-icon-back-3.webp"
         title: "Processing of complex data"
         text: "In GOAT, a wide range of spatial data such as buildings, population densities, land use and road networks can be visualized. In addition, environmental and emission data can be displayed."
       - icon: "/images/index/plan-icon-front-4.png"
@@ -103,15 +103,15 @@ sections:
           label: "Learn more"  
       action_list_item:
       - title: "Immediate commissioning"
-        icon: "/images/index/timer-thin.png"
+        icon: "/images/index/timer-thin.webp"
       - title: "Intuitive user interface"
-        icon: "/images/index/user-check.png"
+        icon: "/images/index/user-check.webp"
       - title: "Integrated urban and transport planning"
-        icon: "/images/index/Stadt-Verkehr.png"
+        icon: "/images/index/Stadt-Verkehr.webp"
       - title: "Increased in-house competencies"
-        icon: "/images/index/Gesteigerte-Inhouse-Kompetenzen.png"
+        icon: "/images/index/Gesteigerte-Inhouse-Kompetenzen.webp"
       - title: "Better investments"
-        icon: "/images/index/Bessere-Investments.png"
+        icon: "/images/index/Bessere-Investments.webp"
   - order: 5
     smart_tools_section:
       background_color_content: default
@@ -126,7 +126,7 @@ sections:
           url: "/goat/"
           label: "GOAT Subscription"
       - name: "consulting & reports"
-        img: "/images/index/Product-Beratung.png"
+        img: "/images/index/Product-Beratung.webp"
         title: "Are you looking for professional consulting?"
         description: "Our diverse and interdisciplinary team will be happy to advise you on innovative mobility concepts and individual problem solutions. Using GOAT, we also create reports to evaluate specific planning issues."
         button:
@@ -134,7 +134,7 @@ sections:
           url: "/en/contact/"
           label: "Contact us"
       - name: "WEB-GIS"
-        img: "/images/index/Product-Web-GIS.png"
+        img: "/images/index/Product-Web-GIS.webp"
         title: "Are you interested in other GIS tools?"
         description: "We offer software solutions that allow you to create personalized map services, for example as an information tool for citizens or readers."
         button:
@@ -153,7 +153,7 @@ sections:
       background_color_content: default
       heading: Awards
       items:
-      - logo: "/images/top-50-startups-2021-siegel.png"
+      - logo: "/images/top-50-startups-2021-siegel.webp"
         url: https://www.top50startups.de/start-ups/ranking/2021
       - logo: "/images/index/innovationspreis.webp"
         url: https://muenchen.digital/blog/innovationspreis-2021/

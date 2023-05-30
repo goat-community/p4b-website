@@ -24,7 +24,7 @@ slider_items:
     title: "Konnektivitäts-Heatmap für den Großraum London"
   - image: "/images/references/ex-tra/amsterdam_supermarkets_population.webp"
     title: "Gegenüberstellung von Bevölkerungsdichte und Erreichbarkeit zu Supermärkten in Amsterdam"
-  - image: "/images/references/ex-tra/London.png"
+  - image: "/images/references/ex-tra/London.webp"
     title: "Erreichbarkeit zum ÖPNV in London"
 
 review_text: ""

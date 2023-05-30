@@ -9,7 +9,7 @@ weight: 60
 ---
 GOAT ermöglicht die Berechnung der lokalen Erreichbarkeit zu verschiedenen Zielen. Basierend auf vorberechneten Reisezeiten und der Auswahl der Points-of-Interest (POIs) wird die Heatmap dynamisch berechnet. Die Visualisierung erfolgt als Heatmap auf einem hexagonalen Raster.
 
-![GOAT Lokale Erreichbarkeit](/images/lokale-erreichbarkeit-1-deutsch.png "GOAT Lokale Erreichbarkeit")
+![GOAT Lokale Erreichbarkeit](/images/lokale-erreichbarkeit-1-deutsch.webp "GOAT Lokale Erreichbarkeit")
 
 #### 1. Berechnung
 
@@ -37,7 +37,7 @@ Um die pro Hexagon berechneten Erreichbarkeitswerte zu interpretieren, wird eine
 
 ##### 3.1 Berechnung der Reisezeit
 
-Das folgende Beispiel veranschaulicht, wie die _lokale Erreichbarkeitsheatmap_ berechnet wird. Die Reisezeiten werden für jedes Hexagon zum jeweiligen Ziel im Straßennetz berechnet.
+Das folgende Beispiel veranschaulicht, wie die <i>lokale Erreichbarkeitsheatmap</i> berechnet wird. Die Reisezeiten werden für jedes Hexagon zum jeweiligen Ziel im Straßennetz berechnet.
 
 ![Vereinfachte Beispieldarstellung](/images/docs/technical_documentation/heatmap/grid_groceries.webp "Vereinfachte Beispieldarstellung")
 
@@ -53,13 +53,13 @@ Angewandt in GOAT ergeben sich die folgenden Unterschiede:
 
 Im ersten Beispiel wird die Erreichbarkeit für Lebensmittel-Geschäfte in 15 Min unter Verwendung eines einheitlichen Sensitivitätsparameters (β=300.000) für alle Geschäfte berechnet. Das Ergebnis sieht so aus: 
 
-![GOAT Lokale Erreichbarkeit zu Supermärkten](/images/lokale-erreichbarkeit-4-deutsch.png "GOAT Lokale Erreichbarkeit zu Supermärkten")
+![GOAT Lokale Erreichbarkeit zu Supermärkten](/images/lokale-erreichbarkeit-4-deutsch.webp "GOAT Lokale Erreichbarkeit zu Supermärkten")
 
 ##### 3.3 Berechnung mit unterschiedlichen Sensitivitätsparametern
 
 Im zweiten Beispiel wird die Erreichbarkeit von Lebensmittel-Geschäften in 15 Min unter Verwendung verschiedener Sensitivitätsparameter (β=300.000 und β=400.000) durchgeführt. Das bedeutet, dass der Sensitivitätsparameter von den verschiedenen Supermarkt-Typen abhängt. Für dieses Beispiel haben wir β=400.000 für Großmärkte und β=300.000 für Discounter und Supermärkte verwendet. Hieraus erigibt sich folgendes Ergebnis:
 
-![Ergebnis bei unterschiedlichen Sensitivitätsparametern](/images/lokale-erreichbarkeit-5-deutsch.png "Ergebnis bei unterschiedlichen Sensitivitätsparametern")
+![Ergebnis bei unterschiedlichen Sensitivitätsparametern](/images/lokale-erreichbarkeit-5-deutsch.webp "Ergebnis bei unterschiedlichen Sensitivitätsparametern")
 
 Durch den Vergleich beider Ergebnisse lassen sich einige Unterschiede feststellen.
 

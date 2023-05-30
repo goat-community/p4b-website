@@ -1,12 +1,12 @@
 ---
-title: Routing Profiles
+title: Active Mobility Routing Profiles
 permalink: "/docs/routing_profiles/"
 sections:
 - technical
 weight: 80
 
 ---
-As GOAT is designed for active mobility, roads that are only designed for cars (e.g. highways) are excluded per default from the routing network.
+Roads that are only designed for cars (e.g. motorways) are excluded per default from the routing network.
 In addition this can be adjusted when setting up the application. Depending on the data precision in the study area and the purpose of the GOAT version, different routing profiles are available.
 
 #### Walking

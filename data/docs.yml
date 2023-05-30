@@ -1,4 +1,8 @@
 ---
+- category: glossary
+  heading:
+    en: Glossary
+    de: Glossar
 - category: about
   heading:
     en: About

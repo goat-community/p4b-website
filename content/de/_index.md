@@ -106,15 +106,15 @@ sections:
           label: "Mehr erfahren"  
       action_list_item:
       - title: "Sofortige Inbetriebnahme"
-        icon: "/images/index/timer-thin.png"
+        icon: "/images/index/timer-thin.webp"
       - title: "Intuitive Benutzerober-fläche"
-        icon: "/images/index/user-check.png"
+        icon: "/images/index/user-check.webp"
       - title: "Integrierte Stadt- und Verkehrsplanung"
-        icon: "/images/index/Stadt-Verkehr.png"
+        icon: "/images/index/Stadt-Verkehr.webp"
       - title: "Gesteigerte Inhouse-Kompetenzen"
-        icon: "/images/index/Gesteigerte-Inhouse-Kompetenzen.png"
+        icon: "/images/index/Gesteigerte-Inhouse-Kompetenzen.webp"
       - title: "Bessere Investments"
-        icon: "/images/index/Bessere-Investments.png"
+        icon: "/images/index/Bessere-Investments.webp"
   - order: 5
     background_color_content: default
     smart_tools_section:
@@ -129,7 +129,7 @@ sections:
           url: "/goat/"
           label: "GOAT-Abo"
       - name: "Beratung & Reports"
-        img: "/images/index/Product-Beratung.png"
+        img: "/images/index/Product-Beratung.webp"
         title: "Sie suchen professionelle Beratung?"
         description: "Unser diverses Team unterschiedlicher Fachrichtungen berät Sie gerne zu innovativen Mobilitätskonzepten und individuellen Problemlösungen. Unter Einsatz von GOAT erstellen wir außerdem Reports, in denen wir Ihre spezifischen Planungsfragen schnell in einem Bericht analysieren."
         background_color_content: default
@@ -137,7 +137,7 @@ sections:
           url: "/kontakt/"
           label: "Kontaktieren Sie uns"
       - name: "WEB-GIS"
-        img: "/images/index/Product-Web-GIS.png"
+        img: "/images/index/Product-Web-GIS.webp"
         title: "Sie interessieren sich für weitere GIS-Tools?"
         description: "Wir bieten Software-Lösungen an, mit denen Sie personalisierte Kartendienste, beispielsweise als Informationswerkzeug für Bürger:innen oder Leser:innen, erstellen können."
         background_color_content: default
@@ -157,7 +157,7 @@ sections:
       heading: Auszeichnungen
       text: Mit unserem Planungsinstrument GOAT addressieren wir die folgenden SDGs.
       items:
-      - logo: "/images/top-50-startups-2021-siegel.png"
+      - logo: "/images/top-50-startups-2021-siegel.webp"
         url: https://www.top50startups.de/start-ups/ranking/2021
       - logo: "/images/index/innovationspreis.webp"
         url: https://muenchen.digital/blog/innovationspreis-2021/

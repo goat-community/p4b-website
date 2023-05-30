@@ -8,7 +8,7 @@ hero_section:
   layout: left
   background_color_content: default
   image: "/images/GOAT/mockup-heatmap.webp"
-  heading_logo: "/images/goat-logo.png"
+  heading_logo: "/images/goat-logo.webp"
   list_item:
   - Mit einer Vielzahl an Daten bestückt
   - Fusion von Stadt- und Verkehrsplanung
@@ -26,7 +26,7 @@ sections:
       - quote_image: "/images/index/stattbau_Logo.webp"
         quote_text: '„GOAT ermöglicht es uns, die Erreichbarkeit von baulichen Vorhaben zielgerichtet und effizient zu analysieren. Die Ergebnisse der Analysen bilden eine klare Grundlage für die Entwicklung passgenauer Mobilitätskonzepte im Wohnungs- und Gewerbebau.“​'
         author_name: "Julia Korsten, stattbau münchen GmbH"
-      - quote_image: "/images/index/digital-freiburg.png"
+      - quote_image: "/images/index/digital-freiburg.webp"
         quote_text: '„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.“​'
         author_name: "Dr. Michael Bauder, Stadt Freiburg"
       - quote_image: "/images/index/logo_lhm.webp"
@@ -52,7 +52,7 @@ sections:
           url: '#'
           label: 'GOAT-Abo entdecken'
         video:
-          video_bg: '/images/index/mockuper-2.png'
+          video_bg: '/images/index/mockuper-2.webp'
           video_url: 'https://player.vimeo.com/video/411721219?autoplay=1&muted=1'
       - heading: "Aufbereitung komplexer Daten"
         text: 'GOAT ist mit einer Fülle an komplexen räumlichen Daten ausgestattet. Im GOAT-Abo sind u.a. Points-of-Interests, Gebäude, Bevölkerungsdaten, Flächennutzung, Umweltdaten und verschiedene Hintergrundkarten enthalten. Außerdem können problemlos eigene Datensätze integriert werden.'
@@ -60,7 +60,7 @@ sections:
       - heading: "Faktenbasierte Erreichbarkeitsanalysen"
         text: 'Mit GOAT können in minutenschelle Erreichbarkeitsdefizite aufgezeigt und potentielle Maßnahmen bewertet werden. Damit steigert sich nicht nur die Effizienz, sondern die faktenbasierten Analysen unterstützen in bisher oft subjektiven Entscheidungs- und Investitionsprozessen.'
         video:
-          video_bg: '/images/index/mockuper-4.png'
+          video_bg: '/images/index/mockuper-4.webp'
           video_url: ''
 
   - order: 3
@@ -71,19 +71,19 @@ sections:
   - order: 4
     question_section:
       list_item:
-      - img: '/images/index/undraw_map_re_60yf.png'
+      - img: '/images/index/undraw_map_re_60yf.webp'
         heading: 'Gebietsgröße wählen'
         sub_heading: 'Stadt - Landkreis - Verkehrsverbund - ...'
         text: 'Wählen Sie ihr Wunschgebiet für GOAT.​ Die Preisgestaltung richtet sich nach der Anzahl der Einwohner:innen. '
-      - img: '/images/index/undraw_pitching_re_fpgk.png'
+      - img: '/images/index/undraw_pitching_re_fpgk.webp'
         heading: 'Module wählen'
         sub_heading: 'Fuß- & Radverkehr - ÖPNV - MIV'
         text: 'Jedes Modul ermöglicht es Ihnen, unabhängig von den gewählten Funktionen, Erreichbarkeitsanalysen des Ist-Zustandes für die ausgewählten Verkehrsmittel (Fuß, Rad, ÖPNV und/oder MIV) durchzuführen.'
-      - img: '/images/index/undraw_select_option_re_u4qn.png'
+      - img: '/images/index/undraw_select_option_re_u4qn.webp'
         heading: 'Nutzungsdauer wählen'
         sub_heading: 'Monat - Jahr'
         text: 'Wählen Sie selbst, ob Sie GOAT nur für ein paar schnelle Analysen oder für eien langfristige Konzepterstellung benötigen. Je nachdem können Sie die Nutzungsdauer festlegen.'
-      - img: '/images/index/undraw_team_spirit_re_yl1v.png'
+      - img: '/images/index/undraw_team_spirit_re_yl1v.webp'
         heading: 'Anzahl der Benutzer:innen wählen'
         text: 'Standardmäßig sind zwei Nutzer:innen im Preis inbegriffen. Wenn Sie GOAT im Team benutzen möchten, können Sie gerne mehr Nutzer:innen hinzubuchen.'
 
@@ -122,10 +122,10 @@ sections:
       list_items: 
       - url: '#'
         heading: ''
-        img: '/images/index/Product-Beratung.png'
+        img: '/images/index/Product-Beratung.webp'
       - url: '#'
         heading: ''
-        img: '/images/index/Product-Web-GIS.png'
+        img: '/images/index/Product-Web-GIS.webp'
 
 
 ---

@@ -138,7 +138,7 @@
     en: Working Student
     de: Werkstudentin
   image: "/images/sophie_meiningsw.webp"
-  team_member: true
+  team_member: false
   team_image: "/images/sophie_meining.webp"
   github: ''
   website: ''
@@ -200,6 +200,41 @@
   bio:
     de: 'Als Front-End Developer ist Ebubeker technikbegeistert und stets motiviert Neues zu lernen und seine Fähigkeiten zu verbessern. Damit trägt er zu Lösungen bei, welche die Gesellschaft nachhaltig verbessern.'
     en: 'As front-end developer, Ebubeker is passionate about technology and always motivated to learn new things and improve his skills. In doing so, he contributes to solutions that sustainably improve society.'
+- username: otter
+  name: Philipp Otter
+  title:
+    en: Working Student
+    de: Werkstudent
+  bio:
+    en: Philipp finds it exciting to create analyses based on simulations or models
+      to improve the traffic situation and quality of life in our cities. He supports the programming team.
+    de: Philipp findet es spannend Analysen basierend auf Simulationen oder Modellen zu
+      erstellen, um die Verkehrssituation und Lebensqualität in unseren Städten zu
+      verbessern. Als Werkstudent unterstützt er das Programmierteam.
+  image: ''
+  team_member: true
+  team_image: "/images/team/team_philipp.webp"
+  github: ''
+  website: ''
+  mail: ''
+  linkedin: https://www.linkedin.com/in/philippotter96/
+  twitter: ''
+- username: zakariasson
+  name: Alva Zakariasson
+  title:
+    en: Intern
+    de: Praktikantin
+  image: ""
+  team_member: true
+  team_image: "/images/team/team_zakariasson.webp"
+  github: ''
+  website: ''
+  mail: ''
+  linkedin: 'https://www.linkedin.com/in/alva-zakariasson-044718162/'
+  twitter: ''
+  bio:
+    de: 'Alva ist Stadtplanerin mit einer Leidenschaft für nachhaltige Mobilität und dem Ziel, Teil des Wandels hin zu smarten und nachhaltigen Städten zu sein. Als Praktikantin bei Plan4Better unterstützt sie das Team unter anderem in der Projektbearbeitung und im Vertrieb.'
+    en: 'Alva is an urban planner with a passion for sustainable mobility and the goal to be part of the change towards smart and sustainable cities. As an intern at Plan4Better, she supports the team in project management and sales, among other things.'
 - username: xue
   name: Jiaying Xue
   title:
@@ -360,22 +395,4 @@
   website: ''
   mail: ''
   twitter: ''
-- username: otter
-  name: Philipp Otter
-  title:
-    en: Working Student
-    de: Werkstudent
-  bio:
-    en: Philipp finds it exciting to create analyses based on simulations or models
-      to improve the traffic situation and quality of life in our cities. He supports the programming team.
-    de: Er findet es spannend Analysen basierend auf Simulationen oder Modellen zu
-      erstellen, um die Verkehrssituation und Lebensqualität in unseren Städten zu
-      verbessern. Als Werkstudent unterstützt er das Programmierteam.
-  image: ''
-  team_member: true
-  team_image: "/images/team/team_philipp.webp"
-  github: ''
-  website: ''
-  mail: ''
-  linkedin: https://www.linkedin.com/in/philippotter96/
-  twitter: ''
+

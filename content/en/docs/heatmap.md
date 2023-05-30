@@ -8,7 +8,7 @@ weight: 60
 ---
 GOAT allows you to calculate and visualize gravity-based accessibility measures, which are visualized as heatmaps. Based on pre-calculated travel times the heatmap is computed dynamically based on the selection of the Points-of-Interest (POIs). A hexagonal grid is used for visualization.
 
-![GOAT local accessibility](/images/lokale-erreichbarkeit-1-englisch.png "GOAT local accessibility")
+![GOAT local accessibility](/images/lokale-erreichbarkeit-1-englisch.webp "GOAT local accessibility")
 
 #### 1. Calculation
 
@@ -34,7 +34,7 @@ In order to classify the accessibility levels that were computed for each grid c
 
 ##### 3.1 Calculation travel times
 
-The following example illustrates how the _local accessibility heatmap_ is computed. The travel times are calculated for each grid cell to the concerning destination on the street network.
+The following example illustrates how the <i>local accessibility heatmap</i> is computed. The travel times are calculated for each grid cell to the concerning destination on the street network.
 
 ![Simplified example](/images/docs/technical_documentation/heatmap/grid_groceries.webp "Simplified example")
 
@@ -52,13 +52,13 @@ Applied in GOAT, the following differences arise:
 
 In the first example, the accessibility for grocery shops in 15 min is calculated using a uniform sensitivity parameter (β=300,000) for all shops. The result looks like this: 
 
-![GOAT local accessibility to grocery shops](/images/lokale-erreichbarkeit-4-englisch.png "GOAT local accessibility to grocery shops")
+![GOAT local accessibility to grocery shops](/images/lokale-erreichbarkeit-4-englisch.webp "GOAT local accessibility to grocery shops")
 
 ##### 3.3 Calculation with different sensitivity parameters
 
 In the second example, the accessibility of grocery shops in 15 min is performed using different sensitivity parameters (β=300,000 and β=400,000). This means that the sensitivity parameter depends on the different grocery shop types. For this example, we used β=400,000 for hypermarkets and β=300,000 for discounters and supermarkets. This gives the following result:
 
-![Result with different sensitivity parameters](/images/lokale-erreichbarkeit-5-englisch-png.png "Result with different sensitivity parameters")
+![Result with different sensitivity parameters](/images/lokale-erreichbarkeit-5-englisch-png.webp "Result with different sensitivity parameters")
 
 By comparing the two results, some differences can be identified.
 

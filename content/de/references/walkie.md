@@ -30,7 +30,7 @@ slider_items:
 
 review_text: "„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.”"
 review_person: "Dr. Michael Bauder, Stadt Freiburg"
-review_image: "/images/index/digital-freiburg.png"
+review_image: "/images/index/freiburg_logo.webp"
 date: 2021-02-01
 ---
 
@@ -44,6 +44,9 @@ Durch die Gegenüberstellung des Walkability Index mit den Fußgängerpotentials
 **Blogposts zu diesem Projekt:**
 - [Hackathon: Entwicklung eines Walkability-Index](../../posts/2021-04-06-walkability-index/ "Blogpost Hackathon: Entwicklung eines Walkability-Index")
 - [WALKIE Projekt erfolgreich abgeschlossen](../../posts/2021-08-06-walkie/ "Blogpost WALKIE Projekt erfolgreich abgeschlossen") 
+
+**Technische Dokumentation:**
+- [Walkability Index](../../docs/walkability_index/ "Walkability Index WALKIE")
 
 
 **Wissenschaftliche Veröffentlichung:**

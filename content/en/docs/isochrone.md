@@ -95,7 +95,7 @@ The isochrone itself is a shape that is derived from the routing grid using the 
 <img src="\images\docs\technical_documentation\isochrone\wiki.webp" alt="marching square" style="max-height:350px;"/>
 
 
-If you want to learn more detailed examples of how the isochrone can be used within GOAT, you can access [the tutorials](https://plan4better.de/en/tutorials/isochrone/) and [video sections](https://plan4better.de/en/videos/) on the website.
+If you want to learn more detailed examples of how the isochrone can be used within GOAT, you can access [the tutorials](../../tutorials/isochrone/) and [video sections](../../videos/) on the website.
 
 
 #### References

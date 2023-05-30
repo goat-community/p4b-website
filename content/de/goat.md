@@ -8,7 +8,7 @@ hero_section:
   layout: left
   background_color_content: default
   image: "/images/GOAT/mockup-heatmap.webp"
-  heading_logo: "/images/goat-logo.png"
+  heading_logo: "/images/goat-logo.webp"
   list_item:
   - Mit einer Vielzahl an Daten bestückt
   - Fusion von Stadt- und Verkehrsplanung
@@ -20,7 +20,7 @@ sections:
   - order: 1
     quote_section:
       quote_items:
-      - quote_image: "/images/index/digital-freiburg.png"
+      - quote_image: "/images/index/digital-freiburg.webp"
         quote_text: '„Ein hervorragendes Tool zur datengestützten, modernen Stadt- und Mobilitätsplanung für ambitionierte 15-Minuten-Städte.“​'
         author_name: "Dr. Michael Bauder, Stadt Freiburg"
       - quote_image: "/images/index/logo_lhm.webp"
@@ -68,15 +68,15 @@ sections:
   - order: 4
     question_section:
       list_item:
-      - img: '/images/index/undraw_map_re_60yf.png'
+      - img: '/images/index/undraw_map_re_60yf.webp'
         heading: 'Gebietsgröße wählen'
         sub_heading: 'Stadt - Landkreis - Verkehrsverbund - ...'
         text: 'Wählen Sie ihr Wunschgebiet für GOAT.​ Die Preisgestaltung richtet sich nach der Anzahl der Einwohner:innen. '
-      - img: '/images/index/undraw_pitching_re_fpgk.png'
+      - img: '/images/index/undraw_pitching_re_fpgk.webp'
         heading: 'Module wählen'
         sub_heading: 'Fuß- & Radverkehr - ÖPNV - MIV'
         text: 'Jedes Modul ermöglicht es Ihnen, unabhängig von den gewählten Funktionen, Erreichbarkeitsanalysen des Ist-Zustandes für die ausgewählten Verkehrsmittel (Fuß, Rad, ÖPNV und/oder MIV) durchzuführen.'
-      - img: '/images/index/undraw_team_spirit_re_yl1v.png'
+      - img: '/images/index/undraw_team_spirit_re_yl1v.webp'
         heading: 'Anzahl der Benutzer:innen wählen'
         text: 'Standardmäßig sind zwei Nutzer:innen im Preis inbegriffen. Wenn Sie GOAT im Team benutzen möchten, können Sie gerne mehr Nutzer:innen hinzubuchen.'
 
@@ -115,10 +115,10 @@ sections:
       list_items: 
       - url: '#'
         heading: ''
-        img: '/images/index/Product-Beratung.png'
+        img: '/images/index/Product-Beratung.webp'
       - url: '#'
         heading: ''
-        img: '/images/index/Product-Web-GIS.png'
+        img: '/images/index/Product-Web-GIS.webp'
 
 
 ---

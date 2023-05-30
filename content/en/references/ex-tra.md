@@ -24,7 +24,7 @@ slider_items:
     title: "Connectivity heatmap for Greater London"
   - image: "/images/references/ex-tra/amsterdam_supermarkets_population.webp"
     title: "Comparison of population density and accessibility to supermarkets in Amsterdam"
-  - image: "/images/references/ex-tra/London.png"
+  - image: "/images/references/ex-tra/London.webp"
     title: "Accessibility to public transport in London"
 
 review_text: ""

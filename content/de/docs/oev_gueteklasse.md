@@ -21,8 +21,8 @@ Im Folgenden werden für die entsprechende Stationskategorien Radien in der darg
 
 # Referenzen
 
-Bundesamt für Raumentwicklung ARE, 2022. ÖV-Güteklassen Berechnungsmethodik ARE (Grundlagenbericht).
+Bundesamt für Raumentwicklung ARE, 2022. [ÖV-Güteklassen Berechnungsmethodik ARE (Grundlagenbericht)](https://www.are.admin.ch/are/de/home/medien-und-publikationen/publikationen/verkehr/ov-guteklassen-berechnungsmethodik-are.html "zur Referenz").
 
-metron, 2017. Bedienungsqualität und Erschließungsgüte im Öffentlichen Verkehr.
+metron, 2017. [Bedienungsqualität und Erschließungsgüte im Öffentlichen Verkehr](https://vorarlberg.at/documents/302033/472144/1-+Schlussbericht.pdf/81c5f0d7-a0f0-54c7-e951-462cd5cf2831?t=1616147848364 "zur Referenz").
 
-Hiess, H., 2017. Entwicklung eines Umsetzungskonzeptes für österreichweite ÖV-Güteklassen.
+Hiess, H., 2017. [Entwicklung eines Umsetzungskonzeptes für österreichweite ÖV-Güteklassen](https://www.oerok.gv.at/fileadmin/user_upload/Bilder/2.Reiter-Raum_u._Region/1.OEREK/OEREK_2011/PS_RO_Verkehr/OeV-G%C3%BCteklassen_Bericht_Final_2017-04-12.pdf "zur Referenz").

@@ -1,12 +1,8 @@
 {{- $.Scratch.Add "index" slice -}}
-{{- $searchablePages := where site.RegularPages "Section" "references" -}}
+{{- $searchablePages := where site.RegularPages "Section" "posts" -}}
 {{- range $index, $page := $searchablePages -}}
-	{{- .Scratch.Set "pageData" "" -}}
-	{{- .Scratch.Set "pageContent" "" -}}
 	{{- .Scratch.Set "pageURL" "" -}}
-	{{- .Scratch.Set "pageTag" "" -}}
 	{{- if gt (len $page.Content) 0 -}}
-		{{- .Scratch.Set "pageContent" $page.Plain -}}
 		{{- .Scratch.Set "pageURL" $page.Permalink -}}
 		{{- if (isset $page.Params "tags") -}}
 		{{- .Scratch.Set "pageTag" (delimit $page.Params.tags " ; ") -}}
