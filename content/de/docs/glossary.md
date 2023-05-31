@@ -43,7 +43,7 @@ _Graphik: [Chatham House Sustainability Accelerator](https://accelerator.chatham
 
 
 #### H3-Gitter <img src="/images/docs/technical_documentation/glossary/H3_grid_logo.webp" alt="h3_grid_logo" style="max-height:80px;"/>  
-Das H3-Gitter ist ein räumliches Indexierungssystem, das von Uber Technologies entwickelt wurde. Ziel ist, die Erdoberfläche in ein hierarchisches Gitter aus hexagonalen Zellen zu unterteilen, um eine effizientere und genauere Darstellung und Analyse räumlicher Daten zu ermöglichen. Das H3-Gitter verwendet hexagonale Kacheln, die auf einem Ikosaeder basieren und eine hierarchische Struktur mit mehreren Auflösungsebenen schaffen. Die hexagonale Form ermöglicht eine äquidistante und konsistente räumliche Darstellung mit unterschiedlichen Auflösungen. 
+Das H3-Gitter ist ein räumliches Indexierungssystem, das von Uber Technologies entwickelt wurde. Ziel ist es, die Erdoberfläche in ein hierarchisches Gitter aus hexagonalen Zellen zu unterteilen, um eine effizientere und genauere Darstellung und Analyse räumlicher Daten zu ermöglichen. Das H3-Gitter verwendet hexagonale Kacheln, die auf einem Ikosaeder basieren und eine hierarchische Struktur mit mehreren Auflösungsebenen schaffen. Die hexagonale Form ermöglicht eine äquidistante und konsistente räumliche Darstellung mit unterschiedlichen Auflösungen. 
 
 Die Auflösung 10 (ca. 75m Kantenlänge) wird in GOAT für die Berechnung von Reisezeiten verwendet und die Auflösung 9 (ca. 200m Kantenlänge) oder höher für die Visualisierung von Heatmaps. Die Werte werden von der höheren zur niedrigeren Auflösung durch Mittelwertbildung aggregiert.
 <p align="center">
