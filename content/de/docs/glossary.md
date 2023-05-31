@@ -55,7 +55,7 @@ _Graphik: [Uber](https://eng.uber.com/h3/ "Uber H3-Gitter")_
 #### Heatmap
 Eine Heatmap ist eine grafische Visualisierungsform, die verschiedene Farben verwendet, um die unterschiedlichen Werte eines Datensatzes anzuzeigen. Dies ermöglicht ein schnelles Verständnis der dargestellten Daten. 
 
-In GOAT verwenden wir unter anderem Heatmaps, um die lokale Erreichbarkeit (siehe [Heatmaps](/de/docs/heatmap/ "Dokumentation zu unseren Heatmap-Indikatoren")) von verschiedenen Einrichtungen wie Cafés, Restaurants oder Supermärkten zu analysieren. Die Heatmaps verwendeen eine Reihe von Farben, um verschiedene Erreichbarkeitswerte darzustellen. Diese Analysen geben Aufschluss über die Verteilung der Ziele und die verfügbare Verkehrsinfrastruktur.
+In GOAT verwenden wir unter anderem Heatmaps, um die lokale Erreichbarkeit (siehe [Heatmaps](/de/docs/heatmap/ "Dokumentation zu unseren Heatmap-Indikatoren")) von verschiedenen Einrichtungen wie Cafés, Restaurants oder Supermärkten zu analysieren. Die Heatmaps verwenden eine Reihe von Farben, um verschiedene Erreichbarkeitswerte darzustellen. Diese Analysen geben Aufschluss über die Verteilung der Ziele und die verfügbare Verkehrsinfrastruktur.
 
 #### Indikator
 Ein Indikator ist ein Mittel zur quantitativen Analyse eines bestimmten Attributs oder einer bestimmten Thematik. Dies geschieht in der Regel nach einem standardisierten Verfahren, z.B. durch die Verwendung einer Formel. In der Planung können Indikatoren verwendet werden, um die aktuelle Situation zu bewerten, verschiedene Standorte miteinander zu vergleichen und die Fortschritte bei der Umsetzung bestimmter Ziele zu überwachen.
