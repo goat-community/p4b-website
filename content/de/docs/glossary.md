@@ -43,7 +43,7 @@ _Graphik: [Chatham House Sustainability Accelerator](https://accelerator.chatham
 
 
 #### H3-Gitter <img src="/images/docs/technical_documentation/glossary/H3_grid_logo.webp" alt="h3_grid_logo" style="max-height:80px;"/>  
-Das H3-Gitter ist ein räumliches Indexierungssystem, das von Uber Technologies entwickelt wurde. Ziel ist, die Erdoberfläche in ein hierarchisches Gitter aus hexagonalen Zellen zu unterteilen, um eine effizientere und genauere Darstellung und Analyse räumlicher Daten zu ermöglichen. Das H3-Gitter verwendet hexagonale Kacheln, die auf einem Ikosaeder basieren und eine hierarchische Struktur mit mehreren Auflösungsebenen schaffen. Die hexagonale Form ermöglicht eine äquidistante und konsistente räumliche Darstellung mit unterschiedlichen Auflösungen. 
+Das H3-Gitter ist ein räumliches Indexierungssystem, das von Uber Technologies entwickelt wurde. Ziel ist es, die Erdoberfläche in ein hierarchisches Gitter aus hexagonalen Zellen zu unterteilen, um eine effizientere und genauere Darstellung und Analyse räumlicher Daten zu ermöglichen. Das H3-Gitter verwendet hexagonale Kacheln, die auf einem Ikosaeder basieren und eine hierarchische Struktur mit mehreren Auflösungsebenen schaffen. Die hexagonale Form ermöglicht eine äquidistante und konsistente räumliche Darstellung mit unterschiedlichen Auflösungen. 
 
 Die Auflösung 10 (ca. 75m Kantenlänge) wird in GOAT für die Berechnung von Reisezeiten verwendet und die Auflösung 9 (ca. 200m Kantenlänge) oder höher für die Visualisierung von Heatmaps. Die Werte werden von der höheren zur niedrigeren Auflösung durch Mittelwertbildung aggregiert.
 <p align="center">
@@ -55,7 +55,7 @@ _Graphik: [Uber](https://eng.uber.com/h3/ "Uber H3-Gitter")_
 #### Heatmap
 Eine Heatmap ist eine grafische Visualisierungsform, die verschiedene Farben verwendet, um die unterschiedlichen Werte eines Datensatzes anzuzeigen. Dies ermöglicht ein schnelles Verständnis der dargestellten Daten. 
 
-In GOAT verwenden wir unter anderem Heatmaps, um die lokale Erreichbarkeit (siehe [Heatmaps](/de/docs/heatmap/ "Dokumentation zu unseren Heatmap-Indikatoren")) von verschiedenen Einrichtungen wie Cafés, Restaurants oder Supermärkten zu analysieren. Die Heatmaps verwendeen eine Reihe von Farben, um verschiedene Erreichbarkeitswerte darzustellen. Diese Analysen geben Aufschluss über die Verteilung der Ziele und die verfügbare Verkehrsinfrastruktur.
+In GOAT verwenden wir unter anderem Heatmaps, um die lokale Erreichbarkeit (siehe [Heatmaps](/de/docs/heatmap/ "Dokumentation zu unseren Heatmap-Indikatoren")) von verschiedenen Einrichtungen wie Cafés, Restaurants oder Supermärkten zu analysieren. Die Heatmaps verwenden eine Reihe von Farben, um verschiedene Erreichbarkeitswerte darzustellen. Diese Analysen geben Aufschluss über die Verteilung der Ziele und die verfügbare Verkehrsinfrastruktur.
 
 #### Indikator
 Ein Indikator ist ein Mittel zur quantitativen Analyse eines bestimmten Attributs oder einer bestimmten Thematik. Dies geschieht in der Regel nach einem standardisierten Verfahren, z.B. durch die Verwendung einer Formel. In der Planung können Indikatoren verwendet werden, um die aktuelle Situation zu bewerten, verschiedene Standorte miteinander zu vergleichen und die Fortschritte bei der Umsetzung bestimmter Ziele zu überwachen.
