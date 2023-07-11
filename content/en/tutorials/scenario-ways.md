@@ -33,7 +33,7 @@ How does the construction of a new bicycle bridge across the river change access
 
 1. Go to the menu for scenario development and create a new scenario.
 
-<img src="/images/tutorials/Scenario_POIs/create_scenario_en.webp"  alt="Create scenario" style="max-height:300px;"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.3_eng.webp"  alt="Create scenario" style="max-height:300px;"/>
 
 2. Give the scenario a name and click "OK".
 
