@@ -38,6 +38,13 @@ text = ""
 load_more_button_text = "Mehr laden"
 
 [[blocks.news]]
+heading = "Forschungs- und Innovationsbericht München 2023"
+thumbnail = "/images/presse/lhm-arbeit-und-wirtschaft.webp"
+source = "Landeshauptstadt München"
+url = "https://www.wirtschaft-muenchen.de/produkt/forschungs-innovationsbericht-2023/"
+date = "Juli 2023"
+
+[[blocks.news]]
 heading = "Dynamische Erreichbarkeitsanalysen"
 thumbnail = "/images/presse/der-nahverkehr.webp"
 source = "Der Nahverkehr"
