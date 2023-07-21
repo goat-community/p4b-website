@@ -58,7 +58,7 @@
     en: Software Developer
     de: Software-Entwickler
   image: ""
-  team_member: true
+  team_member: false
   team_image: "/images/team/team_etemaddar.webp"
   github: 'https://github.com/metemaddar/'
   website: ''
