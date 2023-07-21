@@ -16,7 +16,7 @@ text = ""
 url = ""
 [[blocks]]
 block = "videos"
-heading = "Quickstart Videos"
+heading = "Videos"
 template = "videos-block"
 text = "Hier finden Sie Videos zu den verschiendenen Funktionen von GOAT."
 

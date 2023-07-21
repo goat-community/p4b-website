@@ -27,14 +27,14 @@ load_more_button_text = "Load more"
 heading = "GOAT-Release 1.5, GOAT online in new cities & recommended readingg"
 thumbnail = "/images/newsletter/thumbnail-newsletterv22023.webp"
 source = ""
-url = "http://25972470.hs-sites-eu1.com/newsletter-02/2023-en"
+url = "https://25972470.hs-sites-eu1.com/newsletter-02/2023-en"
 date = "Volume 2/2023"
 
 [[blocks.news]]
 heading = "Unveiling Map4Citizens: The Future of City Planning is Here!"
 thumbnail = "/images/newsletter/P4B_LOGO12.webp"
 source = ""
-url = "http://25972470.hs-sites-eu1.com/unveiling-map4citizens-the-future-of-city-planning-is-here"
+url = "https://25972470.hs-sites-eu1.com/unveiling-map4citizens-the-future-of-city-planning-is-here"
 date = "Volume 1/2023"
 
 

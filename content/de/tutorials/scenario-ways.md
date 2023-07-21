@@ -32,7 +32,7 @@ Wie verändert sich die Erreichbarkeit durch den Bau einer neuen Fahrradbrücke 
 
 1. Gehen Sie in das Fenster zur Szenarienentwicklung und erstellen Sie ein neues Szenario.
 
-<img src="/images/tutorials/Scenario_POIs/create_scenario.webp"  alt="Create scenario" style="max-height:300px;"/>
+<img src="/images/tutorials/Scenario_POIs/Scenarios_location_planning_1.2.3_de.webp"  alt="Create scenario" style="max-height:300px;"/>
 
 2. Geben Sie dem Szenario einen Namen und klicken Sie auf "OK".
 
