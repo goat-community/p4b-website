@@ -24,7 +24,7 @@ text = ""
 load_more_button_text = "Load more"
 
 [[blocks.news]]
-heading = "GOAT-Release 1.5, GOAT online in new cities & recommended readingg"
+heading = "GOAT-Release 1.5, GOAT online in new cities & recommended reading"
 thumbnail = "/images/newsletter/thumbnail-newsletterv22023.webp"
 source = ""
 url = "https://25972470.hs-sites-eu1.com/newsletter-02/2023-en"
