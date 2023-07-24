@@ -939,15 +939,19 @@ html {
 .goat-list-scn .goatitem-img {
   max-width: 50%;
   position: relative;
+  margin: 15px auto;
 }
 
 .goat-list-scn .goatitem:nth-child(2n + 2) .goatitem-cont {
   order: 2;
 }
 
-.goat-list-scn .goatitem:nth-child(2n + 2) .goatitem-img img {
+//.goat-list-scn .goatitem:nth-child(2n + 2) .goatitem-img img {
+.goat-list-scn .goatitem-img img {
+  display: block;
   max-width: 100%;
   width: 400px;
+  margin: 0 auto;
 }
 
 .goat-list-scn .goatitem-cont h4 {
@@ -1990,7 +1994,7 @@ th {
       margin: 0;
       width: 120px;
     }
-    
+
     span {
       width: 270px;
     }
@@ -2032,7 +2036,7 @@ th {
     font-size: 11px;
     height: 330px;
   }
-  
+
   li img {
     object-fit: cover;
     width: 100%;

@@ -6,7 +6,7 @@
         <a class="uk-navbar-item uk-logo" href="{{ "/" | relLangURL }}">
           {{ if .Site.Params.site_logo }}
             <img src="{{ .Site.Params.site_logo | absURL }}" alt="{{ $.Site.Title }}" width="170">
-            <img src="{{ .Site.Params.site_logo_light | absURL }}" class="uk-logo-inverse" alt="{{ $.Site.Title }}" width="170">        
+            <img src="{{ .Site.Params.site_logo_light | absURL }}" class="uk-logo-inverse" alt="{{ $.Site.Title }}" width="170">
           {{ else }}
             {{ .Site.Title }}
           {{ end }}
@@ -21,7 +21,8 @@
           {{ range .Site.Menus.center -}}
             {{ $active := in $current.RelPermalink .URL }}
             {{ if ne .Params.hidden true }}
-            {{ if .HasChildren }}
+
+          {{ if .HasChildren }}
               {{ $active := in $current.RelPermalink .URL }}
               <li>
                 <a href="#">{{ .Name }}<span>{{ readFile "assets/images/dropdown.svg" | safeHTML }}</span></a>
@@ -31,7 +32,7 @@
                         <h3 class="uk-text-primary">{{ .Params.heading }}</h3>
                         <div class="uk-text-muted uk-text-m">{{ .Params.text }}</div>
                       </div>
-                    
+
                     <div>
                       <ul class="uk-nav uk-navbar-dropdown-nav uk-text-bold">
                         {{ range .Children }}
@@ -86,22 +87,22 @@
             {{ end }}
           {{ end }}
         </ul>
-      
+
       </div>
       <div class="uk-navbar-right">
-        
+
         {{ if .IsTranslated }}
-          <ul class="uk-navbar-nav uk-text-uppercase">
-            {{ range .Translations }}
-              {{ $file := (printf "%s%s%s" "images/" .Lang ".png" ) }}
-              {{ $icon := resources.Get $file }}
-              <li>
-                <a href="{{ .RelPermalink }}"><img src="{{ $icon.Permalink }}" class="uk-lang-icon">{{ .Lang }}</a>
-              </li>
-            {{ end}}
-            </ul>
+        {{ with index .Translations 0 }}
+        <ul class="uk-navbar-nav uk-text-uppercase">
+          {{ $file := (printf "%s%s%s" "images/" .Lang ".png" ) }}
+          {{ $icon := resources.Get $file }}
+          <li>
+            <a href="{{ .RelPermalink }}"><img src="{{ $icon.Permalink }}" class="uk-lang-icon">{{ .Lang }}</a>
+          </li>
+        </ul>
         {{ end }}
-        
+        {{ end }}
+
         <ul class="uk-navbar-nav uk-visible@l">
           {{- $current := . -}}
           {{ range .Site.Menus.right -}}
