@@ -701,6 +701,14 @@ html {
   width: 100%;
   padding: 40px 0;
 
+  .uk-card {
+    .uk-first-column {
+      img {
+        max-width: 70px;
+      }
+    }
+  }
+
   &.secondary {
     .uk-card-primary {
       background-color: $global-secondary-background;
