@@ -4,8 +4,8 @@ title: Metropolregion Rhein-Neckar - GOAT Abo
 lang: de
 categories:
 - GOAT$
-thumbnail: "/images/references/freiburg/thumbnail.webp"
-image: "/images/references/freiburg/banner.webp"
+thumbnail: "/images/references/mrn/mrn.jpg"
+image: "/images/references/mrn/mrn.jpg"
 summary: GOAT wird im Rahmen des Smart Region Projektes in der Metropolregion Rhein-Neckar als akteurübergreifende Planungsplattform eingesetzt.  
 information:
   - Metropolregion Rhein-Neckar GmbH
