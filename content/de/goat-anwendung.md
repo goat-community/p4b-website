@@ -64,7 +64,7 @@ image = "/images/application/Stadtentwicklungskonzepte.gif"
 layout = "right"
 padding_top = "default"
 template = "card-block"
-text = "Die “Stadt der kurzen Wege” sowie ein Ausbau der Nahmobilität und eine Stärkung von Stadt-und Nahversorgungszentren sind wichtige Punkte eines Stadtentwicklungskonzeptes. In GOAT können Standorte alternativer Mobilität, Lücken im Wegenetz, Unfallorte sowie die Erreichbarkeit von Zentren und verschiedenen Points of Interest visualisert und mit Hilfe der Szenariobildung Nachverdichtungs- bzw. Verbesserungsmöglichkeiten ebendieser aufgezeigt werden."
+text = "Die “Stadt der kurzen Wege” sowie ein Ausbau der Nahmobilität und eine Stärkung von Stadt-und Nahversorgungszentren sind wichtige Punkte eines Stadtentwicklungskonzeptes. In GOAT können Standorte alternativer Mobilität, Lücken im Wegenetz, Unfallorte sowie die Erreichbarkeit von Zentren und verschiedenen Points of Interest visualisiert und mit Hilfe der Szenariobildung Nachverdichtungs- bzw. Verbesserungsmöglichkeiten ebendieser aufgezeigt werden."
 video = ""
 [blocks.button]
 text = "Zum Blogpost"
