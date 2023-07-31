@@ -79,7 +79,7 @@ image = "/images/application/Daseinsvorsorge.gif"
 layout = "left"
 padding_top = "default"
 template = "card-block"
-text = "GOAT ermöglicht die Qualität der Erreichbarkeit von Einrichtungen der Daseinsvorsorge (z.B. Bildung, Gesundheit oder Kultur) in planerischen Entscheidungsprozessen zu messen. Dies ermöglicht es Szenarien zu den Auswirkungen neuer oder wegfallender Einrichtungen auf die Versorgung zu entwickeln. Im Gegenzug lassen sich Standortqualitäten von Wohnbebauung bezüglich der Erreichbarkeit bestimmen und somit planerische Entscheidungen hinsichtlich deren Weiterentwicklung vorbereiten."
+text = "Mit GOAT kann die Qualität der Erreichbarkeit von Einrichtungen der Daseinsvorsorge (z.B. Bildung, Gesundheit oder Kultur) in planerischen Entscheidungsprozessen bewertet werden. Ebenso können Szenarien zu den Auswirkungen neuer oder wegfallender Einrichtungen auf die Versorgung analysiert werden. Außerdem lassen sich Standortpotenziale für neue Wohngebiete bestimmen und somit planerische Entscheidungen hinsichtlich deren Weiterentwicklung faktenbasiert bewerten."
 video = ""
 [blocks.button]
 text = "Zum Blogpost"
