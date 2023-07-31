@@ -12,9 +12,11 @@ translationKey : "use-cases-development-concepts"
 ---
 ## Was ist ein Stadtentwicklungskonzept?
 
-Ein Stadtentwicklungskonzept versucht die Charakteristika einer Stadt zukunftsfördernd, nachhaltig und langfristig zu unterstützen und weiterzuentwickeln. Eine fächer- und disziplinübergreifende Kommunikation sowie die Einbeziehung aktueller Trends ist dabei unerlässlich (complan Kommunalberatung GmbH, 2017). Aktuell ist in vielen Fällen sowohl die „Stadt der kurzen Wege“ als auch ein Ausbau von Nahmobilität und alternativen Mobilitätsformen wie Car- und Bikesharing von großer Bedeutung (complan Kommunalberatung GmbH, 2017). Damit soll eine Stärkung von Stadt- und Nahversorgungszentren erreicht werden.
+Ein Integriertes Stadtentwicklungskonzept (ISEK) ist ein umfassendes Planwerk zur ganzheitlichen Entwicklung einer Stadt. Es versucht die Charakteristika einer Stadt zukunftsfördernd, nachhaltig und langfristig zu unterstützen und weiterzuentwickeln. Eine fächer- und disziplinübergreifende Kommunikation sowie die Einbeziehung aktueller Trends ist dabei unerlässlich (complan Kommunalberatung GmbH, 2017). Aktuell ist in vielen Fällen sowohl die „Stadt der kurzen Wege“ als auch ein Ausbau von Nahmobilität und alternativen Mobilitätsformen wie Car- und Bikesharing von großer Bedeutung (complan Kommunalberatung GmbH, 2017). Damit soll eine Stärkung von Stadt- und Nahversorgungszentren erreicht werden.
 
 ## Was kann GOAT dazu beitragen?
+
+Die Inhalte der Integrierten Stadtentwicklungspläne unterscheiden sich je nach Bedarf und Ausrichtung der Kommune. GOAT ist ein nützliches Werkzeug bei der Erstellung eines ISEK, insbesondere wenn der Schwerpunkt auf Erreichbarkeit liegt. Erreichbarkeit ist auf dem Vormarsch und viele Städte, wie z.B. München, arbeiten mit Konzepten wie „Stadt der kurzen Wege“ (Landeshauptstadt München Referat für Stadtplanung und Bauordnung 2021, s. 22).
 
 ### Visualisierung von räumlichen Daten
 
@@ -59,3 +61,5 @@ Sie wollen auch Analysen zur Standortplanung mit GOAT durchführen oder interess
 ## Referenzen
 
 complan Kommunalberatung GmbH, 2017. Stadt Jena. 2030+ - Integriertes Stadtentwicklungskonzept. Stadt Jena, Jena.
+
+Landeshauptstadt München Referat für Stadtplanung und Bauordnung. 2021. „Stadtentwicklungskonzeption „Perspektive München“ - Bericht zur Fortschreibung 2021“. https://stadt.muenchen.de/dam/jcr:b129023c-5202-4788-9f5e-a38b47b83776/2021_Fortschreibung_PerspektiveMuenchen.pdf
