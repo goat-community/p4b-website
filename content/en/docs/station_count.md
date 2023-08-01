@@ -9,45 +9,24 @@ weight: 50
 
 #### Definition
 
-This indicator represents the average number of departures for public transportation per hour. It serves as the foundation for the [ÖV Güteklassen](/en/docs/oev_gueteklasse/ "Indicator documentation for public transport quality classes"), but can also be utilized on its own as a straightforward measure for public transport information at a station level. It offers a summary of a station's performance during a specific time window and day, providing valuable information for planning authorities.
+This indicator shows the average number of public transport departures per hour for a selected time interval in pie charts. The size of the pie chart represents the number of departures: the larger the pie chart, the more departures. The colours represent the type of service (e.g. bus, metro).
 
+This indicator serves as the foundation for the [ÖV Güteklassen](/en/docs/oev_gueteklasse/ "Indicator documentation for public transport quality classes"), but can also be utilized on its own as a straightforward measure for public transport offer at a station level. It gives a summary of a station's departures during a specific time window and day, providing a valuable overview of the public transport offer in a city.
+
+![Average count of public transport departures](/images/docs/station_count/station_count_indicator_en.webp "Average count of public transport departures")
+
+_Figure 1: GOAT Interface - Average count of public transport departures_
+
+#### What planning questions can be answered?
+- Which stations in the city serve as main hubs?
+- Which stations have low service rates in comparison to others?
+- How does the public transport quality vary over different times of the week or day?
+  
 #### Calculation
 
-Similar to ÖV Güteklassen (public transport quality classes), this indicator retrieves data from the GOAT database's GTFS files. 
-
-The calculation involves utilizing tables such as __stop_times__, __stop_times_optimized__, __stops__, and __calendar_dates__. However, it excludes on-demand service lines in the process.
-
-The fundamental logic of this indicator is implemented as a SQL function within the PostgreSQL database. This function is called and executed through the Python API. The endpoint is exposed using FASTAPI, and its details can be seen in the Swagger UI shown in Figure 1. The endpoint accepts multiple query parameters, including __start_time__, __end_time__, __weekday__, __study_area_id__, and __return_type__. These parameters are identical to those used in the ÖV Güteklassen endpoint, with the exception of the station configuration.
-
-By default, the endpoint generates a GeoJSON file as the output, containing features for each station. The file includes information about the number of departures (trips) within the specified time window. The response provides the total number of departures, while the average per hour is calculated during the visualization process by dividing the total by the number of hours.
-Additionally, the API endpoint supports the option to return the result in [Geobuf](/en/docs/glossary/#geobuf "Documentation Glossary of geobuf") format. The client decodes the Geobuf response to access the information.
-
-
-<img src="/images/docs/station_count/station_count.webp" alt="station_count" style="max-height:500px;"/>
-
-
-
-_Figure 1: Station Count API - (Swagger)_
-
-
-
-
-#### Visualization 
-
-The indicator is integrated into the indicators section and shares the same controls as ÖV Güteklassen for visibility and transparency settings. When the layer is activated, a time picker component specific to the indicator is displayed on the map. By default, the time picker is set to Monday from 07:00 to 09:00.
-
-For the map style of this layer, pie charts are used as a multivariate map visualization, as shown in Figure 2. Each service type is represented by a different color, based on the configuration of the study area. The size of the pie chart is determined by the total number of departures and is constrained within a range of 5 to 20 pixels.
-
-
-<img src="/images/docs/station_count/station_count_indicator.webp" alt="station_count_indicator" style="max-height:500px;"/>
-
-
-
-_Figure 2: GOAT Interface - Station Count_
+Similar to the ÖV Güteklassen (<i>public transport quality classes</i>), this indicator is calculated on the basis of GTFS data. Based on the selected day and time window, the average number of departures per hour (regardless of direction) is calculated.
 
 
 #### References
-
-
 
 Shkurti, Majk (2022). [Spatio-temporal public transport accessibility analysis and benchmarking in an interactive WebGIS](https://www.researchgate.net/publication/365790691_Spatio-temporal_public_transport_accessibility_analysis_and_benchmarking_in_an_interactive_WebGIS)
