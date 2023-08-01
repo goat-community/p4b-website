@@ -11,7 +11,7 @@ weight: 50
 
 This indicator shows the average number of public transport departures per hour for a selected time interval in pie charts. The size of the pie chart represents the number of departures: the larger the pie chart, the more departures. The colours represent the type of service (e.g. bus, metro).
 
-This indicator serves as the foundation for the [ÖV Güteklassen](/en/docs/oev_gueteklasse/ "Indicator documentation for public transport quality classes"), but can also be utilized on its own as a straightforward measure for public transport offer at a station level. It gives a summary of a station's departures during a specific time window and day, providing a valuable overview of the public transport offer in a city.
+This indicator serves as the foundation for the [ÖV Güteklassen](/en/docs/oev_gueteklasse/ "Indicator documentation for public transport quality classes"), but can also be utilized on its own as a straightforward measure for public transport offer at a station level. It gives a summary of a station's departures during a specific time window and day, providing a valuable overview of the public transport offer in a city. Thus, the indicator is often used in weak point analyses of local transport plans (see, among others, [Guideline for Local Transport Planning in Bavaria](https://www.demografie-leitfaden-bayern.de/fileadmin/user_upload/demografie-leitfaden/dokumente/LEITLINIE98.pdf "Guideline for Local Transport Planning in Bavaria")).
 
 ![Average count of public transport departures](/images/docs/station_count/station_count_indicator_en.webp "Average count of public transport departures")
 
