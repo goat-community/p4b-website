@@ -21,6 +21,7 @@ sections:
       slider_img:
       - logo: "/images/index/freiburg_logo.webp"
       - logo: "/images/index/logo_MOND_darkgrey_RGB.webp"
+      - logo: "/images/index/mrn_logo.webp"
       - logo: "/images/index/mobidata_bw.webp"
       - logo: "/images/index/logo-tum.webp"
       - logo: "/images/index/logo_lhm.webp"
