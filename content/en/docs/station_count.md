@@ -1,5 +1,5 @@
 ---
-title: Station Count Indicator
+title: Average count of public transport departures 
 permalink: "/docs/station_count/"
 sections:
 - technical
@@ -9,11 +9,11 @@ weight: 50
 
 #### Definition
 
-This indicator represents the average number of departures for public transportation per hour. It serves as the foundation for the ÖV Güteklassen, but can also be utilized on its own as a straightforward measure for public transport information at a station level. It offers a summary of a station's performance during a specific time window and day, providing valuable information for planning authorities.
+This indicator represents the average number of departures for public transportation per hour. It serves as the foundation for the [ÖV Güteklassen](/en/docs/oev_gueteklasse/ "Indicator documentation for public transport quality classes"), but can also be utilized on its own as a straightforward measure for public transport information at a station level. It offers a summary of a station's performance during a specific time window and day, providing valuable information for planning authorities.
 
 #### Calculation
 
-Similar to [ÖV Güteklassen](/en/docs/oev_gueteklasse/ "Indicator documentation for public transport") , this indicator retrieves data from the GOAT database's GTFS files. 
+Similar to ÖV Güteklassen (public transport quality classes), this indicator retrieves data from the GOAT database's GTFS files. 
 
 The calculation involves utilizing tables such as __stop_times__, __stop_times_optimized__, __stops__, and __calendar_dates__. However, it excludes on-demand service lines in the process.
 
