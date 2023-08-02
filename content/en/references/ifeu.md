@@ -5,6 +5,7 @@ lang: en
 categories:
 - Consulting$
 - GOAT$
+- Report$
 thumbnail: "/images/references/ifeu/thumbnail.webp"
 image: "/images/references/ifeu/banner.webp"
 summary: Conducting accessibility analyses with GOAT for cycling and public transport for the 520 municipalities in the Frankfurt-Rhine-Main metropolitan region. 

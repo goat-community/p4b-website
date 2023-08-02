@@ -5,6 +5,7 @@ lang: de
 categories:
 - Consulting$
 - GOAT$
+- Report$
 thumbnail: "/images/references/ifeu/thumbnail.webp"
 image: "/images/references/ifeu/banner.webp"
 summary: Durchführung von Erreichbarkeitsanalysen mit GOAT für den Fahrradverkehr und den ÖPNV für die 520 Gemeinden der Metropolregion Frankfurt-Rhein-Main. 
