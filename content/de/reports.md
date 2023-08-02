@@ -30,7 +30,7 @@ heading = "Beispielreport"
 icon = ""
 page = ""
 text = "Hier können Sie unseren Beispielreport herunterladen."
-download_url = "/download/images.zip"
+download_url = "/download/report/Plan4Better_Beispielreport_Quartiersentwicklung_Neufreimann.pdf"
 
 [[blocks]]
 background = "muted"
