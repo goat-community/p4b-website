@@ -2,7 +2,7 @@
 layout = "blocks"
 title = "Reports"
 description = "Hier finden Sie unser Media-Kit, Unternehmensinformationen sowie Pressemitteilungen über uns."
-ogimage = "/images/report/pexels-lukas-590016.jpg"
+ogimage = "/images/report/pexels-photomix-company-95916.jpg"
 translationKey = "reports"
 [header]
 background = "default"
