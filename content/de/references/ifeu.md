@@ -13,8 +13,8 @@ information:
   - 2023
   - Elias Pajares
 planning_cases:
-- Welcher Anteile der Bevölkerung pro Gemeinde kann innerhalb von 5, 10, 15, 20 und >20 Minuten eine POI-Kategorie mit dem Fahrrad erreichen?
-- Welcher Anteile der Bevölkerung pro Gemeinde kann innerhalb von 5, 10, 15, 20 und >20 Minuten eine POI-Kategorie mit dem ÖPNV erreichen?
+- Welcher Anteile der Bevölkerung pro Gemeinde kann innerhalb von 5, 10, 15, 20, 25 und >25 Minuten eine POI-Kategorie mit dem Fahrrad erreichen?
+- Welcher Anteile der Bevölkerung pro Gemeinde kann innerhalb von 5, 10, 15, 20, 25 und >25 Minuten eine POI-Kategorie mit dem ÖPNV erreichen?
 
 overview: Das ifeu führt derzeit das Forschungsvorhaben „MOBITAT 2050 Wohnen und Arbeiten 2050 – Eine nachhaltige Mobilität für Pendler der Zukunft“ durch. Das Projekt wird gemeinsam mit dem DLR, der RWTH Aachen, der ConPolicy GmbH und der ivm GmbH bearbeitet und durch das „MobilitätsZukunftsLabor2050“ des BMBF-Rahmenprogramms „Forschung für Nachhaltige Entwicklung" (FONA) gefördert. 
 

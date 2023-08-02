@@ -13,8 +13,8 @@ information:
   - 2023
   - Elias Pajares
 planning_cases:
-- Which share of the population per municipality can reach a certain POI category by bicycle within 5, 10, 15, 20 and >20 minutes?
-- Which share of the population per municipality can reach a certain POI category by public transport within 5, 10, 15, 20 and >20 minutes?
+- Which share of the population per municipality can reach a certain POI category by bicycle within 5, 10, 15, 20, 25 and >25 minutes?
+- Which share of the population per municipality can reach a certain POI category by public transport within 5, 10, 15, 20, 25 and >25 minutes?
 
 overview: ifeu is currently conducting the research project "MOBITAT 2050 Living and Working 2050 - Sustainable Mobility for Commuters of the Future". The project is being worked on jointly with DLR, RWTH Aachen University, ConPolicy GmbH and ivm GmbH and is funded by the "MobilityFutureLab2050" of the BMBF framework programme "Research for Sustainable Development" (FONA).
 
