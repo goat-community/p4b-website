@@ -7,7 +7,7 @@ categories:
 - GOAT$
 thumbnail: "/images/references/ifeu/thumbnail.webp"
 image: "/images/references/ifeu/banner.webp"
-summary: Conducting accessibility analyses for cycling and public transport for the 520 municipalities in the Frankfurt-Rhine-Main metropolitan region. 
+summary: Conducting accessibility analyses with GOAT for cycling and public transport for the 520 municipalities in the Frankfurt-Rhine-Main metropolitan region. 
 information:
   - ifeu - Institut für Energie- und Umweltforschung Heidelberg gGmbH
   - 2023
@@ -30,7 +30,7 @@ date: 2023-07-01
 
 The aim of the project is to develop a sustainable concept for regions of the future by taking an integrated view of housing, work and transport. The focus of ifeu's work is the development and testing of a methodology for sustainability assessment. Ecological, social and economic aspects of commuting mobility and the resulting choice of living and working locations are included in order to provide a methodology that can also be transferred to other regions in the sense of a holistic concept of sustainability. The sustainability assessment should be applicable both to the status quo of commuting mobility in the region and to scenarios with various measures. This is being developed using the example of the Frankfurt-Rhine-Main metropolitan region. An important building block for the sustainability assessment in the target image "Just Society" is the accessibility of destinations for daily needs. 
 
-In order to support ifeu in the sustainability assessment, accessibility analyses for bicycle traffic as well as public transport were carried out for the 520 municipalities in the Frankfurt-Rhine-Main Metropolitan Region.
+In order to support ifeu in the sustainability assessment, accessibility analyses for bicycle traffic as well as public transport were carried out with GOAT for the 520 municipalities in the Frankfurt-Rhine-Main Metropolitan Region.
 
 **Further information on the "MOBITAT" project:**
 - [https://www.ifeu.de/projekt/mobitat/](https://www.ifeu.de/projekt/mobitat/ "MOBITAT Projektbeschreibung ifeu")

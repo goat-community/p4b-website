@@ -7,7 +7,7 @@ categories:
 - GOAT$
 thumbnail: "/images/references/ifeu/thumbnail.webp"
 image: "/images/references/ifeu/banner.webp"
-summary: Durchführung von Erreichbarkeitsanalysen für den Fahrradverkehr und den ÖPNV für die 520 Gemeinden der Metropolregion Frankfurt-Rhein-Main. 
+summary: Durchführung von Erreichbarkeitsanalysen mit GOAT für den Fahrradverkehr und den ÖPNV für die 520 Gemeinden der Metropolregion Frankfurt-Rhein-Main. 
 information:
   - ifeu - Institut für Energie- und Umweltforschung Heidelberg gGmbH
   - 2023
@@ -30,7 +30,7 @@ date: 2023-07-01
 
 Ziel des Projektes ist es, durch die integrierte Betrachtung von Wohnen, Arbeiten und Verkehr ein tragfähiges Konzept für Regionen der Zukunft zu entwickeln. Arbeitsschwerpunkt des ifeu ist die Entwicklung und Erprobung einer Methodik zur Nachhaltigkeitsbewertung. Dabei werden ökologische, soziale und ökonomische Aspekte der Pendelmobilität sowie der darauf wirkenden Wohn- und Arbeitsstandortwahl einbezogen, um so, im Sinne eines ganzheitlichen Nachhaltigkeitsbegriffes, eine auch auf andere Regionen übertragbare Methodik zur Verfügung zu stellen. Die Nachhaltigkeitsbewertung soll sowohl für den Status-Quo der Pendelmobilität in der Region als auch für Szenarien mit verschiedenen Maßnahmen anwendbar sein. Das wird am Beispiel der Metropolregion Frankfurt-Rhein-Main entwickelt. Ein wichtiger Baustein für die Nachhaltigkeitsbewertung im Zielbild „Gerechte Gesellschaft“ ist die Erreichbarkeit von Zielen des täglichen Bedarfs. 
 
-Um das ifeu in der Nachhaltigkeitsbewertung zu unterstützen, wurden Erreichbarkeitsanalysen für den Fahrradverkehr sowie den ÖPNV für die 520 Gemeinden der Metropolregion Frankfurt-Rhein-Main durchgeführt. 
+Um das ifeu in der Nachhaltigkeitsbewertung zu unterstützen, wurden mit GOAT Erreichbarkeitsanalysen für den Fahrradverkehr sowie den ÖPNV für die 520 Gemeinden der Metropolregion Frankfurt-Rhein-Main durchgeführt. 
 
 **Weitere Infos zum Projekt „MOBITAT“:**
 - [https://www.ifeu.de/projekt/mobitat/](https://www.ifeu.de/projekt/mobitat/ "MOBITAT Projektbeschreibung ifeu")
