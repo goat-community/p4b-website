@@ -17,7 +17,7 @@ block = "links"
 heading = "What is a report?"
 padding_top = "remove"
 template = "links-block"
-text = "In our reports we answer specific planning questions for you. The results are presented in the form of a short report with maps, tables, diagrams and accompanying texts. Common planning questions we answer in a report include: What effects does a new cycle bridge have on accessibility? How well are the residents of a new residential neighbourhood served with daily needs? What effects does a new public transport connection have? Which location has the greatest potential for the placement of a new facility?"
+text = "In our reports we use GOAT to answer specific planning questions for you. The results are presented in the form of a short report with maps, tables, diagrams and accompanying texts. Common planning questions we answer in a report include: What effects does a new cycle bridge have on accessibility? How well are the residents of a new residential neighbourhood served with daily needs? What effects does a new public transport connection have? Which location has the greatest potential for the placement of a new facility?"
 [[blocks]]
 background = "default"
 block = "links"
