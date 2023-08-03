@@ -5,6 +5,7 @@ lang: de
 categories:
 - Consulting$
 - GOAT$
+- Report$
 thumbnail: "/images/references/Austria/AustrtiaThumbnail.webp"
 image: "/images/references/Austria/AustrtiaBanner.webp"
 summary: In Kooperation mit der TU Wien wurden die ÖV-Güteklassen für das gesamte Land Österreich berechnet.

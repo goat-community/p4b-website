@@ -5,6 +5,7 @@ lang: en
 categories:
 - Consulting$
 - GOAT$
+- Report$
 thumbnail: "/images/references/Austria/AustrtiaThumbnail.webp"
 image: "/images/references/Austria/AustrtiaBanner.webp"
 summary: In cooperation with the Technical University of Vienna, the public transport quality classes were calculated for the entire country of Austria.
