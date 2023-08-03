@@ -17,7 +17,7 @@ block = "links"
 heading = "Was ist ein Report?"
 padding_top = "remove"
 template = "links-block"
-text = "In unseren Reports beantworten wir spezifische Planungsfragen für Sie. Die Ergebnisse werden in Form eines Kurzbereichts mit Karten, Tabellen, Diagrammen und Begleittexten aufbereitet. Übliche Planungsfragen, die wir in einem Report beantworten sind u.a.: Welche Effekte hat eine neue Radverkehrsbrücke auf die Erreichbarkeit? Wie gut sind die Bewohner:innen eines neuen Wohnquartiers mit den Zielen des täglichen Bedarfs versorgt? Welche Effekte bringt eine neue ÖPNV-Verbindung? Welcher Standort hat das größte Potenzial zur Platzierung einer neuen Einrichtung?"
+text = "In unseren Reports beantworten wir spezifische Planungsfragen für Sie. Die Ergebnisse werden in Form eines Kurzberichts mit Karten, Tabellen, Diagrammen und Begleittexten aufbereitet. Übliche Planungsfragen, die wir in einem Report beantworten sind u.a.: Welche Effekte hat eine neue Radverkehrsbrücke auf die Erreichbarkeit? Wie gut sind die Bewohner:innen eines neuen Wohnquartiers mit den Zielen des täglichen Bedarfs versorgt? Welche Effekte bringt eine neue ÖPNV-Verbindung? Welcher Standort hat das größte Potenzial zur Platzierung einer neuen Einrichtung?"
 [[blocks]]
 background = "default"
 block = "links"
