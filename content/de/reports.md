@@ -1,7 +1,7 @@
 +++
 layout = "blocks"
 title = "Reports"
-description = "Hier finden Sie unser Media-Kit, Unternehmensinformationen sowie Pressemitteilungen über uns."
+description = "Sie haben Interesse an den GOAT-Analysen, wollen diese jedoch nicht selbst durchführen? Dann könnten unsere Reports das Richtige für Sie sein. "
 ogimage = "/images/report/pexels-photomix-company-95916.jpg"
 translationKey = "reports"
 [header]

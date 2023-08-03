@@ -13,7 +13,7 @@ url = "/"
 weight = 1
 [languages.de.menu.center.params]
 heading = "Geo Open Accessibility Tool - GOAT"
-text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeitsanalysen für den Fuß-, Radverkehr und ÖPNV, sowie die Stadt- und Quartiersplanung. Detaillierte Infos finden Sie auf den folgenden Seiten."
+text = "GOAT ist ein interaktives Webtool für die Erstellung von Erreichbarkeitsanalysen für den Fuß-, Radverkehr, ÖPNV und MIV, sowie die Stadt- und Quartiersplanung. Detaillierte Infos finden Sie auf den folgenden Seiten."
 [[languages.de.menu.center]]
 name = "GOAT für Städte und Regionen"
 parent = "GOAT"
@@ -24,6 +24,11 @@ name = "GOAT für Planungsbüros"
 parent = "GOAT"
 url = "/goat-consulting/"
 weight = 3
+[[languages.de.menu.center]]
+name = "Reports"
+parent = "GOAT"
+url = "/reports/"
+weight = 4
 [[languages.de.menu.center]]
 name = "Einsatzmöglichkeiten"
 parent = "GOAT"
@@ -89,6 +94,11 @@ parent = "Über uns"
 url = "/mission/"
 weight = 5
 [[languages.de.menu.center]]
+name = "Blog"
+parent = "Über uns"
+url = "/blog/"
+weight = 6
+[[languages.de.menu.center]]
 name = "Newsletter"
 parent = "Über uns"
 url = "/newsletter/"
@@ -98,10 +108,6 @@ name = "Presse"
 parent = "Über uns"
 url = "/presse/"
 weight = 7
-[[languages.de.menu.center]]
-name = "Blog"
-url = "/blog/"
-weight = 6
 [[languages.de.menu.center]]
 name = "Kontakt"
 url = "/kontakt/"
@@ -169,7 +175,7 @@ url = "/"
 weight = 1
 [languages.en.menu.center.params]
 heading = "Geo Open Accessibility Tool - GOAT"
-text = "GOAT is an interactive webtool for accessibility analysis on walking and cycling. Find out more by visiting the subpages."
+text = "GOAT is an interactive webtool for accessibility analysis on walking, cycling, public transport and cars, as well as urban and neighbourhood planning. Find out more by visiting the subpages."
 [[languages.en.menu.center]]
 name = "GOAT for cities and regions"
 parent = "GOAT"
@@ -180,6 +186,11 @@ name = "GOAT for planning offices"
 parent = "GOAT"
 url = "/en/goat-consulting/"
 weight = 3
+[[languages.en.menu.center]]
+name = "Reports"
+parent = "GOAT"
+url = "/en/reports/"
+weight = 4
 [[languages.en.menu.center]]
 name = "Use Cases"
 parent = "GOAT"
@@ -272,6 +283,11 @@ parent = "About us"
 url = "/mission/"
 weight = 5
 [[languages.en.menu.center]]
+name = "Blog"
+parent = "About us"
+url = "/blog/"
+weight = 6
+[[languages.en.menu.center]]
 name = "Newsletter"
 parent = "About us"
 url = "/newsletter/"
@@ -281,10 +297,6 @@ name = "Press"
 parent = "About us"
 url = "/press/"
 weight = 7
-[[languages.en.menu.center]]
-name = "Blog"
-url = "/blog/"
-weight = 6
 [[languages.en.menu.center]]
 name = "Contact"
 url = "/en/contact/"
