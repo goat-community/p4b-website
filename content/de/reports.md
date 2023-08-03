@@ -2,11 +2,11 @@
 layout = "blocks"
 title = "Reports"
 description = "Sie haben Interesse an den GOAT-Analysen, wollen diese jedoch nicht selbst durchführen? Dann könnten unsere Reports das Richtige für Sie sein. "
-ogimage = "/images/report/pexels-photomix-company-95916.jpg"
+ogimage = "/images/report/original_files/banner.jpg"
 translationKey = "reports"
 [header]
 background = "default"
-background_image = "/images/report/pexels-photomix-company-95916.jpg"
+background_image = "/images/report/banner.webp"
 heading = "Reports"
 image = ""
 layout = "center"
