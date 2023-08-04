@@ -5,6 +5,7 @@ lang: de
 categories:
 - Consulting$
 - GOAT$
+- Report$
 thumbnail: "/images/references/Bayern/thumbnail.webp"
 image: "/images/references/Bayern/banner.webp"
 summary: Zur Bewertung der ÖPNV-Angebotsqualität wurden die ÖV-Güteklassen für ein deutsches Bundesland berechnet. 

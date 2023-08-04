@@ -5,6 +5,7 @@ lang: de
 categories:
 - Consulting$
 - GOAT$
+- Report$
 thumbnail: "/images/references/Bayern/thumbnail.webp"
 image: "/images/references/Bayern/banner.webp"
 summary: In order to assess the quality of public transport services, public transport quality classes were calculated for a German federal state.
