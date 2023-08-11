@@ -32,22 +32,6 @@ Default walking speed: 5km/h
 <!-- 
 #### 2. Cycling
 
-#### 2.1 Standard
-
-Default routing profile for cycling, considering all paths accessible by bicycle.
-
-Default cycling speed: 15km/h Depending on the surface, smoothness and slope of the different street segments, the cycling speed is adjusted accordingly.
-
-<img src="\images\docs\technical_documentation\isochrone\standard_en.webp" alt="standard isochrone" style="max-height:88px;"/>
-
-#### 2.2 Pedelec
-
-Same as the standard routing profile, but with an increased cycling speed of 23 km/h.
-For Pedelecs, slopes are considered with a lower impedance than for Standard bicycles.
-
-<img src="\images\docs\technical_documentation\isochrone\pedelec_en.webp" alt="pedelec isochrone" style="max-height:80px;"/>
- -->
-
 #### What planning questions can be answered? 
 
   - How well is the study area's transportation infrastructure connected? 
@@ -82,7 +66,7 @@ The resulting connectivity values are classified into six levels, from highest t
 
 #### Visualization 
 
-In GOAT, the connectivity heatmap is visualized using a hexagonal grid with an edge length of approximately 174 m per cell.
+In GOAT, the connectivity heatmap is visualized using a hexagonal grid with an edge length of approximately 174 m per cell. Accordingly the resolution for the visualization is lower than the resolution used for the calculation. The higher resolution for the calculation is necessary to ensure a precise calculation of the connectivity. While the lower resolution for the visualization is chosen to ensure a smooth visualization of the connectivity heatmap. The data on the higher resolution is aggregated to the lower resolution by computing the average connectivity.
 
 The classified hexagons are colored from **high** ( <span style="color:green">green </span>) to **low** ( <span style="color:red">red </span>) connectivity, giving the user a clear overview of the network quality throughout the study area. 
 
