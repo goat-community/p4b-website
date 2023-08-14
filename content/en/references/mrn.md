@@ -33,5 +33,7 @@ review_image: "/images/index/mrn_logo.webp"
 date: 2023-07-21
 ---
 
+**Blog post about this project:**
+- [GOAT as a cross-stakeholder planning platform in the MRN](../../posts/2023-08-07-mrn "Blogpost GOAT as a cross-stakeholder planning platform in the MRN")
 
 
