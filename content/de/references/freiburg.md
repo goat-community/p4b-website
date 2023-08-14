@@ -12,6 +12,7 @@ information:
   - 2022 - heute
   - Ulrike Jehle
 planning_cases:
+  - Überprüfung des Einzelhandelskonzepts
   - Standortbestimmung neuer Bikesharing Stationen
   - Planung eines neuen Wohngebiets
   - Bewertung neuer Fuß- und Radverkehrsbrücken

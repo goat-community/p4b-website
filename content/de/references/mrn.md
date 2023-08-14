@@ -6,7 +6,7 @@ categories:
 - GOAT$
 thumbnail: "/images/references/mrn/mrn_thumbnail.webp"
 image: "/images/references/mrn/mrn_banner.webp"
-summary: GOAT wird im Rahmen des Smart Region Projektes in der Metropolregion Rhein-Neckar als akteurübergreifende Planungsplattform eingesetzt.  
+summary: GOAT wird im Rahmen des Smart Region Projektes in der Metropolregion Rhein-Neckar als akteursübergreifende Planungsplattform eingesetzt.  
 information:
   - Metropolregion Rhein-Neckar GmbH
   - 2023 - 2025
@@ -27,9 +27,9 @@ slider_items:
   - image: "/images/references/mrn/GOAT_MRN_Isochronen.webp"
     title: "Erreichbarkeit mit dem ÖPNV vs. Erreichbarkeit mit dem Fahrrad"
 
-
+review_text: "„Mit der Implementierung von GOAT im Rahmen des Smart Region Projektes Rhein Neckar streben wir eine transformative Veränderung in unserer Verkehrsinfrastruktur an. Das Tool ermöglicht eine stärkere Vernetzung und Zusammenarbeit zwischen verschiedenen Interessenvertretern in unserer Region und trägt so zu einem integrierten und nachhaltigen Verkehrssystem bei.”"
+review_person: "Marius Jörres, Projektleiter für Smart Mobility, Metropolregion Rhein-Neckar GmbH"
+review_image: "/images/index/mrn_logo.webp"
 date: 2023-07-21
 ---
-
-
 

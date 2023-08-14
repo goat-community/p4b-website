@@ -12,6 +12,7 @@ information:
   - 2022 - today
   - Ulrike Jehle
 planning_cases:
+  - Verification of the retail trade concept
   - Determining the location of new bikesharing stations
   - Planning of a new residential area
   - Evaluation of new pedestrian and cycle bridges

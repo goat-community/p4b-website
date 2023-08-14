@@ -27,6 +27,9 @@ slider_items:
   - image: "/images/references/mrn/GOAT_MRN_Isochronen.webp"
     title: "Accessibility by public transport vs. accessibility by bicycle"
 
+review_text: "„With the implementation of GOAT as part of the Rhine-Neckar Smart Region project, we are aiming for a transformative change in our transport infrastructure. The tool enables stronger connection and collaboration between different stakeholders in our region, contributing to an integrated and sustainable transport system.”"
+review_person: "Marius Jörres, Project Manager for Smart Mobility, Metropolregion Rhein-Neckar GmbH"
+review_image: "/images/index/mrn_logo.webp"
 date: 2023-07-21
 ---
 

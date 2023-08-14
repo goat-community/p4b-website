@@ -8,86 +8,48 @@ weight: 60
 
 #### Definition
 
-Different indicators, such as a connectivity heatmap, serve as transport infrastructure planning benchmarks for network connectivity. This integrated feature in GOAT allows us to measure street network connectivity. 
+Various indicators can serve as benchmarks for network connectivity of transport infrastructure. In GOAT, a heatmap showing the connectivity of the path network is integrated. It can currently be calculated for the walking mode and visualises the connectivity of footpaths on a hexagonal grid. This allows users to identify areas of high and low connectivity in the study area. This is particularly important for the promotion of active modes (walking and cycling), as these modes are sensitive to detours.
 
-Currently it can be computed for the modes walking and visualizes the area size of different isochrone intervals on the level of a hexagonal grid. By that, users can identify high and low-connected areas in the study area. Weak points in street connectivity can be easily identified and the degree of network connectivity for the whole study area be assessed.  
+The connectivity heatmap is based on the [isochrone](/en/docs/isochrone/ "What is an isochrone?") calculation. From the centroid of each hexagon, the walking catchment area is computed. Based on the size of the catchment area, the hexagons are categorized in <i>very low</i> (<span style="color:red">red</span>) to <i>very high connectivity</i> (<span style="color:green">green</span>).
 
-The connectivity heatmap is based on isochrone calculation, a method for computing travel time between different locations. Since this indicator is highly dependent on the isochrone feature, we strongly recommend reading the isochrone documentation first. Further information on the isochrone calculation can be examined [here.](/en/docs/isochrone/ "Indicator documentation on our isochrone") 
+![Connectivity Heatmap](/images/docs/technical_documentation/connectivity/first_impression_connectivity_en.webp "Connectivity Heatmap")
 
+_Figure 1: Sample results of the Connectivity Heatmap in GOAT_
 
-#### Routing Modes
+Typical areas with low connectivity are along railway lines and large main roads. High connectivity values are often found in residential areas with dense path networks.
 
-Depending on the chosen travel mode GOAT uses different parts of the street network. To keep the platform flexible the street network categories can be adjusted to the local study context when setting up the tool.
+#### Which planning questions can be answered? 
 
-<!-- Depending on the availability of data in the study area and the planning purpose different routing profiles are available. These are walking, cycling, pedelec and public transport. -->
-
-
-#### Walking
-
-Default routing profile for walking, considering all paths accessible by foot.
-
-Default walking speed: 5km/h
-
-<img src="\images\docs\technical_documentation\isochrone\walking_en.webp" alt="walking isochrone" style="max-height:85px;"/>
-<!-- 
-#### 2. Cycling
-
-#### 2.1 Standard
-
-Default routing profile for cycling, considering all paths accessible by bicycle.
-
-Default cycling speed: 15km/h Depending on the surface, smoothness and slope of the different street segments, the cycling speed is adjusted accordingly.
-
-<img src="\images\docs\technical_documentation\isochrone\standard_en.webp" alt="standard isochrone" style="max-height:88px;"/>
-
-#### 2.2 Pedelec
-
-Same as the standard routing profile, but with an increased cycling speed of 23 km/h.
-For Pedelecs, slopes are considered with a lower impedance than for Standard bicycles.
-
-<img src="\images\docs\technical_documentation\isochrone\pedelec_en.webp" alt="pedelec isochrone" style="max-height:80px;"/>
- -->
-
-#### What planning questions can be answered? 
-
-  - How well is the study area's transportation infrastructure connected? 
-  - Where are the network gaps? 
-  - Where are the areas to be improved?
-  - Where are the barriers for pedestrians in the context of street network connectivity? 
-  - How does a new pedestrian bridge influence connectivity? 
+  - How well is footpath network connected? 
+  - Where are connectivity issues? 
+  - Where are barriers for pedestrians in the context of street network connectivity? 
 
 
 #### Calculation
 
-In GOAT, the connectivity heatmap is calculated using a hexagonal grid with an edge length of approximately 66 m per cell. 
-You can check [here](https://h3geo.org/docs/core-library/restable "H3 Geo Documentation") for more details on hexagonal grids or further details on [H3 Grid.](/en/docs/glossary/#h-3-grid "Documentation Glossary") 
+In GOAT, the connectivity heatmap is calculated using the [H3 hexagonal grid](/en/docs/glossary/#h-3-grid "Glossary entry on H3 grid") with an edge length of approximately 66 m per cell. For each hexagon centroid, the reached area is computed using an isochrone with the maximum walking time of 20 minutes (with 5km/h). This calculation returns the travel time from the centroid to each pixel of the isochrone (as indicated in Figure 2 below). 
 
-For each hexagon centroid, the reachable area is computed using an isochrone with the maximum travel time (in case of walking 20 minutes). This calculation returns the travel time from the centroid to each pixel of the isochrone (as indicated in Figure 1 below), so the connectivity can be computed by summing up the pixels for each travel time (one-minute intervals) and dividing the sum by the maximum travel time (in Figure 2). 
+![Isochrone travel times](/images/docs/technical_documentation/connectivity/isochrone_en.webp "Travel time from the centroid to each pixel grid of the isochrone")
 
-<p align="center">
-<img src="\images\docs\technical_documentation\connectivity\sketch_en.webp" alt="sketch travel time" style="max-height:380px;"/>
-<p align="center">
+_Figure 2: Travel time from the centroid to each pixel grid of the isochrone_
 
-_Figure 1: Travel time from the centroid to each pixel grid of the isochrone_
+The connectivity value is computed by summing up the reached area for each time interval (1 to 20 min) and dividing the sum by the total number of intervals (20):
 
 
 <img src="\images\docs\technical_documentation\connectivity\formula_en.webp" alt="formula" style="max-height:120px;"/>
 
+_Figure 3: Formula to compute the average reached area_
 
-_Figure 2: Formula of the average reached area_
 
-
-The resulting connectivity values are classified into six levels, from highest to lowest  [as quintile classification.](/en/docs/glossary/#quintile-classification "Quintile Classification") This classification helps to identify areas with relatively small or large catchments, allowing to locate gaps in the network and potential areas for improvement. 
+The resulting connectivity values are classified into six levels, from highest to lowest [as quintile classification.](/en/docs/glossary/#quintile-classification "Quintile Classification") This classification helps to identify areas with relatively small or large catchments, allowing to locate gaps in the network and potential areas for improvement. 
 
 
 #### Visualization 
 
-In GOAT, the connectivity heatmap is visualized using a hexagonal grid with an edge length of approximately 174 m per cell.
+In GOAT, the connectivity heatmap is visualized using a hexagonal grid with an edge length of approximately 174 m per cell. Accordingly the resolution for the visualization is lower than the resolution used for the calculation. The higher resolution for the calculation is necessary to ensure a precise calculation of the connectivity. While the lower resolution for the visualization is chosen to ensure a smooth rendering of the connectivity heatmap. The data on the higher resolution is aggregated to the lower resolution by computing the average connectivity.
 
-The classified hexagons are colored from **high** ( <span style="color:green">green </span>) to **low** ( <span style="color:red">red </span>) connectivity, giving the user a clear overview of the network quality throughout the study area. 
+The classified hexagons are colored from **high** (<span style="color:green">green</span>) to **low** (<span style="color:red">red </span>) connectivity, giving the user a clear overview of the network quality throughout the study area. 
 
+![Connectivity heatmap in GOAT](/images/docs/technical_documentation/connectivity/connectivity_new_en.webp "Connectivity heatmap in GOAT")
 
-<img src="\images\docs\technical_documentation\connectivity\connectivity_new_en.webp" alt="connectivity heatmap" style="max-height:450px;"/>
-
-
-_Figure 3: Connectivity Heatmap in GOAT_
+_Figure 4: Connectivity Heatmap in GOAT_
