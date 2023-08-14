@@ -33,7 +33,3 @@ review_image: "/images/index/mrn_logo.webp"
 date: 2023-07-21
 ---
 
-**Blogpost zu diesem Projekt:**
-- [GOAT als akteursübergreifende Planungsplattform in der MRN](../../posts/2023-08-07-mrn "Blogpost GOAT als akteursübergreifende Planungsplattform in der MRN")
-
-
