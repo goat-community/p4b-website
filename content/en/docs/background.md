@@ -26,13 +26,13 @@ Despite the ongoing development of the mentioned tools, they are rarely designed
 
 The accessibility concept can be seen as a potential remedy for this issue. Unlike transport models accessibility models can be used for all transport modes, scales and in addition can consider the interactions between transport and land-use. The accessibility concept in general is characterized by its high flexibility and extensive scope. Therefore unsurprisingly various definitions are existing in the scientific literature:
 
-\-_'the potential of opportunities for interaction' (G. Hansen 1959)_
+* _'the potential of opportunities for interaction' (G. Hansen 1959)_
 
-\-_‘the extent to which the land use-transport system enables (groups of) individuals or goods to reach activities or destinations by means of a (combination of) transport mode(s)’ (Geurs and Van Eck 2001)_
+* _‘the extent to which the land use-transport system enables (groups of) individuals or goods to reach activities or destinations by means of a (combination of) transport mode(s)’ (Geurs and Van Eck 2001)_
 
-\-_‘the number and diversity of places that can be reached within a given travel time and/or cost’ (Bertolini, LeClercq and Kapoen 2005)_
+* _‘the number and diversity of places that can be reached within a given travel time and/or cost’ (Bertolini, LeClercq and Kapoen 2005)_
 
-\-_‘an expression of the potential number of relevant activities that are located within
+* _‘an expression of the potential number of relevant activities that are located within
 acceptable reach of a given place or people in acceptable reach of an activity’ (te
 Brömmelstroet, Marco et al. 2016)_
 
