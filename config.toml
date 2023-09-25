@@ -50,6 +50,11 @@ parent = "GOAT"
 url = "/docs/background/"
 weight = 8
 [[languages.de.menu.center]]
+name = "FAQs"
+parent = "GOAT"
+url = "/docs/faq/"
+weight = 9
+[[languages.de.menu.center]]
 name = "Competences"
 weight = 2
 [languages.de.menu.center.params]
@@ -211,6 +216,11 @@ name = "Docs"
 parent = "GOAT"
 url = "/docs/background/"
 weight = 8
+[[languages.en.menu.center]]
+name = "FAQ"
+parent = "GOAT"
+url = "/docs/faq/"
+weight = 9
 [[languages.en.menu.center]]
 name = "Competences"
 weight = 2
