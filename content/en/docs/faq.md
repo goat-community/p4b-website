@@ -32,13 +32,13 @@ Yes, additional datasets and data sources can be flexibly integrated as needed. 
 Data security is our top priority, which is why all data is stored on a secure server in Germany in compliance with GDPR regulations.
 
 
-You can find further information about the data [here](https://plan4better.de/en/docs/data/ "further information on the data").
+You can find further information about the data [here](/en/docs/data/ "further information on the data").
 
 ### 2. Application & Functionalities
 
 #### For what purposes do municipalities or planning offices apply GOAT?
 
-GOAT is used, among other things, for the creation of local mobility concepts, public transport planning, cycling infrastructure planning, urban development concepts and retail concepts, or to secure basic services. The software is typically obtained through a SaaS subscription. However, we also offer reports to address specific planning questions. You can find a specific use case in our [sample report](https://plan4better.de/en/reports/ "sample report").
+GOAT is used, among other things, for the creation of local mobility concepts, public transport planning, cycling infrastructure planning, urban development concepts and retail concepts, or to secure basic services. The software is typically obtained through a SaaS subscription. However, we also offer reports to address specific planning questions. You can find specific use cases in our [sample report](/en/reports/ "sample report") and in the [references](/references/ "visit references").
 
 #### Is GOAT a transport model?
 
@@ -49,7 +49,7 @@ In contrast to transport models that depict traffic flows, our accessibility ana
 
 #### Which infrastructural properties are taken into account during routing?
 
-The routing algorithm is a basic function of GOAT that is used to calculate travel times for the isochrones and heatmaps, among others.
+The routing algorithm is a basic function of GOAT that is used to calculate travel times for the [isochrones](/en/docs/isochrone/ "documentation on isochrones") and [heatmaps](/en/docs/heatmap/ "dokumentation on heatmaps"), among others.
 
 **Cycling:** We take into account the effects of gradients and surface conditions of the path on the travel speed. We also assume an average delay at intersections.
 
@@ -85,7 +85,7 @@ If you have specific local data sets that you would like to use in GOAT, it is p
 Yes, the analysis results can be shared as a web map with external parties, such as the public. Additionally, the results can be exported. 
 In live applications during citizen workshops, GOAT also has significant potential to model proposed measures and dynamically showcase their effects.
 
-As a supplement, we offer the application [Map4Citizens](https://plan4better.de/en/posts/2022-12-31-map4citizens/ "What is Map4Citizens?"), which presents the data and analyses of GOAT in a simplified way in a web tool specially designed for citizens. Map4Citizens revolves around the concept of the 15-minute city. Citizens can, among other things, design their ideal 15-minute city and analyze how well different urban areas meet their needs. Additionally, they can explore sustainable mobility options and facilities in the neighborhood.
+As a supplement, we offer the application [Map4Citizens](/en/posts/2022-12-31-map4citizens/ "What is Map4Citizens?"), which presents the data and analyses of GOAT in a simplified way in a web tool specially designed for citizens. Map4Citizens revolves around the concept of the 15-minute city. Citizens can, among other things, design their ideal 15-minute city and analyze how well different urban areas meet their needs. Additionally, they can explore sustainable mobility options and facilities in the neighborhood.
 
 
 #### How long does the setup take?
@@ -94,9 +94,9 @@ Depending on the desired area and functionalities, GOAT can be made available im
 
 #### Is there a demo version?
 
-Yes, you can register for a [30-day demo version](https://goat.plan4better.de/register "register here"). With the trial version, you can conduct analyses for the Munich study area. We also offer the creation of planning-question-specific reports. [Here](https://plan4better.de/en/reports/ "sample report") you can get an insight into our sample report. 
+Yes, you can register for a [30-day demo version](/register "register here"). With the trial version, you can conduct analyses for the Munich study area. We also offer the creation of planning-question-specific reports. [Here](/en/reports/ "sample report") you can get an insight into our sample report. 
 
 
 #### What does a GOAT subscription cost?
 
-The prices depend on the number of inhabitants in the study area, the desired functions and the number of users. Please [contact us](https://plan4better.de/en/contact/ "Contact us") and we will be happy to make you a suitable offer.
+The prices depend on the number of inhabitants in the study area, the desired functions and the number of users. Please [contact us](/en/contact/ "Contact us") and we will be happy to make you a suitable offer.

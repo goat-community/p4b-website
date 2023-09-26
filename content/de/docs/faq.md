@@ -13,11 +13,11 @@ Hier finden Sie Antworten auf die am häufigsten gestellten Fragen zu GOAT.
 ### 1. Daten
 #### Welche Daten sind in GOAT beinhaltet?
 
-GOAT beinhaltet eine Vielzahl an Datensätzen, u.a. Bevölkerung, Gebäude, Verkehrsnetze (Fuß- und Radverkehr, ÖPVN, MIV), Fahrplandaten, Verwaltungsgrenzen, sowie Points-of-Interest zu den Themen Bildung, Gastronomie, Mobilität, Gesundheit, Service-Einrichtungen, Einkaufen und Freizeit. 
+GOAT beinhaltet eine Vielzahl an Datensätzen, u.a. Bevölkerung, Gebäude, Verkehrsnetze (Fuß- und Radverkehr, Öffentlicher Nahverkehr, Auto), Fahrplandaten, Verwaltungsgrenzen, sowie Points-of-Interest zu den Themen Bildung, Gastronomie, Mobilität, Gesundheit, Service-Einrichtungen, Einkaufen und Freizeit. 
 
 #### Woher kommen die Daten?
 
-Eine gute Datengrundlage ist Grundvoraussetzung für jede Analyse. In GOAT sind verschiedene räumliche und nicht-räumliche Datensätze integriert. Die Daten stammen von u.a. von verschiedenen Open Data Portalen, dem Bundesamt für Kartografie und Geodäsie, den Landesvermessungsämtern, OpenStreetMap und dem Zensus. Außerdem werden punktuell eigene Erhebungen durchgeführt und bei Bedarf kommerzielle Daten hinzugekauft. Weitere Datensätze können flexibel integriert werden.
+Eine gute Datengrundlage ist Grundvoraussetzung für valide Analysen. In GOAT sind verschiedene räumliche und nicht-räumliche Datensätze integriert. Die Daten stammen von u.a. von verschiedenen Open Data Portalen, dem Bundesamt für Kartografie und Geodäsie, den Landesvermessungsämtern, OpenStreetMap und dem Zensus. Außerdem werden punktuell eigene Erhebungen durchgeführt und bei Bedarf kommerzielle Daten hinzugekauft. Weitere Datensätze können flexibel integriert werden.
 
 #### Wie oft werden die Daten in GOAT aktualisiert?
 
@@ -32,13 +32,13 @@ Ja, weitere Datensätze und Datenquellen können bei Bedarf flexibel integriert 
 Datensicherheit hat für uns höchste Priorität, deshalb werden alle Daten auf einem gesicherten Server in Deutschland DSGVO-konform gespeichert. 
 
 
-Weitere Informationen zu den Daten finden Sie [hier](https://plan4better.de/docs/data/ "mehr Infos zu Daten").
+Weitere Informationen zu den Daten finden Sie [hier](/docs/data/ "mehr Infos zu Daten").
 
 ### 2. Einsatzgebiete & Funktionen
 
 #### Wofür setzen Kommunen oder Planungsbüros GOAT ein?
 
-GOAT wird u.a. eingesetzt für die Erstellung von Nahmobilitätskonzepten, Nahverkehrsplanungen, Radverkehrskonzepten, Stadtentwicklungskonzepten und Einzelhandelskonzepten, oder zur Sicherung der Daseinsvorsorge. Meist wird die Software dabei als SaaS-Abo bezogen. Wir bieten jedoch auch Reports zur Beantwortung spezifischer Planungsfragen an. Einen konkreten Anwendungsfall finden Sie in unserem [Beispielreport](https://plan4better.de/reports/ "zum Beispielreport").
+GOAT wird u.a. eingesetzt für die Erstellung von Nahmobilitätskonzepten, Nahverkehrsplanungen, Radverkehrskonzepten, Stadtentwicklungskonzepten und Einzelhandelskonzepten, oder zur Sicherung der Daseinsvorsorge. Meist wird die Software dabei als SaaS-Abo bezogen. Wir bieten jedoch auch Reports zur Beantwortung spezifischer Planungsfragen an. Konkrete Anwendungsfälle finden Sie in unserem [Beispielreport](/reports/ "zum Beispielreport") und in den [Referenzen](/references/ "zu den Referenzen").
 
 #### Ist GOAT ein Verkehrsmodell?
 
@@ -48,9 +48,9 @@ Im Gegensatz zu Verkehrsmodellen, welche die Verkehrsströme abbilden, wird bei 
 
 #### Welche infrastrukturellen Eigenschaften werden beim Routing berücksichtigt?
 
-Der Routing-Algorithmus ist eine Grundfunktion von GOAT, die für die Berechnung von Reisezeiten u.a. für die Isochronen und Heatmaps verwendet wird.
+Der Routing-Algorithmus ist eine Grundfunktion von GOAT, die für die Berechnung von Reisezeiten u.a. für die [Isochronen](/docs/isochrone/ "Dokumentation zu Isochronen") und [Heatmaps](/docs/heatmap/ "Dokumentation zu Heatmaps") verwendet wird.
 
-**Radverkehr:** Wir berücksichtigen die Auswirkungen von Steigungen und Oberflächenbeschaffenheit des Weges auf die Fahrgeschwindigkeit. Außerdem nehmen wir an Kreuzungen eine durchschnittliche Verzögerung an.
+**Radverkehr:** Wir berücksichtigen die Auswirkungen von Steigungen und Oberflächenbeschaffenheit der Wege auf die Fahrgeschwindigkeit. Außerdem nehmen wir an Kreuzungen eine durchschnittliche Verzögerung an.
 
 **Fußverkehr:** Aufgrund geringer Datenverfügbarkeit werden hier, außer der Wegeverfügbarkeit, standardmäßig keine infrastrukturellen Eigenschaften berücksichtigt.
 
@@ -80,7 +80,7 @@ Wenn Sie spezifische lokale Datensätze haben, die Sie gerne in GOAT verwenden m
 Ja, die Analyseergebnisse können als Webkarte mit Externen, z.B. der Bürgerschaft geteilt werden. Außerdem können die Ergebnisse exportiert werden. 
 Auch in der live Anwendung in Bürgerworkshops bietet GOAT ein hohes Potenzial, um Maßnahmenvorschläge zu modellieren und die Effekte dynamisch aufzuzeigen.
 
-Als Ergänzung bieten wir die Anwendung [Map4Citizens](https://plan4better.de/posts/2023-01-02-map4citizensde/ "Was ist Map4Citizens?") an, welche die Daten und Analysen von GOAT in einem extra auf Bürger:innen abgestimmten Webtool vereinfacht darstellt. Map4Citizens dreht sich hierbei rund um die 15-Minuten-Stadt. Bürger:innen können u.a. ihre ideale 15-Minuten-Stadt entwerfen und analysieren, wie gut verschiedene Stadtgebiete ihre Bedürfnisse erfüllen. Außerdem können nachhaltige Mobilitätsangebote und Einrichtungen im Quartier erkundet werden.
+Als Ergänzung bieten wir die Anwendung [Map4Citizens](/posts/2023-01-02-map4citizensde/ "Was ist Map4Citizens?") an, welche die Daten und Analysen von GOAT in einem extra auf Bürger:innen abgestimmten Webtool vereinfacht darstellt. Map4Citizens dreht sich hierbei rund um die 15-Minuten-Stadt. Bürger:innen können u.a. ihre ideale 15-Minuten-Stadt entwerfen und analysieren, wie gut verschiedene Stadtgebiete ihre Bedürfnisse erfüllen. Außerdem können nachhaltige Mobilitätsangebote und Einrichtungen im Quartier erkundet werden.
 
 #### Wie lange dauert die Bereitstellung?
 
@@ -88,9 +88,9 @@ Je nach gewünschtem Gebiet und Funktionalitäten, kann GOAT nach Vertragsabschl
 
 #### Gibt es eine Demo Version?
 
-Ja, Sie können sich für eine [30-tägige Demoversion](https://goat.plan4better.de/register "zur Demo anmelden") anmelden. Mit der Demoversion können Analysen für das Untersuchungsgebiet München durchgeführt werden.
-Wir bieten auch die Erstellung von planungsfragen-spezifischen Reports an. [Hier](https://plan4better.de/reports/ "zum Beispielreport") erhalten Sie einen Einblick in unseren Beispielbericht. 
+Ja, Sie können sich für eine [30-tägige Demoversion](/register "zur Demo anmelden") anmelden. Mit der Demoversion können Analysen für das Untersuchungsgebiet München durchgeführt werden.
+Wir bieten auch die Erstellung von planungsfragen-spezifischen Reports an. [Hier](/reports/ "zum Beispielreport") erhalten Sie einen Einblick in unseren Beispielbericht. 
 
 #### Was kostet ein GOAT-Abo?
 
-Die Preise richten sich nach Einwohnerzahl des Untersuchungsgebiets, den gewünschten Funktionen und der Anzahl der Nutzer:innen. [Kontaktieren](https://plan4better.de/kontakt/ "Kontakt") Sie uns gerne, dann können wir Ihnen ein passendes Angebot unterbreiten.
+Die Preise richten sich nach Einwohnerzahl des Untersuchungsgebiets, den gewünschten Funktionen und der Anzahl der Nutzer:innen. [Kontaktieren](/kontakt/ "Kontakt") Sie uns gerne, dann können wir Ihnen ein passendes Angebot unterbreiten.
