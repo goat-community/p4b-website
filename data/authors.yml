@@ -90,7 +90,7 @@
     en: GIS Engineer
     de: GIS Ingenieurin
   image: ""
-  team_member: true
+  team_member: false
   team_image: "/images/team/team_koyunoglu.webp"
   github: ''
   website: ''
