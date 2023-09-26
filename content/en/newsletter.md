@@ -24,6 +24,13 @@ text = ""
 load_more_button_text = "Load more"
 
 [[blocks.news]]
+heading = "Reports, Car Analyses and Call for GOAT Version 2.0 Pilot Customers"
+thumbnail = "/images/newsletter/newsletter_03_2023.webp"
+source = ""
+url = "http://25972470.hs-sites-eu1.com/plan4better-newsletter-02/2023-goat-release-1.5"
+date = "Volume 3/2023"
+
+[[blocks.news]]
 heading = "GOAT-Release 1.5, GOAT online in new cities & recommended reading"
 thumbnail = "/images/newsletter/thumbnail-newsletterv22023.webp"
 source = ""
