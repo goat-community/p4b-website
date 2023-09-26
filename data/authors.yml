@@ -187,8 +187,8 @@
 - username: rexha
   name: Ebubeker Rexha
   title:
-    en: Working Student
-    de: Werkstudent
+    en: Front-End Developer
+    de: Front-End Developer
   image: ""
   team_member: true
   team_image: "/images/team/team_rexha.webp"
@@ -203,8 +203,8 @@
 - username: otter
   name: Philipp Otter
   title:
-    en: Working Student
-    de: Werkstudent
+    en: Environmental Engineer
+    de: Umweltingenieur
   bio:
     en: Philipp finds it exciting to create analyses based on simulations or models
       to improve the traffic situation and quality of life in our cities. He supports the programming team.
@@ -222,8 +222,8 @@
 - username: zakariasson
   name: Alva Zakariasson
   title:
-    en: Part-time employed
-    de: Teilzeit beschäftigt
+    en: Urban planner
+    de: Stadtplanerin
   image: ""
   team_member: true
   team_image: "/images/team/team_zakariasson.webp"
