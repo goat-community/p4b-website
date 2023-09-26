@@ -115,6 +115,14 @@ sections:
         heading: 'Tutorials'
         text: 'Explanation of the GOAT functionalities and step-by-step guidelines for using GOAT.'
         icon : "images/index/docs.svg"
+      - url: '/en/docs/faq/'
+        heading: 'FAQs'
+        text: 'Answers to the most frequently asked questions about GOAT.'
+        icon: images/index/question-solid.svg
+      - url: '/en/docs/background/'
+        heading: 'Docs'
+        text: 'Technical documentation on the indicators and the data basis.'
+        icon: images/icon-planning.svg
 
   - order: 7
     service_section:

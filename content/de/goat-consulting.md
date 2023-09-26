@@ -114,6 +114,14 @@ sections:
         heading: 'Tutorials'
         text: 'Schritt-für-Schritt Anleitung zur Beantwortung typischer Planungsfragen mit GOAT.'
         icon: images/index/docs.svg
+      - url: '/docs/faq/'
+        heading: 'FAQs'
+        text: 'Antworten auf die am häufigsten gestellten Fragen zu GOAT.'
+        icon: images/index/question-solid.svg
+      - url: '/docs/background/'
+        heading: 'Docs'
+        text: 'Technische Dokumentation zu den Indikatoren und der Datengrundlage.'
+        icon: images/icon-planning.svg
 
   - order: 7
     service_section:
