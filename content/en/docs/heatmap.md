@@ -58,7 +58,7 @@ In the first example, the accessibility for grocery shops in 15 min is calculate
 
 In the second example, the accessibility of grocery shops in 15 min is performed using different sensitivity parameters (β=300,000 and β=400,000). This means that the sensitivity parameter depends on the different grocery shop types. For this example, we used β=400,000 for hypermarkets and β=300,000 for discounters and supermarkets. This gives the following result:
 
-![Result with different sensitivity parameters](/images/lokale-erreichbarkeit-5-englisch-png.webp "Result with different sensitivity parameters")
+![Result with different sensitivity parameters](/images/lokale-erreichbarkeit-5-englisch.webp "Result with different sensitivity parameters")
 
 By comparing the two results, some differences can be identified.
 
