@@ -1,5 +1,5 @@
 +++
-description = "Plan4Better GmbH Am Kartoffelgarten 14 c/o WERK1 81671 München Deutschland Tel.: +49 89/200070830 E-Mail: info@plan4better.de"
+description = "Plan4Better GmbH Agnes-Pockels-Bogen 1 80992 München Deutschland Tel.: +49 89/200070830 E-Mail: info@plan4better.de"
 layout = "blocks"
 title = "Impressum"
 ogimage = "/images/request-demo/request_demo_ogimage.png"
@@ -27,8 +27,8 @@ text = ""
 Angaben gemäß § 5 TMG:
 
 **Plan4Better GmbH**  
-Am Kartoffelgarten 14 c/o WERK1  
-81671 München  
+Agnes-Pockels-Bogen 1
+80992 München
 Deutschland
 
 Vertretungsberechtigte Geschäftsführer/innen: Elias Pajares, Ulrike Jehle

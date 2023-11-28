@@ -90,6 +90,6 @@ Gerichtsstand ist – soweit zulässig vereinbart – München.
 Sämtliche Erklärungen im Zusammenhang mit der Webseite und den Nutzungsbedingungen sind zu richten an: 
 
 Plan4Better GmbH  
-Am Kartoffelgarten 14 c/o WERK1  
-81671 München  
+Agnes-Pockels-Bogen 1
+80992 München
 Deutschland
