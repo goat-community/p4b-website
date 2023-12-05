@@ -13,6 +13,7 @@ information:
   - Elias Pajares
 planning_cases:
   - Creation of mobility concepts in residential areas
+  - Accessibility analyses for workplace mobility management
 
 overview: Since 2022, the consultancy stattbau münchen GmbH has been using GOAT as a SaaS subscription to develop accessibility analyses for sustainable residential neighbourhoods. The goal is to use analyses for moderate and sustainable mobility concepts to reduce parking space requirements and improve the livability. With the help of these analyses, the accessibility of public services and mobility offers such as public transport, bikesharing and carsharing is analysed in the shortest possible time. Various planning scenarios are also examined, such as the expansion of mobility services.
 
