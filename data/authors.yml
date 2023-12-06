@@ -224,8 +224,8 @@
   title:
     en: Urban planner
     de: Stadtplanerin
-  image: ""
-  team_member: true
+  image: "/images/team/zakariasson.webp"
+  team_member: false
   team_image: "/images/team/team_zakariasson.webp"
   github: ''
   website: ''

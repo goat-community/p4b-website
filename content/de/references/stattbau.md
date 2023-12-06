@@ -13,6 +13,7 @@ information:
   - Elias Pajares
 planning_cases:
   - Erstellung von Mobilitätskonzepten in Wohnquartieren
+  - Erreichbarkeitsanalysen für betriebliches Mobilitätsmanagement
 
 overview: Seit 2022 nutzt stattbau münchen GmbH GOAT als SaaS-Abonnement, um Erreichbarkeitsanalysen für zukunftsfähige Wohnquartiere zu entwickeln. Das Ziel besteht darin, Analysen für maßvolle und nachhaltige Mobilitätskonzepte einzusetzen, um Stellplatzbedarfe zu reduzieren und die Lebensqualität zu verbessern. Mithilfe dieser Analysen wird in kürzester Zeit die Erreichbarkeit von Einrichtungen der Daseinsvorsorge sowie Mobilitätsangeboten wie ÖPNV, Bikesharing und Carsharing analysiert. Dabei werden auch verschiedene Planungsszenarien untersucht, wie beispielsweise die Ausweitung von Mobilitätsangeboten. 
 

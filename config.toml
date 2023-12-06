@@ -366,7 +366,7 @@ startLevel = 2
 home = ["HTML", "RSS", "JSON"]
 page = ["HTML", "RSS"]
 [params]
-address = "Am Kartoffelgarten 14 c/o WERK1 <br>81671 München <br>Germany"
+address = "Agnes-Pockels-Bogen 1 <br>80992 München <br>Germany"
 email = "info@plan4better.de"
 mailchimp_form_action = ""
 mailchimp_hidden_name = ""
