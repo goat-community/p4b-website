@@ -25,6 +25,13 @@ text = ""
 load_more_button_text = "Load more"
 
 [[blocks.news]]
+heading = "2023 Wrap, GOAT Version 2.0 Sneak Peek und neue Stadt auf GOAT freigeschaltet"
+thumbnail = "/images/newsletter/newsleter_04_2023.webp"
+source = ""
+url = "https://25972470.hs-sites-eu1.com/plan4better-newsletter-03/2023?ecid=&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-84zkUX60aic6aY26h20T7wgUcdcLp4JDxOrwEhZX-R3BHx9ZfcbrWLDKgUQcTF7spH29R8"
+date = "Volume 4/2023"
+
+[[blocks.news]]
 heading = "Reporterstellung, MIV-Analysen und Pilotkundenaufruf für GOAT Version 2.0"
 thumbnail = "/images/newsletter/newsletter_03_2023.webp"
 source = ""
