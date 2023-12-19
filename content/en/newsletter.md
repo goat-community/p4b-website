@@ -24,7 +24,7 @@ text = ""
 load_more_button_text = "Load more"
 
 [[blocks.news]]
-heading = "2023 Wrap, GOAT Version 2.0 Sneak Peek and new city unlocked on GOAT"
+heading = "2023 Wrap, GOAT Version 2.0 Sneak Peek and GOAT-Wiki now online"
 thumbnail = "/images/newsletter/newsleter_04_2023.webp"
 source = ""
 url = "https://25972470.hs-sites-eu1.com/plan4better-newsletter-04/2023?ecid=&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9UBul8AaNh1Y7p2CIFLBmOi-SKbE4fEzeoy5K5ROh3AdijTq-7NDB79Q4OhgHCG-R_U8a7"
