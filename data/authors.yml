@@ -219,6 +219,22 @@
   mail: ''
   linkedin: https://www.linkedin.com/in/philippotter96/
   twitter: ''
+- username: thakkar
+  name: Nihar Thakkar
+  title:
+    en: Full-Stack Developer
+    de: Full-Stack Developer
+  bio:
+    en: Nihar truly enjoys building tech-based solutions for sustainable & liveable cities. With a keen interest in the field of urban mobility, he is a part of the back-end software development team while also working on data analytics and GIS.
+    de: Nihar hat Freude daran, technologiebasierte Lösungen für nachhaltige und lebenswerte Städte zu entwickeln. Mit großem Interesse am Bereich der urbanen Mobilität ist er Teil des Entwicklungsteams und arbeitet außerdem an Datenanalysen und GIS.
+  image: ''
+  team_member: true
+  team_image: "/images/team/team_thakkar.webp"
+  github: ''
+  website: https://nihar-thakkar.com
+  mail: ''
+  linkedin: https:/linkedin.com/in/nihar1024
+  twitter: https://twitter.com/nihart1024
 - username: zakariasson
   name: Alva Zakariasson
   title:
