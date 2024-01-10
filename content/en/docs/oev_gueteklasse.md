@@ -19,6 +19,8 @@ The calculations are carried out on the basis of GTFS data. First, the number of
 
 Subsequently, buffers of the size shown are calculated for the corresponding station categories. This creates several buffers that are merged. For overlapping buffers, the higher quality class is used. 
 
+![ÖV-Güteklassen](/images/docs/oev_gueteklasse/visualization.png "ÖV-Güteklassen")
+
 # References
 
 Bundesamt für Raumentwicklung ARE, 2022. [ÖV-Güteklassen Berechnungsmethodik ARE (Grundlagenbericht)](https://www.are.admin.ch/are/de/home/medien-und-publikationen/publikationen/verkehr/ov-guteklassen-berechnungsmethodik-are.html "Open Reference").

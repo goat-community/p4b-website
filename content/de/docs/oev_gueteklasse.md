@@ -19,6 +19,8 @@ Die Berechnungen werden aus Basis von GTFS-Daten durchgeführt. Zunächst wird f
 
 Im Folgenden werden für die entsprechende Stationskategorien Radien in der dargestellten Größe berechnet. So entstehen mehrere Radien, die zusammengeführt werden. Für sich überlappende Radien wird die höherwertige Güteklasse verwendet. 
 
+![ÖV-Güteklassen](/images/docs/oev_gueteklasse/visualization.png "ÖV-Güteklassen")
+
 # Referenzen
 
 Bundesamt für Raumentwicklung ARE, 2022. [ÖV-Güteklassen Berechnungsmethodik ARE (Grundlagenbericht)](https://www.are.admin.ch/are/de/home/medien-und-publikationen/publikationen/verkehr/ov-guteklassen-berechnungsmethodik-are.html "zur Referenz").
