@@ -24,6 +24,7 @@ sections:
       - logo: "/images/index/mrn_logo.webp"
       - logo: "/images/index/mobidata_bw.webp"
       - logo: "/images/index/logo-tum.webp"
+      - logo: "/images/index/logo_agora.webp"
       - logo: "/images/index/logo_lhm.webp"
       - logo: "/images/index/logo_freising.webp"
       - logo: "/images/index/logo_ffb.webp"
