@@ -11,7 +11,7 @@ image: "/images/references/amberg/banner.webp"
 summary: Unter Einsatz von GOAT wurden für die Stadt Amberg Analysen zur Parkraumplanung und der Radwegeplanung erstellt und in Reports aufgearbeitet.
 information:
   - Stadt Amberg
-  - 2023
+  - 2023 - 2024
   - Ulrike Jehle
 planning_cases:
   - Erreichbarkeit zu Parkhäusern in der Amberger Innenstadt
