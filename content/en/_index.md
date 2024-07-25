@@ -65,43 +65,43 @@ sections:
       background_color_content: secondary
       heading: "Discover the advantages of GOAT"
       slider_item:
-      - videoURL: "https://player.vimeo.com/video/771139118?loop=1&autopause=0&autoplay=1"
+      - videoURL: "https://player.vimeo.com/video/771139118?loop=1&autopause=0&autoplay=1&muted=1"
         title: "Pitch"
         sub_title: "Quick overview of the functionalities"
         button:
           url: "#"
           label: "Mehr erfahren"  
-      - videoURL: "https://player.vimeo.com/video/766394906?loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/766394906?loop=1&autopause=0&muted=1"
         title: "Public transport analysis"
         sub_title: "Analyze the public transport quality"
         button:
           url: "#"
           label: "Mehr erfahren" 
-      - videoURL: "https://player.vimeo.com/video/754212535?loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/754212535?loop=1&autopause=0&muted=1"
         title: "Scenario Bridge"
         sub_title: "Interactive change of the network"
         button:
           url: "#"
           label: "Learn more"  
-      - videoURL: "https://player.vimeo.com/video/754586552?loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/754586552?loop=1&autopause=0&muted=1"
         title: "Location Planning"
         sub_title: "Finding the ideal location for a new bike sharing station"
         button:
           url: "#"
           label: "Learn more"  
-      - videoURL: "https://player.vimeo.com/video/753850371?loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/753850371?loop=1&autopause=0&muted=1"
         title: "Calculating Walking Isochrones"
         sub_title: "Calculation of travel-time isochrones"
         button:
           url: "#"
           label: "Learn more"  
-      - videoURL: "https://player.vimeo.com/video/754227700?loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/754227700?loop=1&autopause=0&muted=1"
         title: "Calculation of Multi-Isochrones"
         sub_title: "Assessing how good a neighboorhood is served with certain amenities"
         button:
           url: "#"
           label: "Learn more"  
-      - videoURL: "https://player.vimeo.com/video/754248730?loop=1&autopause=0"
+      - videoURL: "https://player.vimeo.com/video/754248730?loop=1&autopause=0&muted=1"
         title: "Visualize extensive spatial data"
         sub_title: "Visualization of numerous datasets, such as land use, noise levels and accident numbers"
         button:
