@@ -1,14 +1,15 @@
 ---
 layout: reference
-title: Aufbau einer Mobilitätsplattform für individualisierbares multimodales Routing – KLNavi 
+title: KLNavi – eine Mobilitätsplattform für individualisierbares multimodales Routing 
 lang: de
 categories:
-- Consulting$
-- GOAT$
-- Report$
+- Routing$
+- Development$
+- Mobile$
+- OTP$
 thumbnail: "/images/references/klnavi/thumbnail.webp"
 image: "/images/references/klnavi/kaiserslautern.webp"
-summary: Die Stadt Kaiserslautern hat sich mit KLNavi zum Ziel gesetzt, eine innovative Routing-Anwendung zu entwickeln, die auf die besonderen Bedürfnisse von Menschen mit Mobilitätseinschränkungen eingeht. In dem Vorhaben wurde auf den Erfahrungen aus GOAT aufgebaut und OpenTripPlanner, sowie Digitransit UI als weitere Technologien verwendet.   
+summary: Die Stadt Kaiserslautern hat sich mit KLNavi zum Ziel gesetzt, eine innovative Routing-Anwendung zu entwickeln, die auf die besonderen Bedürfnisse von Menschen mit Mobilitätseinschränkungen eingeht. Dabei wurde auf den Erfahrungen aus GOAT aufgebaut und OpenTripPlanner, sowie Digitransit UI als weitere Technologien verwendet   
 information:
   - Stadt Kaiserslautern 
   - 02/2024 - 12/2024 
@@ -20,6 +21,10 @@ planning_cases:
 overview: Die entwickelte Webanwendung ist responsive und nutzt Open-Source-Software sowie Open-Data. Sie wird durch die Integration diverser Geodaten, Mobilitätsdaten, Routingalgorithmen und WebGIS-Technologien ermöglicht. Das Hauptziel besteht darin, maßgeschneiderte Routenlösungen zu bieten, die den spezifischen Anforderungen der Nutzer gerecht werden. Besonders Menschen mit Mobilitätseinschränkungen sollen von alternativen Routenoptionen profitieren, die speziell auf ihre Bedürfnisse zugeschnitten sind. So können körperlich eingeschränkte Menschen oder Personen mit Kinderwagen beispielsweise festlegen, dass sie etwas längere Fußwege gegenüber einer Treppe bevorzugen. Ein weiterer Schwerpunkt der Anwendung liegt auf der Visualisierung einer Vielzahl von Mobilitätsanageboten (z.B. ÖPNV-Halte, Bikesharing), die in die Routenberechnung einbezogen werden. Dadurch wird ein hoher Grad an Personalisierung und Genauigkeit der Routenplanung erreicht. 
 
 slider_items:
+  - image: "/images/references/klnavi/klnavi_walking.webp"
+    title: "Routing zu Fuß"
+  - image: "/images/references/klnavi/klnavi_wheelchair.webp"
+    title: "Routenplanung für Rollstühle"
 
 date: 2024-07-25
 ---
