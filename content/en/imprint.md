@@ -30,7 +30,7 @@ Agnes-Pockels-Bogen 1
 80992 München
 Deutschland
 
-Vertretungsberechtigte Geschäftsführer/innen: Elias Pajares, Ulrike Jehle
+Vertretungsberechtigter Geschäftsführer: Elias Pajares
 
 Tel.: +49 89 / 2000 708 30  
 E-Mail: [info@plan4better.de](mailto:info@plan4better.de)
@@ -38,7 +38,7 @@ E-Mail: [info@plan4better.de](mailto:info@plan4better.de)
 Registergericht: Amtsgericht München  
 Registernummer: HRB 262655  
 VAT: DE340305321  
-Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV: Ulrike Jehle
+Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV: Elias Pajares
 
 Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.  
 Die Europäische Kommission hat eine Europäische Plattform zur Online-Streitbeilegung („OS-Plattform“) bereitzustellen. Die OS-Plattform ist im Internet unter der Internet-Adresse [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/) abrufbar.
