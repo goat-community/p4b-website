@@ -1,15 +1,12 @@
 ---
 layout: reference
-title: KLNavi – eine Mobilitätsplattform für individualisierbares multimodales Routing 
+title: KLNavi – Mobilitätsplattform für individualisierbares multimodales Routing 
 lang: de
 categories:
-- Routing$
 - Development$
-- Mobile$
-- OTP$
 thumbnail: "/images/references/klnavi/thumbnail.webp"
 image: "/images/references/klnavi/kaiserslautern.webp"
-summary: Die Stadt Kaiserslautern hat sich mit KLNavi zum Ziel gesetzt, eine innovative Routing-Anwendung zu entwickeln, die auf die besonderen Bedürfnisse von Menschen mit Mobilitätseinschränkungen eingeht. Dabei wurde auf den Erfahrungen aus GOAT aufgebaut und OpenTripPlanner, sowie Digitransit UI als weitere Technologien verwendet   
+summary: Für Kaiserslautern entwickeln wir mit KLNavi eine innovative Routing-Anwendung für Menschen mit Mobilitätseinschränkungen. Sie basiert auf den Erfahrungen aus GOAT und nutzt OpenTripPlanner sowie die Digitransit UI.
 information:
   - Stadt Kaiserslautern 
   - 02/2024 - 12/2024 

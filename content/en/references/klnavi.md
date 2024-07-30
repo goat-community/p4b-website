@@ -9,7 +9,7 @@ categories:
 - OTP$
 thumbnail: "/images/references/klnavi/thumbnail.webp"
 image: "/images/references/klnavi/kaiserslautern.webp"
-summary: With KLNavi, the city of Kaiserslautern has set itself the goal of developing an innovative routing application that responds to the special needs of people with mobility limitations. The project built on the experience gained from GOAT and used OpenTripPlanner as well as Digitransit UI as further technologies. 
+summary: For Kaiserslautern, we are developing an innovative routing application called KLNavi for people with mobility impairments. It is based on the experiences from GOAT and utilizes OpenTripPlanner and the Digitransit UI.
 information:
   - City of Kaiserslautern 
   - 02/2024 - 12/2024 
